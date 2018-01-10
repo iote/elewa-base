@@ -1,0 +1,19 @@
+/*
+ * Guide to theming: https://material.angular.io/guide/theming
+ */
+@import '~@angular/material/theming';
+@include mat-core();
+
+
+$elewa-primary: mat-palette($mat-brown);
+$elewa-accent:  mat-palette($mat-amber, A400, A100, A400);
+
+$elewa-warn:    mat-palette($mat-red);
+
+// Create the theme object (a Sass map containing all of the palettes).
+$elewa-theme: mat-light-theme($elewa-primary, 
+                              $elewa-accent, 
+                              $elewa-warn);
+
+// Include theme styles for core and each component used in your app.
+@include angular-material-theme($elewa-theme);

@@ -1,0 +1,13 @@
+@import '~@angular/material/theming';
+@import 'src/assets/styles/elewa-theme.scss';
+
+#nav-toolbar {
+  @extend .mat-elevation-z4; /* Extend allows us to apply classes from CSS. Avoid CSS clutter. */
+
+  background-color: mat-color($elewa-primary);
+  color: #fff;
+}
+
+.logo {
+  max-height: 56px;
+}

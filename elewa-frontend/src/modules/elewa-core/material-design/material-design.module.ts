@@ -1,4 +1,4 @@
-import { MatToolbarModule, MatTabsModule, MatCardModule, MatButtonModule, MatCheckboxModule} from '@angular/material';
+import { MatCommonModule, MatToolbarModule, MatTabsModule, MatCardModule, MatButtonModule, MatCheckboxModule} from '@angular/material';
 import { NgModule } from '@angular/core';
 
 /**

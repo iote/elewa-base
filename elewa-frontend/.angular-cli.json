@@ -19,7 +19,7 @@
       "prefix": "app",
       "styles": [
         "assets/styles/styles.css",
-        "assets/styles/material-design-theme.scss"
+        "assets/styles/elewa-theme.scss"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
