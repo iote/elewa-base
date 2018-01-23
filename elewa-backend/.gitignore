@@ -19,3 +19,7 @@ npm-debug.log
 
 # dist
 /dist
+
+# sensitive data
+ormconfig.json
+src/base/config/db.connectionstring.ts
