@@ -1,0 +1,798 @@
+{
+  "_id": "2084b6c4-33f3-4cf9-a5d3-fcb40424a1cb",
+  "name": "Computer studies",
+  "subjectId": "GzrRagpKpzooXR9ko",
+  "lId": 13,
+  "classes": [
+    {
+      "_id": "1eec5301-e0f8-4aaa-a879-130dfeaa4fc0",
+      "name": "Form 1",
+      "order": 1,
+      "courseId": "GzrRagpKpzooXR9ko",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "1439d17c-49c7-44d7-ac3a-4d8b83de99cc",
+          "name": "Introduction to Computers ",
+          "courseClassId": "1eec5301-e0f8-4aaa-a879-130dfeaa4fc0",
+          "lId": 155,
+          "subTopics": [
+            {
+              "_id": "2f5aea8d-c292-4c6b-bb6b-ec3f88dc5084",
+              "name": "Definition of a computer",
+              "topicId": "1439d17c-49c7-44d7-ac3a-4d8b83de99cc",
+              "lId": 1268
+            },
+            {
+              "_id": "3151e10f-eeee-4300-b1f7-ba5ff604c800",
+              "name": "Parts of a computer",
+              "topicId": "1439d17c-49c7-44d7-ac3a-4d8b83de99cc",
+              "lId": 1269
+            },
+            {
+              "_id": "35a3338c-499f-473f-8559-1756baaae51d",
+              "name": "Classification of computers",
+              "topicId": "1439d17c-49c7-44d7-ac3a-4d8b83de99cc",
+              "lId": 1270
+            },
+            {
+              "_id": "3531ff26-76f5-4a0c-9b21-e39f1c087cac",
+              "name": "Development of computers",
+              "topicId": "1439d17c-49c7-44d7-ac3a-4d8b83de99cc",
+              "lId": 1271
+            },
+            {
+              "_id": "23dbbb97-0933-4a54-b29f-c4e7028b11f0",
+              "name": "Areas where computers are used",
+              "topicId": "1439d17c-49c7-44d7-ac3a-4d8b83de99cc",
+              "lId": 1272
+            },
+            {
+              "_id": "e5be5d60-0acb-4cd5-87ee-21b3163a4b43",
+              "name": "The computer laboratory",
+              "topicId": "1439d17c-49c7-44d7-ac3a-4d8b83de99cc",
+              "lId": 1273
+            },
+            {
+              "_id": "c1ed1229-df05-491b-a00a-5846b3eb52d6",
+              "name": "Practical hands-on skills",
+              "topicId": "1439d17c-49c7-44d7-ac3a-4d8b83de99cc",
+              "lId": 1274
+            }
+          ]
+        },
+        {
+          "_id": "f822c80e-6fb4-41d1-8e0e-fd8cc7248eab",
+          "name": "Computer Systems",
+          "courseClassId": "1eec5301-e0f8-4aaa-a879-130dfeaa4fc0",
+          "lId": 156,
+          "subTopics": [
+            {
+              "_id": "9ca425e1-9999-4c8f-a639-39e342df803c",
+              "name": "Input devices",
+              "topicId": "f822c80e-6fb4-41d1-8e0e-fd8cc7248eab",
+              "lId": 1275
+            },
+            {
+              "_id": "df2a65d5-de00-4e49-b8e0-324515a385cb",
+              "name": "Central Processing Unit (CPU)",
+              "topicId": "f822c80e-6fb4-41d1-8e0e-fd8cc7248eab",
+              "lId": 1276
+            },
+            {
+              "_id": "035af639-af8d-484a-85ab-bc7e62fb5149",
+              "name": "Output devices",
+              "topicId": "f822c80e-6fb4-41d1-8e0e-fd8cc7248eab",
+              "lId": 1277
+            },
+            {
+              "_id": "248e69b3-18ad-4692-8b78-29a72a51e064",
+              "name": "Secondary storage devices and media",
+              "topicId": "f822c80e-6fb4-41d1-8e0e-fd8cc7248eab",
+              "lId": 1278
+            },
+            {
+              "_id": "bd201497-2fdb-4844-8feb-12c8ab36a465",
+              "name": "Power supply and peripheral device interfacing",
+              "topicId": "f822c80e-6fb4-41d1-8e0e-fd8cc7248eab",
+              "lId": 1279
+            },
+            {
+              "_id": "ff004365-0660-49b1-ba8c-fa2b1099f276",
+              "name": "Basic computer setup and cabling",
+              "topicId": "f822c80e-6fb4-41d1-8e0e-fd8cc7248eab",
+              "lId": 1280
+            },
+            {
+              "_id": "efb26093-3376-4bee-893e-bdfa23fe20f1",
+              "name": "Computer software",
+              "topicId": "f822c80e-6fb4-41d1-8e0e-fd8cc7248eab",
+              "lId": 1281
+            },
+            {
+              "_id": "5dec5902-6a65-4b5d-a8a5-ac1438c199bc",
+              "name": "Criteria for selecting a computer system",
+              "topicId": "f822c80e-6fb4-41d1-8e0e-fd8cc7248eab",
+              "lId": 1282
+            }
+          ]
+        },
+        {
+          "_id": "4415a465-708a-40e0-8297-cc626eddad48",
+          "name": "Operating Systems (OS)",
+          "courseClassId": "1eec5301-e0f8-4aaa-a879-130dfeaa4fc0",
+          "lId": 157,
+          "subTopics": [
+            {
+              "_id": "29306aab-e0ab-4101-94b7-ce8b50266651",
+              "name": "Functions of operating system in resource management",
+              "topicId": "4415a465-708a-40e0-8297-cc626eddad48",
+              "lId": 1283
+            },
+            {
+              "_id": "af468486-092c-43e5-a00e-500a19c90d9f",
+              "name": "Types of operating systems",
+              "topicId": "4415a465-708a-40e0-8297-cc626eddad48",
+              "lId": 1284
+            },
+            {
+              "_id": "0b8fd1da-5e25-41f6-9886-0e33f4e04389",
+              "name": "Factors to consider when choosing an operating system",
+              "topicId": "4415a465-708a-40e0-8297-cc626eddad48",
+              "lId": 1285
+            },
+            {
+              "_id": "cafbe8b7-3b01-464e-98f2-e97a17b7f02a",
+              "name": "How an operating system organises information",
+              "topicId": "4415a465-708a-40e0-8297-cc626eddad48",
+              "lId": 1286
+            },
+            {
+              "_id": "f3475f3f-0192-487b-b9f6-078a30d19a27",
+              "name": "Getting started with Microsoft Windows",
+              "topicId": "4415a465-708a-40e0-8297-cc626eddad48",
+              "lId": 1287
+            },
+            {
+              "_id": "227757f1-8b4a-4f8d-b4de-61a22b3539b2",
+              "name": "Managing files and folders",
+              "topicId": "4415a465-708a-40e0-8297-cc626eddad48",
+              "lId": 1288
+            },
+            {
+              "_id": "2f3c8971-4359-409c-af03-20ea178dde33",
+              "name": "Disk management using windows",
+              "topicId": "4415a465-708a-40e0-8297-cc626eddad48",
+              "lId": 1289
+            },
+            {
+              "_id": "1b8b7689-b68a-49c3-a3ac-321b95ee8a29",
+              "name": "Installation and configuration of an operating system",
+              "topicId": "4415a465-708a-40e0-8297-cc626eddad48",
+              "lId": 1290
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e99afcf4-a158-43c5-9797-27a2ff951130",
+      "name": "Form 2",
+      "order": 2,
+      "courseId": "GzrRagpKpzooXR9ko",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "903995c4-084b-49e3-b267-206d06ea6fa8",
+          "name": "Word Processors",
+          "courseClassId": "e99afcf4-a158-43c5-9797-27a2ff951130",
+          "lId": 158,
+          "subTopics": [
+            {
+              "_id": "e5295fa9-dd70-4745-95f5-cffd5fb69ec6",
+              "name": "Definition of word processor",
+              "topicId": "903995c4-084b-49e3-b267-206d06ea6fa8",
+              "lId": 1291
+            },
+            {
+              "_id": "ea3c95f3-954b-4dc1-8fe9-736b1c5c675b",
+              "name": "Creating documents using word processor ",
+              "topicId": "903995c4-084b-49e3-b267-206d06ea6fa8",
+              "lId": 1292
+            },
+            {
+              "_id": "356287a4-8375-49af-8271-067a81e3245a",
+              "name": "Editing a word  document",
+              "topicId": "903995c4-084b-49e3-b267-206d06ea6fa8",
+              "lId": 1293
+            },
+            {
+              "_id": "9c6cc516-b369-4f0f-8b06-2ead74be857f",
+              "name": "Formatting word document",
+              "topicId": "903995c4-084b-49e3-b267-206d06ea6fa8",
+              "lId": 1294
+            },
+            {
+              "_id": "503cf425-9512-44e7-bae5-e24f3e3d9523",
+              "name": "Creating and editing a table",
+              "topicId": "903995c4-084b-49e3-b267-206d06ea6fa8",
+              "lId": 1295
+            },
+            {
+              "_id": "2aa27f2b-2eb9-4fbb-9ace-6f2cb3b9012e",
+              "name": "Generating merged documents",
+              "topicId": "903995c4-084b-49e3-b267-206d06ea6fa8",
+              "lId": 1296
+            },
+            {
+              "_id": "6f077749-9d87-4b48-ae63-3fcc69dce6ae",
+              "name": "Inserting graphics and special symbols",
+              "topicId": "903995c4-084b-49e3-b267-206d06ea6fa8",
+              "lId": 1297
+            },
+            {
+              "_id": "e548c8ac-1d94-4a14-b585-5a93a649e128",
+              "name": "Printing a document",
+              "topicId": "903995c4-084b-49e3-b267-206d06ea6fa8",
+              "lId": 1298
+            }
+          ]
+        },
+        {
+          "_id": "fa479626-3eaf-4bd9-8fa0-8dc36ca93bec",
+          "name": "Spread Sheet",
+          "courseClassId": "e99afcf4-a158-43c5-9797-27a2ff951130",
+          "lId": 159,
+          "subTopics": [
+            {
+              "_id": "d6ba566d-b86a-4ec2-a9fd-e4fd628e244a",
+              "name": "Definition of sreadsheet",
+              "topicId": "fa479626-3eaf-4bd9-8fa0-8dc36ca93bec",
+              "lId": 1299
+            },
+            {
+              "_id": "082cfe9e-9182-4999-8bd3-4f84b7d3d101",
+              "name": "Components of aspread sheet",
+              "topicId": "fa479626-3eaf-4bd9-8fa0-8dc36ca93bec",
+              "lId": 1300
+            },
+            {
+              "_id": "7c9e7b3b-5779-4643-97ab-0767b304c4b4",
+              "name": "Application areas of a spreadsheet",
+              "topicId": "fa479626-3eaf-4bd9-8fa0-8dc36ca93bec",
+              "lId": 1301
+            },
+            {
+              "_id": "8e295295-8b4c-496b-8e0e-30de442a85cc",
+              "name": "Creating a worksheet/workbook",
+              "topicId": "fa479626-3eaf-4bd9-8fa0-8dc36ca93bec",
+              "lId": 1302
+            },
+            {
+              "_id": "ce66c29d-09eb-45d2-9d9e-1661453ca4b1",
+              "name": "Basic functions and formulae",
+              "topicId": "fa479626-3eaf-4bd9-8fa0-8dc36ca93bec",
+              "lId": 1303
+            },
+            {
+              "_id": "e80085ab-89b3-472d-a9d1-e882a6a1f57a",
+              "name": "Editng and formatting a worksheet  ",
+              "topicId": "fa479626-3eaf-4bd9-8fa0-8dc36ca93bec",
+              "lId": 1304
+            },
+            {
+              "_id": "e05dbcea-d5aa-4abc-9c37-98815597c42e",
+              "name": "Data management in worksheet",
+              "topicId": "fa479626-3eaf-4bd9-8fa0-8dc36ca93bec",
+              "lId": 1305
+            },
+            {
+              "_id": "d76a7909-d386-47d7-8259-243af032a1d5",
+              "name": "Genertating charts/graph",
+              "topicId": "fa479626-3eaf-4bd9-8fa0-8dc36ca93bec",
+              "lId": 1306
+            },
+            {
+              "_id": "ceee2fc9-96d7-4b82-a84b-c0f9cdc72c9b",
+              "name": "Printing workbooks",
+              "topicId": "fa479626-3eaf-4bd9-8fa0-8dc36ca93bec",
+              "lId": 1307
+            }
+          ]
+        },
+        {
+          "_id": "91f7277b-393f-4843-9553-b242847a5b23",
+          "name": "Databases",
+          "courseClassId": "e99afcf4-a158-43c5-9797-27a2ff951130",
+          "lId": 160,
+          "subTopics": [
+            {
+              "_id": "4236279d-a04c-48b1-834c-0c48664e6053",
+              "name": "Definition of database",
+              "topicId": "91f7277b-393f-4843-9553-b242847a5b23",
+              "lId": 1308
+            },
+            {
+              "_id": "615df415-9c79-48ed-93a3-f24b8842d0dd",
+              "name": "Database concepts",
+              "topicId": "91f7277b-393f-4843-9553-b242847a5b23",
+              "lId": 1309
+            },
+            {
+              "_id": "16d489e3-49a3-4c4f-a9cc-bbfc87adcf02",
+              "name": "Data organisation in database",
+              "topicId": "91f7277b-393f-4843-9553-b242847a5b23",
+              "lId": 1310
+            },
+            {
+              "_id": "412a75b8-fd5c-43aa-a13c-5129e99118ab",
+              "name": "Creating a database",
+              "topicId": "91f7277b-393f-4843-9553-b242847a5b23",
+              "lId": 1311
+            },
+            {
+              "_id": "727c547d-3b97-42c5-9626-74e6a791b3dc",
+              "name": "Editing a database",
+              "topicId": "91f7277b-393f-4843-9553-b242847a5b23",
+              "lId": 1312
+            },
+            {
+              "_id": "9f6f9a4d-796e-4446-8cb2-c2e8cc4de7cd",
+              "name": "Form designs",
+              "topicId": "91f7277b-393f-4843-9553-b242847a5b23",
+              "lId": 1313
+            },
+            {
+              "_id": "abef9b81-54ee-479e-9ec2-61d855fbc713",
+              "name": "Querries",
+              "topicId": "91f7277b-393f-4843-9553-b242847a5b23",
+              "lId": 1314
+            },
+            {
+              "_id": "41c97137-7e10-4e3a-9cd0-8df9b2533e80",
+              "name": "Report layout",
+              "topicId": "91f7277b-393f-4843-9553-b242847a5b23",
+              "lId": 1315
+            }
+          ]
+        },
+        {
+          "_id": "04b7e2d9-f0e7-4230-9fcc-09beace7524b",
+          "name": "Desktop Publishing",
+          "courseClassId": "e99afcf4-a158-43c5-9797-27a2ff951130",
+          "lId": 161,
+          "subTopics": [
+            {
+              "_id": "9ed0d645-0d42-4910-93dc-1c74ffc2e673",
+              "name": "Definition of DTP",
+              "topicId": "04b7e2d9-f0e7-4230-9fcc-09beace7524b",
+              "lId": 1316
+            },
+            {
+              "_id": "eff729f6-5b2c-4bab-b3b9-118e28b9a107",
+              "name": "Purpose of DTP",
+              "topicId": "04b7e2d9-f0e7-4230-9fcc-09beace7524b",
+              "lId": 1317
+            },
+            {
+              "_id": "fafeba7a-eaf4-42f8-b183-ebcfbdca82e8",
+              "name": "Types of DTP softwares",
+              "topicId": "04b7e2d9-f0e7-4230-9fcc-09beace7524b",
+              "lId": 1318
+            },
+            {
+              "_id": "38bdc38b-b017-48e9-b17f-2a3c9abd8afd",
+              "name": "Designing a publication",
+              "topicId": "04b7e2d9-f0e7-4230-9fcc-09beace7524b",
+              "lId": 1319
+            },
+            {
+              "_id": "87663dd9-dfa5-462f-b2ed-5f64a25290fb",
+              "name": "Manipulating text and graphical objects",
+              "topicId": "04b7e2d9-f0e7-4230-9fcc-09beace7524b",
+              "lId": 1320
+            },
+            {
+              "_id": "3a150c18-9991-4cab-a174-24f525f199ae",
+              "name": "Editing a publication",
+              "topicId": "04b7e2d9-f0e7-4230-9fcc-09beace7524b",
+              "lId": 1321
+            },
+            {
+              "_id": "a113c165-511e-41c6-bc1f-947da485e7cf",
+              "name": "Formating apublication",
+              "topicId": "04b7e2d9-f0e7-4230-9fcc-09beace7524b",
+              "lId": 1322
+            },
+            {
+              "_id": "5e92e90e-4a43-449a-9235-f4d32fce17fb",
+              "name": "Printing a publication",
+              "topicId": "04b7e2d9-f0e7-4230-9fcc-09beace7524b",
+              "lId": 1323
+            }
+          ]
+        },
+        {
+          "_id": "84b210ca-0e81-44e2-91de-1e61739f1b5b",
+          "name": "Internet and Emailing",
+          "courseClassId": "e99afcf4-a158-43c5-9797-27a2ff951130",
+          "lId": 162,
+          "subTopics": [
+            {
+              "_id": "b891bfdf-4089-41b0-8e24-ab3ea8bd47bd",
+              "name": "Definition of internet",
+              "topicId": "84b210ca-0e81-44e2-91de-1e61739f1b5b",
+              "lId": 1324
+            },
+            {
+              "_id": "4a280158-8274-43b7-b9fb-0171240ddc3b",
+              "name": "Development of internet",
+              "topicId": "84b210ca-0e81-44e2-91de-1e61739f1b5b",
+              "lId": 1325
+            },
+            {
+              "_id": "bad03cce-1ca7-4aa7-8004-be6a72e63f92",
+              "name": "Importance of internet",
+              "topicId": "84b210ca-0e81-44e2-91de-1e61739f1b5b",
+              "lId": 1326
+            },
+            {
+              "_id": "048a6f9b-a021-40ce-89ba-263e261f4fb2",
+              "name": "Internet connectivity",
+              "topicId": "84b210ca-0e81-44e2-91de-1e61739f1b5b",
+              "lId": 1327
+            },
+            {
+              "_id": "cfbb081f-e0d4-4089-9a61-237edf018eda",
+              "name": "Internet services",
+              "topicId": "84b210ca-0e81-44e2-91de-1e61739f1b5b",
+              "lId": 1328
+            },
+            {
+              "_id": "14a3a16d-9fe1-4143-9223-08fd3878a6ce",
+              "name": "Accessing internet",
+              "topicId": "84b210ca-0e81-44e2-91de-1e61739f1b5b",
+              "lId": 1329
+            },
+            {
+              "_id": "03aec50b-a123-4152-813c-e6f5c9754410",
+              "name": "Use the internet to access information on emrging issues",
+              "topicId": "84b210ca-0e81-44e2-91de-1e61739f1b5b",
+              "lId": 1330
+            }
+          ]
+        },
+        {
+          "_id": "643d4848-0036-48da-afd1-f9e580682e8d",
+          "name": "Data Security and Control",
+          "courseClassId": "e99afcf4-a158-43c5-9797-27a2ff951130",
+          "lId": 163,
+          "subTopics": [
+            {
+              "_id": "44b4c772-b47f-464b-9a48-3636b45ba42a",
+              "name": "Definition of data security and privacy",
+              "topicId": "643d4848-0036-48da-afd1-f9e580682e8d",
+              "lId": 1331
+            },
+            {
+              "_id": "13f6d5e6-e90b-44eb-a466-ff85370e2a09",
+              "name": "Data security core principles",
+              "topicId": "643d4848-0036-48da-afd1-f9e580682e8d",
+              "lId": 1332
+            },
+            {
+              "_id": "5cefd27c-2f90-4129-b4e2-5c784bfcaf2e",
+              "name": "Security threats and control measures",
+              "topicId": "643d4848-0036-48da-afd1-f9e580682e8d",
+              "lId": 1333
+            },
+            {
+              "_id": "d22c7dad-1639-4c8b-979c-e44418b45df5",
+              "name": "Policies and laws governing information security",
+              "topicId": "643d4848-0036-48da-afd1-f9e580682e8d",
+              "lId": 1334
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c4dcd5df-e01e-4969-ab93-800ba180d353",
+      "name": "Form 3",
+      "order": 3,
+      "courseId": "GzrRagpKpzooXR9ko",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "b21b9572-c81e-4762-80c6-49a6d832023b",
+          "name": "Data Representation in Computer",
+          "courseClassId": "c4dcd5df-e01e-4969-ab93-800ba180d353",
+          "lId": 164,
+          "subTopics": [
+            {
+              "_id": "94fe758b-1c24-4429-9040-843dddf3e387",
+              "name": "Concepts of data representation in digital computers",
+              "topicId": "b21b9572-c81e-4762-80c6-49a6d832023b",
+              "lId": 1335
+            },
+            {
+              "_id": "b9ce5a67-e9b7-4ea7-b118-eedc6cc23f3e",
+              "name": "Defination of terms: bit,byte,nibble,amd word",
+              "topicId": "b21b9572-c81e-4762-80c6-49a6d832023b",
+              "lId": 1336
+            },
+            {
+              "_id": "c81dc84a-6621-47fb-bc43-2d91432dec6f",
+              "name": "Types of data representation",
+              "topicId": "b21b9572-c81e-4762-80c6-49a6d832023b",
+              "lId": 1337
+            },
+            {
+              "_id": "ab5f2d5f-b72d-462b-9f4b-2b5dfe3e5376",
+              "name": "Symbolic representation",
+              "topicId": "b21b9572-c81e-4762-80c6-49a6d832023b",
+              "lId": 1338
+            },
+            {
+              "_id": "d42a3b9b-ce13-4700-b58a-bf304ad77ffd",
+              "name": "Binary arithmetic operation",
+              "topicId": "b21b9572-c81e-4762-80c6-49a6d832023b",
+              "lId": 1339
+            }
+          ]
+        },
+        {
+          "_id": "e12b01d2-ac23-4476-a2c5-b800190a0db9",
+          "name": "Data Processing",
+          "courseClassId": "c4dcd5df-e01e-4969-ab93-800ba180d353",
+          "lId": 165,
+          "subTopics": [
+            {
+              "_id": "f233d11c-279b-47f5-84c9-d958f62b6c88",
+              "name": "Data processing cycle ",
+              "topicId": "e12b01d2-ac23-4476-a2c5-b800190a0db9",
+              "lId": 1340
+            },
+            {
+              "_id": "2466b176-9136-43e5-bdbe-edff6c90777b",
+              "name": "Description of errors in data processing ",
+              "topicId": "e12b01d2-ac23-4476-a2c5-b800190a0db9",
+              "lId": 1341
+            },
+            {
+              "_id": "1dafd4cd-6f72-472b-b47e-1d5ad0f0cebc",
+              "name": "Data integrity",
+              "topicId": "e12b01d2-ac23-4476-a2c5-b800190a0db9",
+              "lId": 1342
+            },
+            {
+              "_id": "064e3067-a219-40e1-95e0-39c987427d76",
+              "name": "Data processsing methods",
+              "topicId": "e12b01d2-ac23-4476-a2c5-b800190a0db9",
+              "lId": 1343
+            },
+            {
+              "_id": "e847faae-7c60-4923-afa4-3ead0945e868",
+              "name": "Computer files",
+              "topicId": "e12b01d2-ac23-4476-a2c5-b800190a0db9",
+              "lId": 1344
+            },
+            {
+              "_id": "d7230d69-4dfb-4ae9-8a5c-bb82889f138a",
+              "name": "Types of computer processsing files",
+              "topicId": "e12b01d2-ac23-4476-a2c5-b800190a0db9",
+              "lId": 1345
+            },
+            {
+              "_id": "6462a739-e071-4c15-98df-c7b3a6645498",
+              "name": "File organization methods",
+              "topicId": "e12b01d2-ac23-4476-a2c5-b800190a0db9",
+              "lId": 1346
+            },
+            {
+              "_id": "58d994f7-f1d0-421f-ae2a-9ae5062a545a",
+              "name": "Elecronic Data processing modes",
+              "topicId": "e12b01d2-ac23-4476-a2c5-b800190a0db9",
+              "lId": 1347
+            }
+          ]
+        },
+        {
+          "_id": "10d7c174-a0d3-476a-8e42-03b30b4967f6",
+          "name": "Elementary Programing Principles",
+          "courseClassId": "c4dcd5df-e01e-4969-ab93-800ba180d353",
+          "lId": 166,
+          "subTopics": [
+            {
+              "_id": "c46b99ec-f6d6-44e7-9b47-bff798a53620",
+              "name": "Computer programing",
+              "topicId": "10d7c174-a0d3-476a-8e42-03b30b4967f6",
+              "lId": 1348
+            },
+            {
+              "_id": "fdfbc614-1697-482a-a079-689923de8753",
+              "name": "Description of terms used in programming",
+              "topicId": "10d7c174-a0d3-476a-8e42-03b30b4967f6",
+              "lId": 1349
+            },
+            {
+              "_id": "bc688ce4-8d9e-4141-89ad-8210778818ff",
+              "name": "Levels of programing languages",
+              "topicId": "10d7c174-a0d3-476a-8e42-03b30b4967f6",
+              "lId": 1350
+            },
+            {
+              "_id": "2b400964-d0d5-4c8f-a687-54f7a1cdf0cd",
+              "name": "Program  development",
+              "topicId": "10d7c174-a0d3-476a-8e42-03b30b4967f6",
+              "lId": 1351
+            },
+            {
+              "_id": "2a9674eb-4462-4b04-8246-7882e2fe4d4e",
+              "name": "Development of algorithms",
+              "topicId": "10d7c174-a0d3-476a-8e42-03b30b4967f6",
+              "lId": 1352
+            },
+            {
+              "_id": "9fe78c8f-e068-45e5-b172-e20d09ccd8e9",
+              "name": "Program control structures",
+              "topicId": "10d7c174-a0d3-476a-8e42-03b30b4967f6",
+              "lId": 1353
+            }
+          ]
+        },
+        {
+          "_id": "7d2eed75-851d-4647-bf45-e0b02e2e3d60",
+          "name": "System Development",
+          "courseClassId": "c4dcd5df-e01e-4969-ab93-800ba180d353",
+          "lId": 167,
+          "subTopics": [
+            {
+              "_id": "ca2c0eb4-5164-4f01-9c44-55a55d2a01d1",
+              "name": "Description of a system",
+              "topicId": "7d2eed75-851d-4647-bf45-e0b02e2e3d60",
+              "lId": 1354
+            },
+            {
+              "_id": "3d0330f2-0400-486d-9fce-5ba6bbc6c872",
+              "name": "Information system",
+              "topicId": "7d2eed75-851d-4647-bf45-e0b02e2e3d60",
+              "lId": 1355
+            },
+            {
+              "_id": "5704c5fe-4ebf-4870-abdc-235ff51217af",
+              "name": "Theories of system deveolpment",
+              "topicId": "7d2eed75-851d-4647-bf45-e0b02e2e3d60",
+              "lId": 1356
+            },
+            {
+              "_id": "5ceb1313-f270-49ab-bb3c-cb4e5591f83c",
+              "name": "Stages of system development",
+              "topicId": "7d2eed75-851d-4647-bf45-e0b02e2e3d60",
+              "lId": 1357
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "61312bff-d07a-44b7-8236-2a86e4b4bfc3",
+      "name": "Form 4",
+      "order": 4,
+      "courseId": "GzrRagpKpzooXR9ko",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "c37f4672-491c-4b83-8724-f4c70298bd1d",
+          "name": "Introduction to Networking and Data Communication",
+          "courseClassId": "61312bff-d07a-44b7-8236-2a86e4b4bfc3",
+          "lId": 168,
+          "subTopics": [
+            {
+              "_id": "d233b2d7-c445-4424-a534-826b0d802d72",
+              "name": "Defenition of terms",
+              "topicId": "c37f4672-491c-4b83-8724-f4c70298bd1d",
+              "lId": 1358
+            },
+            {
+              "_id": "71251289-669b-430d-929c-07906a4b5c50",
+              "name": "Types of networks",
+              "topicId": "c37f4672-491c-4b83-8724-f4c70298bd1d",
+              "lId": 1359
+            },
+            {
+              "_id": "a29549cc-13bb-4001-ba1a-b467e2a90a65",
+              "name": "Purpose and limitation of networking",
+              "topicId": "c37f4672-491c-4b83-8724-f4c70298bd1d",
+              "lId": 1360
+            },
+            {
+              "_id": "fa487b4e-df84-48d8-b720-c5348bf52cbe",
+              "name": "Elements of networking",
+              "topicId": "c37f4672-491c-4b83-8724-f4c70298bd1d",
+              "lId": 1361
+            },
+            {
+              "_id": "e8023ea9-8b6c-4382-8dc0-16125560b9f8",
+              "name": "Network software",
+              "topicId": "c37f4672-491c-4b83-8724-f4c70298bd1d",
+              "lId": 1362
+            },
+            {
+              "_id": "f783b000-9826-4df0-9bfe-3beba5550c67",
+              "name": "Types of network topologies",
+              "topicId": "c37f4672-491c-4b83-8724-f4c70298bd1d",
+              "lId": 1363
+            },
+            {
+              "_id": "c2085b4a-818f-4497-b9d9-6f7e177fa780",
+              "name": "Network security",
+              "topicId": "c37f4672-491c-4b83-8724-f4c70298bd1d",
+              "lId": 1364
+            }
+          ]
+        },
+        {
+          "_id": "705127a2-59a5-473c-9cd5-38a4ac0d45bf",
+          "name": "Application Areas of Information and Communication Technology",
+          "courseClassId": "61312bff-d07a-44b7-8236-2a86e4b4bfc3",
+          "lId": 169,
+          "subTopics": [
+            {
+              "_id": "272a43cc-082f-42e6-b466-8a659e6eb570",
+              "name": "Application areas of information and communication technology",
+              "topicId": "705127a2-59a5-473c-9cd5-38a4ac0d45bf",
+              "lId": 1365
+            },
+            {
+              "_id": "17c206ad-4046-4093-8109-5c83fd90e528",
+              "name": "Virtual reality",
+              "topicId": "705127a2-59a5-473c-9cd5-38a4ac0d45bf",
+              "lId": 1366
+            }
+          ]
+        },
+        {
+          "_id": "34468c0e-7657-4f29-82c9-7e576f1a8217",
+          "name": "Impact of Information and Communication Technology on Society",
+          "courseClassId": "61312bff-d07a-44b7-8236-2a86e4b4bfc3",
+          "lId": 170,
+          "subTopics": [
+            {
+              "_id": "d4d4e077-fe33-4ded-9dd3-920f5d767ba3",
+              "name": "Issues resulting from use of ICT",
+              "topicId": "34468c0e-7657-4f29-82c9-7e576f1a8217",
+              "lId": 1367
+            },
+            {
+              "_id": "6a313ef2-0068-470e-8542-7fdb63c0a128",
+              "name": "Breakthrough in information and communication technology",
+              "topicId": "34468c0e-7657-4f29-82c9-7e576f1a8217",
+              "lId": 1368
+            }
+          ]
+        },
+        {
+          "_id": "8b11b4f9-1a64-47b6-bab7-e6ebe1ba551b",
+          "name": "Career opportunities in ICT",
+          "courseClassId": "61312bff-d07a-44b7-8236-2a86e4b4bfc3",
+          "lId": 171,
+          "subTopics": [
+            {
+              "_id": "3c9c0ef9-cd68-4cb0-b5e4-f966075e8735",
+              "name": "Career opportunities in ICT",
+              "topicId": "8b11b4f9-1a64-47b6-bab7-e6ebe1ba551b",
+              "lId": 1369
+            },
+            {
+              "_id": "d8b233c3-2f9f-48ec-917e-4462c1894fec",
+              "name": "Further Educational opportunities in ICT",
+              "topicId": "8b11b4f9-1a64-47b6-bab7-e6ebe1ba551b",
+              "lId": 1370
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

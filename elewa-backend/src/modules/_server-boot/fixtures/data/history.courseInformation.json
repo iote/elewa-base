@@ -1,0 +1,1220 @@
+{
+  "_id": "08af7c71-0475-40bb-947b-a86e01dc1d88",
+  "name": "History",
+  "subjectId": "o78A7HHu7bB6Jb9AN",
+  "lId": 14,
+  "classes": [
+    {
+      "_id": "b277f7d3-58e9-4781-9b40-a62ee58c928c",
+      "name": "Form 1",
+      "order": 1,
+      "courseId": "o78A7HHu7bB6Jb9AN",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "e042e289-5fd7-4529-a36f-936b8b63b5df",
+          "name": "Introduction to History  and Government",
+          "courseClassId": "b277f7d3-58e9-4781-9b40-a62ee58c928c",
+          "lId": 172,
+          "subTopics": [
+            {
+              "_id": "3fa24916-7a57-4205-b22d-2b2c61343196",
+              "name": "The meaning of History",
+              "topicId": "e042e289-5fd7-4529-a36f-936b8b63b5df",
+              "lId": 1371
+            },
+            {
+              "_id": "68fe48e2-3780-466a-82d2-efb4adbafca6",
+              "name": "The meaning of Government",
+              "topicId": "e042e289-5fd7-4529-a36f-936b8b63b5df",
+              "lId": 1372
+            },
+            {
+              "_id": "5b8a1e5a-6b00-4b9c-a51a-b9066b2d94a6",
+              "name": "Forms of Government",
+              "topicId": "e042e289-5fd7-4529-a36f-936b8b63b5df",
+              "lId": 1373
+            },
+            {
+              "_id": "86402bf4-962e-4ea7-a5f4-a11145071ff6",
+              "name": "Sources of information on History and Government",
+              "topicId": "e042e289-5fd7-4529-a36f-936b8b63b5df",
+              "lId": 1374
+            }
+          ]
+        },
+        {
+          "_id": "a62d9e97-9240-43e1-9d97-582098f9427f",
+          "name": "Early Man",
+          "courseClassId": "b277f7d3-58e9-4781-9b40-a62ee58c928c",
+          "lId": 173,
+          "subTopics": [
+            {
+              "_id": "10bbecc6-2932-4d35-b27d-2800d83a9a95",
+              "name": "The origin of human beings",
+              "topicId": "a62d9e97-9240-43e1-9d97-582098f9427f",
+              "lId": 1375
+            },
+            {
+              "_id": "c93274c2-7761-4236-a162-f673658ccb29",
+              "name": "The cultural and ecponomic practices of human beings ",
+              "topicId": "a62d9e97-9240-43e1-9d97-582098f9427f",
+              "lId": 1376
+            },
+            {
+              "_id": "df2fc98b-99f6-4394-9bec-fed9e17444a4",
+              "name": "Middle stone age ",
+              "topicId": "a62d9e97-9240-43e1-9d97-582098f9427f",
+              "lId": 1377
+            },
+            {
+              "_id": "2ed36abf-6b11-4004-8db4-403b4e2a720d",
+              "name": "New stone age",
+              "topicId": "a62d9e97-9240-43e1-9d97-582098f9427f",
+              "lId": 1378
+            }
+          ]
+        },
+        {
+          "_id": "3227481e-9c88-448d-9d7c-5e29b9b87ceb",
+          "name": "Development of Agriculture",
+          "courseClassId": "b277f7d3-58e9-4781-9b40-a62ee58c928c",
+          "lId": 174,
+          "subTopics": [
+            {
+              "_id": "57fc1907-f0dd-4ada-a7e2-b7c5b07e93d1",
+              "name": "The beginning of agriculture",
+              "topicId": "3227481e-9c88-448d-9d7c-5e29b9b87ceb",
+              "lId": 1379
+            },
+            {
+              "_id": "c42009d7-5a64-4354-a275-cf114e93e0f9",
+              "name": "Crop growing ",
+              "topicId": "3227481e-9c88-448d-9d7c-5e29b9b87ceb",
+              "lId": 1380
+            },
+            {
+              "_id": "f48a08ef-3f84-4bb5-a5a5-1013e91b426a",
+              "name": "Domestication of animals ",
+              "topicId": "3227481e-9c88-448d-9d7c-5e29b9b87ceb",
+              "lId": 1381
+            },
+            {
+              "_id": "8eb2058c-5316-43c7-87e1-3c460ee83967",
+              "name": "Early agriculture in Mesopotamia",
+              "topicId": "3227481e-9c88-448d-9d7c-5e29b9b87ceb",
+              "lId": 1382
+            },
+            {
+              "_id": "96934fa8-ccec-418b-89b4-9d85e1e4574c",
+              "name": "Early agriculture in Egypt",
+              "topicId": "3227481e-9c88-448d-9d7c-5e29b9b87ceb",
+              "lId": 1383
+            },
+            {
+              "_id": "9458e1b3-908d-43af-b61a-03dbe55e939e",
+              "name": "The agrarian revolution in Britain",
+              "topicId": "3227481e-9c88-448d-9d7c-5e29b9b87ceb",
+              "lId": 1384
+            },
+            {
+              "_id": "981f75bc-b911-41b6-b9cb-7fbbe12f90c9",
+              "name": "The agrarian revolution in U.S.A",
+              "topicId": "3227481e-9c88-448d-9d7c-5e29b9b87ceb",
+              "lId": 1385
+            },
+            {
+              "_id": "0c78d816-12cb-468e-9937-daf6edacbca0",
+              "name": "Food situation in Africa and the rest of the third world countries",
+              "topicId": "3227481e-9c88-448d-9d7c-5e29b9b87ceb",
+              "lId": 1386
+            },
+            {
+              "_id": "45412afa-21b7-425b-821e-2c79c1a0a852",
+              "name": "Remedies for food storage",
+              "topicId": "3227481e-9c88-448d-9d7c-5e29b9b87ceb",
+              "lId": 1387
+            }
+          ]
+        },
+        {
+          "_id": "001e82b1-4d43-46d9-a6b3-f689280420c4",
+          "name": "The People of Kenya up to the 19th Century",
+          "courseClassId": "b277f7d3-58e9-4781-9b40-a62ee58c928c",
+          "lId": 175,
+          "subTopics": [
+            {
+              "_id": "62cf393d-1e6e-4f74-af1b-a2189972bebb",
+              "name": "Cushitc speakers ",
+              "topicId": "001e82b1-4d43-46d9-a6b3-f689280420c4",
+              "lId": 1388
+            },
+            {
+              "_id": "f0d17e0a-2422-497a-990d-3ef1f0a00cb4",
+              "name": "Bantu speakers",
+              "topicId": "001e82b1-4d43-46d9-a6b3-f689280420c4",
+              "lId": 1389
+            },
+            {
+              "_id": "e7b4f215-b5f8-4f80-850d-df3a25d7597b",
+              "name": "Nilotic speakers ",
+              "topicId": "001e82b1-4d43-46d9-a6b3-f689280420c4",
+              "lId": 1390
+            }
+          ]
+        },
+        {
+          "_id": "45353434-26a6-4ab1-96d9-ed9cb0b46888",
+          "name": "Social,Economic and Political Organisation",
+          "courseClassId": "b277f7d3-58e9-4781-9b40-a62ee58c928c",
+          "lId": 176,
+          "subTopics": [
+            {
+              "_id": "4cb78978-f7f7-4f1d-8568-5033c2686442",
+              "name": "The Agikuyu",
+              "topicId": "45353434-26a6-4ab1-96d9-ed9cb0b46888",
+              "lId": 1391
+            },
+            {
+              "_id": "3058086b-b303-4a8f-9f28-3d6736c8f47d",
+              "name": "The Ameru",
+              "topicId": "45353434-26a6-4ab1-96d9-ed9cb0b46888",
+              "lId": 1392
+            },
+            {
+              "_id": "1c8ab52a-44aa-4a3f-9568-97377aad570a",
+              "name": "The Akamba ",
+              "topicId": "45353434-26a6-4ab1-96d9-ed9cb0b46888",
+              "lId": 1393
+            },
+            {
+              "_id": "2653c5d9-7968-4ada-8d9e-3cb0cc16912d",
+              "name": "The  Abagusii",
+              "topicId": "45353434-26a6-4ab1-96d9-ed9cb0b46888",
+              "lId": 1394
+            },
+            {
+              "_id": "6c1438c3-bfef-43e9-a336-4f15b0e58cab",
+              "name": "The Mijikenda",
+              "topicId": "45353434-26a6-4ab1-96d9-ed9cb0b46888",
+              "lId": 1395
+            },
+            {
+              "_id": "6ebab98e-5f94-4b97-890b-b0f2123c2a32",
+              "name": "The Nandi",
+              "topicId": "45353434-26a6-4ab1-96d9-ed9cb0b46888",
+              "lId": 1396
+            },
+            {
+              "_id": "ebb1ca77-db35-494e-9221-43b32e1be54e",
+              "name": "The Maasai",
+              "topicId": "45353434-26a6-4ab1-96d9-ed9cb0b46888",
+              "lId": 1397
+            },
+            {
+              "_id": "f91bd80f-0987-496c-afec-3af2d8771b0d",
+              "name": "The Luo",
+              "topicId": "45353434-26a6-4ab1-96d9-ed9cb0b46888",
+              "lId": 1398
+            },
+            {
+              "_id": "28b4a81c-6e51-4828-9d2c-4c9dba8df98a",
+              "name": "The Somali",
+              "topicId": "45353434-26a6-4ab1-96d9-ed9cb0b46888",
+              "lId": 1399
+            }
+          ]
+        },
+        {
+          "_id": "9668ab5a-d5eb-4276-ac65-cb597c09e351",
+          "name": "Contacts Between East Africa and the Outside World up to the 19th Century",
+          "courseClassId": "b277f7d3-58e9-4781-9b40-a62ee58c928c",
+          "lId": 177,
+          "subTopics": [
+            {
+              "_id": "d85bfc0e-a53a-4074-b597-7ed7228e1d95",
+              "name": "The East African coast",
+              "topicId": "9668ab5a-d5eb-4276-ac65-cb597c09e351",
+              "lId": 1400
+            },
+            {
+              "_id": "cd8db198-6dbe-462a-bafb-3d29119f734e",
+              "name": "Early visitors to the East African coast up to 1500",
+              "topicId": "9668ab5a-d5eb-4276-ac65-cb597c09e351",
+              "lId": 1401
+            },
+            {
+              "_id": "41e3b396-359e-4e76-b166-10e98e45cc68",
+              "name": "Trade between the East African coast and the outside world",
+              "topicId": "9668ab5a-d5eb-4276-ac65-cb597c09e351",
+              "lId": 1402
+            },
+            {
+              "_id": "a6242721-4346-48db-8b94-09b22ce09dd9",
+              "name": "The coming of the Portuguese",
+              "topicId": "9668ab5a-d5eb-4276-ac65-cb597c09e351",
+              "lId": 1403
+            },
+            {
+              "_id": "74e7b8e8-499c-44f5-8ba6-b44dfb9a04af",
+              "name": "The Portuguese conquest in East African coast",
+              "topicId": "9668ab5a-d5eb-4276-ac65-cb597c09e351",
+              "lId": 1404
+            },
+            {
+              "_id": "b184c972-7506-4ff8-8c77-49720014e9fe",
+              "name": "The decline in the Portuguese rule",
+              "topicId": "9668ab5a-d5eb-4276-ac65-cb597c09e351",
+              "lId": 1405
+            },
+            {
+              "_id": "243f1c80-99d1-4942-8f7a-2770d02d1677",
+              "name": "Seyyid Said:Sultan of Zanzibar(1840-1856) and the development of agriculture and trade",
+              "topicId": "9668ab5a-d5eb-4276-ac65-cb597c09e351",
+              "lId": 1406
+            },
+            {
+              "_id": "f03d02a5-a065-4b90-be0f-7c966f0bed3e",
+              "name": "The spread of Christianity",
+              "topicId": "9668ab5a-d5eb-4276-ac65-cb597c09e351",
+              "lId": 1407
+            },
+            {
+              "_id": "746fd582-86d2-4d5c-b23e-347204d45bed",
+              "name": "The effects of missionary activities in East Africa",
+              "topicId": "9668ab5a-d5eb-4276-ac65-cb597c09e351",
+              "lId": 1408
+            }
+          ]
+        },
+        {
+          "_id": "4b908787-15a8-4a69-8526-bf825b131fd1",
+          "name": "Citizenship",
+          "courseClassId": "b277f7d3-58e9-4781-9b40-a62ee58c928c",
+          "lId": 178,
+          "subTopics": [
+            {
+              "_id": "ab88f20a-59d0-4945-bb00-6c064f30a0e3",
+              "name": "Becoming a Kenyan citizenship",
+              "topicId": "4b908787-15a8-4a69-8526-bf825b131fd1",
+              "lId": 1409
+            },
+            {
+              "_id": "b3e738e1-9627-4227-9067-869fe2ede08a",
+              "name": "Rights and responsibilities of a citizen",
+              "topicId": "4b908787-15a8-4a69-8526-bf825b131fd1",
+              "lId": 1410
+            },
+            {
+              "_id": "8188e792-1c3f-41a1-a8de-b7db455c7a58",
+              "name": "Values of a good citizenship",
+              "topicId": "4b908787-15a8-4a69-8526-bf825b131fd1",
+              "lId": 1411
+            }
+          ]
+        },
+        {
+          "_id": "f3947f54-02e5-46e4-86b7-268d8fb7399b",
+          "name": "National intergration",
+          "courseClassId": "b277f7d3-58e9-4781-9b40-a62ee58c928c",
+          "lId": 179,
+          "subTopics": [
+            {
+              "_id": "434b5589-af20-4dad-9076-1ad3399b629d",
+              "name": "Importance of national intergration",
+              "topicId": "f3947f54-02e5-46e4-86b7-268d8fb7399b",
+              "lId": 1412
+            },
+            {
+              "_id": "40e133d5-1c1b-430b-9f75-f6ab0479aafb",
+              "name": "Conflict resolution",
+              "topicId": "f3947f54-02e5-46e4-86b7-268d8fb7399b",
+              "lId": 1413
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c2fa7192-482b-4603-907b-07bd4e00e1ae",
+      "name": "Form 2",
+      "order": 2,
+      "courseId": "o78A7HHu7bB6Jb9AN",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "324f6beb-2349-419a-877f-5a7b951f30ad",
+          "name": "Trade",
+          "courseClassId": "c2fa7192-482b-4603-907b-07bd4e00e1ae",
+          "lId": 180,
+          "subTopics": [
+            {
+              "_id": "826d8300-917c-41eb-beba-9f50226a0748",
+              "name": "Introduction",
+              "topicId": "324f6beb-2349-419a-877f-5a7b951f30ad",
+              "lId": 1414
+            },
+            {
+              "_id": "fd255b6c-dbec-47d7-b327-6185ce258648",
+              "name": "Definition of trade",
+              "topicId": "324f6beb-2349-419a-877f-5a7b951f30ad",
+              "lId": 1415
+            },
+            {
+              "_id": "29592ce7-2005-4b3a-b3dd-8d346b17f270",
+              "name": "Methods of trade",
+              "topicId": "324f6beb-2349-419a-877f-5a7b951f30ad",
+              "lId": 1416
+            },
+            {
+              "_id": "bda7045f-bc41-4ba3-99e3-6f06f9faa528",
+              "name": "Types of trade",
+              "topicId": "324f6beb-2349-419a-877f-5a7b951f30ad",
+              "lId": 1417
+            }
+          ]
+        },
+        {
+          "_id": "498814ba-cbe4-4643-ae21-3f8b4d50ad37",
+          "name": "Transport",
+          "courseClassId": "c2fa7192-482b-4603-907b-07bd4e00e1ae",
+          "lId": 181,
+          "subTopics": [
+            {
+              "_id": "9559634f-b9a4-4100-8f13-a5c591fd998b",
+              "name": "Definition of transport",
+              "topicId": "498814ba-cbe4-4643-ae21-3f8b4d50ad37",
+              "lId": 1418
+            },
+            {
+              "_id": "f20dd703-1069-4169-89be-af37e6ce1a5b",
+              "name": "Traditional forms of transport",
+              "topicId": "498814ba-cbe4-4643-ae21-3f8b4d50ad37",
+              "lId": 1419
+            },
+            {
+              "_id": "39e69fc7-d2fe-4d0c-b8a3-14cf4559507a",
+              "name": "Modern means of transport",
+              "topicId": "498814ba-cbe4-4643-ae21-3f8b4d50ad37",
+              "lId": 1420
+            }
+          ]
+        },
+        {
+          "_id": "af90ef77-30e5-427f-8bbb-81fe8332c356",
+          "name": "Communication",
+          "courseClassId": "c2fa7192-482b-4603-907b-07bd4e00e1ae",
+          "lId": 182,
+          "subTopics": [
+            {
+              "_id": "9f7742e0-f87f-4070-bb08-8016c3da5b30",
+              "name": "Traditional forms of communication",
+              "topicId": "af90ef77-30e5-427f-8bbb-81fe8332c356",
+              "lId": 1421
+            },
+            {
+              "_id": "4638b37a-4628-473a-a101-7618aa14562a",
+              "name": "Modern means of communication",
+              "topicId": "af90ef77-30e5-427f-8bbb-81fe8332c356",
+              "lId": 1422
+            }
+          ]
+        },
+        {
+          "_id": "281bbfe0-9606-4f70-805f-1d6c1c59dde8",
+          "name": "Development of industry",
+          "courseClassId": "c2fa7192-482b-4603-907b-07bd4e00e1ae",
+          "lId": 183,
+          "subTopics": [
+            {
+              "_id": "ea486bf4-3b67-49dc-8a17-f49cbd4d6ba3",
+              "name": "Early sources of energy",
+              "topicId": "281bbfe0-9606-4f70-805f-1d6c1c59dde8",
+              "lId": 1423
+            },
+            {
+              "_id": "a0968922-9c87-46f4-bdb1-06933367d955",
+              "name": "Uses of metal in Africa",
+              "topicId": "281bbfe0-9606-4f70-805f-1d6c1c59dde8",
+              "lId": 1424
+            },
+            {
+              "_id": "56bbceb3-f3a6-4df2-97bd-a76d7c780695",
+              "name": "Indusrial revolution in Europe",
+              "topicId": "281bbfe0-9606-4f70-805f-1d6c1c59dde8",
+              "lId": 1425
+            },
+            {
+              "_id": "cd5cfb04-8095-4f6a-afb1-7be7d486868b",
+              "name": "Other sources of energy",
+              "topicId": "281bbfe0-9606-4f70-805f-1d6c1c59dde8",
+              "lId": 1426
+            },
+            {
+              "_id": "fa6a83f8-4677-4017-a882-d8b878fa68bb",
+              "name": "Industrialiation in Britain",
+              "topicId": "281bbfe0-9606-4f70-805f-1d6c1c59dde8",
+              "lId": 1427
+            },
+            {
+              "_id": "7ccb731d-aabf-4443-bddf-e665526f039f",
+              "name": "Industralisatin in Continental Europe",
+              "topicId": "281bbfe0-9606-4f70-805f-1d6c1c59dde8",
+              "lId": 1428
+            },
+            {
+              "_id": "349c8ee1-22e5-4d5d-a901-b906de93a3d7",
+              "name": "The scientific revolution",
+              "topicId": "281bbfe0-9606-4f70-805f-1d6c1c59dde8",
+              "lId": 1429
+            }
+          ]
+        },
+        {
+          "_id": "a0c78b85-2c5e-464e-aa76-868e1e43e071",
+          "name": "Urbanisation",
+          "courseClassId": "c2fa7192-482b-4603-907b-07bd4e00e1ae",
+          "lId": 184,
+          "subTopics": [
+            {
+              "_id": "512afdf7-1cca-4c09-8c34-0ea29b52a845",
+              "name": "Early urbanisation in Africa",
+              "topicId": "a0c78b85-2c5e-464e-aa76-868e1e43e071",
+              "lId": 1430
+            },
+            {
+              "_id": "1f46f551-95b2-4d6c-9170-5eb3f0f6b96c",
+              "name": "Early urbanisation in Europe",
+              "topicId": "a0c78b85-2c5e-464e-aa76-868e1e43e071",
+              "lId": 1431
+            },
+            {
+              "_id": "5167e167-a2ab-4b57-bad7-0ffbf5f82028",
+              "name": "Modern urban centres in Africa",
+              "topicId": "a0c78b85-2c5e-464e-aa76-868e1e43e071",
+              "lId": 1432
+            },
+            {
+              "_id": "d37f7f19-ef59-4fae-b3e2-62fa56302604",
+              "name": "Impact of Agrarian and industrial developments on urbanisation",
+              "topicId": "a0c78b85-2c5e-464e-aa76-868e1e43e071",
+              "lId": 1433
+            }
+          ]
+        },
+        {
+          "_id": "9a8d6976-1c4e-4216-bfef-4736f0ef497d",
+          "name": "Social, Economic and Political Organisation of African Societies  in The 19th Century",
+          "courseClassId": "c2fa7192-482b-4603-907b-07bd4e00e1ae",
+          "lId": 185,
+          "subTopics": [
+            {
+              "_id": "33dab4f2-e22f-4e1f-8722-8555cb2a264b",
+              "name": "The Baganda",
+              "topicId": "9a8d6976-1c4e-4216-bfef-4736f0ef497d",
+              "lId": 1434
+            },
+            {
+              "_id": "5b9340ff-a98e-4596-9b66-83842233f771",
+              "name": "The Shona",
+              "topicId": "9a8d6976-1c4e-4216-bfef-4736f0ef497d",
+              "lId": 1435
+            },
+            {
+              "_id": "e7eb09ef-f697-42f1-8780-2ad012b3adcc",
+              "name": "The Asante",
+              "topicId": "9a8d6976-1c4e-4216-bfef-4736f0ef497d",
+              "lId": 1436
+            }
+          ]
+        },
+        {
+          "_id": "ac2b09e2-b04e-4c84-8f15-ed2807097b24",
+          "name": "Constitution and Constitution Making",
+          "courseClassId": "c2fa7192-482b-4603-907b-07bd4e00e1ae",
+          "lId": 186,
+          "subTopics": [
+            {
+              "_id": "b5c77fbf-f851-4b88-9226-cc9cd3c40376",
+              "name": "Meaning of constitution",
+              "topicId": "ac2b09e2-b04e-4c84-8f15-ed2807097b24",
+              "lId": 1437
+            },
+            {
+              "_id": "245087c5-23b9-4446-a534-0d09c8420924",
+              "name": "Types of constitutions ",
+              "topicId": "ac2b09e2-b04e-4c84-8f15-ed2807097b24",
+              "lId": 1438
+            },
+            {
+              "_id": "dd93b89f-2ae7-41fb-aff0-594a5aae63fb",
+              "name": "Constitution making process in Kenya in pre-colonial ,colonial and post -colonial eras",
+              "topicId": "ac2b09e2-b04e-4c84-8f15-ed2807097b24",
+              "lId": 1439
+            },
+            {
+              "_id": "6d9b8d6d-825f-4095-a791-781b7169c6af",
+              "name": "Features of the independent constitution(1962)",
+              "topicId": "ac2b09e2-b04e-4c84-8f15-ed2807097b24",
+              "lId": 1440
+            },
+            {
+              "_id": "1f4f8e35-42d0-4c8c-ae57-42c2008635a2",
+              "name": "Constitutional changes since independence upto August 2010",
+              "topicId": "ac2b09e2-b04e-4c84-8f15-ed2807097b24",
+              "lId": 1441
+            },
+            {
+              "_id": "6fe9d254-eecc-4255-be6a-ae4349464f46",
+              "name": "Features of the new constitution",
+              "topicId": "ac2b09e2-b04e-4c84-8f15-ed2807097b24",
+              "lId": 1442
+            }
+          ]
+        },
+        {
+          "_id": "cf595d82-6aba-458c-bd4a-b2a53f1a5405",
+          "name": "Democracy and Human Rights",
+          "courseClassId": "c2fa7192-482b-4603-907b-07bd4e00e1ae",
+          "lId": 187,
+          "subTopics": [
+            {
+              "_id": "188f749f-c195-451d-a57a-9c3273754f1f",
+              "name": "Defining of Democracy",
+              "topicId": "cf595d82-6aba-458c-bd4a-b2a53f1a5405",
+              "lId": 1443
+            },
+            {
+              "_id": "5378b53e-107f-4d5b-8b74-84d8d3013948",
+              "name": "Types of Democracy",
+              "topicId": "cf595d82-6aba-458c-bd4a-b2a53f1a5405",
+              "lId": 1444
+            },
+            {
+              "_id": "f3080195-a66f-4034-9987-f404d60f4617",
+              "name": "Human rights",
+              "topicId": "cf595d82-6aba-458c-bd4a-b2a53f1a5405",
+              "lId": 1445
+            },
+            {
+              "_id": "085ea2e0-ff10-4e7b-acd9-db16c8eda8d5",
+              "name": "United Nations Charter on human rights ",
+              "topicId": "cf595d82-6aba-458c-bd4a-b2a53f1a5405",
+              "lId": 1446
+            },
+            {
+              "_id": "1e61460c-5b94-4b81-ae6b-049738e25e60",
+              "name": "The Kenyan Bill of rights",
+              "topicId": "cf595d82-6aba-458c-bd4a-b2a53f1a5405",
+              "lId": 1447
+            },
+            {
+              "_id": "efc71d97-3b4e-4e98-890c-948d3b45c74a",
+              "name": "Application of Kenyan Bill of Rights to specific groups of people in Kenya",
+              "topicId": "cf595d82-6aba-458c-bd4a-b2a53f1a5405",
+              "lId": 1448
+            },
+            {
+              "_id": "a989d780-7dbb-4b84-9722-f747b54a78ec",
+              "name": "The Kenya National Human Rights and Equality Commission",
+              "topicId": "cf595d82-6aba-458c-bd4a-b2a53f1a5405",
+              "lId": 1449
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8ad61120-bbc5-4a4f-929a-fc87bbb4857b",
+      "name": "Form 3",
+      "order": 3,
+      "courseId": "o78A7HHu7bB6Jb9AN",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "f36c2e52-6bb6-4387-b61b-70beeb0b7eb5",
+          "name": "European invasion in Africa and the Process of Colonisation",
+          "courseClassId": "8ad61120-bbc5-4a4f-929a-fc87bbb4857b",
+          "lId": 188,
+          "subTopics": [
+            {
+              "_id": "e5779685-6c70-44b6-b971-bf71d1bbc5bf",
+              "name": "Introduction to the scramble for and partition in Africa",
+              "topicId": "f36c2e52-6bb6-4387-b61b-70beeb0b7eb5",
+              "lId": 1450
+            },
+            {
+              "_id": "21f78304-f8da-4543-8164-d07d18580c6e",
+              "name": "African reaction to European  colonisation",
+              "topicId": "f36c2e52-6bb6-4387-b61b-70beeb0b7eb5",
+              "lId": 1451
+            }
+          ]
+        },
+        {
+          "_id": "952b8c89-9924-483b-afc3-352b9e1c6985",
+          "name": "Establishment of Colonial Rule in Kenya",
+          "courseClassId": "8ad61120-bbc5-4a4f-929a-fc87bbb4857b",
+          "lId": 189,
+          "subTopics": [
+            {
+              "_id": "9771708b-65b1-485f-9949-0fb976166c00",
+              "name": "Scramble for East Africa",
+              "topicId": "952b8c89-9924-483b-afc3-352b9e1c6985",
+              "lId": 1452
+            },
+            {
+              "_id": "b39088d2-55c9-48b3-a4ec-55bf6a23b0e2",
+              "name": "British Occupation of Kenya",
+              "topicId": "952b8c89-9924-483b-afc3-352b9e1c6985",
+              "lId": 1453
+            },
+            {
+              "_id": "6e9fcbc2-7573-4609-9fed-a4b1c4a0ac6b",
+              "name": "Kenyan peoples response to British invasion ",
+              "topicId": "952b8c89-9924-483b-afc3-352b9e1c6985",
+              "lId": 1454
+            },
+            {
+              "_id": "2a212e63-382d-4be4-b2dc-18af19749fb2",
+              "name": "Colonial systems of Administration in Kenya ",
+              "topicId": "952b8c89-9924-483b-afc3-352b9e1c6985",
+              "lId": 1455
+            }
+          ]
+        },
+        {
+          "_id": "923db9da-13f1-4b08-85a4-0d631dd8a168",
+          "name": "Colonial Administration",
+          "courseClassId": "8ad61120-bbc5-4a4f-929a-fc87bbb4857b",
+          "lId": 190,
+          "subTopics": [
+            {
+              "_id": "9403f336-33e5-4643-95e0-8df336847339",
+              "name": "Indirect rule",
+              "topicId": "923db9da-13f1-4b08-85a4-0d631dd8a168",
+              "lId": 1456
+            },
+            {
+              "_id": "d85fc37d-2675-4f17-a131-440a9204dc64",
+              "name": "Direct rule",
+              "topicId": "923db9da-13f1-4b08-85a4-0d631dd8a168",
+              "lId": 1457
+            },
+            {
+              "_id": "c80e7850-d898-4495-8998-19fa1285d4b0",
+              "name": "Assimilation",
+              "topicId": "923db9da-13f1-4b08-85a4-0d631dd8a168",
+              "lId": 1458
+            }
+          ]
+        },
+        {
+          "_id": "06745009-d07d-4671-a73e-cdc233d1b7b9",
+          "name": "Social and Economic Developments During the Colonial Period in Kenya",
+          "courseClassId": "8ad61120-bbc5-4a4f-929a-fc87bbb4857b",
+          "lId": 191,
+          "subTopics": [
+            {
+              "_id": "4400ff92-9677-41d3-972c-99940d0d0f6c",
+              "name": "The Ugandan railway",
+              "topicId": "06745009-d07d-4671-a73e-cdc233d1b7b9",
+              "lId": 1459
+            },
+            {
+              "_id": "b059d240-06b4-494c-b6fb-e91a15afd9af",
+              "name": "Settler farming in Kenya",
+              "topicId": "06745009-d07d-4671-a73e-cdc233d1b7b9",
+              "lId": 1460
+            },
+            {
+              "_id": "2858fb2b-08ca-47d5-9061-a3d442e43944",
+              "name": "Colonial land policies in Kenya",
+              "topicId": "06745009-d07d-4671-a73e-cdc233d1b7b9",
+              "lId": 1461
+            },
+            {
+              "_id": "4694bbb6-b083-4c77-af9b-ef5054a75982",
+              "name": "The Devonshire White paper (1923)",
+              "topicId": "06745009-d07d-4671-a73e-cdc233d1b7b9",
+              "lId": 1462
+            },
+            {
+              "_id": "1836fe89-48fa-45ff-81e5-17eaeaffb2b3",
+              "name": "Urbanisation",
+              "topicId": "06745009-d07d-4671-a73e-cdc233d1b7b9",
+              "lId": 1463
+            },
+            {
+              "_id": "90d03855-22d1-4966-9d77-132a1aabefb8",
+              "name": "Education and health ",
+              "topicId": "06745009-d07d-4671-a73e-cdc233d1b7b9",
+              "lId": 1464
+            },
+            {
+              "_id": "6e744801-223c-460b-bc4e-f3699c5262c9",
+              "name": "Emergence of selected world industrial powers",
+              "topicId": "06745009-d07d-4671-a73e-cdc233d1b7b9",
+              "lId": 1465
+            }
+          ]
+        },
+        {
+          "_id": "3f00a6e1-82ac-419a-9574-1de8334984b0",
+          "name": "Political Developments and The Struggle For independence in Kenya in 1919-1963",
+          "courseClassId": "8ad61120-bbc5-4a4f-929a-fc87bbb4857b",
+          "lId": 192,
+          "subTopics": [
+            {
+              "_id": "94b0e591-8670-4f48-92f6-0e4d12efa6be",
+              "name": "Early political organisations in Kenya upto 1939",
+              "topicId": "3f00a6e1-82ac-419a-9574-1de8334984b0",
+              "lId": 1466
+            },
+            {
+              "_id": "bd0e3a79-b5e6-4660-8d17-548f0fe9d998",
+              "name": "The emergence of independent churches and schools in Kenya",
+              "topicId": "3f00a6e1-82ac-419a-9574-1de8334984b0",
+              "lId": 1467
+            },
+            {
+              "_id": "1bf775a1-86cc-46f0-8a23-679955764ca5",
+              "name": "Political organisation and movements after 1945",
+              "topicId": "3f00a6e1-82ac-419a-9574-1de8334984b0",
+              "lId": 1468
+            },
+            {
+              "_id": "79d737b8-bc8f-476a-b7ca-9ee563812944",
+              "name": "Constitutional changes leading to independence",
+              "topicId": "3f00a6e1-82ac-419a-9574-1de8334984b0",
+              "lId": 1469
+            }
+          ]
+        },
+        {
+          "_id": "cb8aeb90-17c3-4112-b8df-fe54115856a1",
+          "name": "Emergence and Growth of Nationalism in Africa",
+          "courseClassId": "8ad61120-bbc5-4a4f-929a-fc87bbb4857b",
+          "lId": 196,
+          "subTopics": [
+            {
+              "_id": "4d9d4851-823c-4209-b3f1-376f4820dea9",
+              "name": "Factors for the rise of nationalism in Africa",
+              "topicId": "cb8aeb90-17c3-4112-b8df-fe54115856a1",
+              "lId": 1470
+            },
+            {
+              "_id": "9ee3294b-a35a-48d5-a55b-aa71d07cdd06",
+              "name": "Nationalism in Ghana",
+              "topicId": "cb8aeb90-17c3-4112-b8df-fe54115856a1",
+              "lId": 1471
+            },
+            {
+              "_id": "d255bf70-bf2e-492c-81e0-3261e3cd78eb",
+              "name": "Nationalism in Mozambique",
+              "topicId": "cb8aeb90-17c3-4112-b8df-fe54115856a1",
+              "lId": 1472
+            },
+            {
+              "_id": "3cd89eb6-77e5-4aff-82bd-402554895712",
+              "name": "Nationalism in South Africa",
+              "topicId": "cb8aeb90-17c3-4112-b8df-fe54115856a1",
+              "lId": 1473
+            }
+          ]
+        },
+        {
+          "_id": "5fca7318-1bb5-46f8-bc1d-fa6cc237a2b0",
+          "name": "Lives and Contribution of Kenyan Leaders ",
+          "courseClassId": "8ad61120-bbc5-4a4f-929a-fc87bbb4857b",
+          "lId": 197,
+          "subTopics": [
+            {
+              "_id": "7ec387d1-5537-4861-ace4-976c9845c725",
+              "name": "Jomo Kenyatta",
+              "topicId": "5fca7318-1bb5-46f8-bc1d-fa6cc237a2b0",
+              "lId": 1474
+            },
+            {
+              "_id": "436d4ab9-ac44-4b6f-8d86-e2e13ce209b8",
+              "name": "Daniel Arap Moi",
+              "topicId": "5fca7318-1bb5-46f8-bc1d-fa6cc237a2b0",
+              "lId": 1475
+            },
+            {
+              "_id": "ce19aeef-a763-40a0-898f-40ffa6e4d32f",
+              "name": "Oginga Odinga",
+              "topicId": "5fca7318-1bb5-46f8-bc1d-fa6cc237a2b0",
+              "lId": 1476
+            },
+            {
+              "_id": "835a4b23-3d01-45bd-9835-b1dcb5869760",
+              "name": "Tom Mboya",
+              "topicId": "5fca7318-1bb5-46f8-bc1d-fa6cc237a2b0",
+              "lId": 1477
+            },
+            {
+              "_id": "b1523ded-8afc-4295-8012-bdc9f0188e83",
+              "name": "Ronald Ngala",
+              "topicId": "5fca7318-1bb5-46f8-bc1d-fa6cc237a2b0",
+              "lId": 1478
+            },
+            {
+              "_id": "bfafd0a7-9bdc-4d79-aece-128635b7df0b",
+              "name": "Wangari Maathai",
+              "topicId": "5fca7318-1bb5-46f8-bc1d-fa6cc237a2b0",
+              "lId": 1479
+            }
+          ]
+        },
+        {
+          "_id": "62c305fb-34ee-4f65-8901-5eedbb3e72f6",
+          "name": "The Formation, Structure and Functions of The Government of Kenya",
+          "courseClassId": "8ad61120-bbc5-4a4f-929a-fc87bbb4857b",
+          "lId": 198,
+          "subTopics": [
+            {
+              "_id": "64da71ea-76e2-436f-b0dd-36fce577fef7",
+              "name": "The Independent Electoral and Boundaries Commission of Kenya",
+              "topicId": "62c305fb-34ee-4f65-8901-5eedbb3e72f6",
+              "lId": 1480
+            },
+            {
+              "_id": "e64bf8a1-327b-4cf3-a085-b4cf8de87621",
+              "name": "The electoral process in Kenya",
+              "topicId": "62c305fb-34ee-4f65-8901-5eedbb3e72f6",
+              "lId": 1481
+            },
+            {
+              "_id": "044085ac-1e4b-4f8f-8e1b-8d8e233ae33d",
+              "name": "Formation of Government",
+              "topicId": "62c305fb-34ee-4f65-8901-5eedbb3e72f6",
+              "lId": 1482
+            },
+            {
+              "_id": "e28862bb-7d88-485d-ab24-328fff5f8644",
+              "name": "Structure and function of the National Government",
+              "topicId": "62c305fb-34ee-4f65-8901-5eedbb3e72f6",
+              "lId": 1483
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "167088bc-195e-4686-9e1a-686167fb21b3",
+      "name": "Form 4",
+      "order": 4,
+      "courseId": "o78A7HHu7bB6Jb9AN",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "b012aa55-537c-4c59-b1d7-8d5c8ca0b475",
+          "name": "World Wars",
+          "courseClassId": "167088bc-195e-4686-9e1a-686167fb21b3",
+          "lId": 199,
+          "subTopics": [
+            {
+              "_id": "5ae6c4b9-648d-4f10-b401-5b440ee263d0",
+              "name": "Introduction",
+              "topicId": "b012aa55-537c-4c59-b1d7-8d5c8ca0b475",
+              "lId": 1484
+            },
+            {
+              "_id": "c32e64ae-0e78-412e-b873-a63c54019513",
+              "name": "World War I (1914-1918)",
+              "topicId": "b012aa55-537c-4c59-b1d7-8d5c8ca0b475",
+              "lId": 1485
+            },
+            {
+              "_id": "da08f669-1c4e-44f7-ad99-53443830bfda",
+              "name": "The League of Nations",
+              "topicId": "b012aa55-537c-4c59-b1d7-8d5c8ca0b475",
+              "lId": 1486
+            },
+            {
+              "_id": "ba74904e-d41b-4366-a56b-2d5da3d1b35c",
+              "name": "World war II (1939-1945)",
+              "topicId": "b012aa55-537c-4c59-b1d7-8d5c8ca0b475",
+              "lId": 1487
+            }
+          ]
+        },
+        {
+          "_id": "b95ade51-98eb-4f4e-a4b7-33069217ee06",
+          "name": "International Relations",
+          "courseClassId": "167088bc-195e-4686-9e1a-686167fb21b3",
+          "lId": 200,
+          "subTopics": [
+            {
+              "_id": "48dcd3d4-d52b-4f22-9278-274c92f13162",
+              "name": "International organisations",
+              "topicId": "b95ade51-98eb-4f4e-a4b7-33069217ee06",
+              "lId": 1488
+            },
+            {
+              "_id": "9f09d9e7-be84-422b-9567-9083b1b873d7",
+              "name": "The United Nations",
+              "topicId": "b95ade51-98eb-4f4e-a4b7-33069217ee06",
+              "lId": 1489
+            },
+            {
+              "_id": "be7c2443-66c7-45d1-8c7c-f88dc8a8d565",
+              "name": "The Commonwealth of Nations",
+              "topicId": "b95ade51-98eb-4f4e-a4b7-33069217ee06",
+              "lId": 1490
+            },
+            {
+              "_id": "64bec594-046d-4df2-9003-fefca2fe8a41",
+              "name": "The non-aligned movement",
+              "topicId": "b95ade51-98eb-4f4e-a4b7-33069217ee06",
+              "lId": 1491
+            },
+            {
+              "_id": "96bbbfa3-0a80-41d2-99d5-deb00d99d0ee",
+              "name": "The Cold War",
+              "topicId": "b95ade51-98eb-4f4e-a4b7-33069217ee06",
+              "lId": 1492
+            }
+          ]
+        },
+        {
+          "_id": "cff9a3e7-05b4-49b4-a8c6-62acdadcb292",
+          "name": "Cooperation in Africa",
+          "courseClassId": "167088bc-195e-4686-9e1a-686167fb21b3",
+          "lId": 201,
+          "subTopics": [
+            {
+              "_id": "badc9d40-c4d6-4250-b326-408a1f9d8be1",
+              "name": "Pan-Africanism",
+              "topicId": "cff9a3e7-05b4-49b4-a8c6-62acdadcb292",
+              "lId": 1493
+            },
+            {
+              "_id": "f0586943-d7d9-4c86-b3fd-b2892bd4ab15",
+              "name": "Organisation of African unity",
+              "topicId": "cff9a3e7-05b4-49b4-a8c6-62acdadcb292",
+              "lId": 1494
+            },
+            {
+              "_id": "efe427b1-ff04-4c3a-b82f-159a10d05553",
+              "name": "The African union",
+              "topicId": "cff9a3e7-05b4-49b4-a8c6-62acdadcb292",
+              "lId": 1495
+            },
+            {
+              "_id": "7ff080a5-7103-4553-9c99-a6faff9b2e63",
+              "name": "East African community ",
+              "topicId": "cff9a3e7-05b4-49b4-a8c6-62acdadcb292",
+              "lId": 1496
+            },
+            {
+              "_id": "55301e08-ae80-43ae-bbd9-0cd085017122",
+              "name": "The Economic Community of West African states ",
+              "topicId": "cff9a3e7-05b4-49b4-a8c6-62acdadcb292",
+              "lId": 1497
+            },
+            {
+              "_id": "907e7027-ecb4-467a-b503-b34f8c8a2fb5",
+              "name": "The common market of Eastern and Southern Africa",
+              "topicId": "cff9a3e7-05b4-49b4-a8c6-62acdadcb292",
+              "lId": 1498
+            }
+          ]
+        },
+        {
+          "_id": "7df48ad1-5547-479a-99ee-1cbcfcc5b786",
+          "name": "National Philosophies (Kenya)",
+          "courseClassId": "167088bc-195e-4686-9e1a-686167fb21b3",
+          "lId": 202,
+          "subTopics": [
+            {
+              "_id": "3415aa11-7dff-4733-a7dd-8b1b6dbc21c0",
+              "name": "African socialism",
+              "topicId": "7df48ad1-5547-479a-99ee-1cbcfcc5b786",
+              "lId": 1499
+            },
+            {
+              "_id": "69f4aa31-fcb4-42a3-bc40-bce53e84d20a",
+              "name": "Harambee",
+              "topicId": "7df48ad1-5547-479a-99ee-1cbcfcc5b786",
+              "lId": 1500
+            },
+            {
+              "_id": "2a03afc9-4b94-404e-ab54-78c27e5aad18",
+              "name": "Nyayoism",
+              "topicId": "7df48ad1-5547-479a-99ee-1cbcfcc5b786",
+              "lId": 1501
+            },
+            {
+              "_id": "c243e11c-087b-4a5e-8ef5-4b3bee6d79d2",
+              "name": "Impact of National philosophies",
+              "topicId": "7df48ad1-5547-479a-99ee-1cbcfcc5b786",
+              "lId": 1502
+            }
+          ]
+        },
+        {
+          "_id": "a3dc792d-5032-4502-a35f-09a82bedd69c",
+          "name": "Social Economic and Political Developments and Challenges in Kenya Since independence",
+          "courseClassId": "167088bc-195e-4686-9e1a-686167fb21b3",
+          "lId": 203,
+          "subTopics": [
+            {
+              "_id": "036ba944-c117-4beb-97d6-583fea5f2408",
+              "name": "Political developments",
+              "topicId": "a3dc792d-5032-4502-a35f-09a82bedd69c",
+              "lId": 1503
+            },
+            {
+              "_id": "8b657d52-6b19-4627-a64b-444e60f76378",
+              "name": "Economic developments and challenges since indepence",
+              "topicId": "a3dc792d-5032-4502-a35f-09a82bedd69c",
+              "lId": 1504
+            },
+            {
+              "_id": "70f701a6-153a-475d-ada0-b54a6c0695da",
+              "name": "Social developments and challenges  since independence",
+              "topicId": "a3dc792d-5032-4502-a35f-09a82bedd69c",
+              "lId": 1505
+            }
+          ]
+        },
+        {
+          "_id": "ee269b4b-42b1-4797-b612-653e7c17167e",
+          "name": "Social, Economic and Political Developments and Challenges in Africa Since Independence",
+          "courseClassId": "167088bc-195e-4686-9e1a-686167fb21b3",
+          "lId": 204,
+          "subTopics": [
+            {
+              "_id": "55ed2d25-49ef-407c-ba06-5444c367c304",
+              "name": "Democratic Republic of Congo",
+              "topicId": "ee269b4b-42b1-4797-b612-653e7c17167e",
+              "lId": 1506
+            },
+            {
+              "_id": "27d99f73-f576-472f-92ae-5141f8549c06",
+              "name": "Tanzania",
+              "topicId": "ee269b4b-42b1-4797-b612-653e7c17167e",
+              "lId": 1507
+            },
+            {
+              "_id": "d2686b76-1519-4ad8-a4fd-6fd869c10b19",
+              "name": "Social, economic and political challenges in Africa since independence",
+              "topicId": "ee269b4b-42b1-4797-b612-653e7c17167e",
+              "lId": 1508
+            }
+          ]
+        },
+        {
+          "_id": "4fc0e8a3-4eb6-41ba-a70b-fd246286ba09",
+          "name": "Devolved Government",
+          "courseClassId": "167088bc-195e-4686-9e1a-686167fb21b3",
+          "lId": 205,
+          "subTopics": [
+            {
+              "_id": "f46c508d-477a-4c29-a142-9ae1e292d093",
+              "name": "Devolved Government",
+              "topicId": "4fc0e8a3-4eb6-41ba-a70b-fd246286ba09",
+              "lId": 1509
+            },
+            {
+              "_id": "c14b7d51-b987-42b7-8b34-24042a4cdc7e",
+              "name": "Objectives of devolution of Government",
+              "topicId": "4fc0e8a3-4eb6-41ba-a70b-fd246286ba09",
+              "lId": 1510
+            },
+            {
+              "_id": "9d5d3c0f-f422-4fae-967c-16015ddcedd1",
+              "name": "Principles of devolved Government ",
+              "topicId": "4fc0e8a3-4eb6-41ba-a70b-fd246286ba09",
+              "lId": 1511
+            },
+            {
+              "_id": "e5cf70df-228f-450b-a0c0-8725ac5f8ed1",
+              "name": "Structure and function of the county Government",
+              "topicId": "4fc0e8a3-4eb6-41ba-a70b-fd246286ba09",
+              "lId": 1512
+            },
+            {
+              "_id": "022bb6d8-60e1-4d80-b3ec-f160d83b1537",
+              "name": "Relationship between national and county Governments",
+              "topicId": "4fc0e8a3-4eb6-41ba-a70b-fd246286ba09",
+              "lId": 1513
+            },
+            {
+              "_id": "ed9e3b1f-c7d3-4824-9057-f1b38c5caee3",
+              "name": "Challenges facing county Governments and possible solutions",
+              "topicId": "4fc0e8a3-4eb6-41ba-a70b-fd246286ba09",
+              "lId": 1514
+            }
+          ]
+        },
+        {
+          "_id": "5072a832-f20d-48b9-ac0e-bbbdfd3cd50e",
+          "name": "Public Revenue and Expenditure in Kenya",
+          "courseClassId": "167088bc-195e-4686-9e1a-686167fb21b3",
+          "lId": 206,
+          "subTopics": [
+            {
+              "_id": "9f0c066f-8e62-4d1d-9dcf-6488223145bf",
+              "name": "National budget ",
+              "topicId": "5072a832-f20d-48b9-ac0e-bbbdfd3cd50e",
+              "lId": 1515
+            },
+            {
+              "_id": "47769815-5f7e-4271-a71e-4d10fc80d9e6",
+              "name": "Sources of public revenue",
+              "topicId": "5072a832-f20d-48b9-ac0e-bbbdfd3cd50e",
+              "lId": 1516
+            },
+            {
+              "_id": "6c6822b5-aed3-4797-9dc2-23224706b71f",
+              "name": "Expenditure and public revenue",
+              "topicId": "5072a832-f20d-48b9-ac0e-bbbdfd3cd50e",
+              "lId": 1517
+            },
+            {
+              "_id": "ff365d7b-9872-42f4-85d3-6ab4682cf751",
+              "name": "Management of public finance",
+              "topicId": "5072a832-f20d-48b9-ac0e-bbbdfd3cd50e",
+              "lId": 1518
+            },
+            {
+              "_id": "1f93c5fd-16fb-41b2-9880-0e50a85cbe69",
+              "name": "Commision of all revenue",
+              "topicId": "5072a832-f20d-48b9-ac0e-bbbdfd3cd50e",
+              "lId": 1519
+            }
+          ]
+        },
+        {
+          "_id": "1bde33f6-7042-4c80-999d-403b8ff8810e",
+          "name": "Electoral Processes and Functions of Governments in Other Parts of The World",
+          "courseClassId": "167088bc-195e-4686-9e1a-686167fb21b3",
+          "lId": 207,
+          "subTopics": [
+            {
+              "_id": "0b51e4c7-17cf-442b-8ce5-8db80f3fbba6",
+              "name": "Britain",
+              "topicId": "1bde33f6-7042-4c80-999d-403b8ff8810e",
+              "lId": 1520
+            },
+            {
+              "_id": "81893367-b86a-47c0-8f7b-8f4f5a5db97b",
+              "name": "The United States of America ",
+              "topicId": "1bde33f6-7042-4c80-999d-403b8ff8810e",
+              "lId": 1521
+            },
+            {
+              "_id": "b30701a7-534b-472d-a1d0-4fa85b719198",
+              "name": "India",
+              "topicId": "1bde33f6-7042-4c80-999d-403b8ff8810e",
+              "lId": 1522
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

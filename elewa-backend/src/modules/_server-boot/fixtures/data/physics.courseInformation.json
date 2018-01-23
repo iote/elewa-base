@@ -1,0 +1,2118 @@
+{
+  "_id": "8d26e0da-71fe-4046-925e-8cf2678f0928",
+  "name": "Physics",
+  "subjectId": "7HufJgf7ngDxPMyWX",
+  "lId": 15,
+  "classes": [
+    {
+      "_id": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+      "name": "Form 1",
+      "order": 1,
+      "courseId": "7HufJgf7ngDxPMyWX",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "a7b680a1-bfaf-44e0-8701-a59213c551d3",
+          "name": "Introduction to physics",
+          "courseClassId": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+          "lId": 208,
+          "subTopics": [
+            {
+              "_id": "d542838d-309c-42a1-8d39-d134d8c16d1e",
+              "name": "Physics as a science",
+              "topicId": "a7b680a1-bfaf-44e0-8701-a59213c551d3",
+              "lId": 1524
+            },
+            {
+              "_id": "38a793bd-43a1-4e87-83e8-0b53140b1c00",
+              "name": "meaning of physics",
+              "topicId": "a7b680a1-bfaf-44e0-8701-a59213c551d3",
+              "lId": 1525
+            },
+            {
+              "_id": "9e570e36-5965-4b5b-856f-7ca59c435c98",
+              "name": "branches of physics",
+              "topicId": "a7b680a1-bfaf-44e0-8701-a59213c551d3",
+              "lId": 1526
+            },
+            {
+              "_id": "7cbdaef9-5db8-4262-90d1-a25432626681",
+              "name": "relationship between physics and other subjects",
+              "topicId": "a7b680a1-bfaf-44e0-8701-a59213c551d3",
+              "lId": 1527
+            },
+            {
+              "_id": "afefe915-fc53-4206-9366-e702f602304b",
+              "name": "Career opportunity in physics",
+              "topicId": "a7b680a1-bfaf-44e0-8701-a59213c551d3",
+              "lId": 1528
+            },
+            {
+              "_id": "cff4f340-d6ce-43a8-be35-b3834fda7728",
+              "name": "basic laboratory rules",
+              "topicId": "a7b680a1-bfaf-44e0-8701-a59213c551d3",
+              "lId": 1529
+            },
+            {
+              "_id": "32c4c6a1-087f-4321-8a5c-6a9af7a3ea27",
+              "name": "First aid measures",
+              "topicId": "a7b680a1-bfaf-44e0-8701-a59213c551d3",
+              "lId": 1530
+            }
+          ]
+        },
+        {
+          "_id": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+          "name": "Measurement 1",
+          "courseClassId": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+          "lId": 209,
+          "subTopics": [
+            {
+              "_id": "197193e2-247a-4cfc-ba2a-182ed836c229",
+              "name": "Length",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1531
+            },
+            {
+              "_id": "5e583a43-cec5-4caa-b3b4-742e7a369247",
+              "name": "Metre rules",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1532
+            },
+            {
+              "_id": "160f0498-79ca-4acd-b314-724988b01785",
+              "name": "Tape measure",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1533
+            },
+            {
+              "_id": "daf33c08-4859-48bd-b004-8f8e0a0e2a8d",
+              "name": "Measurement of curved length",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1534
+            },
+            {
+              "_id": "444acd92-03be-4565-a569-2097e2106ea2",
+              "name": "Area",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1535
+            },
+            {
+              "_id": "cc2c23f5-0d59-4f66-a3c7-7b65a9825b33",
+              "name": "Measurement of area",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1536
+            },
+            {
+              "_id": "268a417b-9911-4e07-9426-8764de90bac2",
+              "name": "Volume",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1537
+            },
+            {
+              "_id": "6dcc1fec-ea01-47e5-ba3b-03d09e393f0c",
+              "name": "Volume of liquids",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1538
+            },
+            {
+              "_id": "4a3e95ec-7a71-4f70-a1a6-13f1501148e2",
+              "name": "Volume of irregularly-shaped solids",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1539
+            },
+            {
+              "_id": "0f53ee82-cdc0-4dc0-8543-645aad060de3",
+              "name": "Mass",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1540
+            },
+            {
+              "_id": "763fa140-db3d-4968-bfaa-9c868e98e067",
+              "name": "Density",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1541
+            },
+            {
+              "_id": "24dbd0e7-7647-45b6-b603-e2012535764a",
+              "name": "Density bottle",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1542
+            },
+            {
+              "_id": "c8944ada-2bce-4c2f-ad06-8c92027ab2e3",
+              "name": "Densities of mixtures",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1543
+            },
+            {
+              "_id": "d90b9c27-da2d-491b-b1ab-ffe5dff755fe",
+              "name": "Time",
+              "topicId": "319ac6d0-4179-4e06-94c6-aefb35babe53",
+              "lId": 1544
+            }
+          ]
+        },
+        {
+          "_id": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+          "name": "Forces",
+          "courseClassId": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+          "lId": 210,
+          "subTopics": [
+            {
+              "_id": "e7a9e9a8-d029-4f2c-a152-e601c24820bb",
+              "name": "Types of forces",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1545
+            },
+            {
+              "_id": "2c3d0026-efd3-4fb3-aac9-b3ee6a29c556",
+              "name": "Gravitational force",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1546
+            },
+            {
+              "_id": "be7de9dc-3215-48bf-bb19-b7073642e36e",
+              "name": "Tension",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1547
+            },
+            {
+              "_id": "df245912-01b9-4d41-9eb4-6ecf0b904ded",
+              "name": "Upthrust force",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1548
+            },
+            {
+              "_id": "73bd3d32-7cc5-411b-abdb-cfc94a61a529",
+              "name": "Cohesive and adhesive forces",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1549
+            },
+            {
+              "_id": "94e07e50-3a72-4fcd-b222-768e8f5db3f5",
+              "name": "Frictional force",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1550
+            },
+            {
+              "_id": "fb1b6b9d-8bb6-445b-bb51-ae14288ef928",
+              "name": "Magnetic force",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1551
+            },
+            {
+              "_id": "466fca87-adae-4a5d-b134-27da0aeb3876",
+              "name": "Electrostatic force",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1552
+            },
+            {
+              "_id": "09467b4b-8b6d-4fa0-9b0c-0dc261cb90b4",
+              "name": "Centripetal force",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1553
+            },
+            {
+              "_id": "06340400-aefa-458a-a4c4-b8e9f0bee7c1",
+              "name": "Surface tension",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1554
+            },
+            {
+              "_id": "3832ff59-08a1-4909-b7e6-899655080dbe",
+              "name": "Action and reaction",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1555
+            },
+            {
+              "_id": "9b256401-3277-44c7-85b8-bb9af95089e0",
+              "name": "Mass and weight",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1556
+            },
+            {
+              "_id": "44b475ef-b5a2-4966-a1d4-742d525a3bbe",
+              "name": "Scalar and vector quantities",
+              "topicId": "cc2ab7af-2d62-4bee-8dca-acf4238ce25e",
+              "lId": 1557
+            }
+          ]
+        },
+        {
+          "_id": "4cf64798-6f94-4c92-b001-41a49e775b51",
+          "name": "Pressure",
+          "courseClassId": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+          "lId": 211,
+          "subTopics": [
+            {
+              "_id": "2634835f-77ab-419f-9a1d-9228825ba8f1",
+              "name": "Pressure in liquids",
+              "topicId": "4cf64798-6f94-4c92-b001-41a49e775b51",
+              "lId": 1558
+            },
+            {
+              "_id": "1a3a91f3-64fa-4c6b-83c1-3110e74dffb9",
+              "name": "Fluid pressure formula",
+              "topicId": "4cf64798-6f94-4c92-b001-41a49e775b51",
+              "lId": 1559
+            },
+            {
+              "_id": "ec7e2174-f562-41a0-b6e1-6442f6ef0750",
+              "name": "Transmission of pressure in liquids",
+              "topicId": "4cf64798-6f94-4c92-b001-41a49e775b51",
+              "lId": 1560
+            },
+            {
+              "_id": "dd547894-f1ca-46c8-ab47-065ac0be59b3",
+              "name": "Hydraulic machines",
+              "topicId": "4cf64798-6f94-4c92-b001-41a49e775b51",
+              "lId": 1561
+            },
+            {
+              "_id": "5fbad0be-39fb-403f-b2c5-2d9eb7bbc72b",
+              "name": "Atmospheric pressure",
+              "topicId": "4cf64798-6f94-4c92-b001-41a49e775b51",
+              "lId": 1562
+            },
+            {
+              "_id": "b99e2d70-56ac-4d1b-be26-6dbcfc4c9078",
+              "name": "Measurement of pressure",
+              "topicId": "4cf64798-6f94-4c92-b001-41a49e775b51",
+              "lId": 1563
+            },
+            {
+              "_id": "53cf4a6d-0ed5-4557-be5e-c44696930207",
+              "name": "Mercury barometer",
+              "topicId": "4cf64798-6f94-4c92-b001-41a49e775b51",
+              "lId": 1564
+            },
+            {
+              "_id": "ddced386-8634-41a2-8a93-4e783c124294",
+              "name": "Pressure gauges",
+              "topicId": "4cf64798-6f94-4c92-b001-41a49e775b51",
+              "lId": 1565
+            },
+            {
+              "_id": "4f9c1239-29fe-464d-834b-0c23c123e51a",
+              "name": "Application of pressure in liquids and gases",
+              "topicId": "4cf64798-6f94-4c92-b001-41a49e775b51",
+              "lId": 1566
+            }
+          ]
+        },
+        {
+          "_id": "23ae8516-1db3-4e7f-8acc-7ecb320c58b1",
+          "name": "Particulate nature of matter",
+          "courseClassId": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+          "lId": 212,
+          "subTopics": [
+            {
+              "_id": "0b72c6d0-f607-475c-8108-3d03f6e1ca18",
+              "name": "Investigating matter",
+              "topicId": "23ae8516-1db3-4e7f-8acc-7ecb320c58b1",
+              "lId": 1567
+            },
+            {
+              "_id": "664de334-a2a3-4d66-b64d-056db4834abb",
+              "name": "The smoke cell experiment",
+              "topicId": "23ae8516-1db3-4e7f-8acc-7ecb320c58b1",
+              "lId": 1568
+            },
+            {
+              "_id": "9b5ca7ff-785b-40de-a6ba-ba5c787890b4",
+              "name": "Arrangement of particles in states of matter",
+              "topicId": "23ae8516-1db3-4e7f-8acc-7ecb320c58b1",
+              "lId": 1569
+            },
+            {
+              "_id": "4bb408d3-d72f-453a-af5f-038cf83414e9",
+              "name": "Diffusion",
+              "topicId": "23ae8516-1db3-4e7f-8acc-7ecb320c58b1",
+              "lId": 1570
+            },
+            {
+              "_id": "4e4ef839-0de8-457e-949f-ff99fbc3659f",
+              "name": "Rates of diffusion",
+              "topicId": "23ae8516-1db3-4e7f-8acc-7ecb320c58b1",
+              "lId": 1571
+            },
+            {
+              "_id": "fa1164c3-1c0b-4e18-825e-d3fb62a77b97",
+              "name": "Diffusion through porous materials",
+              "topicId": "23ae8516-1db3-4e7f-8acc-7ecb320c58b1",
+              "lId": 1572
+            }
+          ]
+        },
+        {
+          "_id": "e1a8acd5-7dbf-4221-b3ea-aef0c75622f4",
+          "name": "Thermal expansion",
+          "courseClassId": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+          "lId": 213,
+          "subTopics": [
+            {
+              "_id": "2e5ac83b-abda-4648-9894-c6bf62396a58",
+              "name": "Temperature",
+              "topicId": "e1a8acd5-7dbf-4221-b3ea-aef0c75622f4",
+              "lId": 1573
+            },
+            {
+              "_id": "9e5b9fe8-ab53-4eb8-af0a-8066cb33fa6a",
+              "name": "Expansion and contraction of solids",
+              "topicId": "e1a8acd5-7dbf-4221-b3ea-aef0c75622f4",
+              "lId": 1574
+            },
+            {
+              "_id": "13bfbeed-8e1f-4553-b260-dbfbfbf305c5",
+              "name": "Linear expansivity",
+              "topicId": "e1a8acd5-7dbf-4221-b3ea-aef0c75622f4",
+              "lId": 1575
+            },
+            {
+              "_id": "e643d2bf-f01c-4d32-9726-67f6fe484301",
+              "name": "The bimetallic strip",
+              "topicId": "e1a8acd5-7dbf-4221-b3ea-aef0c75622f4",
+              "lId": 1576
+            },
+            {
+              "_id": "ef3debce-259a-463d-84cc-7bb5698915c4",
+              "name": "Applications of expansion and contraction in solids",
+              "topicId": "e1a8acd5-7dbf-4221-b3ea-aef0c75622f4",
+              "lId": 1577
+            },
+            {
+              "_id": "43261f6f-9e7e-4a82-90b3-2d0fa47f137a",
+              "name": "Expansion and contraction of liquids",
+              "topicId": "e1a8acd5-7dbf-4221-b3ea-aef0c75622f4",
+              "lId": 1578
+            },
+            {
+              "_id": "c1125c42-2dd3-4d00-b967-b4a3e7031613",
+              "name": "The anomaous expansion of water",
+              "topicId": "e1a8acd5-7dbf-4221-b3ea-aef0c75622f4",
+              "lId": 1579
+            },
+            {
+              "_id": "208bd839-543d-49e7-8052-8385f584eb14",
+              "name": "Expansion of gases",
+              "topicId": "e1a8acd5-7dbf-4221-b3ea-aef0c75622f4",
+              "lId": 1580
+            },
+            {
+              "_id": "401290e5-4390-47e0-a237-2e57c90f16b8",
+              "name": "Measuring temperature",
+              "topicId": "e1a8acd5-7dbf-4221-b3ea-aef0c75622f4",
+              "lId": 1581
+            }
+          ]
+        },
+        {
+          "_id": "78be8ed4-b444-4bab-bfd7-f378feb1fe0f",
+          "name": "Heat transfer",
+          "courseClassId": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+          "lId": 214,
+          "subTopics": [
+            {
+              "_id": "9e3e7226-d6b1-4e77-9ae5-cfc296ce81f4",
+              "name": "Heat and temperature",
+              "topicId": "78be8ed4-b444-4bab-bfd7-f378feb1fe0f",
+              "lId": 1582
+            },
+            {
+              "_id": "6282fd28-12b8-45d0-aaf3-85e3f6aba950",
+              "name": "Conduction",
+              "topicId": "78be8ed4-b444-4bab-bfd7-f378feb1fe0f",
+              "lId": 1583
+            },
+            {
+              "_id": "5fae0e2e-6611-4b08-99ee-77256f881926",
+              "name": "Thermal conductivity in liquids",
+              "topicId": "78be8ed4-b444-4bab-bfd7-f378feb1fe0f",
+              "lId": 1584
+            },
+            {
+              "_id": "193b560d-85a0-4160-8cef-5d26eefca1fa",
+              "name": "Thermal conductivity in gases",
+              "topicId": "78be8ed4-b444-4bab-bfd7-f378feb1fe0f",
+              "lId": 1585
+            },
+            {
+              "_id": "8dab5c27-12f8-45a8-9ae9-3e4b15c9f579",
+              "name": "Application of good and poor conductors of heat",
+              "topicId": "78be8ed4-b444-4bab-bfd7-f378feb1fe0f",
+              "lId": 1586
+            },
+            {
+              "_id": "cd5cb8ff-db43-4b70-b7ee-0eb0c2641309",
+              "name": "Convection ",
+              "topicId": "78be8ed4-b444-4bab-bfd7-f378feb1fe0f",
+              "lId": 1587
+            },
+            {
+              "_id": "c235cae3-2956-42d5-87a2-f64cf8862038",
+              "name": "Some applications of convection in fluids",
+              "topicId": "78be8ed4-b444-4bab-bfd7-f378feb1fe0f",
+              "lId": 1588
+            },
+            {
+              "_id": "1a2f43de-74fa-49c8-9a0f-fe6db0611cfd",
+              "name": "Radiation",
+              "topicId": "78be8ed4-b444-4bab-bfd7-f378feb1fe0f",
+              "lId": 1589
+            },
+            {
+              "_id": "3ff053aa-db36-4810-93ae-5cd765608fcc",
+              "name": "Applications of thermal radiation",
+              "topicId": "78be8ed4-b444-4bab-bfd7-f378feb1fe0f",
+              "lId": 1590
+            }
+          ]
+        },
+        {
+          "_id": "39c9eced-9e75-405c-bc69-719b45493f27",
+          "name": "Rectilinear propagation of light  and reflection at plane surface",
+          "courseClassId": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+          "lId": 215,
+          "subTopics": [
+            {
+              "_id": "7680f4b5-47de-415f-bdd9-0c467a1d2a69",
+              "name": "Sources of light",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1591
+            },
+            {
+              "_id": "d2936f0f-7ac0-417f-8b2a-5ce350493913",
+              "name": "Rays and beams of light",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1592
+            },
+            {
+              "_id": "6cb8d1da-9cff-4abb-b058-767ba1a27849",
+              "name": "Rectilinear propagation of light ",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1593
+            },
+            {
+              "_id": "53f8bf80-b010-484c-8d23-58c3802626b7",
+              "name": "Eclipse",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1594
+            },
+            {
+              "_id": "20c6bb59-d66c-4b21-ad59-45e992ac8082",
+              "name": "The phases of the moon",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1595
+            },
+            {
+              "_id": "f888fa83-237e-4232-9801-2e0f867c1307",
+              "name": "Solar eclipse or eclipse of the sun",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1596
+            },
+            {
+              "_id": "649601b3-60f7-4066-ae8d-38bb35683a49",
+              "name": "Lunar eclipse or ecplipse of the moon",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1597
+            },
+            {
+              "_id": "9da46a13-39fb-4382-a47d-718a1408e210",
+              "name": "The pinhole camera",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1598
+            },
+            {
+              "_id": "2f0320a9-fb94-4975-ae12-40c378bd4ef2",
+              "name": "Magnification",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1599
+            },
+            {
+              "_id": "fca60ccf-2620-4732-a2de-7ccf55ace6f5",
+              "name": "Reflection of light",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1600
+            },
+            {
+              "_id": "a7a2fa51-537e-464b-92d1-190406e96479",
+              "name": "Laws of reflection",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1601
+            },
+            {
+              "_id": "e69214f3-d7d0-44fd-b254-8b8092183fac",
+              "name": "Rotation of a mirror through an angle",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1602
+            },
+            {
+              "_id": "784e6937-5f99-4e96-8806-701218351842",
+              "name": "Formation of images by plane mirrors",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1603
+            },
+            {
+              "_id": "7d3c185a-8495-4bdf-a6c4-1c684293a50f",
+              "name": "Application of plane mirrors",
+              "topicId": "39c9eced-9e75-405c-bc69-719b45493f27",
+              "lId": 1604
+            }
+          ]
+        },
+        {
+          "_id": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+          "name": "Electrostatics 1",
+          "courseClassId": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+          "lId": 216,
+          "subTopics": [
+            {
+              "_id": "2d103b04-ae55-4407-ad93-99fdc46b38cc",
+              "name": "Origin of charge",
+              "topicId": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+              "lId": 1605
+            },
+            {
+              "_id": "c2e8f284-c641-4a09-afbe-233d6a3e1d6d",
+              "name": "Charging by induction",
+              "topicId": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+              "lId": 1606
+            },
+            {
+              "_id": "8c69c7f4-48c3-492d-8dec-8962be33df7e",
+              "name": "Charging by contact ",
+              "topicId": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+              "lId": 1607
+            },
+            {
+              "_id": "5c4d2b1f-7215-4c68-ae01-631f98978842",
+              "name": "Charging by separation",
+              "topicId": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+              "lId": 1608
+            },
+            {
+              "_id": "0ed9ab06-0325-4874-9dfb-06cfc3b91041",
+              "name": "The electroscope",
+              "topicId": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+              "lId": 1609
+            },
+            {
+              "_id": "3703cddb-65b3-4f8a-9c7f-ef60b89fbe6b",
+              "name": "Charging an electroscope by contact method",
+              "topicId": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+              "lId": 1610
+            },
+            {
+              "_id": "590e3503-3a81-4092-9c1d-cbcd00bdcba0",
+              "name": "Charging and electroscope by induction",
+              "topicId": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+              "lId": 1611
+            },
+            {
+              "_id": "336bf0f9-634e-403a-a293-3d209632f200",
+              "name": "Uses of the electroscope",
+              "topicId": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+              "lId": 1612
+            },
+            {
+              "_id": "38cc4d83-013c-4c84-8c45-c9dba660617d",
+              "name": "Applications of electrostatic charges",
+              "topicId": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+              "lId": 1613
+            },
+            {
+              "_id": "4227c171-52f3-4e6f-b9d8-ad770cc20eb3",
+              "name": "Dangers of electrostatics ",
+              "topicId": "cc00d5e0-05cc-42dc-86d4-c57f535c9475",
+              "lId": 1614
+            }
+          ]
+        },
+        {
+          "_id": "c39c09da-58fe-458a-8650-701918d056f1",
+          "name": "Cells and simple circuits",
+          "courseClassId": "7e0e3b53-0ca2-4106-9aba-bee22571d93d",
+          "lId": 217,
+          "subTopics": [
+            {
+              "_id": "ddbdaabd-7277-4c39-93ec-da30c9da2a1c",
+              "name": "A simple electric circuit",
+              "topicId": "c39c09da-58fe-458a-8650-701918d056f1",
+              "lId": 1615
+            },
+            {
+              "_id": "6119645d-8957-4c85-ba2c-f5a7ff90ba63",
+              "name": "Electromotive force and potential difference",
+              "topicId": "c39c09da-58fe-458a-8650-701918d056f1",
+              "lId": 1616
+            },
+            {
+              "_id": "f8e2831b-baf5-4c67-bbfa-47cb0d65df5d",
+              "name": "Connecting cells in series and parallel",
+              "topicId": "c39c09da-58fe-458a-8650-701918d056f1",
+              "lId": 1617
+            },
+            {
+              "_id": "cda5c64e-7111-437b-a5e5-6d5072851916",
+              "name": "primary and secondary cells",
+              "topicId": "c39c09da-58fe-458a-8650-701918d056f1",
+              "lId": 1618
+            },
+            {
+              "_id": "cff4779c-7a87-4aac-9c0e-a7ad9672858b",
+              "name": "care and maintainance of secondary cells",
+              "topicId": "c39c09da-58fe-458a-8650-701918d056f1",
+              "lId": 1619
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "70f83419-e63e-48b5-a628-39f77b22084c",
+      "name": "Form 2",
+      "order": 2,
+      "courseId": "7HufJgf7ngDxPMyWX",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "279becb9-8065-43f9-a72a-e7dbee34419b",
+          "name": "Magnetism ",
+          "courseClassId": "70f83419-e63e-48b5-a628-39f77b22084c",
+          "lId": 218,
+          "subTopics": [
+            {
+              "_id": "52c45cf4-7013-4d12-a3c8-83f783248f61",
+              "name": "Magnetic poles",
+              "topicId": "279becb9-8065-43f9-a72a-e7dbee34419b",
+              "lId": 1620
+            },
+            {
+              "_id": "b669a627-cad7-4d0b-9a29-6054686d151d",
+              "name": "Directional property",
+              "topicId": "279becb9-8065-43f9-a72a-e7dbee34419b",
+              "lId": 1621
+            },
+            {
+              "_id": "a5c116fc-eed8-4c9c-b945-e26467f481de",
+              "name": "Magnetic and non-magnetic materials",
+              "topicId": "279becb9-8065-43f9-a72a-e7dbee34419b",
+              "lId": 1622
+            },
+            {
+              "_id": "b6a58bac-bc2a-4343-ad27-e8556fc20857",
+              "name": "Magnetic field patterns",
+              "topicId": "279becb9-8065-43f9-a72a-e7dbee34419b",
+              "lId": 1623
+            },
+            {
+              "_id": "c2f6c076-9539-49fa-8cad-ef53e4e6c713",
+              "name": "Earth's magnetic field",
+              "topicId": "279becb9-8065-43f9-a72a-e7dbee34419b",
+              "lId": 1624
+            },
+            {
+              "_id": "a04ab345-0c12-41eb-8f6e-8a79381debd7",
+              "name": "The domain theory",
+              "topicId": "279becb9-8065-43f9-a72a-e7dbee34419b",
+              "lId": 1625
+            },
+            {
+              "_id": "ae019b4e-4204-43a8-b48e-4c551a0d6c48",
+              "name": "Magnetisation of a magnetic material",
+              "topicId": "279becb9-8065-43f9-a72a-e7dbee34419b",
+              "lId": 1626
+            },
+            {
+              "_id": "aa0f1336-e456-45c5-ab58-9bd33528d6dd",
+              "name": "Demagnetisation",
+              "topicId": "279becb9-8065-43f9-a72a-e7dbee34419b",
+              "lId": 1627
+            },
+            {
+              "_id": "7fa031cf-93a7-4de8-b744-b70a6ed86a4e",
+              "name": "Hard and soft magnetic materials",
+              "topicId": "279becb9-8065-43f9-a72a-e7dbee34419b",
+              "lId": 1628
+            },
+            {
+              "_id": "46314cd1-59ef-4e9e-84a3-02612c026d5f",
+              "name": "Applications of magnets",
+              "topicId": "279becb9-8065-43f9-a72a-e7dbee34419b",
+              "lId": 1629
+            }
+          ]
+        },
+        {
+          "_id": "e663cef8-15e2-4365-bc40-999bc352fc84",
+          "name": "Measurement 2",
+          "courseClassId": "70f83419-e63e-48b5-a628-39f77b22084c",
+          "lId": 219,
+          "subTopics": [
+            {
+              "_id": "2e109fc1-242c-4aee-9bac-4be1d808f387",
+              "name": "Engineer's callipers",
+              "topicId": "e663cef8-15e2-4365-bc40-999bc352fc84",
+              "lId": 1630
+            },
+            {
+              "_id": "2f72293e-7371-44e4-890c-9ac00bb07c18",
+              "name": "Vernier callipers",
+              "topicId": "e663cef8-15e2-4365-bc40-999bc352fc84",
+              "lId": 1631
+            },
+            {
+              "_id": "f5353045-6eef-4d16-a4b6-5580dc449a2d",
+              "name": "Zero error",
+              "topicId": "e663cef8-15e2-4365-bc40-999bc352fc84",
+              "lId": 1632
+            },
+            {
+              "_id": "13a1096b-a3f7-4814-8a6a-3102824fe1e5",
+              "name": "Micrometer screw gauge",
+              "topicId": "e663cef8-15e2-4365-bc40-999bc352fc84",
+              "lId": 1633
+            },
+            {
+              "_id": "c8b2c214-eb66-4bff-951b-4632c9a3930b",
+              "name": "Significant figures",
+              "topicId": "e663cef8-15e2-4365-bc40-999bc352fc84",
+              "lId": 1634
+            },
+            {
+              "_id": "3b000873-eeac-4ba0-a1cc-25ff7c465631",
+              "name": "Standard form",
+              "topicId": "e663cef8-15e2-4365-bc40-999bc352fc84",
+              "lId": 1635
+            },
+            {
+              "_id": "27eda466-59a7-4da5-b634-5a13f35ed51a",
+              "name": "The oil drop experiement",
+              "topicId": "e663cef8-15e2-4365-bc40-999bc352fc84",
+              "lId": 1636
+            },
+            {
+              "_id": "e692ef46-c7c0-4ef8-b98a-ac1714d2aed7",
+              "name": "Prefixes used with SI units",
+              "topicId": "e663cef8-15e2-4365-bc40-999bc352fc84",
+              "lId": 1637
+            },
+            {
+              "_id": "ea7483d9-28ff-4e75-8e1f-33bedc113a98",
+              "name": "Decimal places",
+              "topicId": "e663cef8-15e2-4365-bc40-999bc352fc84",
+              "lId": 1638
+            }
+          ]
+        },
+        {
+          "_id": "fcd27a5a-708b-4e4c-8d24-654452a3e816",
+          "name": "Turning Effect of a Force",
+          "courseClassId": "70f83419-e63e-48b5-a628-39f77b22084c",
+          "lId": 220,
+          "subTopics": [
+            {
+              "_id": "6bb0c04c-a4bd-4b1d-8c16-ecc75a47a1c0",
+              "name": "Moment of a force",
+              "topicId": "fcd27a5a-708b-4e4c-8d24-654452a3e816",
+              "lId": 1639
+            },
+            {
+              "_id": "b148068c-9f86-4302-98c7-fc3369138e58",
+              "name": "Principle of moments",
+              "topicId": "fcd27a5a-708b-4e4c-8d24-654452a3e816",
+              "lId": 1640
+            },
+            {
+              "_id": "00237bc5-7e5f-4d29-b59c-96ed6ba113c5",
+              "name": "Parallel forces",
+              "topicId": "fcd27a5a-708b-4e4c-8d24-654452a3e816",
+              "lId": 1641
+            },
+            {
+              "_id": "bd0c1736-95ad-4cb4-8dd8-0f23bc66e779",
+              "name": "Moments of parallel forces",
+              "topicId": "fcd27a5a-708b-4e4c-8d24-654452a3e816",
+              "lId": 1642
+            },
+            {
+              "_id": "844fe272-d329-4eed-ba16-cdbdae19a9ff",
+              "name": "Equal and parallel forces in opposite directions",
+              "topicId": "fcd27a5a-708b-4e4c-8d24-654452a3e816",
+              "lId": 1643
+            },
+            {
+              "_id": "70919f1c-904f-4e70-956d-ff33063a4faf",
+              "name": "Applications of anti-parallel forces",
+              "topicId": "fcd27a5a-708b-4e4c-8d24-654452a3e816",
+              "lId": 1644
+            }
+          ]
+        },
+        {
+          "_id": "40640e17-19b5-44f1-8ed1-dfbdaa1b2349",
+          "name": "Equilibrium and centre of gravity",
+          "courseClassId": "70f83419-e63e-48b5-a628-39f77b22084c",
+          "lId": 221,
+          "subTopics": [
+            {
+              "_id": "b82e08c6-3d8f-4d8b-b038-8b8b54828695",
+              "name": "Centre of gravity",
+              "topicId": "40640e17-19b5-44f1-8ed1-dfbdaa1b2349",
+              "lId": 1645
+            },
+            {
+              "_id": "72a5642f-ba75-4b03-887e-4f402d34e728",
+              "name": "States of equilibrium",
+              "topicId": "40640e17-19b5-44f1-8ed1-dfbdaa1b2349",
+              "lId": 1646
+            },
+            {
+              "_id": "f3b7f555-855f-44e1-bcea-c8478c5db97d",
+              "name": "Factors affecting stability of objects",
+              "topicId": "40640e17-19b5-44f1-8ed1-dfbdaa1b2349",
+              "lId": 1647
+            },
+            {
+              "_id": "e9cf36cf-6004-41dc-9ea1-797265f52392",
+              "name": "Applications of stability",
+              "topicId": "40640e17-19b5-44f1-8ed1-dfbdaa1b2349",
+              "lId": 1648
+            }
+          ]
+        },
+        {
+          "_id": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+          "name": "Reflection at Curved Surfaces",
+          "courseClassId": "70f83419-e63e-48b5-a628-39f77b22084c",
+          "lId": 222,
+          "subTopics": [
+            {
+              "_id": "bee9b111-99ad-431f-ba07-5c6858fc54d3",
+              "name": "Types of curved surfaces",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1649
+            },
+            {
+              "_id": "36c76f3a-d619-4eb8-922d-23131ea1ec6b",
+              "name": "Definition of terms",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1650
+            },
+            {
+              "_id": "be1573be-b537-48f0-ac76-bb0838f9cbbf",
+              "name": "Reflection of light by curved mirrors",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1651
+            },
+            {
+              "_id": "4b73e410-1602-494a-922d-07b88e12f5e8",
+              "name": "Laws of reflection and curved mirrors",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1652
+            },
+            {
+              "_id": "f45f2729-5c4f-4b2a-8899-ae63b1fa873c",
+              "name": "Ray diagrams",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1653
+            },
+            {
+              "_id": "9d41ee23-801a-4dbd-a2ca-e77f1a049037",
+              "name": "Graphical construction of ray diagrams",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1654
+            },
+            {
+              "_id": "bc516b1a-360a-42bc-ba96-c574210e4b0a",
+              "name": "Linear magnification",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1655
+            },
+            {
+              "_id": "a9184795-765f-4050-b7df-1b798b281888",
+              "name": "Relationship between f and r",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1656
+            },
+            {
+              "_id": "b6119cea-7e8d-43af-95b6-a364a51a4d26",
+              "name": "The mirror formula",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1657
+            },
+            {
+              "_id": "89b2dcf3-349c-470d-a517-c372906c84a9",
+              "name": "Applications of curved mirrors",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1658
+            },
+            {
+              "_id": "f6bad137-0098-4dfa-820f-08aaa3048a2b",
+              "name": "Defects of spherical mirrors",
+              "topicId": "2ab2f912-663a-499a-915f-72de6c8c2d10",
+              "lId": 1659
+            }
+          ]
+        },
+        {
+          "_id": "5832a57e-547b-4f52-849c-cf062c961b3b",
+          "name": "Magnetic Effect of an Electric Current",
+          "courseClassId": "70f83419-e63e-48b5-a628-39f77b22084c",
+          "lId": 223,
+          "subTopics": [
+            {
+              "_id": "d307465d-216c-4402-9754-75c1631a80ae",
+              "name": "Magnetic field pattern of a straight current-carrying conductor",
+              "topicId": "5832a57e-547b-4f52-849c-cf062c961b3b",
+              "lId": 1660
+            },
+            {
+              "_id": "796de97d-6b52-421b-94f6-4392363369ce",
+              "name": "Magnetic field pattern of a circular current-carrying loop",
+              "topicId": "5832a57e-547b-4f52-849c-cf062c961b3b",
+              "lId": 1661
+            },
+            {
+              "_id": "de8737dc-c175-42f4-85e9-3bcdb451e5c7",
+              "name": "Magnetic field pattern of a solenoid carrying current",
+              "topicId": "5832a57e-547b-4f52-849c-cf062c961b3b",
+              "lId": 1662
+            },
+            {
+              "_id": "83710c10-ed40-4f3f-b9c2-0f8e5a57255a",
+              "name": "Force on current-carrying conductor in a magnetic field",
+              "topicId": "5832a57e-547b-4f52-849c-cf062c961b3b",
+              "lId": 1663
+            },
+            {
+              "_id": "47f1a63a-7218-418c-950b-33f6388c122d",
+              "name": "Force on a current-carrying coil in a magnetic field",
+              "topicId": "5832a57e-547b-4f52-849c-cf062c961b3b",
+              "lId": 1664
+            },
+            {
+              "_id": "44089d62-3fc1-4855-8d26-5d61eeb687d1",
+              "name": "Force between parallel conductors carrying current",
+              "topicId": "5832a57e-547b-4f52-849c-cf062c961b3b",
+              "lId": 1665
+            },
+            {
+              "_id": "da36669a-d63f-492c-8c25-457701d62225",
+              "name": "Uses of electromagnets",
+              "topicId": "5832a57e-547b-4f52-849c-cf062c961b3b",
+              "lId": 1666
+            }
+          ]
+        },
+        {
+          "_id": "bbe9ff4b-2f3f-45c0-9375-09ec20089b51",
+          "name": "Hooke's Law",
+          "courseClassId": "70f83419-e63e-48b5-a628-39f77b22084c",
+          "lId": 224,
+          "subTopics": [
+            {
+              "_id": "9a552c2b-19a6-4fbe-bc69-75f57c6fcb28",
+              "name": "Stretching of materials",
+              "topicId": "bbe9ff4b-2f3f-45c0-9375-09ec20089b51",
+              "lId": 1667
+            },
+            {
+              "_id": "fd24ad0e-0d4e-4daa-afb2-00152ee8260f",
+              "name": "Compressing a spring",
+              "topicId": "bbe9ff4b-2f3f-45c0-9375-09ec20089b51",
+              "lId": 1668
+            },
+            {
+              "_id": "ad7edcf5-9367-4d58-abab-0320498e7870",
+              "name": "Hooke's law applied to loading of beams",
+              "topicId": "bbe9ff4b-2f3f-45c0-9375-09ec20089b51",
+              "lId": 1669
+            },
+            {
+              "_id": "66088185-ac52-4bd8-8941-85c9922af54d",
+              "name": "Making a simple spring balance",
+              "topicId": "bbe9ff4b-2f3f-45c0-9375-09ec20089b51",
+              "lId": 1670
+            }
+          ]
+        },
+        {
+          "_id": "6aff1e66-fc6b-458e-b082-edf4b5f27899",
+          "name": "Waves",
+          "courseClassId": "70f83419-e63e-48b5-a628-39f77b22084c",
+          "lId": 225,
+          "subTopics": [
+            {
+              "_id": "aa582785-cd36-439e-a924-891bfa47df07",
+              "name": "Electromagnetic waves",
+              "topicId": "6aff1e66-fc6b-458e-b082-edf4b5f27899",
+              "lId": 1671
+            },
+            {
+              "_id": "861ce218-7cc0-4f9f-8bee-37d81b9ddb2d",
+              "name": "Mechanical waves",
+              "topicId": "6aff1e66-fc6b-458e-b082-edf4b5f27899",
+              "lId": 1672
+            },
+            {
+              "_id": "6431c4b9-f611-41ea-991b-794af7795fc4",
+              "name": "Progressive waves",
+              "topicId": "6aff1e66-fc6b-458e-b082-edf4b5f27899",
+              "lId": 1673
+            },
+            {
+              "_id": "c8f29360-4c36-4ad3-83db-be55482124e2",
+              "name": "Pulses",
+              "topicId": "6aff1e66-fc6b-458e-b082-edf4b5f27899",
+              "lId": 1674
+            },
+            {
+              "_id": "e64c079e-e15b-4c2e-b110-9b28fbdefc36",
+              "name": "Characteristics of wave motion",
+              "topicId": "6aff1e66-fc6b-458e-b082-edf4b5f27899",
+              "lId": 1675
+            },
+            {
+              "_id": "1566cd64-dba6-4c69-adae-955a3d74a33f",
+              "name": "Phase and phase difference",
+              "topicId": "6aff1e66-fc6b-458e-b082-edf4b5f27899",
+              "lId": 1676
+            },
+            {
+              "_id": "c0fe9a1b-4122-4999-90fb-a063bd040bf5",
+              "name": "Relationship between speed, wavelength and frequency",
+              "topicId": "6aff1e66-fc6b-458e-b082-edf4b5f27899",
+              "lId": 1677
+            }
+          ]
+        },
+        {
+          "_id": "79e03490-6886-49a5-a980-13ed611aabdd",
+          "name": "Sound",
+          "courseClassId": "70f83419-e63e-48b5-a628-39f77b22084c",
+          "lId": 226,
+          "subTopics": [
+            {
+              "_id": "a0d10551-b420-437f-a6b2-3bf80b7b04eb",
+              "name": "Some sources of sound",
+              "topicId": "79e03490-6886-49a5-a980-13ed611aabdd",
+              "lId": 1678
+            },
+            {
+              "_id": "d8b32b34-b040-40af-a776-80f847ddc54a",
+              "name": "Propagation of sound energy",
+              "topicId": "79e03490-6886-49a5-a980-13ed611aabdd",
+              "lId": 1679
+            },
+            {
+              "_id": "e9662b55-5449-4767-a59c-8b8320643508",
+              "name": "Factors affecting velocity of sound in air",
+              "topicId": "79e03490-6886-49a5-a980-13ed611aabdd",
+              "lId": 1680
+            },
+            {
+              "_id": "010ba285-d284-4df7-816e-404a02f496cd",
+              "name": "Sound transmission in solids, liquids and gases",
+              "topicId": "79e03490-6886-49a5-a980-13ed611aabdd",
+              "lId": 1681
+            },
+            {
+              "_id": "f654d237-89f0-43a4-9bd1-2f7cf66df027",
+              "name": "Properties of sound waves",
+              "topicId": "79e03490-6886-49a5-a980-13ed611aabdd",
+              "lId": 1682
+            },
+            {
+              "_id": "0a835eda-4f25-44ae-8f60-84ad655399d2",
+              "name": "Applications of reflection of sound",
+              "topicId": "79e03490-6886-49a5-a980-13ed611aabdd",
+              "lId": 1683
+            }
+          ]
+        },
+        {
+          "_id": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+          "name": "Fluid flow",
+          "courseClassId": "70f83419-e63e-48b5-a628-39f77b22084c",
+          "lId": 227,
+          "subTopics": [
+            {
+              "_id": "c963372e-118c-44f7-bb43-2d7a7dae2970",
+              "name": "Types of flow",
+              "topicId": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+              "lId": 1684
+            },
+            {
+              "_id": "620ebaef-ae3e-4c56-b04e-069d61a613b0",
+              "name": "Shapes designed for streamline flow",
+              "topicId": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+              "lId": 1685
+            },
+            {
+              "_id": "f97c6dd1-56a7-40ab-83aa-5dbc6c54c3e4",
+              "name": "Effect of speed of flow on streamlines",
+              "topicId": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+              "lId": 1686
+            },
+            {
+              "_id": "ae14c246-79f0-44e2-a29c-b52f63c693b0",
+              "name": "Tube of flow",
+              "topicId": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+              "lId": 1687
+            },
+            {
+              "_id": "a86ec598-983d-4fc4-8459-852270e012be",
+              "name": "The equation of continuity",
+              "topicId": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+              "lId": 1688
+            },
+            {
+              "_id": "e1958ec8-ec9e-445d-bebc-12dd1486c364",
+              "name": "Bernoulli's principle",
+              "topicId": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+              "lId": 1689
+            },
+            {
+              "_id": "3d946cb4-5db4-46e7-bd2a-e808b75705df",
+              "name": "Bernoulli's effect in air",
+              "topicId": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+              "lId": 1690
+            },
+            {
+              "_id": "8bb8c5ed-bed1-499b-9c9e-6081c4cd8c04",
+              "name": "Bernoulli's equation",
+              "topicId": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+              "lId": 1691
+            },
+            {
+              "_id": "fcbdaefd-f91f-4dac-88d3-50e02d5fe01f",
+              "name": "Applications of Bernoulli's principle",
+              "topicId": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+              "lId": 1692
+            },
+            {
+              "_id": "53329868-ef98-4afc-bd33-477f5a11e530",
+              "name": "Hazards of Bernoulli's effect",
+              "topicId": "7a1f0c06-a7ea-4163-b5f1-6cc242ce7384",
+              "lId": 1693
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+      "name": "Form 3",
+      "order": 3,
+      "courseId": "7HufJgf7ngDxPMyWX",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "48d99c9f-c04d-4265-b4f8-0e352cdbaccd",
+          "name": "Linear Motion",
+          "courseClassId": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+          "lId": 228,
+          "subTopics": [
+            {
+              "_id": "a7048e31-d38c-45ad-ad1e-6bc05622433e",
+              "name": "Displacement",
+              "topicId": "48d99c9f-c04d-4265-b4f8-0e352cdbaccd",
+              "lId": 1694
+            },
+            {
+              "_id": "fb49f511-7c33-4d68-b423-3d7088fa7987",
+              "name": "Speed",
+              "topicId": "48d99c9f-c04d-4265-b4f8-0e352cdbaccd",
+              "lId": 1695
+            },
+            {
+              "_id": "ca7ed2a0-6f31-45c1-901a-43953821cce0",
+              "name": "Velocity",
+              "topicId": "48d99c9f-c04d-4265-b4f8-0e352cdbaccd",
+              "lId": 1696
+            },
+            {
+              "_id": "2a333f44-b3c4-464b-a86f-54c5aa8016da",
+              "name": "Motion graphs",
+              "topicId": "48d99c9f-c04d-4265-b4f8-0e352cdbaccd",
+              "lId": 1697
+            },
+            {
+              "_id": "a2779ee0-4337-4136-bb46-967196428d9a",
+              "name": "Measuring speed, velocity and acceleration",
+              "topicId": "48d99c9f-c04d-4265-b4f8-0e352cdbaccd",
+              "lId": 1698
+            },
+            {
+              "_id": "f07cb9cd-74f6-461b-bd09-828a710a9b87",
+              "name": "Equations of linear motion",
+              "topicId": "48d99c9f-c04d-4265-b4f8-0e352cdbaccd",
+              "lId": 1699
+            }
+          ]
+        },
+        {
+          "_id": "230fa82c-c381-4349-9962-5a8ee76216bd",
+          "name": "Refraction of light",
+          "courseClassId": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+          "lId": 229,
+          "subTopics": [
+            {
+              "_id": "4e918b8a-4788-48f3-bb35-993cbf36fa5c",
+              "name": "Explanation of refraction",
+              "topicId": "230fa82c-c381-4349-9962-5a8ee76216bd",
+              "lId": 1700
+            },
+            {
+              "_id": "eb467723-2792-4e37-b138-c621b4f0f289",
+              "name": "Laws of refraction",
+              "topicId": "230fa82c-c381-4349-9962-5a8ee76216bd",
+              "lId": 1701
+            },
+            {
+              "_id": "406e7e53-b1eb-45b7-8ca1-e9edfd93b33b",
+              "name": "Total internal reflection ",
+              "topicId": "230fa82c-c381-4349-9962-5a8ee76216bd",
+              "lId": 1702
+            },
+            {
+              "_id": "ed4aec94-dbf4-4d86-bca2-bc29246f1406",
+              "name": "Dispersion of white light",
+              "topicId": "230fa82c-c381-4349-9962-5a8ee76216bd",
+              "lId": 1703
+            }
+          ]
+        },
+        {
+          "_id": "49c0cf87-1a3e-46fc-acff-60e85d66198e",
+          "name": "Newton's Laws of Motion",
+          "courseClassId": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+          "lId": 230,
+          "subTopics": [
+            {
+              "_id": "31c2c04a-0342-4b55-a88d-2efd768289d4",
+              "name": "Newton's first law",
+              "topicId": "49c0cf87-1a3e-46fc-acff-60e85d66198e",
+              "lId": 1704
+            },
+            {
+              "_id": "68ff0502-6dc0-4943-952a-c95323e2d460",
+              "name": "Newton's second law",
+              "topicId": "49c0cf87-1a3e-46fc-acff-60e85d66198e",
+              "lId": 1705
+            },
+            {
+              "_id": "1304daac-3b4c-447a-a6fb-eaa8b01b4522",
+              "name": "Newton's third law",
+              "topicId": "49c0cf87-1a3e-46fc-acff-60e85d66198e",
+              "lId": 1706
+            },
+            {
+              "_id": "3faaf4c1-c9cc-4f17-a408-9149bd26522d",
+              "name": "Laws of conservation of linear momentum",
+              "topicId": "49c0cf87-1a3e-46fc-acff-60e85d66198e",
+              "lId": 1707
+            },
+            {
+              "_id": "bfaadf1b-ebac-4af1-981d-957281f25a28",
+              "name": "Friction ",
+              "topicId": "49c0cf87-1a3e-46fc-acff-60e85d66198e",
+              "lId": 1708
+            },
+            {
+              "_id": "87ecc3c5-bcdc-4d1a-892e-e91bd6d6b488",
+              "name": "Viscosity",
+              "topicId": "49c0cf87-1a3e-46fc-acff-60e85d66198e",
+              "lId": 1709
+            }
+          ]
+        },
+        {
+          "_id": "7e1ae784-30b7-4c0a-a1fc-00a205edbf00",
+          "name": "Work, Energy, Power and Machines",
+          "courseClassId": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+          "lId": 231,
+          "subTopics": [
+            {
+              "_id": "be84b587-e8f8-4c82-8cdd-9f1bac4b7861",
+              "name": "Sources of energy",
+              "topicId": "7e1ae784-30b7-4c0a-a1fc-00a205edbf00",
+              "lId": 1710
+            },
+            {
+              "_id": "34ec0029-6438-477f-8bc6-73ccc5acb1cb",
+              "name": "Forms of energy",
+              "topicId": "7e1ae784-30b7-4c0a-a1fc-00a205edbf00",
+              "lId": 1711
+            },
+            {
+              "_id": "1b66025f-9210-4983-8ea7-4e9eedb3c992",
+              "name": "Transformation and conservation of energy",
+              "topicId": "7e1ae784-30b7-4c0a-a1fc-00a205edbf00",
+              "lId": 1712
+            },
+            {
+              "_id": "e7302e23-d404-42a4-881e-4d2da1c83f0d",
+              "name": "Work and energy",
+              "topicId": "7e1ae784-30b7-4c0a-a1fc-00a205edbf00",
+              "lId": 1713
+            },
+            {
+              "_id": "37c7b387-5ed2-4d36-b42d-16bd563d2106",
+              "name": "Conservation of energy",
+              "topicId": "7e1ae784-30b7-4c0a-a1fc-00a205edbf00",
+              "lId": 1714
+            },
+            {
+              "_id": "d85b2f5f-81df-4964-b965-b3cd18e5b948",
+              "name": "Power",
+              "topicId": "7e1ae784-30b7-4c0a-a1fc-00a205edbf00",
+              "lId": 1715
+            },
+            {
+              "_id": "74b1f54e-49ef-4a22-aca7-0142eb357c82",
+              "name": "Machines",
+              "topicId": "7e1ae784-30b7-4c0a-a1fc-00a205edbf00",
+              "lId": 1716
+            }
+          ]
+        },
+        {
+          "_id": "a3879438-c868-4547-9b5c-05350d106076",
+          "name": "Current Electricity 2",
+          "courseClassId": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+          "lId": 232,
+          "subTopics": [
+            {
+              "_id": "eb82deba-79ac-462e-a804-b645d96c14a9",
+              "name": "Electric current and potential difference",
+              "topicId": "a3879438-c868-4547-9b5c-05350d106076",
+              "lId": 1717
+            },
+            {
+              "_id": "3cb32922-8dd8-4592-b680-664de29c207a",
+              "name": "Ohm's law",
+              "topicId": "a3879438-c868-4547-9b5c-05350d106076",
+              "lId": 1718
+            },
+            {
+              "_id": "18ead107-6483-4d85-b3f4-c13855c98033",
+              "name": "Resistors",
+              "topicId": "a3879438-c868-4547-9b5c-05350d106076",
+              "lId": 1719
+            },
+            {
+              "_id": "76be2cdb-20be-4876-b496-d4047e5e7fe2",
+              "name": "Measurement of resistance",
+              "topicId": "a3879438-c868-4547-9b5c-05350d106076",
+              "lId": 1720
+            },
+            {
+              "_id": "87a25dda-104b-4a9d-9a23-ff4591a909d2",
+              "name": "Resistor networks",
+              "topicId": "a3879438-c868-4547-9b5c-05350d106076",
+              "lId": 1721
+            },
+            {
+              "_id": "b4b5fc61-0c93-4aed-9de0-e035cee45145",
+              "name": "Electromotive force and internal resistance",
+              "topicId": "a3879438-c868-4547-9b5c-05350d106076",
+              "lId": 1722
+            }
+          ]
+        },
+        {
+          "_id": "d79e86b2-80fe-4bf9-918c-7ff8308917a3",
+          "name": "Waves 2",
+          "courseClassId": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+          "lId": 233,
+          "subTopics": [
+            {
+              "_id": "9366d893-1a87-490d-abeb-c9cb824938d1",
+              "name": "Properties of waves",
+              "topicId": "d79e86b2-80fe-4bf9-918c-7ff8308917a3",
+              "lId": 1723
+            },
+            {
+              "_id": "b31eb10f-04b3-44da-b894-ed3b2230c367",
+              "name": "Rectlinear propagation ",
+              "topicId": "d79e86b2-80fe-4bf9-918c-7ff8308917a3",
+              "lId": 1724
+            },
+            {
+              "_id": "a9580c72-cca3-4565-9069-b5c076f8bf8e",
+              "name": "Reflection of straight and circular waves",
+              "topicId": "d79e86b2-80fe-4bf9-918c-7ff8308917a3",
+              "lId": 1725
+            },
+            {
+              "_id": "5b602148-39a3-49e4-a9e5-bfc2c3136c0a",
+              "name": "Refraction",
+              "topicId": "d79e86b2-80fe-4bf9-918c-7ff8308917a3",
+              "lId": 1726
+            },
+            {
+              "_id": "c07db6db-0f89-4636-8ce7-09d015ca204e",
+              "name": "Diffraction of waves",
+              "topicId": "d79e86b2-80fe-4bf9-918c-7ff8308917a3",
+              "lId": 1727
+            },
+            {
+              "_id": "2f4c0aa4-9e8e-4c42-bf45-3adc515e20e9",
+              "name": "Interference of waves",
+              "topicId": "d79e86b2-80fe-4bf9-918c-7ff8308917a3",
+              "lId": 1728
+            },
+            {
+              "_id": "3c2ea6f8-f0bf-456d-9333-2cac291b3bd2",
+              "name": "Stationary waves",
+              "topicId": "d79e86b2-80fe-4bf9-918c-7ff8308917a3",
+              "lId": 1729
+            },
+            {
+              "_id": "524b853b-2dff-42c7-9095-81b79baf5fc5",
+              "name": "Vibrating strings",
+              "topicId": "d79e86b2-80fe-4bf9-918c-7ff8308917a3",
+              "lId": 1730
+            },
+            {
+              "_id": "73cc05dc-6ae3-490b-8fc3-78ece68ece68",
+              "name": "Vibrating air columns ",
+              "topicId": "d79e86b2-80fe-4bf9-918c-7ff8308917a3",
+              "lId": 1731
+            }
+          ]
+        },
+        {
+          "_id": "572ce4d5-06f6-49c8-ae82-ecff8a77cf87",
+          "name": "Electrostatics 2",
+          "courseClassId": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+          "lId": 234,
+          "subTopics": [
+            {
+              "_id": "0462b984-d724-4d44-95e8-b2b6323e4b84",
+              "name": "Forces between charged bodies ",
+              "topicId": "572ce4d5-06f6-49c8-ae82-ecff8a77cf87",
+              "lId": 1732
+            },
+            {
+              "_id": "578a1f93-b100-4397-b65e-45061a7eb6f6",
+              "name": "Electric field patterns",
+              "topicId": "572ce4d5-06f6-49c8-ae82-ecff8a77cf87",
+              "lId": 1733
+            },
+            {
+              "_id": "4d54ddb4-d832-4cb4-86dd-31c8d9f46ca4",
+              "name": "Charge distribution on the surface of a conductor",
+              "topicId": "572ce4d5-06f6-49c8-ae82-ecff8a77cf87",
+              "lId": 1734
+            },
+            {
+              "_id": "ada397c0-c658-4814-a4da-f8fedba65b0a",
+              "name": "Capacitors",
+              "topicId": "572ce4d5-06f6-49c8-ae82-ecff8a77cf87",
+              "lId": 1735
+            }
+          ]
+        },
+        {
+          "_id": "0e9b63f9-31c2-4d11-b6a0-4897796868aa",
+          "name": "Heating Effect of Electric Current",
+          "courseClassId": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+          "lId": 235,
+          "subTopics": [
+            {
+              "_id": "18b8f6ca-9ddc-4854-85d1-509ce50f59da",
+              "name": "Energy changes and potential difference",
+              "topicId": "0e9b63f9-31c2-4d11-b6a0-4897796868aa",
+              "lId": 1736
+            },
+            {
+              "_id": "395476fc-52e7-47d8-aff7-65ff4d07ba30",
+              "name": "Factors determining heat produced by electric current",
+              "topicId": "0e9b63f9-31c2-4d11-b6a0-4897796868aa",
+              "lId": 1737
+            },
+            {
+              "_id": "6623231d-1f3c-437a-bfc9-2d6b283b615d",
+              "name": "Electrical energy and power",
+              "topicId": "0e9b63f9-31c2-4d11-b6a0-4897796868aa",
+              "lId": 1738
+            },
+            {
+              "_id": "97a0bdda-7cab-4115-baf7-fac4d105ad45",
+              "name": "Applications of heating effect of electric current",
+              "topicId": "0e9b63f9-31c2-4d11-b6a0-4897796868aa",
+              "lId": 1739
+            }
+          ]
+        },
+        {
+          "_id": "04959a11-74a8-4e77-8d0a-02da24823e3c",
+          "name": "Quantity of Heat",
+          "courseClassId": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+          "lId": 236,
+          "subTopics": [
+            {
+              "_id": "87f9c283-7fbf-4500-a55d-e6092b7ab87d",
+              "name": "Heat Capacity",
+              "topicId": "04959a11-74a8-4e77-8d0a-02da24823e3c",
+              "lId": 1740
+            },
+            {
+              "_id": "e5ff32e8-03fa-4c75-a433-848f5c099f37",
+              "name": "specific heat capacity",
+              "topicId": "04959a11-74a8-4e77-8d0a-02da24823e3c",
+              "lId": 1741
+            },
+            {
+              "_id": "28597289-b4f9-4dd2-a32a-72931a30c944",
+              "name": "Determination of specific heat capacity",
+              "topicId": "04959a11-74a8-4e77-8d0a-02da24823e3c",
+              "lId": 1742
+            },
+            {
+              "_id": "a27df3ba-4d5e-42c5-90c5-9a67bf99c752",
+              "name": "Change of state",
+              "topicId": "04959a11-74a8-4e77-8d0a-02da24823e3c",
+              "lId": 1743
+            },
+            {
+              "_id": "247a9753-064d-451d-a821-ae3f01d734e6",
+              "name": "Evaporation",
+              "topicId": "04959a11-74a8-4e77-8d0a-02da24823e3c",
+              "lId": 1744
+            }
+          ]
+        },
+        {
+          "_id": "f8ee932e-e6bc-4b0c-899f-b333112a4950",
+          "name": "Gas Laws",
+          "courseClassId": "060264be-0b53-44bb-b9fb-f8358eea5ae7",
+          "lId": 237,
+          "subTopics": [
+            {
+              "_id": "632a12ea-35e5-4ac0-850e-6872be38faf0",
+              "name": "Boyle's law",
+              "topicId": "f8ee932e-e6bc-4b0c-899f-b333112a4950",
+              "lId": 1745
+            },
+            {
+              "_id": "79f570e0-00c7-47ca-90c5-16b87f3b93e9",
+              "name": "Charles' law",
+              "topicId": "f8ee932e-e6bc-4b0c-899f-b333112a4950",
+              "lId": 1746
+            },
+            {
+              "_id": "008250e4-1fc6-420f-a128-a8351ebb3a4b",
+              "name": "Pressure law",
+              "topicId": "f8ee932e-e6bc-4b0c-899f-b333112a4950",
+              "lId": 1747
+            },
+            {
+              "_id": "fa6299c7-8609-4b66-aeed-8e8881ffd6cf",
+              "name": "Equation of state",
+              "topicId": "f8ee932e-e6bc-4b0c-899f-b333112a4950",
+              "lId": 1748
+            },
+            {
+              "_id": "73d615f9-5764-4262-9617-3076c6171aaa",
+              "name": "Gas laws and kinetic theory",
+              "topicId": "f8ee932e-e6bc-4b0c-899f-b333112a4950",
+              "lId": 1749
+            },
+            {
+              "_id": "9cfc77e0-efb1-4c40-bd43-96b7db39128e",
+              "name": "Limitations of gas laws ",
+              "topicId": "f8ee932e-e6bc-4b0c-899f-b333112a4950",
+              "lId": 1750
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+      "name": "Form 4",
+      "order": 4,
+      "courseId": "7HufJgf7ngDxPMyWX",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "ddf2dc48-dfa9-47fe-98aa-715f3dfe9415",
+          "name": "Thin lenses",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 238,
+          "subTopics": [
+            {
+              "_id": "9ccb615a-b75d-40f0-b43f-d02f90b9a851",
+              "name": "Types of lenses",
+              "topicId": "ddf2dc48-dfa9-47fe-98aa-715f3dfe9415",
+              "lId": 1751
+            },
+            {
+              "_id": "b7f6310b-227c-4d99-9e12-46b390a125a7",
+              "name": "Definition of terms",
+              "topicId": "ddf2dc48-dfa9-47fe-98aa-715f3dfe9415",
+              "lId": 1752
+            },
+            {
+              "_id": "de56f7b9-b192-4948-86b0-fef1fd3701b1",
+              "name": "Ray diagrams",
+              "topicId": "ddf2dc48-dfa9-47fe-98aa-715f3dfe9415",
+              "lId": 1753
+            },
+            {
+              "_id": "7100a647-38b4-4b07-828f-e08476617055",
+              "name": "Linear magnification",
+              "topicId": "ddf2dc48-dfa9-47fe-98aa-715f3dfe9415",
+              "lId": 1754
+            },
+            {
+              "_id": "60b1e841-0fe6-4c6d-9399-543532ccb49b",
+              "name": "The lens formula",
+              "topicId": "ddf2dc48-dfa9-47fe-98aa-715f3dfe9415",
+              "lId": 1755
+            },
+            {
+              "_id": "611c67e3-d0e4-4034-837b-ef2b053e228f",
+              "name": "Power of a lens",
+              "topicId": "ddf2dc48-dfa9-47fe-98aa-715f3dfe9415",
+              "lId": 1756
+            },
+            {
+              "_id": "f84bb01e-8b5e-48a4-a690-fbf3c361ebdb",
+              "name": "Application of lenses",
+              "topicId": "ddf2dc48-dfa9-47fe-98aa-715f3dfe9415",
+              "lId": 1757
+            }
+          ]
+        },
+        {
+          "_id": "a778c8d9-6c1f-4528-8277-8cc4b55ee900",
+          "name": "Uniform circular motion",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 239,
+          "subTopics": [
+            {
+              "_id": "b307035b-1762-47ce-b964-57e1025c728b",
+              "name": "Angular displacement",
+              "topicId": "a778c8d9-6c1f-4528-8277-8cc4b55ee900",
+              "lId": 1758
+            },
+            {
+              "_id": "bd1068bc-9bca-45ee-b557-0577c595a446",
+              "name": "Centripetal acceleration",
+              "topicId": "a778c8d9-6c1f-4528-8277-8cc4b55ee900",
+              "lId": 1759
+            },
+            {
+              "_id": "f940ef28-0c2f-4c1e-a769-d2dd26d1a02e",
+              "name": "Centripetal force",
+              "topicId": "a778c8d9-6c1f-4528-8277-8cc4b55ee900",
+              "lId": 1760
+            },
+            {
+              "_id": "e5d11c3c-5dbc-40d6-b73a-e4c8368b1643",
+              "name": "Case examples of circular motion",
+              "topicId": "a778c8d9-6c1f-4528-8277-8cc4b55ee900",
+              "lId": 1761
+            },
+            {
+              "_id": "689c7bdc-05e7-4554-83b3-4bd4495f1ac7",
+              "name": "Applications of circular motion",
+              "topicId": "a778c8d9-6c1f-4528-8277-8cc4b55ee900",
+              "lId": 1762
+            }
+          ]
+        },
+        {
+          "_id": "687cecc5-456c-49bf-aafa-65211f99c5b7",
+          "name": "Floating and Sinking",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 240,
+          "subTopics": [
+            {
+              "_id": "cb50fd41-c403-4cab-bf2e-abc215257dfd",
+              "name": "Cause of upthrust",
+              "topicId": "687cecc5-456c-49bf-aafa-65211f99c5b7",
+              "lId": 1763
+            },
+            {
+              "_id": "3ee26b85-2669-4171-be0e-f9b5b3002dc9",
+              "name": "Upthrust of gases",
+              "topicId": "687cecc5-456c-49bf-aafa-65211f99c5b7",
+              "lId": 1764
+            },
+            {
+              "_id": "aaf38d86-8aa7-4269-82b0-bc9c06163517",
+              "name": "Laws of flotation",
+              "topicId": "687cecc5-456c-49bf-aafa-65211f99c5b7",
+              "lId": 1765
+            },
+            {
+              "_id": "421f2810-678b-4aa3-80a2-d5baa71b2b7b",
+              "name": "Upthrust and relative density",
+              "topicId": "687cecc5-456c-49bf-aafa-65211f99c5b7",
+              "lId": 1766
+            },
+            {
+              "_id": "9b1c4743-fe17-4bd5-a871-a14acde9faa3",
+              "name": "Archimedes' principle and moments",
+              "topicId": "687cecc5-456c-49bf-aafa-65211f99c5b7",
+              "lId": 1767
+            },
+            {
+              "_id": "299da979-482d-4e67-9000-aceb84ed2df7",
+              "name": "Applications of Archimedes' principle and relative density",
+              "topicId": "687cecc5-456c-49bf-aafa-65211f99c5b7",
+              "lId": 1768
+            }
+          ]
+        },
+        {
+          "_id": "00105d17-db37-47fc-89e3-bf6b83aecb02",
+          "name": "Electromagnetic Spectrum",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 241,
+          "subTopics": [
+            {
+              "_id": "13388fea-7a50-40d1-99a4-dc1130b83220",
+              "name": "Inroduction to electromagnetic spectrum",
+              "topicId": "00105d17-db37-47fc-89e3-bf6b83aecb02",
+              "lId": 1769
+            },
+            {
+              "_id": "1ef584e4-043b-4ff6-a1e2-db91564b5edf",
+              "name": "Properties of electromagnetic waves",
+              "topicId": "00105d17-db37-47fc-89e3-bf6b83aecb02",
+              "lId": 1770
+            },
+            {
+              "_id": "96bde88c-9a32-401d-b255-6e885740dd26",
+              "name": "Production and detection of electromagnetic waves",
+              "topicId": "00105d17-db37-47fc-89e3-bf6b83aecb02",
+              "lId": 1771
+            },
+            {
+              "_id": "fbfe5632-a9e9-422a-95c0-731028888b55",
+              "name": "Applications of electromagnetic waves",
+              "topicId": "00105d17-db37-47fc-89e3-bf6b83aecb02",
+              "lId": 1772
+            },
+            {
+              "_id": "f1c91415-5a3d-446b-bad9-5cea69ad9acb",
+              "name": "Hazards of some electromagnetic waves",
+              "topicId": "00105d17-db37-47fc-89e3-bf6b83aecb02",
+              "lId": 1773
+            }
+          ]
+        },
+        {
+          "_id": "d364c9e3-fcf7-4777-8422-f966b1fb04ec",
+          "name": "Electromagnetic Induction",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 242,
+          "subTopics": [
+            {
+              "_id": "45416391-259c-4caf-8137-dd2421bf4b93",
+              "name": "Induced electromotive force",
+              "topicId": "d364c9e3-fcf7-4777-8422-f966b1fb04ec",
+              "lId": 1774
+            },
+            {
+              "_id": "c14b8d89-c6af-4883-bd74-732668f21445",
+              "name": "Fleming's right-hand rule",
+              "topicId": "d364c9e3-fcf7-4777-8422-f966b1fb04ec",
+              "lId": 1775
+            },
+            {
+              "_id": "2c6b9d2d-7b47-486a-900e-588f73a00bf3",
+              "name": "Mutual induction",
+              "topicId": "d364c9e3-fcf7-4777-8422-f966b1fb04ec",
+              "lId": 1776
+            },
+            {
+              "_id": "7f9d48de-b0df-446d-b692-06acffa9cbba",
+              "name": "Applications of electromagnetic induction",
+              "topicId": "d364c9e3-fcf7-4777-8422-f966b1fb04ec",
+              "lId": 1777
+            }
+          ]
+        },
+        {
+          "_id": "ea454c40-b14b-438b-b9b0-7e2342630303",
+          "name": "Mains Electricity",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 243,
+          "subTopics": [
+            {
+              "_id": "28a2b26e-ad63-4445-aa1b-2f77d6feaf51",
+              "name": "Sources of mains electricity",
+              "topicId": "ea454c40-b14b-438b-b9b0-7e2342630303",
+              "lId": 1778
+            },
+            {
+              "_id": "42563911-482d-495d-b5c9-bac17d101522",
+              "name": "Power transmission",
+              "topicId": "ea454c40-b14b-438b-b9b0-7e2342630303",
+              "lId": 1779
+            },
+            {
+              "_id": "4899791e-fa7b-4aba-8bef-5719a725b1e6",
+              "name": "Domestic wiring",
+              "topicId": "ea454c40-b14b-438b-b9b0-7e2342630303",
+              "lId": 1780
+            },
+            {
+              "_id": "611b499c-ede2-443a-82ed-abd27fcf64ed",
+              "name": "Electrical energy consumption and costing",
+              "topicId": "ea454c40-b14b-438b-b9b0-7e2342630303",
+              "lId": 1781
+            }
+          ]
+        },
+        {
+          "_id": "1b4671ea-be60-4c22-b09c-0fdee45e4112",
+          "name": "Cathode Rays and Cathode Ray Tube",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 244,
+          "subTopics": [
+            {
+              "_id": "f86d5c07-e7bb-49ee-bcbd-22887e9e2f9a",
+              "name": "Thermonic emission",
+              "topicId": "1b4671ea-be60-4c22-b09c-0fdee45e4112",
+              "lId": 1782
+            },
+            {
+              "_id": "5c5602bc-6f7f-4ce8-a520-6a71d5a78c99",
+              "name": "Cathode ray oscilloscope",
+              "topicId": "1b4671ea-be60-4c22-b09c-0fdee45e4112",
+              "lId": 1783
+            },
+            {
+              "_id": "f1817982-7478-40fc-9d94-809be31d2c18",
+              "name": "The television tube",
+              "topicId": "1b4671ea-be60-4c22-b09c-0fdee45e4112",
+              "lId": 1784
+            }
+          ]
+        },
+        {
+          "_id": "3f26569f-01d2-4bf9-b7e6-102a95fce48c",
+          "name": "X-Rays",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 245,
+          "subTopics": [
+            {
+              "_id": "7c6f583d-63fa-4037-a9ae-5d0936faf7cf",
+              "name": "Production of X-Rays",
+              "topicId": "3f26569f-01d2-4bf9-b7e6-102a95fce48c",
+              "lId": 1785
+            },
+            {
+              "_id": "741877ed-b74c-4835-9b7b-dd185c6ed5b1",
+              "name": "Properties of X-Rays",
+              "topicId": "3f26569f-01d2-4bf9-b7e6-102a95fce48c",
+              "lId": 1786
+            },
+            {
+              "_id": "9eb25baa-a366-4c37-9c0d-9aaa8bed5f72",
+              "name": "Energy of X-Rays",
+              "topicId": "3f26569f-01d2-4bf9-b7e6-102a95fce48c",
+              "lId": 1787
+            },
+            {
+              "_id": "298c4799-616a-4af6-8f6d-967f01feb62f",
+              "name": "Hard and soft X-Rays",
+              "topicId": "3f26569f-01d2-4bf9-b7e6-102a95fce48c",
+              "lId": 1788
+            },
+            {
+              "_id": "e58a206a-4d3d-4e74-b2fd-b871787a3a6f",
+              "name": "Uses of X-Rays",
+              "topicId": "3f26569f-01d2-4bf9-b7e6-102a95fce48c",
+              "lId": 1789
+            },
+            {
+              "_id": "6dcaeab9-8e13-49ea-ab44-99ef2db359d4",
+              "name": "Dangers of X-Rays",
+              "topicId": "3f26569f-01d2-4bf9-b7e6-102a95fce48c",
+              "lId": 1790
+            }
+          ]
+        },
+        {
+          "_id": "fe783e68-0ec0-4d9f-95b2-2f3aeae12de7",
+          "name": "Photoelectric Effect",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 246,
+          "subTopics": [
+            {
+              "_id": "9b9bda24-c1c8-490b-8618-9ef7d843ce27",
+              "name": "Light energy and quantum theory",
+              "topicId": "fe783e68-0ec0-4d9f-95b2-2f3aeae12de7",
+              "lId": 1791
+            },
+            {
+              "_id": "9be3b00e-4009-4ce4-ba05-b6156eca2401",
+              "name": "Einstein's equation of photoelectric effect",
+              "topicId": "fe783e68-0ec0-4d9f-95b2-2f3aeae12de7",
+              "lId": 1792
+            },
+            {
+              "_id": "328a336e-a2c9-47ee-a3ab-e46118394233",
+              "name": "Factors affecting photoelectric effect",
+              "topicId": "fe783e68-0ec0-4d9f-95b2-2f3aeae12de7",
+              "lId": 1793
+            },
+            {
+              "_id": "d831849c-dae6-41d7-a8af-e69863cacb3f",
+              "name": "Applications of photoelectric effect",
+              "topicId": "fe783e68-0ec0-4d9f-95b2-2f3aeae12de7",
+              "lId": 1794
+            }
+          ]
+        },
+        {
+          "_id": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+          "name": "Radioactivity",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 247,
+          "subTopics": [
+            {
+              "_id": "551fd849-808e-46a8-b35a-2fbd54bb693f",
+              "name": "Atomic structure",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1795
+            },
+            {
+              "_id": "f056470a-5706-4270-8108-ce421fb1255c",
+              "name": "Types of radiations",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1796
+            },
+            {
+              "_id": "a80bf547-ec47-46d1-9740-609cabf8daf4",
+              "name": "Radioactivity",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1797
+            },
+            {
+              "_id": "41cca031-3ee8-4202-a8df-52324cc085f3",
+              "name": "penetrating power",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1798
+            },
+            {
+              "_id": "acacac22-7dff-4f8b-b040-7e9946acb107",
+              "name": "Radiation detectors",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1799
+            },
+            {
+              "_id": "ddf960cb-351c-43b9-8f91-b32968bca8f8",
+              "name": "Background radiation",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1800
+            },
+            {
+              "_id": "c4e2a3c4-e796-43d1-ab59-35b55872ba5b",
+              "name": "Decay law",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1801
+            },
+            {
+              "_id": "257b649c-a155-4ebe-a9ef-8f0cfbfe9ab1",
+              "name": "Applications of radioactivity",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1802
+            },
+            {
+              "_id": "815c7944-899a-4e62-a303-9ad048c08156",
+              "name": "Hazards of radiation",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1803
+            },
+            {
+              "_id": "49bbd834-30bd-42b5-8490-aa13e4634f60",
+              "name": "Nuclear fission",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1804
+            },
+            {
+              "_id": "80c39dea-6aad-4086-a384-5adb16234d68",
+              "name": "Nuclear fusion",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1805
+            },
+            {
+              "_id": "85147118-1626-4555-a1eb-49684ccfbc4d",
+              "name": "Stability of isotopes and elements",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1966
+            },
+            {
+              "_id": "57b765fd-2c7f-46b3-85cd-b0f7042a3800",
+              "name": "Nuclear reactions",
+              "topicId": "e939ab6f-2ed6-4c54-a974-6d2ff456d225",
+              "lId": 1967
+            }
+          ]
+        },
+        {
+          "_id": "d5b54ce8-11b4-4ae0-94e2-2c4d83d9ec96",
+          "name": "Electronics",
+          "courseClassId": "9bb7f657-9d33-4489-9250-9acc7ab07e81",
+          "lId": 248,
+          "subTopics": [
+            {
+              "_id": "9a386b3a-859f-4c41-ae39-91fa6918a7e9",
+              "name": "Energy band theory",
+              "topicId": "d5b54ce8-11b4-4ae0-94e2-2c4d83d9ec96",
+              "lId": 1806
+            },
+            {
+              "_id": "3d98b1c0-9f8f-44c1-8338-4805e91b7668",
+              "name": "Intrinsic and extrinsic semiconductors",
+              "topicId": "d5b54ce8-11b4-4ae0-94e2-2c4d83d9ec96",
+              "lId": 1807
+            },
+            {
+              "_id": "06b6ecc3-5f2b-4d1f-84f6-1cb0f7a0215a",
+              "name": "n-type semiconductor",
+              "topicId": "d5b54ce8-11b4-4ae0-94e2-2c4d83d9ec96",
+              "lId": 1808
+            },
+            {
+              "_id": "bd78286d-d398-423f-a272-8420f841f76a",
+              "name": "p-type semiconductor",
+              "topicId": "d5b54ce8-11b4-4ae0-94e2-2c4d83d9ec96",
+              "lId": 1809
+            },
+            {
+              "_id": "b72457af-3d46-48c6-a756-7247e99a840d",
+              "name": "The p-n junction",
+              "topicId": "d5b54ce8-11b4-4ae0-94e2-2c4d83d9ec96",
+              "lId": 1810
+            },
+            {
+              "_id": "273b27eb-c76e-4a3e-99c3-af6ad3f0e1e8",
+              "name": "Semiconductor diode",
+              "topicId": "d5b54ce8-11b4-4ae0-94e2-2c4d83d9ec96",
+              "lId": 1811
+            },
+            {
+              "_id": "7f44f72d-99ee-40c5-8db9-95e1bf00e1a8",
+              "name": "Applications of junction diodes in rectification",
+              "topicId": "d5b54ce8-11b4-4ae0-94e2-2c4d83d9ec96",
+              "lId": 1812
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

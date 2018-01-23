@@ -1,0 +1,1898 @@
+{
+  "_id": "46d94ff0-6392-45f7-95c8-bc527dcbb71a",
+  "name": "Chemistry",
+  "subjectId": "AwiLP7iuo6ZhFCjkJ",
+  "lId": 19,
+  "classes": [
+    {
+      "_id": "af8d3176-61ba-44c2-8b2c-7487463daf31",
+      "name": "Form 1",
+      "order": 1,
+      "courseId": "AwiLP7iuo6ZhFCjkJ",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+          "name": "Introduction to Chemistry",
+          "courseClassId": "af8d3176-61ba-44c2-8b2c-7487463daf31",
+          "lId": 358,
+          "subTopics": [
+            {
+              "_id": "c134c790-0bd6-4d37-9bd9-51d69c89e433",
+              "name": "Matter",
+              "topicId": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+              "lId": 2521
+            },
+            {
+              "_id": "ade2e53d-8144-4baa-bbd3-6a473468109e",
+              "name": "Properties of matter",
+              "topicId": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+              "lId": 2522
+            },
+            {
+              "_id": "564b23f0-cb92-4ab0-856a-f834cb7e6c2b",
+              "name": "Conductors and non-conductors",
+              "topicId": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+              "lId": 2523
+            },
+            {
+              "_id": "27db50f9-ee9c-4ce8-bf8a-33f5704303ef",
+              "name": "Drugs and drug abuse",
+              "topicId": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+              "lId": 2524
+            },
+            {
+              "_id": "4108dd2c-12f9-4513-afbd-4e1141370e4c",
+              "name": "What is Chemistry? ",
+              "topicId": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+              "lId": 2525
+            },
+            {
+              "_id": "304874c5-8475-4768-b415-29812abecaed",
+              "name": "Role of Chemistry in society",
+              "topicId": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+              "lId": 2526
+            },
+            {
+              "_id": "1814fb4b-14a3-4512-b502-30118525c7e2",
+              "name": "Apparatus used in Chemistry",
+              "topicId": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+              "lId": 2527
+            },
+            {
+              "_id": "5c0554bb-7546-4422-8895-c66ccefb96c6",
+              "name": "Sources of heat",
+              "topicId": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+              "lId": 2528
+            },
+            {
+              "_id": "a18ede83-0d83-4e09-94b4-bb675ed28515",
+              "name": "The Bunsen burner",
+              "topicId": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+              "lId": 2529
+            },
+            {
+              "_id": "e7555108-643c-4909-9023-1f6cd61a8818",
+              "name": "Safety in laboratory",
+              "topicId": "eb18853c-c407-4ac3-859d-4af370bedcd7",
+              "lId": 2530
+            }
+          ]
+        },
+        {
+          "_id": "a4907399-0c75-41a8-a59e-f321f36d6430",
+          "name": "Simple Classification of Substances",
+          "courseClassId": "af8d3176-61ba-44c2-8b2c-7487463daf31",
+          "lId": 359,
+          "subTopics": [
+            {
+              "_id": "f02be497-76a2-4a04-8767-4608fcb9d264",
+              "name": "Mixtures",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2531
+            },
+            {
+              "_id": "1a9e1fab-bbe8-4265-ae37-41a90d620738",
+              "name": "Seperation of solid-solid mixtures",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2532
+            },
+            {
+              "_id": "b25b63c9-bca7-4765-a96c-e91e4b3290fd",
+              "name": "Solid-liquid mixtures",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2533
+            },
+            {
+              "_id": "3121ed22-506e-4cc7-b296-fa64c6937885",
+              "name": "Seperation of insoluble solid-liquid mixtures",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2534
+            },
+            {
+              "_id": "418134b4-9664-4555-b1e0-fb991f4da295",
+              "name": "Seperation of soluble solid-liquid mixtures",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2535
+            },
+            {
+              "_id": "16c8899d-867d-47fe-a83e-44ed3df35d3e",
+              "name": "Liquid-liquid mixtures",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2536
+            },
+            {
+              "_id": "85fd085d-1c36-489c-ae52-f86de393298a",
+              "name": "Seperation of immiscible liquids",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2537
+            },
+            {
+              "_id": "719c92ac-ba61-4681-8eae-c569bf24ceea",
+              "name": "Seperation of miscible liquids",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2538
+            },
+            {
+              "_id": "88de4df9-338c-403b-8b01-6cdd4fe3cf75",
+              "name": "Seperation of coloured substances ",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2539
+            },
+            {
+              "_id": "9a0c3cab-295f-42f6-9d51-caea41f8232b",
+              "name": "Effect of heat on substances",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2540
+            },
+            {
+              "_id": "60ee6a2b-a2d2-4beb-904f-bb42826eacc2",
+              "name": "The Kinetic Theory of matter",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2541
+            },
+            {
+              "_id": "f2099dd2-08cf-49f7-8867-b1631b7f3746",
+              "name": "Effect of impurities on melting and boiling points",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2542
+            },
+            {
+              "_id": "e8923ad7-543a-4700-bbf1-4fd3db868af8",
+              "name": "Temporary and permanent changes",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2543
+            },
+            {
+              "_id": "903d120e-1d06-4e76-9a30-6a6489a8ffa0",
+              "name": "Constitutents of matter",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2544
+            },
+            {
+              "_id": "56d57f98-9022-459a-bfaa-ea8034d0793a",
+              "name": "Chemical symbols",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2545
+            },
+            {
+              "_id": "1c62b61d-16a8-4de7-b121-6866cb781723",
+              "name": "Chemical equations",
+              "topicId": "a4907399-0c75-41a8-a59e-f321f36d6430",
+              "lId": 2546
+            }
+          ]
+        },
+        {
+          "_id": "b5d1408b-e10c-4ff9-bf40-9aab97d90059",
+          "name": "Acids, Bases and Indicators",
+          "courseClassId": "af8d3176-61ba-44c2-8b2c-7487463daf31",
+          "lId": 360,
+          "subTopics": [
+            {
+              "_id": "294c7c2c-3854-4c59-80b3-0db26fc8dc0b",
+              "name": "Simple acid base indicators",
+              "topicId": "b5d1408b-e10c-4ff9-bf40-9aab97d90059",
+              "lId": 2547
+            },
+            {
+              "_id": "f3fc1950-b2a7-4e53-ae8a-9bee0823e4cb",
+              "name": "Commercial indicators",
+              "topicId": "b5d1408b-e10c-4ff9-bf40-9aab97d90059",
+              "lId": 2548
+            },
+            {
+              "_id": "f049bb9b-f15a-4261-8b62-3abeb822aea6",
+              "name": "Universal indicators and the pH scale",
+              "topicId": "b5d1408b-e10c-4ff9-bf40-9aab97d90059",
+              "lId": 2549
+            },
+            {
+              "_id": "0e632a15-6bc4-4320-ab59-451e0638afac",
+              "name": "Properties of acids",
+              "topicId": "b5d1408b-e10c-4ff9-bf40-9aab97d90059",
+              "lId": 2550
+            },
+            {
+              "_id": "1735aca7-712a-49a6-ad14-c887e85429c3",
+              "name": "Reaction of acids with carbonates and hydrogen carbonates",
+              "topicId": "b5d1408b-e10c-4ff9-bf40-9aab97d90059",
+              "lId": 2551
+            },
+            {
+              "_id": "723cac5c-9e33-44e0-9aed-bf05fa840684",
+              "name": "Reactions with Acids with Bases",
+              "topicId": "b5d1408b-e10c-4ff9-bf40-9aab97d90059",
+              "lId": 2552
+            },
+            {
+              "_id": "eac78119-5dc2-4ac3-b02f-d1e35d9d75ee",
+              "name": "Effects of Acids on Substances ",
+              "topicId": "b5d1408b-e10c-4ff9-bf40-9aab97d90059",
+              "lId": 2553
+            },
+            {
+              "_id": "ae50ca4b-68ea-44e3-8b4f-e859f2b42da5",
+              "name": "Application of acid and bases",
+              "topicId": "b5d1408b-e10c-4ff9-bf40-9aab97d90059",
+              "lId": 2554
+            }
+          ]
+        },
+        {
+          "_id": "8e3b582b-2415-4016-8221-d441e6ad991f",
+          "name": "Air and Combustion",
+          "courseClassId": "af8d3176-61ba-44c2-8b2c-7487463daf31",
+          "lId": 361,
+          "subTopics": [
+            {
+              "_id": "4ad5e569-461e-4a55-9209-c8aed73b862c",
+              "name": "Composition of Air",
+              "topicId": "8e3b582b-2415-4016-8221-d441e6ad991f",
+              "lId": 2555
+            },
+            {
+              "_id": "05657488-2b28-4153-85e2-b47eb361d337",
+              "name": "Fractional Distillation of Liquified Air",
+              "topicId": "8e3b582b-2415-4016-8221-d441e6ad991f",
+              "lId": 2556
+            },
+            {
+              "_id": "6dd4d751-c33f-454f-9102-349e189b85fe",
+              "name": "Rusting",
+              "topicId": "8e3b582b-2415-4016-8221-d441e6ad991f",
+              "lId": 2557
+            },
+            {
+              "_id": "91d37270-c204-4282-8b47-8e84f26eb588",
+              "name": "Oxygen",
+              "topicId": "8e3b582b-2415-4016-8221-d441e6ad991f",
+              "lId": 2558
+            },
+            {
+              "_id": "236a86fb-425e-41b8-961a-12979f8653b0",
+              "name": "Burning of Substances in Air",
+              "topicId": "8e3b582b-2415-4016-8221-d441e6ad991f",
+              "lId": 2559
+            },
+            {
+              "_id": "0e961b9b-fac6-494b-a276-be1a59e3c2a3",
+              "name": "Atmospheric Pollution",
+              "topicId": "8e3b582b-2415-4016-8221-d441e6ad991f",
+              "lId": 2560
+            }
+          ]
+        },
+        {
+          "_id": "029adbb1-18d9-4617-9095-eab3d1cf8bde",
+          "name": "Water and Hydrogen",
+          "courseClassId": "af8d3176-61ba-44c2-8b2c-7487463daf31",
+          "lId": 362,
+          "subTopics": [
+            {
+              "_id": "c880ca68-da58-4793-a67a-7f41b377af43",
+              "name": "Reactions of Water with Metals",
+              "topicId": "029adbb1-18d9-4617-9095-eab3d1cf8bde",
+              "lId": 2561
+            },
+            {
+              "_id": "4ee5e2e5-3754-4e13-9069-083221ff3e68",
+              "name": "Reactions of Metals with Steam",
+              "topicId": "029adbb1-18d9-4617-9095-eab3d1cf8bde",
+              "lId": 2562
+            },
+            {
+              "_id": "22766d07-2a6c-4977-b1a9-445f7904d86e",
+              "name": "Hydrogen",
+              "topicId": "029adbb1-18d9-4617-9095-eab3d1cf8bde",
+              "lId": 2563
+            },
+            {
+              "_id": "2d28bb06-df27-43ab-b55a-d803409206e7",
+              "name": "Uses of Hydrogen",
+              "topicId": "029adbb1-18d9-4617-9095-eab3d1cf8bde",
+              "lId": 2564
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6a2dc456-b9ed-4c2a-a118-c7d13d3e00c7",
+      "name": "Form 2",
+      "order": 2,
+      "courseId": "AwiLP7iuo6ZhFCjkJ",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "6fce3662-3d13-43af-b9bd-b4aeb9bc6a1d",
+          "name": "Structure of the Atom and the Periodic Table",
+          "courseClassId": "6a2dc456-b9ed-4c2a-a118-c7d13d3e00c7",
+          "lId": 363,
+          "subTopics": [
+            {
+              "_id": "7306be6e-fc97-4d26-b1a2-5dbda1e2acb9",
+              "name": "Atomic Number and Mass Number",
+              "topicId": "6fce3662-3d13-43af-b9bd-b4aeb9bc6a1d",
+              "lId": 2565
+            },
+            {
+              "_id": "97a172dc-9705-4be0-b276-8930c48f2f3d",
+              "name": "Energy Levels and Electron Arrangement",
+              "topicId": "6fce3662-3d13-43af-b9bd-b4aeb9bc6a1d",
+              "lId": 2566
+            },
+            {
+              "_id": "75d48b83-e452-468a-b564-80d2d5ec8678",
+              "name": "Relative Atomic Mass and Isotopes",
+              "topicId": "6fce3662-3d13-43af-b9bd-b4aeb9bc6a1d",
+              "lId": 2567
+            },
+            {
+              "_id": "3f51942e-9920-42af-844b-3cd702d49195",
+              "name": "Ion Formation",
+              "topicId": "6fce3662-3d13-43af-b9bd-b4aeb9bc6a1d",
+              "lId": 2568
+            },
+            {
+              "_id": "d26e87a6-cf54-42ab-843d-5166697db82d",
+              "name": "Chemical Formula",
+              "topicId": "6fce3662-3d13-43af-b9bd-b4aeb9bc6a1d",
+              "lId": 2569
+            },
+            {
+              "_id": "2b36aab9-6d4f-487c-ab06-25d248352b7e",
+              "name": "Chemical Equations",
+              "topicId": "6fce3662-3d13-43af-b9bd-b4aeb9bc6a1d",
+              "lId": 2570
+            }
+          ]
+        },
+        {
+          "_id": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+          "name": "Chemical Families; Patterns in Properties ",
+          "courseClassId": "6a2dc456-b9ed-4c2a-a118-c7d13d3e00c7",
+          "lId": 364,
+          "subTopics": [
+            {
+              "_id": "f818dcf0-da77-44ef-82b5-1ce2a531328d",
+              "name": "The Alkali metals",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2571
+            },
+            {
+              "_id": "6633f829-6b24-4773-90df-e105893f637e",
+              "name": "Physical properties of Alkali metals",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2572
+            },
+            {
+              "_id": "74a8e994-461f-476a-86e9-e5d1ebc3a7b8",
+              "name": "Chemical properties of Alkali metals",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2573
+            },
+            {
+              "_id": "a50b88ba-bff1-4d6c-b66c-2b03931e2668",
+              "name": "Uses of alkali metals",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2574
+            },
+            {
+              "_id": "a06fa49f-7b5a-4a65-a8fe-770c4b27ae5c",
+              "name": "Alkaline Earth Metals",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2575
+            },
+            {
+              "_id": "821e254e-4328-4855-84b0-99b659e03484",
+              "name": "Physical properties of Alkaline Earth Metals",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2576
+            },
+            {
+              "_id": "6bf5714a-6bd9-49d4-bff9-43ec71a9dfb6",
+              "name": "Chemical properties of Alkaline Earth Metals",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2577
+            },
+            {
+              "_id": "b16bc8a5-c971-4e6c-abe5-8d70eb0a0dbf",
+              "name": "Chemical formula of some Alkaline Earth Metal Compounds",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2578
+            },
+            {
+              "_id": "ee3cf5a3-2ceb-4258-abd2-a802f0c409a2",
+              "name": "Halogens",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2579
+            },
+            {
+              "_id": "f5962268-5dd8-42c8-b63b-eb29198401d1",
+              "name": "Physical Properties of Halogens",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2580
+            },
+            {
+              "_id": "abcc54f9-c067-45c5-b93c-3066b82d992b",
+              "name": "Chemical Properties of Halogens",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2581
+            },
+            {
+              "_id": "09b545f2-1c6a-4825-82cf-fd7acb1acf9c",
+              "name": "Noble Gases",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2582
+            },
+            {
+              "_id": "2aa9146f-0fbd-4126-b523-b6557f90f8b8",
+              "name": "Properties and Trends across a Period",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2583
+            },
+            {
+              "_id": "3062a4bc-fa20-4171-a82e-9b77d15ead59",
+              "name": "Trends in physical properties of elements in Period 3",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2584
+            },
+            {
+              "_id": "d0651e9b-feaf-434d-ade7-c650c75747df",
+              "name": "Trends in chemical properties of elements in Period 3",
+              "topicId": "ce95e7e3-95b8-43be-9e18-751cd3416c8a",
+              "lId": 2585
+            }
+          ]
+        },
+        {
+          "_id": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+          "name": "Structure and Bonding",
+          "courseClassId": "6a2dc456-b9ed-4c2a-a118-c7d13d3e00c7",
+          "lId": 365,
+          "subTopics": [
+            {
+              "_id": "2d984916-bdbb-4f29-a25c-70b3148b7305",
+              "name": "Ionic bond",
+              "topicId": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+              "lId": 2586
+            },
+            {
+              "_id": "70629e2e-1da4-4955-ac14-484492f190a3",
+              "name": "Covalent bond",
+              "topicId": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+              "lId": 2587
+            },
+            {
+              "_id": "6a4c9064-8af1-448b-a76d-2b0767473cfc",
+              "name": "Co-ordinate bond",
+              "topicId": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+              "lId": 2588
+            },
+            {
+              "_id": "338167a7-3458-40bc-830d-d322f3b730fa",
+              "name": "Giant Ionic structures ",
+              "topicId": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+              "lId": 2589
+            },
+            {
+              "_id": "2c21765b-29e4-49cc-a4c1-8c995a9bec67",
+              "name": "Molecular structures",
+              "topicId": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+              "lId": 2590
+            },
+            {
+              "_id": "e090f5f5-e50b-43a6-a970-822431e01285",
+              "name": "Giant atomic structures",
+              "topicId": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+              "lId": 2591
+            },
+            {
+              "_id": "172b3173-dd28-4cd3-898b-8911b3da7d50",
+              "name": "The metallic bond",
+              "topicId": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+              "lId": 2592
+            },
+            {
+              "_id": "acd572c4-9b90-4c68-99bf-5a34360ea36d",
+              "name": "Type of bonds across a Period",
+              "topicId": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+              "lId": 2593
+            },
+            {
+              "_id": "25a0a648-13d9-48da-868c-86503f73c8aa",
+              "name": "Oxides of elements in Period 3",
+              "topicId": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+              "lId": 2594
+            },
+            {
+              "_id": "653331f3-fefd-4bba-a5e1-c804ef199c1a",
+              "name": "Chlorides of Period 3",
+              "topicId": "4b9dede5-f870-4049-b852-fc7221fa47a8",
+              "lId": 2595
+            }
+          ]
+        },
+        {
+          "_id": "2e278ff1-b068-41d7-8d2e-51159a00acbf",
+          "name": "Salts",
+          "courseClassId": "6a2dc456-b9ed-4c2a-a118-c7d13d3e00c7",
+          "lId": 366,
+          "subTopics": [
+            {
+              "_id": "cdbc90b5-e850-48cc-9d4b-aa753100acff",
+              "name": "Types of salts",
+              "topicId": "2e278ff1-b068-41d7-8d2e-51159a00acbf",
+              "lId": 2596
+            },
+            {
+              "_id": "3488114b-32d6-4cbe-acad-97e0c920c66d",
+              "name": "Methods of preparing salts",
+              "topicId": "2e278ff1-b068-41d7-8d2e-51159a00acbf",
+              "lId": 2597
+            },
+            {
+              "_id": "69bcb9ed-edf8-4fe3-aea9-73a394862c98",
+              "name": "Solubility of salts in water",
+              "topicId": "2e278ff1-b068-41d7-8d2e-51159a00acbf",
+              "lId": 2598
+            },
+            {
+              "_id": "272ae104-1bc1-40eb-8fa5-90bd6305c544",
+              "name": "Preparation of salts by direct combination of elements",
+              "topicId": "2e278ff1-b068-41d7-8d2e-51159a00acbf",
+              "lId": 2599
+            },
+            {
+              "_id": "2c47e595-3734-45d0-a6be-e833a720b041",
+              "name": "Action of heat on carbonates",
+              "topicId": "2e278ff1-b068-41d7-8d2e-51159a00acbf",
+              "lId": 2600
+            },
+            {
+              "_id": "017a9735-90f9-4fd2-b803-2d8f9eed5545",
+              "name": "Action of heat on nitrates",
+              "topicId": "2e278ff1-b068-41d7-8d2e-51159a00acbf",
+              "lId": 2601
+            },
+            {
+              "_id": "f963cb45-a2ca-4571-a316-e1aa2500251e",
+              "name": "Action of heat on salts",
+              "topicId": "2e278ff1-b068-41d7-8d2e-51159a00acbf",
+              "lId": 2602
+            },
+            {
+              "_id": "88302de3-f791-44b8-9c22-186f1748e22f",
+              "name": "Effect of the atmosphere on salts",
+              "topicId": "2e278ff1-b068-41d7-8d2e-51159a00acbf",
+              "lId": 2603
+            },
+            {
+              "_id": "49848243-4769-4f5c-948f-f5e686f7b80e",
+              "name": "Uses of salts",
+              "topicId": "2e278ff1-b068-41d7-8d2e-51159a00acbf",
+              "lId": 2604
+            }
+          ]
+        },
+        {
+          "_id": "bfc2abf0-f6f7-4158-8b74-4f3363035c51",
+          "name": "Effect of an Electric Current on Substances",
+          "courseClassId": "6a2dc456-b9ed-4c2a-a118-c7d13d3e00c7",
+          "lId": 367,
+          "subTopics": [
+            {
+              "_id": "b13d5fea-d057-44ca-bf03-d0edd992f168",
+              "name": "Electrical conductivity of solids",
+              "topicId": "bfc2abf0-f6f7-4158-8b74-4f3363035c51",
+              "lId": 2605
+            },
+            {
+              "_id": "97b5cf4a-bf96-4081-93f5-4aa7bf0a640e",
+              "name": "Electrical conductivity of substances in the molten state",
+              "topicId": "bfc2abf0-f6f7-4158-8b74-4f3363035c51",
+              "lId": 2606
+            },
+            {
+              "_id": "dbf65b24-201b-4979-9412-42080297b009",
+              "name": "Electrical conductivity of substances in aqueous solutions",
+              "topicId": "bfc2abf0-f6f7-4158-8b74-4f3363035c51",
+              "lId": 2607
+            },
+            {
+              "_id": "fe74da0c-8d6c-48ec-a049-cffff0ab710f",
+              "name": "Electrolysis",
+              "topicId": "bfc2abf0-f6f7-4158-8b74-4f3363035c51",
+              "lId": 2608
+            },
+            {
+              "_id": "2b184a02-218a-4730-af82-7c20b60fcdd4",
+              "name": "Application of Electrolysis",
+              "topicId": "bfc2abf0-f6f7-4158-8b74-4f3363035c51",
+              "lId": 2609
+            }
+          ]
+        },
+        {
+          "_id": "0b0a4fff-38ed-4eef-bdf2-1b3daec7efc7",
+          "name": "Carbon and some of its Compounds",
+          "courseClassId": "6a2dc456-b9ed-4c2a-a118-c7d13d3e00c7",
+          "lId": 368,
+          "subTopics": [
+            {
+              "_id": "695f1b67-86fd-4c0a-b63e-c1bc582169ac",
+              "name": "Allotropes of carbon",
+              "topicId": "0b0a4fff-38ed-4eef-bdf2-1b3daec7efc7",
+              "lId": 2610
+            },
+            {
+              "_id": "f36c6dc7-bdcd-4ba7-8e40-f4e8395f5d43",
+              "name": "Chemical properties of carbon",
+              "topicId": "0b0a4fff-38ed-4eef-bdf2-1b3daec7efc7",
+              "lId": 2611
+            },
+            {
+              "_id": "cf1f4580-fca5-43bd-b495-9da1b256ca73",
+              "name": "Carbon (IV) Oxide",
+              "topicId": "0b0a4fff-38ed-4eef-bdf2-1b3daec7efc7",
+              "lId": 2612
+            },
+            {
+              "_id": "01dc36d7-6b0f-461b-9687-b61f8e4a42ed",
+              "name": "Uses of Carbon (IV) Oxide",
+              "topicId": "0b0a4fff-38ed-4eef-bdf2-1b3daec7efc7",
+              "lId": 2613
+            },
+            {
+              "_id": "f2aee2cb-d9f9-4495-b439-6902d27edf22",
+              "name": "Carbon (II) Oxide",
+              "topicId": "0b0a4fff-38ed-4eef-bdf2-1b3daec7efc7",
+              "lId": 2614
+            },
+            {
+              "_id": "62ff185d-a865-47ce-ab25-6c9845172191",
+              "name": "Carbonates",
+              "topicId": "0b0a4fff-38ed-4eef-bdf2-1b3daec7efc7",
+              "lId": 2615
+            },
+            {
+              "_id": "8f600a2a-d1ed-4bbb-a45e-340cb862617c",
+              "name": "Sodium carbonate and Sodium hydrogen carbonate",
+              "topicId": "0b0a4fff-38ed-4eef-bdf2-1b3daec7efc7",
+              "lId": 2616
+            },
+            {
+              "_id": "a7f1d235-2c7d-4355-b17e-dc147d49c569",
+              "name": "Effects of Carbon (IV) Oxide and Carbon (II) Oxide on the environment ",
+              "topicId": "0b0a4fff-38ed-4eef-bdf2-1b3daec7efc7",
+              "lId": 2617
+            },
+            {
+              "_id": "b2913e81-6dd3-4516-a016-e7bac141345e",
+              "name": "Carbon cycle",
+              "topicId": "0b0a4fff-38ed-4eef-bdf2-1b3daec7efc7",
+              "lId": 2618
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4aa57746-6074-48dc-8e52-27983e75eb95",
+      "name": "Form 3",
+      "order": 3,
+      "courseId": "AwiLP7iuo6ZhFCjkJ",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "a987ae79-4207-4cb2-a6e5-0bf8651a47d6",
+          "name": "Gas Laws ",
+          "courseClassId": "4aa57746-6074-48dc-8e52-27983e75eb95",
+          "lId": 369,
+          "subTopics": [
+            {
+              "_id": "8a98fb7d-197f-4c7a-94ec-787dfeca5af3",
+              "name": "Boyle's law",
+              "topicId": "a987ae79-4207-4cb2-a6e5-0bf8651a47d6",
+              "lId": 2619
+            },
+            {
+              "_id": "653bf9a6-b9be-4ce9-b539-a67249bb7a7b",
+              "name": "Charles' law",
+              "topicId": "a987ae79-4207-4cb2-a6e5-0bf8651a47d6",
+              "lId": 2620
+            },
+            {
+              "_id": "def87129-064f-48fd-b0af-d1c5196e4c41",
+              "name": "Combined gas law",
+              "topicId": "a987ae79-4207-4cb2-a6e5-0bf8651a47d6",
+              "lId": 2621
+            },
+            {
+              "_id": "f454e7ad-1e87-479b-a670-774990e4bff3",
+              "name": "Standard conditions",
+              "topicId": "a987ae79-4207-4cb2-a6e5-0bf8651a47d6",
+              "lId": 2622
+            },
+            {
+              "_id": "208c9a1a-bfcc-4bdd-aa7f-d98edf58a50e",
+              "name": "Diffusion and the Graham's law",
+              "topicId": "a987ae79-4207-4cb2-a6e5-0bf8651a47d6",
+              "lId": 2623
+            }
+          ]
+        },
+        {
+          "_id": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+          "name": "The Mole - Formula and Chemical Equations",
+          "courseClassId": "4aa57746-6074-48dc-8e52-27983e75eb95",
+          "lId": 370,
+          "subTopics": [
+            {
+              "_id": "0ac6aee9-dc15-4650-8c48-b9a0a57ea1c6",
+              "name": "Relative mass",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2624
+            },
+            {
+              "_id": "46e5efcc-5e4b-48ac-9e0a-e40a7faefd86",
+              "name": "Inter conversion of molecules and moles",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2625
+            },
+            {
+              "_id": "09702696-3f3e-40f8-9373-27dd885a9454",
+              "name": "Inter conversion of mass and moles",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2626
+            },
+            {
+              "_id": "196a1fbb-1bec-4973-8968-f9f161659ee8",
+              "name": "Empirical and molecular formula",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2627
+            },
+            {
+              "_id": "002cfedb-99b1-4de2-95d6-16bf9266ca59",
+              "name": "Empirical formula",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2628
+            },
+            {
+              "_id": "c5a4203e-0b53-4c73-91ea-c06ba5118b09",
+              "name": "Molecular formula",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2629
+            },
+            {
+              "_id": "4f53e080-bbe1-4b63-8983-9ac0d9c2ede9",
+              "name": "Molar solutions",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2630
+            },
+            {
+              "_id": "a1dd670b-b305-4072-a926-0799a78a35a0",
+              "name": "Concentration of a solution",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2631
+            },
+            {
+              "_id": "0c0e22ee-96c3-4bc5-a840-0b3e9b6f1420",
+              "name": "Preparation of molar solutions",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2632
+            },
+            {
+              "_id": "46bd246d-528b-4d40-85cc-88b6c5b7864c",
+              "name": "Dilution of a solution",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2633
+            },
+            {
+              "_id": "22487c39-ebdf-4420-be32-a21464efc320",
+              "name": "Stoichiometry of chemical equations",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2634
+            },
+            {
+              "_id": "6eda83ef-7d91-4d83-8869-44e8d091ab6d",
+              "name": "Volumetric analysis",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2635
+            },
+            {
+              "_id": "6e04b364-2de6-4573-921a-8ffd4bbc1435",
+              "name": "Titration",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2636
+            },
+            {
+              "_id": "cbce411c-1381-4d95-bac6-919e368ef07b",
+              "name": "Back titration",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2637
+            },
+            {
+              "_id": "3710616b-d8ef-4b29-b8ee-1ef2300be2d3",
+              "name": "Atomicity and molar gas volume",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2638
+            },
+            {
+              "_id": "ce011988-d77d-4a73-9f08-07f71ff66f47",
+              "name": "Combining of volumes of gases",
+              "topicId": "71c04b49-2e6d-4dfa-a9c2-49301c274918",
+              "lId": 2639
+            }
+          ]
+        },
+        {
+          "_id": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+          "name": "Organic Chemistry 1",
+          "courseClassId": "4aa57746-6074-48dc-8e52-27983e75eb95",
+          "lId": 371,
+          "subTopics": [
+            {
+              "_id": "cb0e109c-df70-46b2-9eb8-19935ac6111d",
+              "name": "Introduction",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2640
+            },
+            {
+              "_id": "a4772458-29a9-40b5-8b5e-cca6091a0b9b",
+              "name": "Alkanes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2641
+            },
+            {
+              "_id": "82cf583c-d82b-4792-87e0-6aa824959b56",
+              "name": "Cracking of alkanes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2642
+            },
+            {
+              "_id": "4d93a7d4-cebf-4694-bb39-d348f8cda1d0",
+              "name": "Nomenclature of alkanes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2643
+            },
+            {
+              "_id": "45470539-5f1f-47ee-b3b7-72a8160821e8",
+              "name": "Laboratory preparation of alkanes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2644
+            },
+            {
+              "_id": "981d9815-49eb-470f-bea0-0271274517e5",
+              "name": "Physical properties of alkanes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2645
+            },
+            {
+              "_id": "d13dc60c-e34c-4176-ba74-a5232d473941",
+              "name": "Chemical properties of alkanes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2646
+            },
+            {
+              "_id": "beed1226-60da-4871-a013-f15d7fce9637",
+              "name": "Uses of alkanes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2647
+            },
+            {
+              "_id": "8d276f06-a1fb-4605-af1a-7f0d69eceac3",
+              "name": "Alkenes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2648
+            },
+            {
+              "_id": "85342484-b1c6-4abe-b05b-8db289b459bd",
+              "name": "Nomenclature of alkenes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2649
+            },
+            {
+              "_id": "539e40ec-4736-4874-a08b-fe0a6f07d7e7",
+              "name": "Isomerism in alkenes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2650
+            },
+            {
+              "_id": "bdeb4716-eaf8-49f6-a8df-7fb149f18f44",
+              "name": "Laboratory preparation of alkenes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2651
+            },
+            {
+              "_id": "2f2800c5-143f-4581-8d08-7821c014e721",
+              "name": "Physical properties of alkenes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2652
+            },
+            {
+              "_id": "c0c24044-0469-4149-b966-2dec19fc788b",
+              "name": "Chemical properties of alkenes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2653
+            },
+            {
+              "_id": "4fd4fa33-7bdf-4422-8ae7-7b8fff1e8841",
+              "name": "Tests for alkenes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2654
+            },
+            {
+              "_id": "259a587e-d569-4c38-b3a9-108a2df485c3",
+              "name": "Uses of alkenes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2655
+            },
+            {
+              "_id": "bccb1faf-c408-4595-8dad-cb41583e998e",
+              "name": "Alkynes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2656
+            },
+            {
+              "_id": "acfcc938-56b4-4e1f-9c22-6f7609758985",
+              "name": "Nomenclature of alkynes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2657
+            },
+            {
+              "_id": "009a9544-665a-453c-9f1b-7444551d0880",
+              "name": "Isomerism in alkynes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2658
+            },
+            {
+              "_id": "39810bc1-d215-4cf3-b8e7-8e546afccf2f",
+              "name": "Laboratory preparation of alkynes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2659
+            },
+            {
+              "_id": "318fffc1-5058-444b-ad67-994aa3f77136",
+              "name": "Physical properties of alkynes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2660
+            },
+            {
+              "_id": "107870d4-96b9-42d4-b2b3-27a6ae72a55c",
+              "name": "Chemical properties of alkynes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2661
+            },
+            {
+              "_id": "ab8e8fd1-b2e8-4c92-8f07-03911e5d9dd2",
+              "name": "Test for alkynes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2662
+            },
+            {
+              "_id": "b18d1da5-a978-4b52-9eeb-297c6f9bb94b",
+              "name": "Uses of alkynes",
+              "topicId": "5d3244dc-e637-400b-9ac8-168cb8f1d45d",
+              "lId": 2663
+            }
+          ]
+        },
+        {
+          "_id": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+          "name": "Nitrogen and its Compounds",
+          "courseClassId": "4aa57746-6074-48dc-8e52-27983e75eb95",
+          "lId": 372,
+          "subTopics": [
+            {
+              "_id": "b6be73a1-3634-43ad-981e-4e360943cf43",
+              "name": "Isolation of nitrogen gas from air",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2664
+            },
+            {
+              "_id": "0a8e0a15-c970-4ffd-bca0-7886ad4ce514",
+              "name": "Laboratory preparation of nitrogen gas",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2665
+            },
+            {
+              "_id": "8cfee587-d759-47f4-9f8b-020b11d7e35a",
+              "name": "Nitrogen (I) Oxide",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2666
+            },
+            {
+              "_id": "309510b0-abb9-406b-8951-491ad5537e48",
+              "name": "Nitrogen (II) Oxide",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2667
+            },
+            {
+              "_id": "770e835a-31f9-4230-b287-916c2084935e",
+              "name": "Nitrogen (IV) Oxide",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2668
+            },
+            {
+              "_id": "28d67b2e-f629-4a69-b6ad-757cb13e024e",
+              "name": "Ammonia",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2669
+            },
+            {
+              "_id": "bcd59021-468a-48cc-a2d6-830fb4a68de7",
+              "name": "Laboratory preparation of ammonia",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2670
+            },
+            {
+              "_id": "018cc3be-dbf9-4f3f-84a8-96626e62177c",
+              "name": "Properties of ammonia",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2671
+            },
+            {
+              "_id": "0839433e-6cd8-420c-bf07-c245789b8476",
+              "name": "Solubility of ammonia in water",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2672
+            },
+            {
+              "_id": "eaa03cc7-0d6f-4378-9b5d-ff55c2ef00cd",
+              "name": "Large scale manufacture of ammonia by Haber process",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2673
+            },
+            {
+              "_id": "a895d124-5716-4b7a-a999-2b264226912c",
+              "name": "Large scale manufacture of Nitric (V) by Ostwald's process",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2674
+            },
+            {
+              "_id": "b8bd0b5d-8d88-4b65-b9d5-aa22f4940d73",
+              "name": "Uses of ammonia",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2675
+            },
+            {
+              "_id": "72f4705a-a35b-47e5-8307-93bbfa997167",
+              "name": "Nitrogen fertilisers ",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2676
+            },
+            {
+              "_id": "d361e032-4a24-4171-9103-f3a55f37fcae",
+              "name": "Nitric (V) acid",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2677
+            },
+            {
+              "_id": "e09f5098-1f30-447a-800e-edf6699a585f",
+              "name": "Laboratory preparation of nitric (V) acid",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2678
+            },
+            {
+              "_id": "612b3039-d607-4bef-b4fa-6c13ba811610",
+              "name": "Industrial manufacture of nitric (V) acid",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2679
+            },
+            {
+              "_id": "81e1bf44-eb41-471c-81e5-a13ba2319a61",
+              "name": "Reactions of dilute nitric (V) acid",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2680
+            },
+            {
+              "_id": "5ae3dff7-51d4-458d-b9f1-8dda4e66c118",
+              "name": "Reactions of concentrated nitric (V) acid",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2681
+            },
+            {
+              "_id": "b2c13548-9c86-491d-9925-7d037405e7fe",
+              "name": "Uses of nitric (V) acid",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2682
+            },
+            {
+              "_id": "df1e98a3-239a-4945-a934-53bae0250f72",
+              "name": "Nitrates",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2683
+            },
+            {
+              "_id": "85b4350e-9293-430e-ace4-6a3e0475bd21",
+              "name": "Action of heat on nitrates",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2684
+            },
+            {
+              "_id": "4c6f74d7-8f75-4e67-b8ae-12839610d31f",
+              "name": "Pollution effects of nitrogen compounds in the atmosphere",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2685
+            },
+            {
+              "_id": "6438e585-b448-4825-9b04-8d3130deb8fa",
+              "name": "Test of Nitrates",
+              "topicId": "0f8f1460-5600-4f56-8e97-bf8f1a8859ba",
+              "lId": 2950
+            }
+          ]
+        },
+        {
+          "_id": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+          "name": "Chlorine and its Compounds",
+          "courseClassId": "4aa57746-6074-48dc-8e52-27983e75eb95",
+          "lId": 373,
+          "subTopics": [
+            {
+              "_id": "de3431a6-31a3-44dd-967b-664e0fedc0c0",
+              "name": "Preparation of chlorine",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2686
+            },
+            {
+              "_id": "ce419fd7-0735-4ca2-96b4-c3c9683f9ee7",
+              "name": "Physical properties of chlorine",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2687
+            },
+            {
+              "_id": "37b755d4-2fbd-4454-a44e-6b96274ea4cf",
+              "name": "Chemical properties of chlorine",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2688
+            },
+            {
+              "_id": "dd55e50c-fcf5-4e52-93e9-3464ad6c62fa",
+              "name": "Oxidising properties of chlorine",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2689
+            },
+            {
+              "_id": "00be983b-ae68-498d-98d6-0e49badf714f",
+              "name": "Reaction of chlorine with alkaline solutions",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2690
+            },
+            {
+              "_id": "f5b08ab0-b904-4457-96db-2e41875fa6de",
+              "name": "Test for chloride ions",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2691
+            },
+            {
+              "_id": "c1dfa2b3-9064-43db-9e2c-fa899e421b9e",
+              "name": "Uses of chlorine and its compounds",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2692
+            },
+            {
+              "_id": "58db65ac-a738-4700-b794-7fb4901b77b4",
+              "name": "Hydrogen Chloride: Laboratory preparation",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2693
+            },
+            {
+              "_id": "4cae3d05-592a-41b8-92e5-97356bb8c8e4",
+              "name": "Chemical properties hydrogen chloride",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2694
+            },
+            {
+              "_id": "9fb6180d-508c-4185-a185-11fd6c10c6d9",
+              "name": "Large scale manufacture of hydrochloric acid",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2695
+            },
+            {
+              "_id": "fb4f3aaf-580c-497f-95a9-0c7711e36df1",
+              "name": "Uses of hydrochloric acid",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2696
+            },
+            {
+              "_id": "baae11ca-1a5e-447d-aa21-f961be55bd5a",
+              "name": "Environmental pollution by chlorine and its compounds",
+              "topicId": "d8a45b92-ca80-436a-bc5f-1d16ca444738",
+              "lId": 2697
+            }
+          ]
+        },
+        {
+          "_id": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+          "name": "Sulphur and its Compounds",
+          "courseClassId": "4aa57746-6074-48dc-8e52-27983e75eb95",
+          "lId": 374,
+          "subTopics": [
+            {
+              "_id": "ff735c6d-beef-4cc3-ab56-529612fbc689",
+              "name": "Extraction of sulphur",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2698
+            },
+            {
+              "_id": "0a26c139-44ff-49e8-9e6d-d8cedebe8c49",
+              "name": "Allotropes of sulphur",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2699
+            },
+            {
+              "_id": "ce6b4c02-706a-48ef-a9ce-a61eba1e59aa",
+              "name": "Physical properties of sulphur",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2700
+            },
+            {
+              "_id": "843942f1-d9e7-4689-89c6-b571dcc901ba",
+              "name": "Chemical properties of sulphur",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2701
+            },
+            {
+              "_id": "ff1568e3-aed8-4583-a43f-0dfc5aa59e7f",
+              "name": "Oxides of sulphur",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2702
+            },
+            {
+              "_id": "5b664310-4102-48ce-b164-0de30a063179",
+              "name": "Uses of sulphur",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2703
+            },
+            {
+              "_id": "be1af901-61a4-49ed-a269-c812a5902881",
+              "name": "Preparation of Sulphur (IV) Oxide",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2704
+            },
+            {
+              "_id": "4e5cc381-767a-44ab-a866-1352ca914e03",
+              "name": "Physical properties of Sulphur (IV) Oxide",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2705
+            },
+            {
+              "_id": "8d9ea933-22b0-4180-a50f-3db7ad94e718",
+              "name": "Chemical properties of Sulphur (IV) Oxide",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2706
+            },
+            {
+              "_id": "6814b4b7-a194-47de-872e-da222b1428c4",
+              "name": "Bleaching action of Sulphur (IV) Oxide",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2707
+            },
+            {
+              "_id": "9d035187-8199-4220-805a-16fb3c4ca318",
+              "name": "Reducing action of Sulphur (IV) Oxide",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2708
+            },
+            {
+              "_id": "ec60b42e-b510-46cb-b97a-55b2bfa01738",
+              "name": "Oxidising action of Sulphur (IV) Oxide",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2709
+            },
+            {
+              "_id": "76f4f38f-8885-4dc9-af69-0e7ffdb1386e",
+              "name": "Preparation of Sulphur (VI) Oxide",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2710
+            },
+            {
+              "_id": "c9390f64-3761-4231-82a0-07a408a5e300",
+              "name": "Test for sulphate and sulphate ions",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2711
+            },
+            {
+              "_id": "cd92ba87-8566-4ff8-a129-768cc389357a",
+              "name": "Uses of Sulphur (IV) Oxide",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2712
+            },
+            {
+              "_id": "d841dcb6-6dc3-4de7-9a18-fad626a7dc19",
+              "name": "Large scale manufacture of sulphuric acid",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2713
+            },
+            {
+              "_id": "431dd195-5e33-4499-a3fc-603921a03dbe",
+              "name": "Properties of sulphuric acid",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2714
+            },
+            {
+              "_id": "8d63c761-7c05-42f8-b7a4-0c438ca297b6",
+              "name": "Properties of dilute sulphuric acid",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2715
+            },
+            {
+              "_id": "ade670ae-bc74-41f4-9df5-91e35c22bb59",
+              "name": "Uses of Sulphuric VI acid",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2716
+            },
+            {
+              "_id": "8856faef-4270-43f1-ab3f-b8e9e753cc73",
+              "name": "Pollution of the atmosphere by compound of sulphur",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2717
+            },
+            {
+              "_id": "7620a9b7-f226-45cc-b6ab-0087b8f299ac",
+              "name": "Hydrogen Sulphide",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2718
+            },
+            {
+              "_id": "938c81b7-996a-4afb-87cf-8637726459a0",
+              "name": "Chemical properties of Hydrogen Sulphides",
+              "topicId": "8d642b99-cf22-4f8e-98eb-3c3748e831a0",
+              "lId": 2719
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "15d710de-43cd-4f9a-9db1-8838a346b183",
+      "name": "Form 4",
+      "order": 4,
+      "courseId": "AwiLP7iuo6ZhFCjkJ",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+          "name": "Acids, Bases and Salts",
+          "courseClassId": "15d710de-43cd-4f9a-9db1-8838a346b183",
+          "lId": 375,
+          "subTopics": [
+            {
+              "_id": "5d4b7e59-62fc-4d21-941f-4fb86eec51a7",
+              "name": "Acids",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2720
+            },
+            {
+              "_id": "4b19d02b-ecfb-4082-a4a7-1484737b42c1",
+              "name": "Strength of Acids",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2721
+            },
+            {
+              "_id": "faaa4b68-a281-4914-a008-fe5d2699074c",
+              "name": "Bases",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2722
+            },
+            {
+              "_id": "cd45e813-4500-4c16-878a-a60969b4c4fc",
+              "name": "Effect of a solvent on a solute",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2723
+            },
+            {
+              "_id": "ec2eedd7-915a-466a-b129-2e185610916a",
+              "name": "Amphoteric oxides and hydroxides",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2724
+            },
+            {
+              "_id": "60039285-54e9-443d-b448-bb73ddf0a22e",
+              "name": "Salts",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2725
+            },
+            {
+              "_id": "3fc2ef65-68db-4e3c-b6b3-7be73ce2aa96",
+              "name": "Precipitation reactions",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2726
+            },
+            {
+              "_id": "7ee9b9d2-851a-4bab-8810-f9bba3a021ce",
+              "name": "Complex ions",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2727
+            },
+            {
+              "_id": "6d2a2f93-de47-4dcf-b437-afc6ab3c53f8",
+              "name": "Solubility and solubility curves",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2728
+            },
+            {
+              "_id": "22cefa35-52ca-4720-b888-07d503c7707f",
+              "name": "Fractional crystallisation",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2729
+            },
+            {
+              "_id": "ed07c93d-9ec4-402f-a362-7f18d131285d",
+              "name": "Hardness of water",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2730
+            },
+            {
+              "_id": "576b1a80-738d-404f-b77e-1d7ba99e11d9",
+              "name": "Methods of removing hardness of water",
+              "topicId": "8c3e8196-c982-4ab7-b4af-ebd02be8416c",
+              "lId": 2731
+            }
+          ]
+        },
+        {
+          "_id": "9aae50de-f928-4db0-b1c2-1c4c592bee6e",
+          "name": "Energy Changes in Chemical and Physical Processes",
+          "courseClassId": "15d710de-43cd-4f9a-9db1-8838a346b183",
+          "lId": 376,
+          "subTopics": [
+            {
+              "_id": "2096ca00-c3bf-4786-83b8-2cce5d3e5410",
+              "name": "Endothermic and exothermic reactions",
+              "topicId": "9aae50de-f928-4db0-b1c2-1c4c592bee6e",
+              "lId": 2732
+            },
+            {
+              "_id": "d07ee10f-612e-43cc-9458-c3cb3826d547",
+              "name": "Enthalpy notation",
+              "topicId": "9aae50de-f928-4db0-b1c2-1c4c592bee6e",
+              "lId": 2733
+            },
+            {
+              "_id": "f10448c0-da5b-4dd8-84f6-d0589072cef1",
+              "name": "Determination of enthalpy changes",
+              "topicId": "9aae50de-f928-4db0-b1c2-1c4c592bee6e",
+              "lId": 2734
+            },
+            {
+              "_id": "6d6b6460-ccca-45c1-a110-97f26970ba81",
+              "name": "Standard conditions for measuring enthalpy changes",
+              "topicId": "9aae50de-f928-4db0-b1c2-1c4c592bee6e",
+              "lId": 2735
+            },
+            {
+              "_id": "98395eb2-0853-45c9-a170-8ba1c26b7452",
+              "name": "Hess' law",
+              "topicId": "9aae50de-f928-4db0-b1c2-1c4c592bee6e",
+              "lId": 2736
+            },
+            {
+              "_id": "e7b8d8b1-fda2-491a-be1a-39949da3b318",
+              "name": "Fuels",
+              "topicId": "9aae50de-f928-4db0-b1c2-1c4c592bee6e",
+              "lId": 2737
+            },
+            {
+              "_id": "b88e598e-012d-462c-9db4-e6b92c927dab",
+              "name": "Heating values of fuels",
+              "topicId": "9aae50de-f928-4db0-b1c2-1c4c592bee6e",
+              "lId": 2738
+            },
+            {
+              "_id": "a2e1bb64-acbf-484e-9449-da648a1a01eb",
+              "name": "Environmental effects of fuels",
+              "topicId": "9aae50de-f928-4db0-b1c2-1c4c592bee6e",
+              "lId": 2739
+            }
+          ]
+        },
+        {
+          "_id": "3d731aff-7301-4dc5-b136-767aebd666bd",
+          "name": "Reaction Rates and Reversible Reactions",
+          "courseClassId": "15d710de-43cd-4f9a-9db1-8838a346b183",
+          "lId": 377,
+          "subTopics": [
+            {
+              "_id": "bf19ef5b-14d3-4abe-bc59-38aeb0bdee7a",
+              "name": "Reaction rates ",
+              "topicId": "3d731aff-7301-4dc5-b136-767aebd666bd",
+              "lId": 2740
+            },
+            {
+              "_id": "0431bc52-3d40-42ec-8e73-77e390d236e7",
+              "name": "Collision theory and activation energy",
+              "topicId": "3d731aff-7301-4dc5-b136-767aebd666bd",
+              "lId": 2741
+            },
+            {
+              "_id": "899328f3-bd61-44ae-8c1d-312650948de0",
+              "name": "Factors affecting the rate of a reaction",
+              "topicId": "3d731aff-7301-4dc5-b136-767aebd666bd",
+              "lId": 2742
+            },
+            {
+              "_id": "e791d061-2921-4f0d-a9b3-6ad907a01383",
+              "name": "Reversible reactions",
+              "topicId": "3d731aff-7301-4dc5-b136-767aebd666bd",
+              "lId": 2743
+            },
+            {
+              "_id": "69b0f328-277d-45b5-8971-fdad16f8b85d",
+              "name": "Equilibrium",
+              "topicId": "3d731aff-7301-4dc5-b136-767aebd666bd",
+              "lId": 2744
+            },
+            {
+              "_id": "0c76f858-5755-4c23-bcf8-72b45c4720b2",
+              "name": "Factors affecting equilibrium ",
+              "topicId": "3d731aff-7301-4dc5-b136-767aebd666bd",
+              "lId": 2745
+            },
+            {
+              "_id": "42db220b-ae3e-4076-aad2-16d918104b1b",
+              "name": "The Haber process",
+              "topicId": "3d731aff-7301-4dc5-b136-767aebd666bd",
+              "lId": 2746
+            },
+            {
+              "_id": "abb9f9b5-be84-4ab6-aac0-6369c6f15c83",
+              "name": "The Contact Process",
+              "topicId": "3d731aff-7301-4dc5-b136-767aebd666bd",
+              "lId": 2747
+            }
+          ]
+        },
+        {
+          "_id": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+          "name": "Electrochemistry",
+          "courseClassId": "15d710de-43cd-4f9a-9db1-8838a346b183",
+          "lId": 378,
+          "subTopics": [
+            {
+              "_id": "dbfc3358-927e-4c00-9e67-2fa242da21ea",
+              "name": "Redox reactions",
+              "topicId": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+              "lId": 2748
+            },
+            {
+              "_id": "51ec9f95-a128-44b1-bd84-3f66ef729f5f",
+              "name": "Oxidation numbers",
+              "topicId": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+              "lId": 2749
+            },
+            {
+              "_id": "a7cbcb55-75c0-464e-94b9-6eb77c880530",
+              "name": "Electrochemical cell",
+              "topicId": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+              "lId": 2750
+            },
+            {
+              "_id": "82c4c9e8-51a5-4e0e-b19d-7c9cd9b791ec",
+              "name": "Standard electrode potentials",
+              "topicId": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+              "lId": 2751
+            },
+            {
+              "_id": "f14c9baf-c6fe-4e73-af2b-874d83614d57",
+              "name": "Fuel cells",
+              "topicId": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+              "lId": 2752
+            },
+            {
+              "_id": "6d402ee5-45c6-4b50-b83d-2dde36e79532",
+              "name": "Electrolysis",
+              "topicId": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+              "lId": 2753
+            },
+            {
+              "_id": "479641d5-bae6-4363-b6a6-c9b77cd892f7",
+              "name": "Preferential discharge of ions during electrolysis",
+              "topicId": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+              "lId": 2754
+            },
+            {
+              "_id": "6cc6f6e8-9a15-4fa4-90ad-246b1a9c3b90",
+              "name": "Factors affecting preferential discharge during electrolysis",
+              "topicId": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+              "lId": 2755
+            },
+            {
+              "_id": "cdb4a811-d954-472e-ad04-b4a1417f3965",
+              "name": "Application of electrolysis",
+              "topicId": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+              "lId": 2756
+            },
+            {
+              "_id": "38c4a2bc-5d3d-4105-ad4f-1f6ff656e5a7",
+              "name": "Quantitative treatment of electrolysis",
+              "topicId": "af3d9c7b-1175-42cb-9502-d4927692e2e3",
+              "lId": 2757
+            }
+          ]
+        },
+        {
+          "_id": "b522210a-8a82-484a-861b-3854c22ec07a",
+          "name": "Metals",
+          "courseClassId": "15d710de-43cd-4f9a-9db1-8838a346b183",
+          "lId": 379,
+          "subTopics": [
+            {
+              "_id": "9936b535-bb0a-4a70-960a-4757edddd293",
+              "name": "Chief ores of metals",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2758
+            },
+            {
+              "_id": "607c48c9-2519-4a9d-9a2a-225bcbf23630",
+              "name": "Sodium",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2759
+            },
+            {
+              "_id": "264bb555-b4cc-4e2b-9441-ef4a33389055",
+              "name": "Aluminium",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2760
+            },
+            {
+              "_id": "ec275575-d42c-4085-b34c-291b30150d1f",
+              "name": "Iron",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2761
+            },
+            {
+              "_id": "24e9a2b3-8422-4da3-9159-01abe6c59320",
+              "name": "Zinc",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2762
+            },
+            {
+              "_id": "bed2d1b1-3a20-4429-8696-eea1264cb9ef",
+              "name": "Lead",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2763
+            },
+            {
+              "_id": "7331c2b0-68c2-42f9-8f48-ef3023d832da",
+              "name": "Copper",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2764
+            },
+            {
+              "_id": "bb6aa2ff-ab73-4f8d-aeda-0d36400de036",
+              "name": "Properties of some metals",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2765
+            },
+            {
+              "_id": "69b22aea-8f60-4741-9f9f-9e855ccfc369",
+              "name": "Physical properties of metals",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2766
+            },
+            {
+              "_id": "3c156f67-7e4f-4b7f-957c-0a6947aa1aef",
+              "name": "Chemical properties of metals",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2767
+            },
+            {
+              "_id": "615f2d25-ec06-4669-8549-e2ea63b91309",
+              "name": "Uses of metals",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2768
+            },
+            {
+              "_id": "acae5afd-1c2f-4b24-871e-fcd114916fa6",
+              "name": "Effects of extraction of metals on the environment ",
+              "topicId": "b522210a-8a82-484a-861b-3854c22ec07a",
+              "lId": 2769
+            }
+          ]
+        },
+        {
+          "_id": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+          "name": "Organic Chemistry 2 (Alkanols and Alkanoic Acids)",
+          "courseClassId": "15d710de-43cd-4f9a-9db1-8838a346b183",
+          "lId": 380,
+          "subTopics": [
+            {
+              "_id": "0b9d695c-fcbe-444e-8ee3-0a4042c2fee9",
+              "name": "Alkanols (Alcohols)",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2770
+            },
+            {
+              "_id": "e8a04785-450e-401c-b70c-3f037c2e2516",
+              "name": "Isomerism",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2771
+            },
+            {
+              "_id": "34c469ff-1e58-4772-8244-e4625121522d",
+              "name": "Preparation of Alkanols",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2772
+            },
+            {
+              "_id": "de97325d-81b0-426d-92e0-15f7665363de",
+              "name": "Physical properties of alkanols",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2773
+            },
+            {
+              "_id": "1ecc10f5-dd4f-4226-b860-b8fd9ee6aaa0",
+              "name": "Uses of alkanols",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2774
+            },
+            {
+              "_id": "d8f97371-e6f0-461c-bc44-fb2aa2ac236a",
+              "name": "Chemical properties of alkanols",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2775
+            },
+            {
+              "_id": "80f6022f-a07e-443d-a97c-bf812af35902",
+              "name": "Alcohol and health",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2776
+            },
+            {
+              "_id": "11571936-89cc-4b87-99d1-c452737de1b0",
+              "name": "Alkalonic acids (Carboxylic acid)",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2777
+            },
+            {
+              "_id": "0bdbedb1-c720-4e7c-b91b-e5ee7803de21",
+              "name": "Laboratory preparation of alkanoic acid",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2778
+            },
+            {
+              "_id": "064b9233-f6f1-42f3-8f6c-a698bae80fc5",
+              "name": "Physical properties ",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2779
+            },
+            {
+              "_id": "86d2ca3c-4916-4aee-9a17-b2c014ce4833",
+              "name": "Chemical properties of alkanoic acids",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2780
+            },
+            {
+              "_id": "6b281e0a-054f-4e58-93e9-2907ad3f804b",
+              "name": "Uses of alkanoic acis",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2781
+            },
+            {
+              "_id": "f8577c76-d63f-432e-9e70-03cdbdaa722f",
+              "name": "Detergents ",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2782
+            },
+            {
+              "_id": "609cb24b-838e-42d1-9ff1-0c35204ae709",
+              "name": "Soapy detergents ",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2783
+            },
+            {
+              "_id": "4a6eaaf8-97bf-43e3-b3a4-7271f5b0b4c6",
+              "name": "Mode of action of soap in cleaning",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2784
+            },
+            {
+              "_id": "c5386ab6-95d0-48f0-9c96-b6f222742c86",
+              "name": "Soapless detergents ",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2785
+            },
+            {
+              "_id": "89507a91-d986-494a-ad1f-f34dad766b39",
+              "name": "Pollution effect of detergents ",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2786
+            },
+            {
+              "_id": "b983dd2d-63fd-494f-b4a0-9c54f62ed815",
+              "name": "Polymers",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2787
+            },
+            {
+              "_id": "7ad81078-4fdb-4da1-9edf-fa8071f68341",
+              "name": "Rubber",
+              "topicId": "a833b9dc-a104-4a8b-8015-b978b233e09d",
+              "lId": 2788
+            }
+          ]
+        },
+        {
+          "_id": "39c27e31-abb2-4bf1-a9f4-1c95d0843f87",
+          "name": "Radioactivity",
+          "courseClassId": "15d710de-43cd-4f9a-9db1-8838a346b183",
+          "lId": 381,
+          "subTopics": [
+            {
+              "_id": "daabb8fc-e335-4ba4-9393-59aff83d60b9",
+              "name": "Stability of isotopes and elements ",
+              "topicId": "39c27e31-abb2-4bf1-a9f4-1c95d0843f87",
+              "lId": 2789
+            },
+            {
+              "_id": "730659ca-90a4-4279-bd89-0b30e7f5c979",
+              "name": "Types of radioactivity",
+              "topicId": "39c27e31-abb2-4bf1-a9f4-1c95d0843f87",
+              "lId": 2790
+            },
+            {
+              "_id": "941a5754-0d80-40e5-b7e2-aeec7b827398",
+              "name": "Types of radiation",
+              "topicId": "39c27e31-abb2-4bf1-a9f4-1c95d0843f87",
+              "lId": 2791
+            },
+            {
+              "_id": "1833764f-61a9-45ee-8208-d19aea6a3d88",
+              "name": "Properties of radiations",
+              "topicId": "39c27e31-abb2-4bf1-a9f4-1c95d0843f87",
+              "lId": 2792
+            },
+            {
+              "_id": "1166edbd-ffcf-4d3a-9702-48e6e9fe08e3",
+              "name": "Nuclear reactions",
+              "topicId": "39c27e31-abb2-4bf1-a9f4-1c95d0843f87",
+              "lId": 2793
+            },
+            {
+              "_id": "65777c86-a29e-49b8-85e2-4b57605d0f21",
+              "name": "Nuclear fission",
+              "topicId": "39c27e31-abb2-4bf1-a9f4-1c95d0843f87",
+              "lId": 2794
+            },
+            {
+              "_id": "abce9de2-19fe-4dc5-8055-047525e025f7",
+              "name": "Applications of radioactivity",
+              "topicId": "39c27e31-abb2-4bf1-a9f4-1c95d0843f87",
+              "lId": 2795
+            },
+            {
+              "_id": "32944ddd-4a98-4aad-81bf-cd1b15010a1e",
+              "name": "Dangers of radioactivity",
+              "topicId": "39c27e31-abb2-4bf1-a9f4-1c95d0843f87",
+              "lId": 2796
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

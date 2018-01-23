@@ -1,0 +1,2216 @@
+{
+  "_id": "3ed14a29-7ea7-464f-92b5-4f6eb18db093",
+  "name": "Geography",
+  "subjectId": "apGATHEgHJrcTmBL6",
+  "lId": 11,
+  "classes": [
+    {
+      "_id": "e88ab503-3180-47e0-92cd-db255ad72f06",
+      "name": "Form 1",
+      "order": 1,
+      "courseId": "apGATHEgHJrcTmBL6",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "76ccfc56-f4af-4b50-88b2-a0a011198d97",
+          "name": "Introduction to Geography",
+          "courseClassId": "e88ab503-3180-47e0-92cd-db255ad72f06",
+          "lId": 69,
+          "subTopics": [
+            {
+              "_id": "303dd361-ff42-429e-9e35-89876ce938e4",
+              "name": "The meaning of Geography",
+              "topicId": "76ccfc56-f4af-4b50-88b2-a0a011198d97",
+              "lId": 766
+            },
+            {
+              "_id": "1be4ced6-bde2-404b-a26c-0e921e452b62",
+              "name": "Environment",
+              "topicId": "76ccfc56-f4af-4b50-88b2-a0a011198d97",
+              "lId": 767
+            },
+            {
+              "_id": "53d55952-95c4-433a-9b7a-72764ba6b0f2",
+              "name": "Branches of Geography",
+              "topicId": "76ccfc56-f4af-4b50-88b2-a0a011198d97",
+              "lId": 768
+            },
+            {
+              "_id": "63891cbe-fc72-43d5-8cb9-29ce62607629",
+              "name": "Relationship between Geography and other disciplines",
+              "topicId": "76ccfc56-f4af-4b50-88b2-a0a011198d97",
+              "lId": 769
+            },
+            {
+              "_id": "b1ed163c-45cb-4f0d-9652-79ffa231c971",
+              "name": "Importance of studying Geography",
+              "topicId": "76ccfc56-f4af-4b50-88b2-a0a011198d97",
+              "lId": 770
+            }
+          ]
+        },
+        {
+          "_id": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+          "name": "The Solar System and the Earth",
+          "courseClassId": "e88ab503-3180-47e0-92cd-db255ad72f06",
+          "lId": 70,
+          "subTopics": [
+            {
+              "_id": "47c8109d-94e4-4e8e-b840-2357d68befa4",
+              "name": "The solar system",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 771
+            },
+            {
+              "_id": "09b032ac-379d-4123-ae83-fcf4c7affb5b",
+              "name": "The earth",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 772
+            },
+            {
+              "_id": "17e91977-a730-4a14-9bf8-35d50387a5b7",
+              "name": "Origin of the earth and solar system",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 773
+            },
+            {
+              "_id": "fc86bff8-b159-4cfa-8098-64f1277953ea",
+              "name": "The shape of the earth",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 774
+            },
+            {
+              "_id": "577d3042-a677-4c8e-bdfa-696a5186c5d1",
+              "name": "The size of the earth",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 775
+            },
+            {
+              "_id": "5305fd94-426f-4dbe-ad7f-0cfc56b6dff9",
+              "name": "The movement of the earth",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 776
+            },
+            {
+              "_id": "8099d770-fded-4526-976b-5c2121a8931f",
+              "name": "The structure of the earth",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 777
+            },
+            {
+              "_id": "c504c57d-f855-4f97-89d8-14c047d83eec",
+              "name": "The atmosphere",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 778
+            },
+            {
+              "_id": "10a6e800-3963-49b4-81a1-14e75337669b",
+              "name": "The hydrosphere",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 779
+            },
+            {
+              "_id": "3a8798e6-7c2c-404c-8166-dc07e54053bd",
+              "name": "The crust",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 780
+            },
+            {
+              "_id": "ff75c583-af49-4ecd-a3ed-93b5d42c14cd",
+              "name": "The mantle",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 781
+            },
+            {
+              "_id": "378a5233-15c5-4d6f-b584-87023dbadc16",
+              "name": "The core",
+              "topicId": "436f2527-f9ed-4092-8ed4-7cc3bfe51b64",
+              "lId": 782
+            }
+          ]
+        },
+        {
+          "_id": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+          "name": "Weather",
+          "courseClassId": "e88ab503-3180-47e0-92cd-db255ad72f06",
+          "lId": 71,
+          "subTopics": [
+            {
+              "_id": "84884cd4-55ad-4f63-9db7-fb20f5ad1920",
+              "name": "Definition of weather",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 783
+            },
+            {
+              "_id": "68cf3146-090a-4ce8-97a1-9ad0abf25e1e",
+              "name": "The weather station",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 784
+            },
+            {
+              "_id": "75783cd9-c9c0-4156-a9fd-9ce834c32d2d",
+              "name": "Weather station instruments ",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 785
+            },
+            {
+              "_id": "d27fd1e8-893e-4626-859e-9033bcc140b6",
+              "name": "Siting the weather station",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 786
+            },
+            {
+              "_id": "94c4f2e2-5cad-4ecd-be1f-896d3bafd8c2",
+              "name": "Elements of weather",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 787
+            },
+            {
+              "_id": "b584c282-5fe0-400b-907b-09e1685c6ac9",
+              "name": "The atmosphere",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 788
+            },
+            {
+              "_id": "ddf2204b-a62c-49e2-a969-43812bd9d884",
+              "name": "Composition of the atmosphere",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 789
+            },
+            {
+              "_id": "ca95f9b1-c1c2-4b8a-b7d4-6bbf3c3e159f",
+              "name": "Structure of the atmosphere",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 790
+            },
+            {
+              "_id": "6db95ee1-fd85-430c-add1-38d3dd24cf41",
+              "name": "Weather forecasting",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 791
+            },
+            {
+              "_id": "a0208523-91b5-408d-9b60-d493c014cf8e",
+              "name": "Effects of weather on human activities",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 792
+            },
+            {
+              "_id": "98d0cd24-9717-4a33-b531-39260cdd1ef1",
+              "name": "Fieldwork",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 793
+            },
+            {
+              "_id": "e30a3946-8bfe-4866-b625-da9965629809",
+              "name": "Weather observation and recording",
+              "topicId": "ef0584b7-89c3-4a6c-83aa-f483731dc159",
+              "lId": 794
+            }
+          ]
+        },
+        {
+          "_id": "bad1b8c3-464a-4bb9-b859-18b4367317eb",
+          "name": "Statistical Methods 1",
+          "courseClassId": "e88ab503-3180-47e0-92cd-db255ad72f06",
+          "lId": 72,
+          "subTopics": [
+            {
+              "_id": "d0f9a274-725f-4881-a6eb-c68f83945a93",
+              "name": "Meaning of statistics",
+              "topicId": "bad1b8c3-464a-4bb9-b859-18b4367317eb",
+              "lId": 795
+            },
+            {
+              "_id": "07624288-da30-4d9b-85c0-d3c8fb6177ab",
+              "name": "Significance of statistics",
+              "topicId": "bad1b8c3-464a-4bb9-b859-18b4367317eb",
+              "lId": 796
+            },
+            {
+              "_id": "fefa2b8a-1699-4c4c-a448-304e8fe605ef",
+              "name": "Types of statistical data",
+              "topicId": "bad1b8c3-464a-4bb9-b859-18b4367317eb",
+              "lId": 797
+            },
+            {
+              "_id": "bc09689c-1bbc-4c12-b376-ed1fa246af0a",
+              "name": "Nature of statistical data",
+              "topicId": "bad1b8c3-464a-4bb9-b859-18b4367317eb",
+              "lId": 798
+            },
+            {
+              "_id": "be0157c0-962f-47d8-bd4b-1ef700db33c8",
+              "name": "Sources of statistical data",
+              "topicId": "bad1b8c3-464a-4bb9-b859-18b4367317eb",
+              "lId": 799
+            },
+            {
+              "_id": "435501db-4620-4aaf-b221-605d9da5aeca",
+              "name": "Methods of collecting data",
+              "topicId": "bad1b8c3-464a-4bb9-b859-18b4367317eb",
+              "lId": 800
+            },
+            {
+              "_id": "4050c3ff-6c14-439b-8ee5-e714c8ddf9dc",
+              "name": "Statistical data analysis",
+              "topicId": "bad1b8c3-464a-4bb9-b859-18b4367317eb",
+              "lId": 801
+            },
+            {
+              "_id": "8fb89931-9660-460a-b2c3-b5f3831ac9f3",
+              "name": "Statistical data presentation",
+              "topicId": "bad1b8c3-464a-4bb9-b859-18b4367317eb",
+              "lId": 802
+            }
+          ]
+        },
+        {
+          "_id": "f5fb428a-844c-44a9-921c-19111ed5f460",
+          "name": "Maps and Mapwork 1",
+          "courseClassId": "e88ab503-3180-47e0-92cd-db255ad72f06",
+          "lId": 73,
+          "subTopics": [
+            {
+              "_id": "06b07e6d-3952-4583-8ee9-12e7b6d28f98",
+              "name": "Definitions of maps, plans and pictures",
+              "topicId": "f5fb428a-844c-44a9-921c-19111ed5f460",
+              "lId": 803
+            },
+            {
+              "_id": "a926dd09-690d-4809-a09e-2598fca8cb4c",
+              "name": "Types of maps",
+              "topicId": "f5fb428a-844c-44a9-921c-19111ed5f460",
+              "lId": 804
+            },
+            {
+              "_id": "ea43f514-afd5-4880-ad7f-005b9777f6d2",
+              "name": "Uses of maps",
+              "topicId": "f5fb428a-844c-44a9-921c-19111ed5f460",
+              "lId": 805
+            },
+            {
+              "_id": "a0d50500-906e-4f37-910e-ec0c245af176",
+              "name": "Marginal information",
+              "topicId": "f5fb428a-844c-44a9-921c-19111ed5f460",
+              "lId": 806
+            },
+            {
+              "_id": "c8348512-b931-4cb7-b703-6a3f04210f86",
+              "name": "Map scales",
+              "topicId": "f5fb428a-844c-44a9-921c-19111ed5f460",
+              "lId": 807
+            },
+            {
+              "_id": "d93de83e-6ab1-4b93-a883-157ae968de86",
+              "name": "Types of scales",
+              "topicId": "f5fb428a-844c-44a9-921c-19111ed5f460",
+              "lId": 808
+            },
+            {
+              "_id": "d226e989-4b88-4362-97bd-f601d6cbec17",
+              "name": "Conversion scales",
+              "topicId": "f5fb428a-844c-44a9-921c-19111ed5f460",
+              "lId": 809
+            },
+            {
+              "_id": "5bb17fb7-3baa-45d2-bb41-bdee6183871d",
+              "name": "Sizes of scales",
+              "topicId": "f5fb428a-844c-44a9-921c-19111ed5f460",
+              "lId": 810
+            },
+            {
+              "_id": "5c17ead5-90ce-4757-9873-16632e6d298c",
+              "name": "Uses of scales",
+              "topicId": "f5fb428a-844c-44a9-921c-19111ed5f460",
+              "lId": 811
+            }
+          ]
+        },
+        {
+          "_id": "2fd67ca3-37c0-4708-831d-b6dff5fdea59",
+          "name": "Fieldwork",
+          "courseClassId": "e88ab503-3180-47e0-92cd-db255ad72f06",
+          "lId": 74,
+          "subTopics": [
+            {
+              "_id": "9eeda09f-c966-4287-a4b7-fb196ca0d9fa",
+              "name": "Types of fieldwork",
+              "topicId": "2fd67ca3-37c0-4708-831d-b6dff5fdea59",
+              "lId": 812
+            },
+            {
+              "_id": "d35e254a-73bf-4ca0-b923-0349e4984413",
+              "name": "Importance of fieldwork",
+              "topicId": "2fd67ca3-37c0-4708-831d-b6dff5fdea59",
+              "lId": 813
+            },
+            {
+              "_id": "4b6386b3-fbe9-4f55-bb27-3c04e1fcadec",
+              "name": "Fieldwork procedure",
+              "topicId": "2fd67ca3-37c0-4708-831d-b6dff5fdea59",
+              "lId": 814
+            },
+            {
+              "_id": "c181f867-48d6-4304-8884-2412e53059af",
+              "name": "Methods of data collection",
+              "topicId": "2fd67ca3-37c0-4708-831d-b6dff5fdea59",
+              "lId": 815
+            },
+            {
+              "_id": "7c5c697a-a0bf-4b53-8e12-ed4926db24ef",
+              "name": "Methods of recording data",
+              "topicId": "2fd67ca3-37c0-4708-831d-b6dff5fdea59",
+              "lId": 816
+            },
+            {
+              "_id": "cdc7c0ca-580c-4caf-a2bb-973ac2daf110",
+              "name": "Methods of data analysis",
+              "topicId": "2fd67ca3-37c0-4708-831d-b6dff5fdea59",
+              "lId": 817
+            },
+            {
+              "_id": "0b02741b-4d5d-446e-8453-09abe7be40f7",
+              "name": "Methods of data presentation",
+              "topicId": "2fd67ca3-37c0-4708-831d-b6dff5fdea59",
+              "lId": 818
+            }
+          ]
+        },
+        {
+          "_id": "8a4fd430-45f2-401c-9455-a1e2a5f524ae",
+          "name": "Minerals and Rocks",
+          "courseClassId": "e88ab503-3180-47e0-92cd-db255ad72f06",
+          "lId": 75,
+          "subTopics": [
+            {
+              "_id": "b63fbfc2-851d-44e5-8a60-89ecb479a4bb",
+              "name": "Minerals",
+              "topicId": "8a4fd430-45f2-401c-9455-a1e2a5f524ae",
+              "lId": 819
+            },
+            {
+              "_id": "a47be7f9-7ee4-4ba9-b3db-8063052422db",
+              "name": "Characteristics of minerals",
+              "topicId": "8a4fd430-45f2-401c-9455-a1e2a5f524ae",
+              "lId": 820
+            },
+            {
+              "_id": "66243da9-2a52-48b5-9c26-d82fb712171d",
+              "name": "Rocks",
+              "topicId": "8a4fd430-45f2-401c-9455-a1e2a5f524ae",
+              "lId": 821
+            },
+            {
+              "_id": "251c8c2b-3bd1-4dcd-a21e-f2f04ed94398",
+              "name": "Classification of rocks",
+              "topicId": "8a4fd430-45f2-401c-9455-a1e2a5f524ae",
+              "lId": 822
+            },
+            {
+              "_id": "2fa872ec-030c-42f6-ae27-051197c58c3a",
+              "name": "Age of rocks",
+              "topicId": "8a4fd430-45f2-401c-9455-a1e2a5f524ae",
+              "lId": 823
+            },
+            {
+              "_id": "5cef5930-b063-4b51-bd45-939e61218705",
+              "name": "Distribution of major rocks in Kenya",
+              "topicId": "8a4fd430-45f2-401c-9455-a1e2a5f524ae",
+              "lId": 824
+            },
+            {
+              "_id": "283942d2-49ee-4bfc-8f7f-f5dc279ed7ac",
+              "name": "Significance of rocks",
+              "topicId": "8a4fd430-45f2-401c-9455-a1e2a5f524ae",
+              "lId": 825
+            }
+          ]
+        },
+        {
+          "_id": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+          "name": "Mining",
+          "courseClassId": "e88ab503-3180-47e0-92cd-db255ad72f06",
+          "lId": 76,
+          "subTopics": [
+            {
+              "_id": "66a68758-a840-4f0a-92c7-0a97084fdf76",
+              "name": "Introduction",
+              "topicId": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+              "lId": 826
+            },
+            {
+              "_id": "68287dfa-fc19-4d45-998a-447f9b56f25c",
+              "name": "Occurrence of minerals ",
+              "topicId": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+              "lId": 827
+            },
+            {
+              "_id": "8d0400a3-dde9-49a7-bbff-885e4548ece3",
+              "name": "Factors influencing exploitation of minerals",
+              "topicId": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+              "lId": 828
+            },
+            {
+              "_id": "00990a9f-412a-4dbf-9fbb-804b2aae0988",
+              "name": "Methods of mining ",
+              "topicId": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+              "lId": 829
+            },
+            {
+              "_id": "ef0869e7-fc11-4f78-8724-7b6697500b60",
+              "name": "Types of minerals",
+              "topicId": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+              "lId": 830
+            },
+            {
+              "_id": "c428e96c-7af5-4459-9625-ba379e2bdb04",
+              "name": "Major minerals in East Africa",
+              "topicId": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+              "lId": 831
+            },
+            {
+              "_id": "5d63f8ad-b511-4287-9906-eb7e136c84a1",
+              "name": "Mineral potential in East africa",
+              "topicId": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+              "lId": 832
+            },
+            {
+              "_id": "677ae521-9b6e-43f7-be3a-8b5ac95051e8",
+              "name": "Minerals in other regions of the world",
+              "topicId": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+              "lId": 833
+            },
+            {
+              "_id": "3819ccc9-6af3-40bf-a89e-4762046400f4",
+              "name": "Significance of minerals in Kenya",
+              "topicId": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+              "lId": 834
+            },
+            {
+              "_id": "2659d4b2-862d-4adf-b5e3-c358b7641ed3",
+              "name": "Effects of mining on the environment",
+              "topicId": "7932b9e0-fd24-409f-984b-cc318c3ea65c",
+              "lId": 835
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+      "name": "Form 2",
+      "order": 2,
+      "courseId": "apGATHEgHJrcTmBL6",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "11fb74b6-a4c5-402e-889d-5682ba886566",
+          "name": "Internal Land-Forming Processes",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 77,
+          "subTopics": [
+            {
+              "_id": "25053935-414d-4bfe-892f-fd15c8892443",
+              "name": "Earth movements",
+              "topicId": "11fb74b6-a4c5-402e-889d-5682ba886566",
+              "lId": 836
+            },
+            {
+              "_id": "dfd38633-8365-4787-a7fd-6f63baa97e3e",
+              "name": "Causes of earth movements",
+              "topicId": "11fb74b6-a4c5-402e-889d-5682ba886566",
+              "lId": 837
+            },
+            {
+              "_id": "23de3666-f29e-4fe1-b9d0-e1f6f8c8476a",
+              "name": "Results of earth movements",
+              "topicId": "11fb74b6-a4c5-402e-889d-5682ba886566",
+              "lId": 838
+            },
+            {
+              "_id": "90eca19c-1098-497f-946c-2d07345a90d3",
+              "name": "Theory of continental drift",
+              "topicId": "11fb74b6-a4c5-402e-889d-5682ba886566",
+              "lId": 839
+            },
+            {
+              "_id": "a91c2eda-dfb6-4cda-a930-b7041947b16b",
+              "name": "Plate tectonics theory",
+              "topicId": "11fb74b6-a4c5-402e-889d-5682ba886566",
+              "lId": 840
+            },
+            {
+              "_id": "93c4b774-463f-41ff-b672-6325bd80de40",
+              "name": "Folding",
+              "topicId": "11fb74b6-a4c5-402e-889d-5682ba886566",
+              "lId": 841
+            },
+            {
+              "_id": "8fab1283-19ae-4a10-bad2-6ec539da1128",
+              "name": "Significance of folding",
+              "topicId": "11fb74b6-a4c5-402e-889d-5682ba886566",
+              "lId": 842
+            },
+            {
+              "_id": "0ef95999-246b-4892-82d9-0acfd238b227",
+              "name": "Faulting",
+              "topicId": "11fb74b6-a4c5-402e-889d-5682ba886566",
+              "lId": 843
+            },
+            {
+              "_id": "9c23a5f7-67fe-4ab2-9af0-413d94a1a7b4",
+              "name": "Significance of faulting",
+              "topicId": "11fb74b6-a4c5-402e-889d-5682ba886566",
+              "lId": 844
+            },
+            {
+              "_id": "db5f4bda-6330-42cd-99fe-d7d43475bb58",
+              "name": "Fieldwork",
+              "topicId": "11fb74b6-a4c5-402e-889d-5682ba886566",
+              "lId": 845
+            }
+          ]
+        },
+        {
+          "_id": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+          "name": "Vulcanicity and Earthquakes",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 78,
+          "subTopics": [
+            {
+              "_id": "1d80b6ae-8e59-4550-a464-ca6cd9c3d4c9",
+              "name": "Introduction",
+              "topicId": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+              "lId": 846
+            },
+            {
+              "_id": "57b62255-0f30-4dfc-85f2-5173973964a2",
+              "name": "Intrusive features",
+              "topicId": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+              "lId": 847
+            },
+            {
+              "_id": "1375938b-10a2-45bd-b038-7ff1774a0dc0",
+              "name": "Extrusive features",
+              "topicId": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+              "lId": 848
+            },
+            {
+              "_id": "c6043ec8-816d-42c7-808b-11f23a59db91",
+              "name": "Types of volcanoes",
+              "topicId": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+              "lId": 849
+            },
+            {
+              "_id": "a09a7c1e-5dd6-4977-9b7c-2a489aa8414e",
+              "name": "Distribution of volcanoes and volcanic features",
+              "topicId": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+              "lId": 850
+            },
+            {
+              "_id": "ce8d1e7a-a918-4ce6-bd1c-4495083fe8c5",
+              "name": "Significance of vulcanicity",
+              "topicId": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+              "lId": 851
+            },
+            {
+              "_id": "53443371-138e-44cb-8522-17d10cf9328b",
+              "name": "Earthquakes",
+              "topicId": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+              "lId": 852
+            },
+            {
+              "_id": "7ecb7948-d25e-48bc-b866-dc674a93d84e",
+              "name": "World distribution of earthquakes",
+              "topicId": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+              "lId": 853
+            },
+            {
+              "_id": "99d91a68-1e81-4b60-a67f-7795c6a8f7fa",
+              "name": "Effects of earthquakes",
+              "topicId": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+              "lId": 854
+            },
+            {
+              "_id": "6818c450-6f8b-413b-9242-5082c4c74cf1",
+              "name": "Fieldwork",
+              "topicId": "d40b4456-c46a-4f9f-b9e6-106e3f783c0f",
+              "lId": 855
+            }
+          ]
+        },
+        {
+          "_id": "d9e1f684-f561-4037-9bf9-92d29a937033",
+          "name": "Mapwork 2",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 79,
+          "subTopics": [
+            {
+              "_id": "5bfd4916-757b-4376-848b-cbd1c2cc7161",
+              "name": "Direction and bearing",
+              "topicId": "d9e1f684-f561-4037-9bf9-92d29a937033",
+              "lId": 856
+            },
+            {
+              "_id": "ba01d834-fc23-4ca5-9f0f-45fe13640de7",
+              "name": "Location of places",
+              "topicId": "d9e1f684-f561-4037-9bf9-92d29a937033",
+              "lId": 857
+            },
+            {
+              "_id": "98f3fa38-a59e-40c1-94a5-6fad570ac95d",
+              "name": "Methods of representing relief on topographical maps",
+              "topicId": "d9e1f684-f561-4037-9bf9-92d29a937033",
+              "lId": 858
+            }
+          ]
+        },
+        {
+          "_id": "636df68d-54d6-43a4-bd7e-81f582334f48",
+          "name": "Photograph",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 80,
+          "subTopics": [
+            {
+              "_id": "0f8cedf3-7df5-4bf7-b459-4f9600828cdc",
+              "name": "Types of photographs",
+              "topicId": "636df68d-54d6-43a4-bd7e-81f582334f48",
+              "lId": 859
+            },
+            {
+              "_id": "a8578cb1-c0a0-4ae6-ba5e-aa90b87f8fad",
+              "name": "Parts of a photograph",
+              "topicId": "636df68d-54d6-43a4-bd7e-81f582334f48",
+              "lId": 860
+            },
+            {
+              "_id": "214c2f9f-7886-4c90-846e-e9cb2e8bd0be",
+              "name": "Uses of photographs",
+              "topicId": "636df68d-54d6-43a4-bd7e-81f582334f48",
+              "lId": 861
+            },
+            {
+              "_id": "ff9d2f8d-4131-4dbb-906b-e894dae31cb9",
+              "name": "Interpretation of photographs",
+              "topicId": "636df68d-54d6-43a4-bd7e-81f582334f48",
+              "lId": 862
+            },
+            {
+              "_id": "642da2f6-823c-4554-b992-d8a979068200",
+              "name": "Studying physical features on photographs",
+              "topicId": "636df68d-54d6-43a4-bd7e-81f582334f48",
+              "lId": 863
+            },
+            {
+              "_id": "d405806f-edde-4162-a1ec-14c30d64594a",
+              "name": "Sketching diagrams from photograph",
+              "topicId": "636df68d-54d6-43a4-bd7e-81f582334f48",
+              "lId": 864
+            }
+          ]
+        },
+        {
+          "_id": "c08e53a1-1d78-4f3d-a3dd-efaedbdbab2a",
+          "name": "Statistical Methods 2",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 81,
+          "subTopics": [
+            {
+              "_id": "e3dbace6-b975-4769-920e-cd0658e47939",
+              "name": "Comparative line graph",
+              "topicId": "c08e53a1-1d78-4f3d-a3dd-efaedbdbab2a",
+              "lId": 865
+            },
+            {
+              "_id": "fc72ab89-e366-4a01-bd68-f798ead11e64",
+              "name": "Comparative bar graph",
+              "topicId": "c08e53a1-1d78-4f3d-a3dd-efaedbdbab2a",
+              "lId": 866
+            },
+            {
+              "_id": "abd26e82-866f-4aa4-baff-1f21e7cb0449",
+              "name": "Divided bars or rectangles",
+              "topicId": "c08e53a1-1d78-4f3d-a3dd-efaedbdbab2a",
+              "lId": 867
+            },
+            {
+              "_id": "03e496a8-cd18-4e9b-be2c-d5381a86f766",
+              "name": "Analysis and interpretation of statistical diagrams",
+              "topicId": "c08e53a1-1d78-4f3d-a3dd-efaedbdbab2a",
+              "lId": 868
+            }
+          ]
+        },
+        {
+          "_id": "6f6a5e14-14f6-477e-9326-47027d75688e",
+          "name": "Climate 1 - Introduction and Kenya's Climatic Regions",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 82,
+          "subTopics": [
+            {
+              "_id": "29a18d0d-ede1-43af-9096-d31c5f349ffe",
+              "name": "Factors influencing climate",
+              "topicId": "6f6a5e14-14f6-477e-9326-47027d75688e",
+              "lId": 869
+            },
+            {
+              "_id": "6e94ee83-97a1-4bfd-a3a6-4c767bf3c7ef",
+              "name": "How to describe climate",
+              "topicId": "6f6a5e14-14f6-477e-9326-47027d75688e",
+              "lId": 870
+            },
+            {
+              "_id": "5e3ab084-9de5-4789-b147-c58ecedf592c",
+              "name": "The climatic regions of Kenya",
+              "topicId": "6f6a5e14-14f6-477e-9326-47027d75688e",
+              "lId": 871
+            }
+          ]
+        },
+        {
+          "_id": "d2f5b139-7ace-44e5-9968-7c3f35411717",
+          "name": "Climate 2 - World Climatic Regions",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 83,
+          "subTopics": [
+            {
+              "_id": "ba593d57-1b74-4266-a701-8641eedb5861",
+              "name": "Hot climates",
+              "topicId": "d2f5b139-7ace-44e5-9968-7c3f35411717",
+              "lId": 872
+            },
+            {
+              "_id": "6538b80b-6569-4277-8393-6a76d219ab87",
+              "name": "Warm climates",
+              "topicId": "d2f5b139-7ace-44e5-9968-7c3f35411717",
+              "lId": 873
+            },
+            {
+              "_id": "f872700c-963a-47fc-9b70-c7a9552d2f5d",
+              "name": "Cool climates",
+              "topicId": "d2f5b139-7ace-44e5-9968-7c3f35411717",
+              "lId": 874
+            },
+            {
+              "_id": "86a91374-27b9-435a-982b-e948cc21a02b",
+              "name": "Cold climates",
+              "topicId": "d2f5b139-7ace-44e5-9968-7c3f35411717",
+              "lId": 875
+            },
+            {
+              "_id": "5064e830-5b73-431e-9d81-2ecba267c48e",
+              "name": "Arctic (very cold) climates",
+              "topicId": "d2f5b139-7ace-44e5-9968-7c3f35411717",
+              "lId": 876
+            },
+            {
+              "_id": "07500ac0-a276-4d8b-abf3-8bde48384b14",
+              "name": "Mountain climates",
+              "topicId": "d2f5b139-7ace-44e5-9968-7c3f35411717",
+              "lId": 877
+            },
+            {
+              "_id": "31b697da-e723-4cf9-a2f8-c5ffc5ace8a1",
+              "name": "Local climates (microclimates)",
+              "topicId": "d2f5b139-7ace-44e5-9968-7c3f35411717",
+              "lId": 878
+            }
+          ]
+        },
+        {
+          "_id": "8c6adf2b-871a-4ec7-a53c-fe8ea0c3be0f",
+          "name": "Climate 3 - Aridity, Desertification and Climate Change",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 84,
+          "subTopics": [
+            {
+              "_id": "0aa09668-fb99-4d94-81cf-929fa93581aa",
+              "name": "Causes of aridity and desertification",
+              "topicId": "8c6adf2b-871a-4ec7-a53c-fe8ea0c3be0f",
+              "lId": 879
+            },
+            {
+              "_id": "d4756fee-b14f-4ef4-a34a-f1f215fc1e14",
+              "name": "Effects of aridity and desertification",
+              "topicId": "8c6adf2b-871a-4ec7-a53c-fe8ea0c3be0f",
+              "lId": 880
+            },
+            {
+              "_id": "3057ca17-a571-44c4-8bd3-2f152b8e8d42",
+              "name": "Possible solutions to aridity and desertification ",
+              "topicId": "8c6adf2b-871a-4ec7-a53c-fe8ea0c3be0f",
+              "lId": 881
+            },
+            {
+              "_id": "145a89d3-7dcc-4280-9e2e-ff39d422b3aa",
+              "name": "Climate change ",
+              "topicId": "8c6adf2b-871a-4ec7-a53c-fe8ea0c3be0f",
+              "lId": 882
+            }
+          ]
+        },
+        {
+          "_id": "dc8b224f-e5ef-4798-bb6a-4a5df36c02b5",
+          "name": "Vegetation 1 - Introduction and Kenya's Vegetation Zones ",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 85,
+          "subTopics": [
+            {
+              "_id": "a2c51564-cf93-4cb1-bbc4-66f6d3350be4",
+              "name": "Natural vegetation",
+              "topicId": "dc8b224f-e5ef-4798-bb6a-4a5df36c02b5",
+              "lId": 883
+            },
+            {
+              "_id": "2e97bd93-48d5-4b09-b627-a731df731f84",
+              "name": "Semi-natural vegetation",
+              "topicId": "dc8b224f-e5ef-4798-bb6a-4a5df36c02b5",
+              "lId": 884
+            },
+            {
+              "_id": "e8467233-62a3-43d2-8e85-3b96945a69ea",
+              "name": "Planted vegetation",
+              "topicId": "dc8b224f-e5ef-4798-bb6a-4a5df36c02b5",
+              "lId": 885
+            },
+            {
+              "_id": "634d874b-cc9d-4c5e-b3db-b23fcc41d054",
+              "name": "Factors influencing distribution of vegetation",
+              "topicId": "dc8b224f-e5ef-4798-bb6a-4a5df36c02b5",
+              "lId": 886
+            },
+            {
+              "_id": "18aaf320-3ddd-4ab0-b3b0-af11068348eb",
+              "name": "Vegetation in Kenya",
+              "topicId": "dc8b224f-e5ef-4798-bb6a-4a5df36c02b5",
+              "lId": 887
+            }
+          ]
+        },
+        {
+          "_id": "b31a7850-dfe8-454f-b476-2e7939873f9e",
+          "name": "Vegetation 2 - Major Vegetation Zones of the World",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 86,
+          "subTopics": [
+            {
+              "_id": "53a3940d-0f00-42b9-aec5-04f4a8eab2ce",
+              "name": "Forests",
+              "topicId": "b31a7850-dfe8-454f-b476-2e7939873f9e",
+              "lId": 888
+            },
+            {
+              "_id": "e6ba8716-38db-41ca-8778-c6662694d92c",
+              "name": "Grasslands",
+              "topicId": "b31a7850-dfe8-454f-b476-2e7939873f9e",
+              "lId": 889
+            },
+            {
+              "_id": "7a32e4f0-3f7a-4232-a0b3-32163fd80590",
+              "name": "Desert vegetation",
+              "topicId": "b31a7850-dfe8-454f-b476-2e7939873f9e",
+              "lId": 890
+            },
+            {
+              "_id": "4f970c42-7bf1-4fb9-87ec-23b5e22142bd",
+              "name": "Mountain vegetation",
+              "topicId": "b31a7850-dfe8-454f-b476-2e7939873f9e",
+              "lId": 891
+            },
+            {
+              "_id": "2cafd362-b9a4-4d05-80b4-8fced2ce2873",
+              "name": "Significance of vegetation",
+              "topicId": "b31a7850-dfe8-454f-b476-2e7939873f9e",
+              "lId": 892
+            },
+            {
+              "_id": "6e19729f-a5a0-4e14-afca-28ef3058ba9b",
+              "name": "Fieldwork",
+              "topicId": "b31a7850-dfe8-454f-b476-2e7939873f9e",
+              "lId": 893
+            }
+          ]
+        },
+        {
+          "_id": "6b459c95-140b-41ff-8bf7-404ee7d62e71",
+          "name": "Forestry",
+          "courseClassId": "f106cb0a-5fcd-45c2-9125-d8506c69c18f",
+          "lId": 87,
+          "subTopics": [
+            {
+              "_id": "80ae1f90-b320-4acc-b1f6-3123bf171f0f",
+              "name": "Types of forests",
+              "topicId": "6b459c95-140b-41ff-8bf7-404ee7d62e71",
+              "lId": 894
+            },
+            {
+              "_id": "28c833e9-4a23-42d1-bb66-33d600f44a7e",
+              "name": "Factors influencing the distribution and types of natural forests",
+              "topicId": "6b459c95-140b-41ff-8bf7-404ee7d62e71",
+              "lId": 895
+            },
+            {
+              "_id": "7046bf1f-c4ed-4ab7-aa2b-6ecd58cc1b16",
+              "name": "Importance of forests to Kenya",
+              "topicId": "6b459c95-140b-41ff-8bf7-404ee7d62e71",
+              "lId": 896
+            },
+            {
+              "_id": "00ec4069-6b19-471c-9be9-c43de4f6f772",
+              "name": "Importance of forest to products ",
+              "topicId": "6b459c95-140b-41ff-8bf7-404ee7d62e71",
+              "lId": 897
+            },
+            {
+              "_id": "633c8970-c800-4e29-9b26-3183cf13dba7",
+              "name": "Problems facing forestry in Kenya",
+              "topicId": "6b459c95-140b-41ff-8bf7-404ee7d62e71",
+              "lId": 898
+            },
+            {
+              "_id": "58c64f32-5c1d-4b98-a5f3-30c2549b2e07",
+              "name": "Management and conservation of forests",
+              "topicId": "6b459c95-140b-41ff-8bf7-404ee7d62e71",
+              "lId": 899
+            },
+            {
+              "_id": "7885a720-86c4-43e3-8791-66df0d84cdfe",
+              "name": "Softwood forests in Kenya and Canada",
+              "topicId": "6b459c95-140b-41ff-8bf7-404ee7d62e71",
+              "lId": 900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0887d944-e36a-40df-b1a1-00926813adbe",
+      "name": "Form 3",
+      "order": 3,
+      "courseId": "apGATHEgHJrcTmBL6",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "67b0c5d7-63c9-4097-a407-8006befe0992",
+          "name": "Statistical Methods 3",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 88,
+          "subTopics": [
+            {
+              "_id": "87ee898f-b813-48f7-b8d0-dba89407e1a5",
+              "name": "Compound bar graphs",
+              "topicId": "67b0c5d7-63c9-4097-a407-8006befe0992",
+              "lId": 901
+            },
+            {
+              "_id": "25f6aabb-f715-4b35-9712-b08672fed601",
+              "name": "Proportional circles",
+              "topicId": "67b0c5d7-63c9-4097-a407-8006befe0992",
+              "lId": 902
+            },
+            {
+              "_id": "305ac20a-bb3d-4631-be65-406b5841deb7",
+              "name": "Divided circles",
+              "topicId": "67b0c5d7-63c9-4097-a407-8006befe0992",
+              "lId": 903
+            }
+          ]
+        },
+        {
+          "_id": "29388a08-6c7a-47e4-bd6e-aaf2158d4a0d",
+          "name": "Mapwork 3",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 89,
+          "subTopics": [
+            {
+              "_id": "e8aa5e99-2a99-4884-9aaa-8e90ec7e511f",
+              "name": "Identification and interpretation of features on topographical maps",
+              "topicId": "29388a08-6c7a-47e4-bd6e-aaf2158d4a0d",
+              "lId": 904
+            },
+            {
+              "_id": "7a30fc45-0f5b-4aaa-8a0a-bfee48ea7ffb",
+              "name": "Interpretation of human activities",
+              "topicId": "29388a08-6c7a-47e4-bd6e-aaf2158d4a0d",
+              "lId": 905
+            },
+            {
+              "_id": "01843b14-0ab2-4225-a46d-637856cfb9e4",
+              "name": "Enlargement and reduction of maps",
+              "topicId": "29388a08-6c7a-47e4-bd6e-aaf2158d4a0d",
+              "lId": 906
+            },
+            {
+              "_id": "7bf8b2ba-e5fe-42f7-bd42-e4c8d690e381",
+              "name": "Cross-sections",
+              "topicId": "29388a08-6c7a-47e4-bd6e-aaf2158d4a0d",
+              "lId": 907
+            },
+            {
+              "_id": "b4db0b3b-a5a0-41b9-9454-841f39c94092",
+              "name": "Vertical exaggeration",
+              "topicId": "29388a08-6c7a-47e4-bd6e-aaf2158d4a0d",
+              "lId": 908
+            },
+            {
+              "_id": "701ef315-c13a-42f8-ac64-e4d01dd8da26",
+              "name": "Gradient",
+              "topicId": "29388a08-6c7a-47e4-bd6e-aaf2158d4a0d",
+              "lId": 909
+            },
+            {
+              "_id": "9b9c1c6a-3faf-4b27-a772-31e41c17f97f",
+              "name": "Intervisibility",
+              "topicId": "29388a08-6c7a-47e4-bd6e-aaf2158d4a0d",
+              "lId": 910
+            }
+          ]
+        },
+        {
+          "_id": "5d05fdc2-2ed9-4b15-b20a-88d008d59491",
+          "name": "External Land-Forming Processes",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 90,
+          "subTopics": [
+            {
+              "_id": "f74d9a3d-99c8-4cf0-9fad-7c9d37f3e5ae",
+              "name": "Weathering",
+              "topicId": "5d05fdc2-2ed9-4b15-b20a-88d008d59491",
+              "lId": 911
+            },
+            {
+              "_id": "fcd2cae3-8b4b-4744-a18e-889621f1fe6b",
+              "name": "Significance of weathering",
+              "topicId": "5d05fdc2-2ed9-4b15-b20a-88d008d59491",
+              "lId": 912
+            },
+            {
+              "_id": "12a9e439-4013-43e4-93bf-653eac7d3ba1",
+              "name": "Mass wasting",
+              "topicId": "5d05fdc2-2ed9-4b15-b20a-88d008d59491",
+              "lId": 913
+            }
+          ]
+        },
+        {
+          "_id": "d47056a4-760b-4d38-8eec-07436e6c7153",
+          "name": "The Hydrological Cycle and the Action of Rivers",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 91,
+          "subTopics": [
+            {
+              "_id": "de10276f-42d0-4819-8792-e6517db1d3bf",
+              "name": "Process of the hydrological cycle",
+              "topicId": "d47056a4-760b-4d38-8eec-07436e6c7153",
+              "lId": 914
+            },
+            {
+              "_id": "a979d13e-5586-4363-afac-7db4393f9d13",
+              "name": "Significance of the hydrological cycle",
+              "topicId": "d47056a4-760b-4d38-8eec-07436e6c7153",
+              "lId": 915
+            },
+            {
+              "_id": "7be5ded0-cae0-4f49-89de-57855655d434",
+              "name": "The action of rivers",
+              "topicId": "d47056a4-760b-4d38-8eec-07436e6c7153",
+              "lId": 916
+            },
+            {
+              "_id": "ed1968a3-cfcb-48a4-b78f-ca7e9bb8944b",
+              "name": "Development of a river profile",
+              "topicId": "d47056a4-760b-4d38-8eec-07436e6c7153",
+              "lId": 917
+            },
+            {
+              "_id": "010756f5-1386-4791-9fac-ecbecfa51182",
+              "name": "River capture and rejuvenation",
+              "topicId": "d47056a4-760b-4d38-8eec-07436e6c7153",
+              "lId": 918
+            },
+            {
+              "_id": "5b1b198d-7f10-4203-ae40-f95a9ff1000f",
+              "name": "Drainage patterns ",
+              "topicId": "d47056a4-760b-4d38-8eec-07436e6c7153",
+              "lId": 919
+            },
+            {
+              "_id": "7dc7c5c2-68ad-4b85-b3b8-39a9a84c3d56",
+              "name": "Drainage systems",
+              "topicId": "d47056a4-760b-4d38-8eec-07436e6c7153",
+              "lId": 920
+            },
+            {
+              "_id": "8dcebf78-e340-4f11-8829-677e994d8c5d",
+              "name": "Significance of rivers and their features",
+              "topicId": "d47056a4-760b-4d38-8eec-07436e6c7153",
+              "lId": 921
+            },
+            {
+              "_id": "b83372f3-8f21-4026-82bf-4160bc959825",
+              "name": "Fieldwork",
+              "topicId": "d47056a4-760b-4d38-8eec-07436e6c7153",
+              "lId": 922
+            }
+          ]
+        },
+        {
+          "_id": "92d78235-2e6c-48cb-87f4-24a8166288fa",
+          "name": "Oceans, Seas and their Coasts",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 92,
+          "subTopics": [
+            {
+              "_id": "565fdc8b-1ffc-4720-94a9-1896b5487ef6",
+              "name": "Nature of ocean water",
+              "topicId": "92d78235-2e6c-48cb-87f4-24a8166288fa",
+              "lId": 923
+            },
+            {
+              "_id": "5fc91493-d87e-4de1-b51e-83d6bbfd051b",
+              "name": "Movement of ocean water",
+              "topicId": "92d78235-2e6c-48cb-87f4-24a8166288fa",
+              "lId": 924
+            },
+            {
+              "_id": "4cb50035-ca07-4a50-85d1-d02e8629d1bd",
+              "name": "Coasts and their landforms",
+              "topicId": "92d78235-2e6c-48cb-87f4-24a8166288fa",
+              "lId": 925
+            },
+            {
+              "_id": "f7b17149-bd48-4011-9871-44b50b275ee9",
+              "name": "Tides",
+              "topicId": "92d78235-2e6c-48cb-87f4-24a8166288fa",
+              "lId": 926
+            },
+            {
+              "_id": "b06002ba-873e-4ca4-8865-89bb995598c9",
+              "name": "Waves ",
+              "topicId": "92d78235-2e6c-48cb-87f4-24a8166288fa",
+              "lId": 927
+            },
+            {
+              "_id": "03233252-cffd-4225-90bf-f993cd328ce1",
+              "name": "Wave action and resultant features",
+              "topicId": "92d78235-2e6c-48cb-87f4-24a8166288fa",
+              "lId": 928
+            },
+            {
+              "_id": "baa96d8b-2e0d-4235-bc5a-40117443aefe",
+              "name": "Types of coasts",
+              "topicId": "92d78235-2e6c-48cb-87f4-24a8166288fa",
+              "lId": 929
+            },
+            {
+              "_id": "0e1a688f-aa57-4225-8f1c-d06df13e1094",
+              "name": "Significance of oceans, coasts and coastal features",
+              "topicId": "92d78235-2e6c-48cb-87f4-24a8166288fa",
+              "lId": 930
+            },
+            {
+              "_id": "e8755394-67d9-43e2-87e4-5545fd18aad8",
+              "name": "Fieldwork",
+              "topicId": "92d78235-2e6c-48cb-87f4-24a8166288fa",
+              "lId": 931
+            }
+          ]
+        },
+        {
+          "_id": "f0965e45-66c7-4a3e-9267-ace8f12a1d72",
+          "name": "Action of Wind and Water in Arid Areas",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 93,
+          "subTopics": [
+            {
+              "_id": "d3d7ff76-39b7-4db0-82ea-9794510e44ac",
+              "name": "Action of wind in arid areas",
+              "topicId": "f0965e45-66c7-4a3e-9267-ace8f12a1d72",
+              "lId": 932
+            },
+            {
+              "_id": "ef62a122-d501-4a69-9b83-7167ee854e7e",
+              "name": "Action of water in arid regions",
+              "topicId": "f0965e45-66c7-4a3e-9267-ace8f12a1d72",
+              "lId": 933
+            },
+            {
+              "_id": "fb129036-0e71-4b0c-b243-8b494a075962",
+              "name": "Significance of desert features",
+              "topicId": "f0965e45-66c7-4a3e-9267-ace8f12a1d72",
+              "lId": 934
+            }
+          ]
+        },
+        {
+          "_id": "f1d683f4-7cd3-4f3b-949b-162a61df7e43",
+          "name": "Action of Water in Limestone Areas",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 94,
+          "subTopics": [
+            {
+              "_id": "3d625ad8-d98a-470e-9124-722e19a45164",
+              "name": "Underground water",
+              "topicId": "f1d683f4-7cd3-4f3b-949b-162a61df7e43",
+              "lId": 935
+            },
+            {
+              "_id": "e8e5e6e8-6ff8-45bc-995e-4844d9a24eda",
+              "name": "Significance of groundwater",
+              "topicId": "f1d683f4-7cd3-4f3b-949b-162a61df7e43",
+              "lId": 936
+            },
+            {
+              "_id": "3a8dacdc-645a-44f9-88d2-eb5814746e72",
+              "name": "Karst scenery",
+              "topicId": "f1d683f4-7cd3-4f3b-949b-162a61df7e43",
+              "lId": 937
+            },
+            {
+              "_id": "3a8c4917-3955-4354-9413-1c78f1a6c90e",
+              "name": "Underground features in limestone areas",
+              "topicId": "f1d683f4-7cd3-4f3b-949b-162a61df7e43",
+              "lId": 938
+            },
+            {
+              "_id": "ba90aca8-b869-4cfd-afb9-8d6bcdba4afe",
+              "name": "Significance of the resultant features in limestone areas",
+              "topicId": "f1d683f4-7cd3-4f3b-949b-162a61df7e43",
+              "lId": 939
+            }
+          ]
+        },
+        {
+          "_id": "d28004db-47b9-4375-947c-fb37f8604d55",
+          "name": "Glaciation",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 95,
+          "subTopics": [
+            {
+              "_id": "1d2d0e39-a53c-485f-b57d-93cf34c59fe2",
+              "name": "Introduction",
+              "topicId": "d28004db-47b9-4375-947c-fb37f8604d55",
+              "lId": 940
+            },
+            {
+              "_id": "6792c143-d51c-4bc9-8e7b-cf6124aa968a",
+              "name": "The ice ages",
+              "topicId": "d28004db-47b9-4375-947c-fb37f8604d55",
+              "lId": 941
+            },
+            {
+              "_id": "73ed159f-ab24-437a-914d-d3c794a7b40c",
+              "name": "Movement of ice",
+              "topicId": "d28004db-47b9-4375-947c-fb37f8604d55",
+              "lId": 942
+            },
+            {
+              "_id": "9a0493d4-4596-46a5-a5ff-af297611a22a",
+              "name": "Processes of glaciation",
+              "topicId": "d28004db-47b9-4375-947c-fb37f8604d55",
+              "lId": 943
+            },
+            {
+              "_id": "8b103518-d730-497a-863d-384c3d6573f7",
+              "name": "Glaciation features",
+              "topicId": "d28004db-47b9-4375-947c-fb37f8604d55",
+              "lId": 944
+            },
+            {
+              "_id": "8c68f53a-8213-454a-8dec-d7be857ad232",
+              "name": "Significance of glaciation",
+              "topicId": "d28004db-47b9-4375-947c-fb37f8604d55",
+              "lId": 945
+            },
+            {
+              "_id": "68efa349-cd0b-41bc-933c-f19bb063a0bf",
+              "name": "Fieldwork",
+              "topicId": "d28004db-47b9-4375-947c-fb37f8604d55",
+              "lId": 946
+            }
+          ]
+        },
+        {
+          "_id": "e629cd18-da2a-407c-a60c-fe8f3c664074",
+          "name": "Lakes",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 96,
+          "subTopics": [
+            {
+              "_id": "512a27ea-fdff-4eed-80a2-8d5777ac3ba0",
+              "name": "Introduction",
+              "topicId": "e629cd18-da2a-407c-a60c-fe8f3c664074",
+              "lId": 947
+            },
+            {
+              "_id": "a43470d3-6ee6-4876-b168-3496238cdea2",
+              "name": "Formation and classification of lakes",
+              "topicId": "e629cd18-da2a-407c-a60c-fe8f3c664074",
+              "lId": 948
+            },
+            {
+              "_id": "6e6acc9f-f3aa-4b70-aca6-1eb24dc21395",
+              "name": "Significance of lakes",
+              "topicId": "e629cd18-da2a-407c-a60c-fe8f3c664074",
+              "lId": 949
+            }
+          ]
+        },
+        {
+          "_id": "2413f306-44c2-4c8d-9d00-e430558fd5d1",
+          "name": "Classification of landforms and fieldwork",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 97,
+          "subTopics": [
+            {
+              "_id": "24d98677-2c8c-4dcd-9913-251618f3db63",
+              "name": "Classification of landforms ",
+              "topicId": "2413f306-44c2-4c8d-9d00-e430558fd5d1",
+              "lId": 950
+            },
+            {
+              "_id": "07a245d7-18f1-4413-a232-b8f09c990195",
+              "name": "Fieldwork",
+              "topicId": "2413f306-44c2-4c8d-9d00-e430558fd5d1",
+              "lId": 951
+            }
+          ]
+        },
+        {
+          "_id": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+          "name": "Soils",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 98,
+          "subTopics": [
+            {
+              "_id": "fe6b7bab-caaa-4929-8afc-d4e0e41cd832",
+              "name": "Composition of soil",
+              "topicId": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+              "lId": 952
+            },
+            {
+              "_id": "6e612464-7efd-424a-94f8-0331b64aece8",
+              "name": "Formation of soil",
+              "topicId": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+              "lId": 953
+            },
+            {
+              "_id": "35bc4fa9-604d-4716-9e0b-2aacccc8b23c",
+              "name": "Properties and characteristics of soil",
+              "topicId": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+              "lId": 954
+            },
+            {
+              "_id": "b4cb722b-ce6e-4bb0-bb1c-636b8c909f6c",
+              "name": "Soil profile",
+              "topicId": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+              "lId": 955
+            },
+            {
+              "_id": "fe203007-44a7-4ae0-8128-0313ab9a0b4b",
+              "name": "Soil catena",
+              "topicId": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+              "lId": 956
+            },
+            {
+              "_id": "43002914-91ec-4267-96f3-c76b9805dd8a",
+              "name": "Soil degeneration",
+              "topicId": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+              "lId": 957
+            },
+            {
+              "_id": "de8d6577-2c8b-494a-8ede-e76dda1632a4",
+              "name": "Soil classification",
+              "topicId": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+              "lId": 958
+            },
+            {
+              "_id": "0c3b61af-0aff-46c3-b9d1-052d9df59a0a",
+              "name": "Significance of soils",
+              "topicId": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+              "lId": 959
+            },
+            {
+              "_id": "e7ebb9f8-ffc9-4472-9abe-2bf229e868c3",
+              "name": "Management and conservation of soil",
+              "topicId": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+              "lId": 960
+            },
+            {
+              "_id": "ac7f5aef-fee0-4ff6-8d39-2615bc517deb",
+              "name": "Fieldwork",
+              "topicId": "7f86ad66-081f-4ad7-9418-074a85d7b0f1",
+              "lId": 961
+            }
+          ]
+        },
+        {
+          "_id": "004979cc-ea3c-4a89-bc73-5ec939e47905",
+          "name": "Agriculture 1 - Introduction to Agriculture",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 99,
+          "subTopics": [
+            {
+              "_id": "725f8fe1-aa14-4971-8270-eabfdcd03ca7",
+              "name": "History of agriculture",
+              "topicId": "004979cc-ea3c-4a89-bc73-5ec939e47905",
+              "lId": 962
+            },
+            {
+              "_id": "cc45c977-1885-4c98-8673-bc564c83d608",
+              "name": "Factors influencing agriculture",
+              "topicId": "004979cc-ea3c-4a89-bc73-5ec939e47905",
+              "lId": 963
+            },
+            {
+              "_id": "fabc3733-8aa5-43d7-a08a-75982d4f17b9",
+              "name": "Types of agriculture",
+              "topicId": "004979cc-ea3c-4a89-bc73-5ec939e47905",
+              "lId": 964
+            }
+          ]
+        },
+        {
+          "_id": "819c42e1-6b67-4caf-b01e-afe2cc2c7a41",
+          "name": "Agriculture 2 - Crop Farming",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 100,
+          "subTopics": [
+            {
+              "_id": "e2b2f24d-0eb3-479f-87d0-a03ac834e7c5",
+              "name": "Tea farming in Kenya",
+              "topicId": "819c42e1-6b67-4caf-b01e-afe2cc2c7a41",
+              "lId": 965
+            },
+            {
+              "_id": "fc541a71-4bb2-462c-8332-a1dc8fa7aeb9",
+              "name": "Sugarcane farming in Kenya",
+              "topicId": "819c42e1-6b67-4caf-b01e-afe2cc2c7a41",
+              "lId": 966
+            },
+            {
+              "_id": "799a5401-1504-439e-86ed-e55c6bd2a00e",
+              "name": "Maize farming in Kenya",
+              "topicId": "819c42e1-6b67-4caf-b01e-afe2cc2c7a41",
+              "lId": 967
+            },
+            {
+              "_id": "df0eb2fe-43ad-43a3-b156-2374c68055c2",
+              "name": "Cocoa farming in Ghana",
+              "topicId": "819c42e1-6b67-4caf-b01e-afe2cc2c7a41",
+              "lId": 968
+            },
+            {
+              "_id": "8d4d7918-4815-4311-8f16-fa992e196df3",
+              "name": "Oil palm farming in Nigeria",
+              "topicId": "819c42e1-6b67-4caf-b01e-afe2cc2c7a41",
+              "lId": 969
+            }
+          ]
+        },
+        {
+          "_id": "73216db1-022e-4ca4-8a21-9622aec004d5",
+          "name": "Agriculture 3 - Related Studies on Coffee, Wheat and Horticultural Farming",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 101,
+          "subTopics": [
+            {
+              "_id": "ac51620e-91e1-4283-8676-1a2cfce6c533",
+              "name": "Coffee farming in Kenya and Brazil",
+              "topicId": "73216db1-022e-4ca4-8a21-9622aec004d5",
+              "lId": 970
+            },
+            {
+              "_id": "4dcff39b-0ce5-45dc-b9f1-183060c4d42a",
+              "name": "Wheat farming in Kenya and Canada",
+              "topicId": "73216db1-022e-4ca4-8a21-9622aec004d5",
+              "lId": 971
+            },
+            {
+              "_id": "aa25a769-4be2-4082-aa20-b2aa8784e3b7",
+              "name": "Horticulture farming in Kenya and the Netherlands",
+              "topicId": "73216db1-022e-4ca4-8a21-9622aec004d5",
+              "lId": 972
+            },
+            {
+              "_id": "7835a5f3-5532-4791-9d4b-1af329bd573c",
+              "name": "Fieldwork",
+              "topicId": "73216db1-022e-4ca4-8a21-9622aec004d5",
+              "lId": 973
+            }
+          ]
+        },
+        {
+          "_id": "307d5994-79de-4dd3-8a77-c6d15bdabffb",
+          "name": "Agriculture 4 - Livestock Farming",
+          "courseClassId": "0887d944-e36a-40df-b1a1-00926813adbe",
+          "lId": 102,
+          "subTopics": [
+            {
+              "_id": "3cf87b8c-4e7c-4234-be7a-57c81ee01d62",
+              "name": "Pastoral farming",
+              "topicId": "307d5994-79de-4dd3-8a77-c6d15bdabffb",
+              "lId": 974
+            },
+            {
+              "_id": "74dbcc06-1be7-4b25-8f49-64558bdc3369",
+              "name": "Dairy farming",
+              "topicId": "307d5994-79de-4dd3-8a77-c6d15bdabffb",
+              "lId": 975
+            },
+            {
+              "_id": "3434a00b-b7ce-483b-a640-bcac0cc6b067",
+              "name": "Dairy farming in Kenya and Denmark",
+              "topicId": "307d5994-79de-4dd3-8a77-c6d15bdabffb",
+              "lId": 976
+            },
+            {
+              "_id": "915ffa95-ff1d-4bef-8b34-c3b1398fb2d2",
+              "name": "Beef farming in Kenya and Argentina",
+              "topicId": "307d5994-79de-4dd3-8a77-c6d15bdabffb",
+              "lId": 977
+            },
+            {
+              "_id": "b0e30995-82e3-4c32-aee4-a62baae3c3a1",
+              "name": "Fieldwork",
+              "topicId": "307d5994-79de-4dd3-8a77-c6d15bdabffb",
+              "lId": 978
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+      "name": "Form 4",
+      "order": 4,
+      "courseId": "apGATHEgHJrcTmBL6",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "9de70275-6b57-4fb3-868c-a43f0545743a",
+          "name": "Statistical Methods 4",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 103,
+          "subTopics": [
+            {
+              "_id": "9fe827b4-63c7-427e-8069-dacc3648fb52",
+              "name": "Age-sex pyramid",
+              "topicId": "9de70275-6b57-4fb3-868c-a43f0545743a",
+              "lId": 979
+            },
+            {
+              "_id": "df9eec6d-318d-4133-8db0-14ec8e28a7a8",
+              "name": "Dot maps",
+              "topicId": "9de70275-6b57-4fb3-868c-a43f0545743a",
+              "lId": 980
+            },
+            {
+              "_id": "9ac0502f-5059-42de-9327-8c6bbf7c6fd6",
+              "name": "Choropleth maps",
+              "topicId": "9de70275-6b57-4fb3-868c-a43f0545743a",
+              "lId": 981
+            }
+          ]
+        },
+        {
+          "_id": "6eb6c9f1-76bb-444c-b9c1-0fb3fccc9095",
+          "name": "Land Reclamation and Rehabilitation",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 104,
+          "subTopics": [
+            {
+              "_id": "02e121a8-c77c-49bf-b145-9026ba522488",
+              "name": "Introduction",
+              "topicId": "6eb6c9f1-76bb-444c-b9c1-0fb3fccc9095",
+              "lId": 982
+            },
+            {
+              "_id": "5b79d186-6f80-49d8-acc2-bffddd96be89",
+              "name": "Methods of land reclamation",
+              "topicId": "6eb6c9f1-76bb-444c-b9c1-0fb3fccc9095",
+              "lId": 983
+            },
+            {
+              "_id": "d8454432-1982-4282-93cd-94e49c860a1d",
+              "name": "Irrigation schemes in Kenya",
+              "topicId": "6eb6c9f1-76bb-444c-b9c1-0fb3fccc9095",
+              "lId": 984
+            },
+            {
+              "_id": "5b21e44a-5384-4608-b91a-b07efde4e9a8",
+              "name": "Significance of irrigation farming in Kenya",
+              "topicId": "6eb6c9f1-76bb-444c-b9c1-0fb3fccc9095",
+              "lId": 985
+            },
+            {
+              "_id": "05c411c1-a285-4d59-87ab-6bfc422ebaa0",
+              "name": "Problems facing irrigation farming in Kenya",
+              "topicId": "6eb6c9f1-76bb-444c-b9c1-0fb3fccc9095",
+              "lId": 986
+            },
+            {
+              "_id": "b099b799-be8d-49e9-88b2-1ff71bbd8a80",
+              "name": "Methods of land rehabilitation",
+              "topicId": "6eb6c9f1-76bb-444c-b9c1-0fb3fccc9095",
+              "lId": 987
+            },
+            {
+              "_id": "bdcb3f65-8fb0-4598-82d7-98be3bb03579",
+              "name": "Land reclamation in the Netherlands",
+              "topicId": "6eb6c9f1-76bb-444c-b9c1-0fb3fccc9095",
+              "lId": 988
+            }
+          ]
+        },
+        {
+          "_id": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+          "name": "Fishing",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 105,
+          "subTopics": [
+            {
+              "_id": "e8deb292-8459-41c5-bad0-8ad0c98d38e4",
+              "name": "Factors influencing fishing",
+              "topicId": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+              "lId": 989
+            },
+            {
+              "_id": "20fe9315-85ca-44ab-8474-7eb161bdfce5",
+              "name": "Major fishing grounds of the world",
+              "topicId": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+              "lId": 990
+            },
+            {
+              "_id": "63332751-6448-42d6-922e-469bc95f02d1",
+              "name": "Types of fish",
+              "topicId": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+              "lId": 991
+            },
+            {
+              "_id": "6a4b83e8-3d16-4dfb-9bf1-d72026ecf3c1",
+              "name": "Types of fishing",
+              "topicId": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+              "lId": 992
+            },
+            {
+              "_id": "4b319a0d-5399-4d6c-be4a-99ecbe65b768",
+              "name": "Methods of fishing",
+              "topicId": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+              "lId": 993
+            },
+            {
+              "_id": "48f73791-729a-47b6-9d25-b7a36686ea43",
+              "name": "Freshwater and marine fisheries in East Africa",
+              "topicId": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+              "lId": 994
+            },
+            {
+              "_id": "b05744e8-e77d-419c-a331-d2f6d00d94aa",
+              "name": "Significance of the fishing industry in Kenya",
+              "topicId": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+              "lId": 995
+            },
+            {
+              "_id": "dc675034-8e88-4828-9265-859414d87a05",
+              "name": "Problems facing fishing in Kenya and their possible solutions",
+              "topicId": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+              "lId": 996
+            },
+            {
+              "_id": "8f04367f-ee88-464e-b4e9-ccfd7fd5b4fb",
+              "name": "Related studies on fishing activities in Kenya and Japan",
+              "topicId": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+              "lId": 997
+            },
+            {
+              "_id": "fdbacf04-4031-4601-9b7c-5d408e642b10",
+              "name": "Management and conservation of fisheries ",
+              "topicId": "abafd9be-e52d-4b56-92ce-7c7d315b27b2",
+              "lId": 998
+            }
+          ]
+        },
+        {
+          "_id": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+          "name": "Wildlife and Tourism",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 106,
+          "subTopics": [
+            {
+              "_id": "a63c4ada-fe84-46f0-b7ae-cf85c28e3ea6",
+              "name": "Factors influencing the distribution of wildlife in East Africa",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 999
+            },
+            {
+              "_id": "2d39893d-bd51-418c-96b8-a2188e2ae826",
+              "name": "National parks, games reserves and sanctuaries",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1000
+            },
+            {
+              "_id": "d6b0a5be-49b6-4046-8f90-a885bd4eccd9",
+              "name": "Significance of wildlife",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1001
+            },
+            {
+              "_id": "2ba7ee64-4e32-412e-a562-540ada89c64e",
+              "name": "Problems facing wildlife in East Africa",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1002
+            },
+            {
+              "_id": "36613a7b-6b6d-45cb-8dcb-0057e1b75f07",
+              "name": "Management and conservation of wildlife in East Africa",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1003
+            },
+            {
+              "_id": "d8d21a1c-e56a-48ff-865f-ddc9fcb6ebe8",
+              "name": "Tourism",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1004
+            },
+            {
+              "_id": "34b0b732-980b-4757-b318-7d69de09a84e",
+              "name": "Factors influencing tourism in Kenya",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1005
+            },
+            {
+              "_id": "69e5dccf-2176-4a66-b413-67631114a803",
+              "name": "Tourism attractions in Kenya ",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1006
+            },
+            {
+              "_id": "6d5a6e19-5c8b-4551-9f25-ae37922b63d7",
+              "name": "Significance of tourism",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1007
+            },
+            {
+              "_id": "280e57c2-5a22-4d42-a918-ad745a235437",
+              "name": "Problems facing tourism in Kenya ",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1008
+            },
+            {
+              "_id": "540e7dfb-9fd6-4023-817e-e37aec3c0332",
+              "name": "Problems associated with tourism in Kenya ",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1009
+            },
+            {
+              "_id": "3d34fb61-a9ed-4b84-9e33-c80dfd788ebc",
+              "name": "Tourism in Switzerland ",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1010
+            },
+            {
+              "_id": "f02775a9-f6d3-4b02-b43f-f98888f5e306",
+              "name": "Comparison of tourism in Kenya and Switzerland ",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1011
+            },
+            {
+              "_id": "bd5ad3e3-aadd-46f1-ad56-31c3506d3d6f",
+              "name": "The future of tourism in Kenya ",
+              "topicId": "35d72cbb-6048-4f22-9879-0aa260d6d7be",
+              "lId": 1012
+            }
+          ]
+        },
+        {
+          "_id": "c9227929-c3c7-43f7-95ef-1f5ebe017994",
+          "name": "Energy",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 107,
+          "subTopics": [
+            {
+              "_id": "fe6155da-b3b4-4b0b-adf4-4d844e87ebe1",
+              "name": "Sources and types of energy",
+              "topicId": "c9227929-c3c7-43f7-95ef-1f5ebe017994",
+              "lId": 1013
+            },
+            {
+              "_id": "a4f76af5-61ed-4358-ae00-ad70e0c96a65",
+              "name": "Hydroelectric power projects in Kenya and Uganda",
+              "topicId": "c9227929-c3c7-43f7-95ef-1f5ebe017994",
+              "lId": 1014
+            },
+            {
+              "_id": "10597ee5-dc75-4abf-b428-9286af5b59bd",
+              "name": "Factors favouring development of HEP",
+              "topicId": "c9227929-c3c7-43f7-95ef-1f5ebe017994",
+              "lId": 1015
+            },
+            {
+              "_id": "e6dabbfa-5739-4595-9d49-54f83d5024ce",
+              "name": "Other hydroelectric power projects in Africa",
+              "topicId": "c9227929-c3c7-43f7-95ef-1f5ebe017994",
+              "lId": 1016
+            },
+            {
+              "_id": "4444c98f-0780-4209-be52-2549d89f3242",
+              "name": "Geothermal power projects in Kenya ",
+              "topicId": "c9227929-c3c7-43f7-95ef-1f5ebe017994",
+              "lId": 1017
+            },
+            {
+              "_id": "9dcdcefd-ab67-401e-8a32-c1e77cf724d9",
+              "name": "Significance of energy",
+              "topicId": "c9227929-c3c7-43f7-95ef-1f5ebe017994",
+              "lId": 1018
+            },
+            {
+              "_id": "1074e8f4-a516-493b-bf24-c65781210fe0",
+              "name": "Energy crisis ",
+              "topicId": "c9227929-c3c7-43f7-95ef-1f5ebe017994",
+              "lId": 1019
+            },
+            {
+              "_id": "9bf85edf-b59c-4b01-a97d-cf341cb7a241",
+              "name": "Management and conservation of energy",
+              "topicId": "c9227929-c3c7-43f7-95ef-1f5ebe017994",
+              "lId": 1020
+            },
+            {
+              "_id": "d39d0664-83f0-4bfa-94e6-5a9952ad9789",
+              "name": "Fieldwork",
+              "topicId": "c9227929-c3c7-43f7-95ef-1f5ebe017994",
+              "lId": 1021
+            }
+          ]
+        },
+        {
+          "_id": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+          "name": "Industry",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 108,
+          "subTopics": [
+            {
+              "_id": "0396e1e7-e404-486b-a0e8-5f4451b58c9c",
+              "name": "Factors influencing the location and development of industries ",
+              "topicId": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+              "lId": 1022
+            },
+            {
+              "_id": "844d541e-2213-48c6-9dbd-6cf57a59990d",
+              "name": "Types of industries ",
+              "topicId": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+              "lId": 1023
+            },
+            {
+              "_id": "94e207ca-6951-4fd8-9356-8f75c8ec7dfd",
+              "name": "Distribution Of industries in Kenya ",
+              "topicId": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+              "lId": 1024
+            },
+            {
+              "_id": "c23c0777-abe6-46bb-988a-e8443b514a45",
+              "name": "Significance of industrialisation in Kenya ",
+              "topicId": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+              "lId": 1025
+            },
+            {
+              "_id": "727f2038-7d5b-4d61-9d77-255790230dbc",
+              "name": "Problems facing industrialisation",
+              "topicId": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+              "lId": 1026
+            },
+            {
+              "_id": "f6736646-c363-4dab-9db0-0dc386d25aed",
+              "name": "Problems of industrialisation",
+              "topicId": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+              "lId": 1027
+            },
+            {
+              "_id": "03422732-2021-4fa4-b764-cf29442535c0",
+              "name": "Cottage industry in India",
+              "topicId": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+              "lId": 1028
+            },
+            {
+              "_id": "4d0c3b37-6bce-42ea-b655-70dc7d5bb74a",
+              "name": "Iron and steel industry in the Ruhr region of Germany",
+              "topicId": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+              "lId": 1029
+            },
+            {
+              "_id": "74e6c938-1aa4-4452-aa66-0b3e1e204ac0",
+              "name": "Car manufacture and electronics industry in Japan",
+              "topicId": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+              "lId": 1030
+            },
+            {
+              "_id": "3330dadc-13ce-49bc-a6eb-8130a0f98999",
+              "name": "Fieldwork",
+              "topicId": "185e6a15-244c-499a-92c8-75b9be93f6a8",
+              "lId": 1031
+            }
+          ]
+        },
+        {
+          "_id": "0e9eb4af-ea3b-4a42-bb79-f763ad99c1cf",
+          "name": "Transport and Communication",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 109,
+          "subTopics": [
+            {
+              "_id": "ccc2af57-ae8e-4d49-8023-69226cd627c2",
+              "name": "Modes of transport",
+              "topicId": "0e9eb4af-ea3b-4a42-bb79-f763ad99c1cf",
+              "lId": 1032
+            },
+            {
+              "_id": "8757343a-0fe5-4133-a2fa-3b235b87f656",
+              "name": "Types of communication",
+              "topicId": "0e9eb4af-ea3b-4a42-bb79-f763ad99c1cf",
+              "lId": 1033
+            },
+            {
+              "_id": "427f6b4a-94d1-4413-971c-f4e0e8f07aeb",
+              "name": "Role of transport and communication in Africa",
+              "topicId": "0e9eb4af-ea3b-4a42-bb79-f763ad99c1cf",
+              "lId": 1034
+            },
+            {
+              "_id": "23dd54dc-7f24-4707-bbce-bda81471cb91",
+              "name": "Problems facing transport and communication in Africa",
+              "topicId": "0e9eb4af-ea3b-4a42-bb79-f763ad99c1cf",
+              "lId": 1035
+            },
+            {
+              "_id": "54528933-675c-49f8-b9a6-2adbe6a67fb8",
+              "name": "The great lakes and the St. Lawrence seaway",
+              "topicId": "0e9eb4af-ea3b-4a42-bb79-f763ad99c1cf",
+              "lId": 1036
+            }
+          ]
+        },
+        {
+          "_id": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+          "name": "Trade",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 110,
+          "subTopics": [
+            {
+              "_id": "cfb6ab26-470e-426b-a41f-667609689ad7",
+              "name": "Types of trade",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1037
+            },
+            {
+              "_id": "606d7be6-f7e8-43be-a16d-e6d69b888cde",
+              "name": "Fators influencing trade",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1038
+            },
+            {
+              "_id": "208de7ad-690c-4f0d-8237-0e096e8cb9d9",
+              "name": "Major exports and imports of Kenya ",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1039
+            },
+            {
+              "_id": "5d3b9dc1-2e86-4727-a25b-d72de98e0378",
+              "name": "Significance of trade to Kenya ",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1040
+            },
+            {
+              "_id": "180a53d0-3a47-4bb3-862d-d0b4d92938f2",
+              "name": "Problems facing trade in Kenya ",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1041
+            },
+            {
+              "_id": "0c4360fd-8327-4301-91df-e8d931088d42",
+              "name": "The future of international trade in Kenya ",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1042
+            },
+            {
+              "_id": "eafc92b3-e38d-48f4-9e7d-081834997ec8",
+              "name": "The role of regional trading blocs",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1043
+            },
+            {
+              "_id": "d6c24303-554d-4379-b963-b20079c07447",
+              "name": "Common market for Eastern and Southern Africa (COMESA)",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1044
+            },
+            {
+              "_id": "3f8cbac8-83d2-4fb2-bd14-763e2c5717ca",
+              "name": "Southern African Development Community (SADC)",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1045
+            },
+            {
+              "_id": "7c512710-9f8f-438d-9dd2-d9f6b345a6d9",
+              "name": "Economic Community of West African States (ECOWAS)",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1046
+            },
+            {
+              "_id": "f79bd4e7-97d8-4d7e-9323-4d66991727d3",
+              "name": "The European Union (EU)",
+              "topicId": "746fb59a-99dc-46fa-90b5-df63818c2e90",
+              "lId": 1047
+            }
+          ]
+        },
+        {
+          "_id": "c5953cce-3a97-4e2c-9726-cdb344accc33",
+          "name": "Population",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 111,
+          "subTopics": [
+            {
+              "_id": "cbcbafc3-a856-49af-9b93-2481ae238934",
+              "name": "Population distribution",
+              "topicId": "c5953cce-3a97-4e2c-9726-cdb344accc33",
+              "lId": 1048
+            },
+            {
+              "_id": "8f401841-d62e-4c14-9755-5ccfdc534d46",
+              "name": "Factors influencing population distribution in East Africa",
+              "topicId": "c5953cce-3a97-4e2c-9726-cdb344accc33",
+              "lId": 1049
+            },
+            {
+              "_id": "01449082-1ced-47db-b6c0-74a486211cd5",
+              "name": "Population growth",
+              "topicId": "c5953cce-3a97-4e2c-9726-cdb344accc33",
+              "lId": 1050
+            },
+            {
+              "_id": "890a95ed-bc14-4637-97d2-5f6cae2d1287",
+              "name": "Factors influencing population growth",
+              "topicId": "c5953cce-3a97-4e2c-9726-cdb344accc33",
+              "lId": 1051
+            },
+            {
+              "_id": "6147c0d5-9269-4cfc-8cce-efa610b5856e",
+              "name": "Population structure",
+              "topicId": "c5953cce-3a97-4e2c-9726-cdb344accc33",
+              "lId": 1052
+            },
+            {
+              "_id": "e155e064-b772-449d-8243-55411041bc53",
+              "name": "Significance of population structure",
+              "topicId": "c5953cce-3a97-4e2c-9726-cdb344accc33",
+              "lId": 1053
+            },
+            {
+              "_id": "9534bd25-80c8-4c7b-b3e0-d2ce65aff603",
+              "name": "Consequences of population growth and structure ",
+              "topicId": "c5953cce-3a97-4e2c-9726-cdb344accc33",
+              "lId": 1054
+            },
+            {
+              "_id": "a2fa7aa5-b99e-4a1b-ad50-20c6530bf537",
+              "name": "Related study on population in Kenya and Sweden",
+              "topicId": "c5953cce-3a97-4e2c-9726-cdb344accc33",
+              "lId": 1055
+            }
+          ]
+        },
+        {
+          "_id": "c3421810-4d4b-4183-a583-e47f24d2b26a",
+          "name": "Settlements",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 112,
+          "subTopics": [
+            {
+              "_id": "35fbbe81-b85a-4d34-9f48-a23e3ce39ad0",
+              "name": "Factors influencing settlements ",
+              "topicId": "c3421810-4d4b-4183-a583-e47f24d2b26a",
+              "lId": 1056
+            },
+            {
+              "_id": "2d1815dd-0bde-4e8f-9856-eaf1eaa45ebf",
+              "name": "Settlement patterns ",
+              "topicId": "c3421810-4d4b-4183-a583-e47f24d2b26a",
+              "lId": 1057
+            },
+            {
+              "_id": "de93faf4-47d3-4172-92c6-3f46efdf24d3",
+              "name": "Distribution of major urban centres in East Africa",
+              "topicId": "c3421810-4d4b-4183-a583-e47f24d2b26a",
+              "lId": 1058
+            },
+            {
+              "_id": "ef13fca0-e442-4186-9a41-f245f8de8a27",
+              "name": "Funtional zones of urban centres",
+              "topicId": "c3421810-4d4b-4183-a583-e47f24d2b26a",
+              "lId": 1059
+            },
+            {
+              "_id": "9a001c4b-034a-468e-be2f-4769864e5961",
+              "name": "Growth and functions of selected towns in Kenya",
+              "topicId": "c3421810-4d4b-4183-a583-e47f24d2b26a",
+              "lId": 1060
+            },
+            {
+              "_id": "ac2e181a-3be6-410e-a2d2-17eb256f53d0",
+              "name": "Related studies of selected cities in the world",
+              "topicId": "c3421810-4d4b-4183-a583-e47f24d2b26a",
+              "lId": 1061
+            },
+            {
+              "_id": "3caf9154-8fa9-4dd1-b79f-00db66f30b8b",
+              "name": "Related sudies of selected port in the world ",
+              "topicId": "c3421810-4d4b-4183-a583-e47f24d2b26a",
+              "lId": 1062
+            },
+            {
+              "_id": "371a3653-fb2a-46d1-85e5-95bbab9d10bd",
+              "name": "Effects of urbanization",
+              "topicId": "c3421810-4d4b-4183-a583-e47f24d2b26a",
+              "lId": 1063
+            }
+          ]
+        },
+        {
+          "_id": "ce6b1433-3693-4420-8eaf-13393071cdb5",
+          "name": "Management and conservation of the environment ",
+          "courseClassId": "7082b87e-bdc4-449a-9ea2-37ecfc8a0549",
+          "lId": 113,
+          "subTopics": [
+            {
+              "_id": "a230cc53-1934-4568-8a77-29b3300db8a8",
+              "name": "Need for environmental management and conservation",
+              "topicId": "ce6b1433-3693-4420-8eaf-13393071cdb5",
+              "lId": 1064
+            },
+            {
+              "_id": "f8de6e9a-3086-4f1f-8838-c5859009f4c5",
+              "name": "Environmental hazards",
+              "topicId": "ce6b1433-3693-4420-8eaf-13393071cdb5",
+              "lId": 1065
+            },
+            {
+              "_id": "fcff4204-46ac-4b97-b5ae-f16da2450642",
+              "name": "Environmental management and conservation in Kenya",
+              "topicId": "ce6b1433-3693-4420-8eaf-13393071cdb5",
+              "lId": 1066
+            },
+            {
+              "_id": "8b00583c-2404-499f-83d3-3a457d1eddf4",
+              "name": "Fieldwork",
+              "topicId": "ce6b1433-3693-4420-8eaf-13393071cdb5",
+              "lId": 1067
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

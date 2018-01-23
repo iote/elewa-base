@@ -1,0 +1,3036 @@
+{
+  "_id": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+  "name": "Mathematics",
+  "subjectId": "mdYwGmEqR6ysWpKJ7",
+  "lId": 9,
+  "classes": [
+    {
+      "_id": "tGtAcdXu9b9KQJvbo",
+      "name": "Form 1",
+      "courseId": "tGtAcdXu9b9KQJvbo",
+      "lId": 0,
+      "order": 1,
+      "topics": [
+        {
+          "_id": "666a763b-7632-44c5-90aa-d030bf09de6b",
+          "name": "Natural Numbers",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 1,
+          "subTopics": [
+            {
+              "_id": "79aa6c66-7e5c-4e4c-b557-1bba342fc0b6",
+              "name": "Place values of numbers",
+              "topicId": "666a763b-7632-44c5-90aa-d030bf09de6b",
+              "lId": 359
+            },
+            {
+              "_id": "7e04c924-b8b5-485a-be23-950945716677",
+              "name": "Round off numbers to the nearest tens, hundreds, thousands, millions and billions",
+              "topicId": "666a763b-7632-44c5-90aa-d030bf09de6b",
+              "lId": 360
+            },
+            {
+              "_id": "7da3c714-0e6b-4466-a131-42fde22a3eb5",
+              "name": "Odd numbers",
+              "topicId": "666a763b-7632-44c5-90aa-d030bf09de6b",
+              "lId": 361
+            },
+            {
+              "_id": "98ec4485-303c-4ce6-ba2a-331980a1f7d8",
+              "name": "Even numbers",
+              "topicId": "666a763b-7632-44c5-90aa-d030bf09de6b",
+              "lId": 362
+            },
+            {
+              "_id": "91864ece-9dfe-4b15-9f3f-8906389469d7",
+              "name": "Prime numbers",
+              "topicId": "666a763b-7632-44c5-90aa-d030bf09de6b",
+              "lId": 363
+            },
+            {
+              "_id": "eb714e9d-5b80-4f8b-93ff-d9c6a482b228",
+              "name": "Word problems involving natural numbers",
+              "topicId": "666a763b-7632-44c5-90aa-d030bf09de6b",
+              "lId": 364
+            },
+            {
+              "_id": "d881379d-c0a0-4937-b393-61ff9707ea20",
+              "name": "Operation on whole numbers",
+              "topicId": "666a763b-7632-44c5-90aa-d030bf09de6b",
+              "lId": 1523
+            }
+          ]
+        },
+        {
+          "_id": "fa793dc9-f331-44f8-9f06-d398c5e9848e",
+          "name": "Factors",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 2,
+          "subTopics": [
+            {
+              "_id": "0bbcc245-3e35-4ae0-af5c-87fc0ec29065",
+              "name": "Factors of composite numbers",
+              "topicId": "fa793dc9-f331-44f8-9f06-d398c5e9848e",
+              "lId": 365
+            },
+            {
+              "_id": "f04b3c89-caa6-4806-85bf-6fbf319a8a02",
+              "name": "Prime factors",
+              "topicId": "fa793dc9-f331-44f8-9f06-d398c5e9848e",
+              "lId": 366
+            },
+            {
+              "_id": "5c6a4cd2-775c-4628-b38d-c546e91662aa",
+              "name": "Factors in power form",
+              "topicId": "fa793dc9-f331-44f8-9f06-d398c5e9848e",
+              "lId": 367
+            }
+          ]
+        },
+        {
+          "_id": "2eb9ddab-b832-41d8-8e34-f3bdeb489158",
+          "name": "Divisibility Tests",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 3,
+          "subTopics": [
+            {
+              "_id": "162a70d4-f1b1-4a77-80ff-6136cc17388b",
+              "name": "Divisibility test of numbers by 2, 3, 4,5,6,8,9,10, and 11",
+              "topicId": "2eb9ddab-b832-41d8-8e34-f3bdeb489158",
+              "lId": 368
+            }
+          ]
+        },
+        {
+          "_id": "4f186731-aea7-42d2-8c77-c9483c5d5091",
+          "name": "Greatest Common Divisor (GCD)/Highest Common Factor",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 4,
+          "subTopics": [
+            {
+              "_id": "9db7108c-8431-47f1-a450-aa771553be21",
+              "name": "Greatest common divisor of a set of numbers",
+              "topicId": "4f186731-aea7-42d2-8c77-c9483c5d5091",
+              "lId": 369
+            },
+            {
+              "_id": "795fc248-ff10-4957-bf73-27b1433a40c0",
+              "name": "Application of GCD/HCF to real life situations",
+              "topicId": "4f186731-aea7-42d2-8c77-c9483c5d5091",
+              "lId": 370
+            }
+          ]
+        },
+        {
+          "_id": "45c27ea1-f5c3-4435-8218-7c2bb0950f44",
+          "name": "Least Common Multiple (L.C.M)",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 5,
+          "subTopics": [
+            {
+              "_id": "5236fa03-8333-48b7-8fbe-18ff7bfaf119",
+              "name": "Multiples of a number",
+              "topicId": "45c27ea1-f5c3-4435-8218-7c2bb0950f44",
+              "lId": 371
+            },
+            {
+              "_id": "19c04e0e-f75e-44b5-8c2c-3f56c1b444d7",
+              "name": "LCM of a set of numbers",
+              "topicId": "45c27ea1-f5c3-4435-8218-7c2bb0950f44",
+              "lId": 372
+            },
+            {
+              "_id": "e0af1bae-7a09-433d-b34b-ef25564bc384",
+              "name": "Application of LCM in real life situations",
+              "topicId": "45c27ea1-f5c3-4435-8218-7c2bb0950f44",
+              "lId": 373
+            }
+          ]
+        },
+        {
+          "_id": "fef98337-cf40-4ee1-93ce-7598410b2574",
+          "name": "Integers",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 6,
+          "subTopics": [
+            {
+              "_id": "4becf47c-d2d8-4435-a8d4-cd46d329f90c",
+              "name": "Integers",
+              "topicId": "fef98337-cf40-4ee1-93ce-7598410b2574",
+              "lId": 374
+            },
+            {
+              "_id": "716e3c8d-676e-4ba3-be98-693ac873f8b9",
+              "name": "The number line",
+              "topicId": "fef98337-cf40-4ee1-93ce-7598410b2574",
+              "lId": 375
+            },
+            {
+              "_id": "9f717510-4eff-4a0b-ab0d-c8088f317f62",
+              "name": "Operation on integers",
+              "topicId": "fef98337-cf40-4ee1-93ce-7598410b2574",
+              "lId": 376
+            },
+            {
+              "_id": "d343f8a6-1578-4cc6-9056-9767e87cd81b",
+              "name": "Order of operations",
+              "topicId": "fef98337-cf40-4ee1-93ce-7598410b2574",
+              "lId": 377
+            },
+            {
+              "_id": "2d34a26e-6382-4257-ba55-59675fee9b39",
+              "name": "Application to real life situations",
+              "topicId": "fef98337-cf40-4ee1-93ce-7598410b2574",
+              "lId": 378
+            }
+          ]
+        },
+        {
+          "_id": "33750aef-2854-4894-902e-af04657a3b0a",
+          "name": "Fractions",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 7,
+          "subTopics": [
+            {
+              "_id": "93f66de5-89b6-4fae-9501-6b59c7a4f9b0",
+              "name": "Introduction",
+              "topicId": "33750aef-2854-4894-902e-af04657a3b0a",
+              "lId": 379
+            },
+            {
+              "_id": "ae1c8e16-eb3c-4e8f-a01c-e5e1193cecd4",
+              "name": "Comparing fractions",
+              "topicId": "33750aef-2854-4894-902e-af04657a3b0a",
+              "lId": 380
+            },
+            {
+              "_id": "af513f8f-9484-4306-babb-dcb28ba80619",
+              "name": "Operation on fractions ",
+              "topicId": "33750aef-2854-4894-902e-af04657a3b0a",
+              "lId": 381
+            },
+            {
+              "_id": "309085fe-f4f0-426d-9e39-67d8869046ba",
+              "name": "Order of operations in fractions",
+              "topicId": "33750aef-2854-4894-902e-af04657a3b0a",
+              "lId": 382
+            }
+          ]
+        },
+        {
+          "_id": "638b678b-a265-4d4a-9737-001eb1fe1ff1",
+          "name": "Decimals",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 8,
+          "subTopics": [
+            {
+              "_id": "433c6801-5f26-4a35-9ae2-48b2db2f2e37",
+              "name": "Conversion of fractions into decimals",
+              "topicId": "638b678b-a265-4d4a-9737-001eb1fe1ff1",
+              "lId": 383
+            },
+            {
+              "_id": "4e0db7fe-f53d-4607-bbf6-b8eb76a9f057",
+              "name": "Recurring decimals",
+              "topicId": "638b678b-a265-4d4a-9737-001eb1fe1ff1",
+              "lId": 384
+            },
+            {
+              "_id": "cd7ce818-c1aa-48e7-aa7b-2d7f46256aa0",
+              "name": "Decimals places",
+              "topicId": "638b678b-a265-4d4a-9737-001eb1fe1ff1",
+              "lId": 385
+            },
+            {
+              "_id": "1621e563-a93a-45d2-9ec4-589f21d35a89",
+              "name": "Standard form",
+              "topicId": "638b678b-a265-4d4a-9737-001eb1fe1ff1",
+              "lId": 386
+            },
+            {
+              "_id": "b89a8983-2ba6-4cf7-af8d-db74ccd4def0",
+              "name": "Operations on decimals",
+              "topicId": "638b678b-a265-4d4a-9737-001eb1fe1ff1",
+              "lId": 387
+            },
+            {
+              "_id": "b05995d9-6611-48f0-89ad-1cc155f5614b",
+              "name": "Order of operations",
+              "topicId": "638b678b-a265-4d4a-9737-001eb1fe1ff1",
+              "lId": 388
+            }
+          ]
+        },
+        {
+          "_id": "c2c949c8-4da6-4f7a-8d07-e01be342eacf",
+          "name": "Squares and Square Roots",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 9,
+          "subTopics": [
+            {
+              "_id": "9d5ec2f8-4782-49ff-9e6a-59fa0538c11b",
+              "name": "Squares",
+              "topicId": "c2c949c8-4da6-4f7a-8d07-e01be342eacf",
+              "lId": 389
+            },
+            {
+              "_id": "a0e78083-7147-4c79-a977-762359c19b5e",
+              "name": "Squares from tables",
+              "topicId": "c2c949c8-4da6-4f7a-8d07-e01be342eacf",
+              "lId": 390
+            },
+            {
+              "_id": "cf9b0f9b-5ae5-455f-9c5b-e898297039fb",
+              "name": "Squares roots",
+              "topicId": "c2c949c8-4da6-4f7a-8d07-e01be342eacf",
+              "lId": 391
+            },
+            {
+              "_id": "191cd9bf-8583-4fd6-a2bc-1da4423de572",
+              "name": "Square root by factorisation ",
+              "topicId": "c2c949c8-4da6-4f7a-8d07-e01be342eacf",
+              "lId": 392
+            },
+            {
+              "_id": "96a66707-5570-4270-80ea-8cc1f4c1ddb9",
+              "name": "Square roots from tables",
+              "topicId": "c2c949c8-4da6-4f7a-8d07-e01be342eacf",
+              "lId": 393
+            }
+          ]
+        },
+        {
+          "_id": "633bb605-ed8b-4bce-b676-8a449911691b",
+          "name": "Algebraic Expressions",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 10,
+          "subTopics": [
+            {
+              "_id": "cfd5e952-e0ba-4348-ba39-77e3eec697f2",
+              "name": "Symbolic representation",
+              "topicId": "633bb605-ed8b-4bce-b676-8a449911691b",
+              "lId": 394
+            },
+            {
+              "_id": "2266fda4-a6df-40ce-b46e-e3f29ed0b71d",
+              "name": "Simplification of algebraic expressions",
+              "topicId": "633bb605-ed8b-4bce-b676-8a449911691b",
+              "lId": 395
+            },
+            {
+              "_id": "7a5bfa5b-9970-4e32-98e1-284fdc659c6b",
+              "name": "Brackets",
+              "topicId": "633bb605-ed8b-4bce-b676-8a449911691b",
+              "lId": 396
+            },
+            {
+              "_id": "b12e8f9b-7c5a-4348-9054-ee67799a91b7",
+              "name": "Factorisation by grouping",
+              "topicId": "633bb605-ed8b-4bce-b676-8a449911691b",
+              "lId": 397
+            },
+            {
+              "_id": "375bbec9-79c9-48b7-a5ab-22e2e76d9eeb",
+              "name": "Algebraic fractions ",
+              "topicId": "633bb605-ed8b-4bce-b676-8a449911691b",
+              "lId": 398
+            },
+            {
+              "_id": "caa36aea-f76b-40b3-8a69-caef86745bb8",
+              "name": "Simplification by factorisation",
+              "topicId": "633bb605-ed8b-4bce-b676-8a449911691b",
+              "lId": 399
+            },
+            {
+              "_id": "32fff74f-03f5-4910-94d4-e5e059be39f8",
+              "name": "Subtitution",
+              "topicId": "633bb605-ed8b-4bce-b676-8a449911691b",
+              "lId": 400
+            }
+          ]
+        },
+        {
+          "_id": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+          "name": "Rates, Ratio, Percentages and Proportion",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 11,
+          "subTopics": [
+            {
+              "_id": "dbc30cd0-5da4-4370-bb4b-1118a4418ebf",
+              "name": "Rates",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 401
+            },
+            {
+              "_id": "7819f79f-f909-4ce1-b5b1-10e9a980982f",
+              "name": "solving problems involving rates",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 402
+            },
+            {
+              "_id": "cb970866-cc7a-4107-9e34-45b940a857ed",
+              "name": "Ratio",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 403
+            },
+            {
+              "_id": "e9f2e7cd-aea9-4615-bb7c-a526f4ed37d8",
+              "name": "Comparing quantities using ratio",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 404
+            },
+            {
+              "_id": "6c14d700-7657-44d5-b8fa-f383bda3b4b7",
+              "name": "Increase and decrease in a given ratio",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 405
+            },
+            {
+              "_id": "c604cf55-1ee3-44cb-98bc-dbdfe3b95cd5",
+              "name": "Comparing ratios ",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 406
+            },
+            {
+              "_id": "89c16462-0d04-4278-9bc2-2c485732c63d",
+              "name": "Proportion: direct and inverse",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 407
+            },
+            {
+              "_id": "cef475d4-0f55-4c1f-832a-d7e9f11b23b6",
+              "name": "Solve problems on direct and inverse proportions",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 408
+            },
+            {
+              "_id": "6b1a9010-f0b2-41d7-b5d9-a26b2703c957",
+              "name": "Fractions and decimals as percentages",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 409
+            },
+            {
+              "_id": "6344ffc7-4ec8-40c7-bb6c-167ed4213c76",
+              "name": "Percentage increase and decrease",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 410
+            },
+            {
+              "_id": "3f886f7f-fb43-4f06-ae17-7e83bca2337d",
+              "name": "Application of rates, ratios, percentages and proportion to real life situations",
+              "topicId": "59b1627d-cb5d-496f-9089-00cf54ec5802",
+              "lId": 411
+            }
+          ]
+        },
+        {
+          "_id": "a01b4b86-5df4-4427-9812-db9841160e1e",
+          "name": "Length",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 12,
+          "subTopics": [
+            {
+              "_id": "03a1cd2b-76e2-4fb5-b147-afc4c595bba4",
+              "name": "Units of Length",
+              "topicId": "a01b4b86-5df4-4427-9812-db9841160e1e",
+              "lId": 412
+            },
+            {
+              "_id": "046284f8-9076-47bd-8024-fc022e8bb5f9",
+              "name": "Conversion of units of length from one form to another",
+              "topicId": "a01b4b86-5df4-4427-9812-db9841160e1e",
+              "lId": 413
+            },
+            {
+              "_id": "634a7a24-1302-42ee-8096-5beb19efc2a9",
+              "name": "Significant figures",
+              "topicId": "a01b4b86-5df4-4427-9812-db9841160e1e",
+              "lId": 414
+            },
+            {
+              "_id": "164454bd-8b8f-4702-b0fd-d57011dc1058",
+              "name": "Perimeter",
+              "topicId": "a01b4b86-5df4-4427-9812-db9841160e1e",
+              "lId": 415
+            },
+            {
+              "_id": "d7e87837-15af-4aea-b975-24cd36f5e068",
+              "name": "Circumference",
+              "topicId": "a01b4b86-5df4-4427-9812-db9841160e1e",
+              "lId": 416
+            }
+          ]
+        },
+        {
+          "_id": "fbb35065-7947-48a3-8937-063ddd8f1a90",
+          "name": "Area",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 13,
+          "subTopics": [
+            {
+              "_id": "178a3f3c-4178-4e90-802a-8946e8b6ba31",
+              "name": "Units of area",
+              "topicId": "fbb35065-7947-48a3-8937-063ddd8f1a90",
+              "lId": 417
+            },
+            {
+              "_id": "11f89833-281e-43c1-8f81-c04da6e4c5a2",
+              "name": "Conversion of units of area",
+              "topicId": "fbb35065-7947-48a3-8937-063ddd8f1a90",
+              "lId": 418
+            },
+            {
+              "_id": "3c280ff3-71b6-4fc7-93ca-8fc2caa08140",
+              "name": "Area of regular plane figures",
+              "topicId": "fbb35065-7947-48a3-8937-063ddd8f1a90",
+              "lId": 419
+            },
+            {
+              "_id": "8e70ea7f-c9c3-4dcb-8bf7-8c63eddb4b79",
+              "name": "Area of irregular plane shapes",
+              "topicId": "fbb35065-7947-48a3-8937-063ddd8f1a90",
+              "lId": 420
+            },
+            {
+              "_id": "c150929c-e5f5-4b29-9cf4-3fddf183f13d",
+              "name": "Surface area of cube, cuboid and cylinder",
+              "topicId": "fbb35065-7947-48a3-8937-063ddd8f1a90",
+              "lId": 421
+            }
+          ]
+        },
+        {
+          "_id": "2927de1d-1d96-4e27-a6e8-db744a2c5ab7",
+          "name": "Volume and Capacity",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 14,
+          "subTopics": [
+            {
+              "_id": "1715cd86-7a6c-43a7-baf5-18e3a9546ce1",
+              "name": "Units of volume",
+              "topicId": "2927de1d-1d96-4e27-a6e8-db744a2c5ab7",
+              "lId": 422
+            },
+            {
+              "_id": "bef8b58c-68fa-4f7c-aba1-f51e51d70abd",
+              "name": "Conversion of units of volume",
+              "topicId": "2927de1d-1d96-4e27-a6e8-db744a2c5ab7",
+              "lId": 423
+            },
+            {
+              "_id": "4a717892-5b93-442a-b6d5-28db466d1838",
+              "name": "Volume of cube, cuboid and cylinders",
+              "topicId": "2927de1d-1d96-4e27-a6e8-db744a2c5ab7",
+              "lId": 424
+            },
+            {
+              "_id": "ba00a602-e05e-4bad-98c1-f1e803eed767",
+              "name": "Units of capacity",
+              "topicId": "2927de1d-1d96-4e27-a6e8-db744a2c5ab7",
+              "lId": 425
+            },
+            {
+              "_id": "195f3194-c72b-4c28-890c-b004e63909de",
+              "name": "Conversion of units of capacity",
+              "topicId": "2927de1d-1d96-4e27-a6e8-db744a2c5ab7",
+              "lId": 426
+            },
+            {
+              "_id": "f6a80a78-2d78-4102-aec5-669fbdeb1f29",
+              "name": "Relationship between volume and capacity",
+              "topicId": "2927de1d-1d96-4e27-a6e8-db744a2c5ab7",
+              "lId": 427
+            },
+            {
+              "_id": "549194c1-0d9e-4958-a034-f4859362ea76",
+              "name": "Solving problems involving volume and capacity",
+              "topicId": "2927de1d-1d96-4e27-a6e8-db744a2c5ab7",
+              "lId": 428
+            }
+          ]
+        },
+        {
+          "_id": "ad610abf-8cb3-41c4-b940-c209628182a9",
+          "name": "Mass, Density and Weight",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 15,
+          "subTopics": [
+            {
+              "_id": "b3ac9a4c-81d9-4a28-acc3-3ae76bee0675",
+              "name": "Mass and units of mass",
+              "topicId": "ad610abf-8cb3-41c4-b940-c209628182a9",
+              "lId": 429
+            },
+            {
+              "_id": "c9593425-3d0a-407c-83d3-3bab0587aba6",
+              "name": "Density",
+              "topicId": "ad610abf-8cb3-41c4-b940-c209628182a9",
+              "lId": 430
+            },
+            {
+              "_id": "feda725f-1722-49ef-8ae8-fbba9dffa7eb",
+              "name": "Problem solving involving real life experiences on mass, volume, density and weight",
+              "topicId": "ad610abf-8cb3-41c4-b940-c209628182a9",
+              "lId": 431
+            },
+            {
+              "_id": "4df67e0a-5a6e-435c-ab8c-0fbab278fdd0",
+              "name": "Weight and units of weight",
+              "topicId": "ad610abf-8cb3-41c4-b940-c209628182a9",
+              "lId": 432
+            },
+            {
+              "_id": "14cd3cb0-aec4-47d6-8ed1-d5b9ac579aa0",
+              "name": "Mass and weight",
+              "topicId": "ad610abf-8cb3-41c4-b940-c209628182a9",
+              "lId": 433
+            }
+          ]
+        },
+        {
+          "_id": "c60c3b4a-0a85-472e-85da-e44b21f4bd12",
+          "name": "Time",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 16,
+          "subTopics": [
+            {
+              "_id": "6c672b96-32c8-4e4d-ba82-29ac8a40dfd8",
+              "name": "Units of time",
+              "topicId": "c60c3b4a-0a85-472e-85da-e44b21f4bd12",
+              "lId": 434
+            },
+            {
+              "_id": "8d3379fb-c925-43d8-97af-345583d07d5c",
+              "name": "12 hour and 24 hour system",
+              "topicId": "c60c3b4a-0a85-472e-85da-e44b21f4bd12",
+              "lId": 435
+            },
+            {
+              "_id": "eb3f1c91-df3d-4434-a447-365ad90d5254",
+              "name": "Travel time tables",
+              "topicId": "c60c3b4a-0a85-472e-85da-e44b21f4bd12",
+              "lId": 436
+            },
+            {
+              "_id": "3ff2b05d-2bdb-4ac2-b76b-a8a2a9db30f2",
+              "name": "Problem solving involving travel time tables",
+              "topicId": "c60c3b4a-0a85-472e-85da-e44b21f4bd12",
+              "lId": 437
+            }
+          ]
+        },
+        {
+          "_id": "1ee99daf-a8ef-4128-82bb-304626b62ef3",
+          "name": "Linear Equations",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 17,
+          "subTopics": [
+            {
+              "_id": "fe93ea51-6db0-4fe3-93d7-aec297dab3bd",
+              "name": "Linear equations in one unknown",
+              "topicId": "1ee99daf-a8ef-4128-82bb-304626b62ef3",
+              "lId": 438
+            },
+            {
+              "_id": "5c958612-630c-44e2-9d8d-c85f4a859ece",
+              "name": "Simultaneous linear equations",
+              "topicId": "1ee99daf-a8ef-4128-82bb-304626b62ef3",
+              "lId": 439
+            },
+            {
+              "_id": "cb34ae0f-994a-4e23-b6a7-55e94b3c455a",
+              "name": "Formation and solution of linear equations in one and two unknowns from given real life situations",
+              "topicId": "1ee99daf-a8ef-4128-82bb-304626b62ef3",
+              "lId": 440
+            }
+          ]
+        },
+        {
+          "_id": "3bfc395d-7643-4805-9fa4-01ea7adf3d46",
+          "name": "Commercial Arithmetic 1",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 18,
+          "subTopics": [
+            {
+              "_id": "0f6cde1f-054b-4a60-9e41-54364bfe6a67",
+              "name": "Currency",
+              "topicId": "3bfc395d-7643-4805-9fa4-01ea7adf3d46",
+              "lId": 441
+            },
+            {
+              "_id": "df2f69cd-3d0a-49e8-908a-3685a3f66397",
+              "name": "Currency exchange rates",
+              "topicId": "3bfc395d-7643-4805-9fa4-01ea7adf3d46",
+              "lId": 442
+            },
+            {
+              "_id": "ac838da7-1b59-4ba2-904d-db2f120f7611",
+              "name": "Currency conversion",
+              "topicId": "3bfc395d-7643-4805-9fa4-01ea7adf3d46",
+              "lId": 443
+            },
+            {
+              "_id": "ac923337-f77e-4822-8184-747a5fc2f238",
+              "name": "Profit and loss",
+              "topicId": "3bfc395d-7643-4805-9fa4-01ea7adf3d46",
+              "lId": 444
+            },
+            {
+              "_id": "8d73c2fe-89df-4538-bdc1-19cf404e532c",
+              "name": "Percentage profit and loss",
+              "topicId": "3bfc395d-7643-4805-9fa4-01ea7adf3d46",
+              "lId": 445
+            },
+            {
+              "_id": "df5ca9ad-5572-4cfe-84be-c49f32443b26",
+              "name": "Discounts and commissions",
+              "topicId": "3bfc395d-7643-4805-9fa4-01ea7adf3d46",
+              "lId": 446
+            },
+            {
+              "_id": "987169d6-7a49-4c86-a149-500b15293c44",
+              "name": "Percentage discounts and commissions",
+              "topicId": "3bfc395d-7643-4805-9fa4-01ea7adf3d46",
+              "lId": 447
+            }
+          ]
+        },
+        {
+          "_id": "0a518c27-c299-41c8-a05c-5221b4ed1ba8",
+          "name": "Co-ordinates and Graphs",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 19,
+          "subTopics": [
+            {
+              "_id": "dcbdee55-67dd-410d-819c-97682c93a151",
+              "name": "Cartesian plane",
+              "topicId": "0a518c27-c299-41c8-a05c-5221b4ed1ba8",
+              "lId": 448
+            },
+            {
+              "_id": "cf9828ea-0b0f-4833-89a4-c0738dfcc467",
+              "name": "Cartesian co-ordinates",
+              "topicId": "0a518c27-c299-41c8-a05c-5221b4ed1ba8",
+              "lId": 449
+            },
+            {
+              "_id": "0f726343-28b0-4124-b615-fbb89faa3ab3",
+              "name": "Points on the cartesian plane",
+              "topicId": "0a518c27-c299-41c8-a05c-5221b4ed1ba8",
+              "lId": 450
+            },
+            {
+              "_id": "bd483214-f7dc-438e-9088-2ed747733849",
+              "name": "Choice of appropriate scale",
+              "topicId": "0a518c27-c299-41c8-a05c-5221b4ed1ba8",
+              "lId": 451
+            },
+            {
+              "_id": "a6a3fbb0-b8ca-4eac-93d5-3fd0a93fd1aa",
+              "name": "Table of values for a given linear relation",
+              "topicId": "0a518c27-c299-41c8-a05c-5221b4ed1ba8",
+              "lId": 452
+            },
+            {
+              "_id": "aefd93bc-1022-4e94-9cf1-45528edcb324",
+              "name": "Linear graphs",
+              "topicId": "0a518c27-c299-41c8-a05c-5221b4ed1ba8",
+              "lId": 453
+            },
+            {
+              "_id": "ea47fa1e-0053-4765-a6cc-faf6d3f8a05c",
+              "name": "Graphical solution of simultaneous equations",
+              "topicId": "0a518c27-c299-41c8-a05c-5221b4ed1ba8",
+              "lId": 454
+            },
+            {
+              "_id": "52f85854-3645-4d88-be08-29a5510a687a",
+              "name": "Interpretation of graphs",
+              "topicId": "0a518c27-c299-41c8-a05c-5221b4ed1ba8",
+              "lId": 455
+            }
+          ]
+        },
+        {
+          "_id": "5360b665-8946-49cf-8156-48fa0bf85545",
+          "name": "Angles and Plane Figures",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 20,
+          "subTopics": [
+            {
+              "_id": "6884d568-9dc6-42bd-98a3-095b8d02668f",
+              "name": "Types of angles",
+              "topicId": "5360b665-8946-49cf-8156-48fa0bf85545",
+              "lId": 456
+            },
+            {
+              "_id": "8748b45d-6e48-4e1a-b770-8bb9e5305913",
+              "name": "Angles on a straight line",
+              "topicId": "5360b665-8946-49cf-8156-48fa0bf85545",
+              "lId": 457
+            },
+            {
+              "_id": "17c7d893-b160-476c-868e-40f3a34d9c20",
+              "name": "Angles at a point",
+              "topicId": "5360b665-8946-49cf-8156-48fa0bf85545",
+              "lId": 458
+            },
+            {
+              "_id": "9a968b7d-df35-43d4-8e0b-94eecfd0f0dd",
+              "name": "Angles on a transversal",
+              "topicId": "5360b665-8946-49cf-8156-48fa0bf85545",
+              "lId": 459
+            },
+            {
+              "_id": "bdce2c94-4e2a-45ac-85a6-279dbbe8208b",
+              "name": "Corresponding angles",
+              "topicId": "5360b665-8946-49cf-8156-48fa0bf85545",
+              "lId": 460
+            },
+            {
+              "_id": "6d2aed21-41d9-44c6-8b0c-3fbc96725f75",
+              "name": "Angle properties of polygons",
+              "topicId": "5360b665-8946-49cf-8156-48fa0bf85545",
+              "lId": 461
+            },
+            {
+              "_id": "74c9226f-dd90-4bf0-8dcc-3d7df74fb8a1",
+              "name": "Application to real life situation",
+              "topicId": "5360b665-8946-49cf-8156-48fa0bf85545",
+              "lId": 462
+            }
+          ]
+        },
+        {
+          "_id": "9af16ac0-6de5-492e-9c0e-bc3795c53ca5",
+          "name": "Geometric Constructions",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 21,
+          "subTopics": [
+            {
+              "_id": "ec94ce97-e27d-46c2-8fe7-759ed04753e3",
+              "name": "Construction of lines and angles using ruler and compasses only",
+              "topicId": "9af16ac0-6de5-492e-9c0e-bc3795c53ca5",
+              "lId": 463
+            },
+            {
+              "_id": "29123acb-a042-4d5e-8879-3c8046675a27",
+              "name": "Construction of perpendicular and parallel lines using a ruler and a set square only",
+              "topicId": "9af16ac0-6de5-492e-9c0e-bc3795c53ca5",
+              "lId": 464
+            },
+            {
+              "_id": "1a590cf3-227c-4c35-85a4-b66d8baaf481",
+              "name": "Proportional division of a line",
+              "topicId": "9af16ac0-6de5-492e-9c0e-bc3795c53ca5",
+              "lId": 465
+            },
+            {
+              "_id": "8171aac3-4066-407d-bb3e-9d42f341d695",
+              "name": "Construction of regular polygons",
+              "topicId": "9af16ac0-6de5-492e-9c0e-bc3795c53ca5",
+              "lId": 466
+            }
+          ]
+        },
+        {
+          "_id": "95a82e0d-0f7e-4c55-88f9-ae1ef84872cb",
+          "name": "Scale Drawing",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 22,
+          "subTopics": [
+            {
+              "_id": "a4e0a6d3-1bd4-46d5-b177-095fa1550c46",
+              "name": "Types of scales",
+              "topicId": "95a82e0d-0f7e-4c55-88f9-ae1ef84872cb",
+              "lId": 467
+            },
+            {
+              "_id": "b319a5db-ab88-4d55-86cf-31ae500a5788",
+              "name": "Choice of scales",
+              "topicId": "95a82e0d-0f7e-4c55-88f9-ae1ef84872cb",
+              "lId": 468
+            },
+            {
+              "_id": "fc0bf1b4-af0d-4de5-b7e9-989dd3a885ad",
+              "name": "Sketches from given information and scale drawing",
+              "topicId": "95a82e0d-0f7e-4c55-88f9-ae1ef84872cb",
+              "lId": 469
+            },
+            {
+              "_id": "c1c73063-079a-4c7e-b577-40009cd7d7b6",
+              "name": "Bearings",
+              "topicId": "95a82e0d-0f7e-4c55-88f9-ae1ef84872cb",
+              "lId": 470
+            },
+            {
+              "_id": "3cd49824-7bc8-402a-819c-bfbbaaaabb76",
+              "name": "Bearings, distance and locating points",
+              "topicId": "95a82e0d-0f7e-4c55-88f9-ae1ef84872cb",
+              "lId": 471
+            },
+            {
+              "_id": "b38d4a8b-cf15-49de-b510-78a3b160b00e",
+              "name": "Angles of elevation and depression",
+              "topicId": "95a82e0d-0f7e-4c55-88f9-ae1ef84872cb",
+              "lId": 472
+            },
+            {
+              "_id": "b958c004-4181-4f01-8922-75817b2345d8",
+              "name": "Solving problems involving bearings, scale drawing, angles of elevation and depression",
+              "topicId": "95a82e0d-0f7e-4c55-88f9-ae1ef84872cb",
+              "lId": 473
+            },
+            {
+              "_id": "22bdbbd1-d3b3-417d-9f11-9f7976091857",
+              "name": "Simple surveying techniques",
+              "topicId": "95a82e0d-0f7e-4c55-88f9-ae1ef84872cb",
+              "lId": 474
+            }
+          ]
+        },
+        {
+          "_id": "fd42d21b-2e32-4162-92f6-2616a7e0fb84",
+          "name": "Common Solids",
+          "courseClassId": "4b777499-d040-4a8f-8a9b-1066a5a464f0",
+          "lId": 23,
+          "subTopics": [
+            {
+              "_id": "98dbd744-7b3d-437e-b177-c2bad832c5f1",
+              "name": "Common solids",
+              "topicId": "fd42d21b-2e32-4162-92f6-2616a7e0fb84",
+              "lId": 475
+            },
+            {
+              "_id": "4f44e6f6-a382-43f4-ad26-211675b61f77",
+              "name": "Sketches of solids",
+              "topicId": "fd42d21b-2e32-4162-92f6-2616a7e0fb84",
+              "lId": 476
+            },
+            {
+              "_id": "28272ecc-844b-4274-b56b-199d7308eb92",
+              "name": "Nets of solids",
+              "topicId": "fd42d21b-2e32-4162-92f6-2616a7e0fb84",
+              "lId": 477
+            },
+            {
+              "_id": "1f4e43a6-8216-44da-af1f-ac05576e39a6",
+              "name": "Models of solids from nets",
+              "topicId": "fd42d21b-2e32-4162-92f6-2616a7e0fb84",
+              "lId": 478
+            },
+            {
+              "_id": "e9708d96-c621-43d4-a6cf-da287195c4b0",
+              "name": "Surface area of solids from nets",
+              "topicId": "fd42d21b-2e32-4162-92f6-2616a7e0fb84",
+              "lId": 479
+            },
+            {
+              "_id": "88b04719-14eb-4cab-9bf8-32f56f4123c2",
+              "name": "Distance between two points on the surface of a solid",
+              "topicId": "fd42d21b-2e32-4162-92f6-2616a7e0fb84",
+              "lId": 480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+      "name": "Form 2",
+      "order": 2,
+      "courseId": "tGtAcdXu9b9KQJvbo",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "e6da8855-a999-4833-9a79-277d8c37911a",
+          "name": "Cubes and Cube Roots",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 24,
+          "subTopics": [
+            {
+              "_id": "e17a7020-2c15-48b3-b4fc-8875bcbc5165",
+              "name": "Cubes of numbers by multiplication",
+              "topicId": "e6da8855-a999-4833-9a79-277d8c37911a",
+              "lId": 481
+            },
+            {
+              "_id": "b2c03a0c-1b9b-4e5a-b4cc-b22bd46ad530",
+              "name": "Cubes from tables",
+              "topicId": "e6da8855-a999-4833-9a79-277d8c37911a",
+              "lId": 482
+            },
+            {
+              "_id": "d1127c56-619c-4e3d-ae4a-1bb809766552",
+              "name": "Cube roots of numbers by factor method",
+              "topicId": "e6da8855-a999-4833-9a79-277d8c37911a",
+              "lId": 483
+            },
+            {
+              "_id": "b4bcf8e6-fcca-4fec-9946-346d74fd795e",
+              "name": "Evaluation of cube and cube root expressions",
+              "topicId": "e6da8855-a999-4833-9a79-277d8c37911a",
+              "lId": 484
+            },
+            {
+              "_id": "3bd514c8-59d3-4b22-bf57-93414d71b734",
+              "name": "Application of cubes and cube roots to real life situations",
+              "topicId": "e6da8855-a999-4833-9a79-277d8c37911a",
+              "lId": 485
+            }
+          ]
+        },
+        {
+          "_id": "a74909fd-3198-4090-9939-a0c860ddc4c9",
+          "name": "Reciprocals",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 25,
+          "subTopics": [
+            {
+              "_id": "cd4b36c0-3fcd-45f2-8492-25e72e926dcb",
+              "name": "Reciprocals of numbers by division",
+              "topicId": "a74909fd-3198-4090-9939-a0c860ddc4c9",
+              "lId": 486
+            },
+            {
+              "_id": "aae9b3a4-1f23-43a3-af75-f0b561572b62",
+              "name": "Reciprocals of numbers from tables",
+              "topicId": "a74909fd-3198-4090-9939-a0c860ddc4c9",
+              "lId": 487
+            },
+            {
+              "_id": "fd49ae96-69f1-43e7-a411-29b8fb314c54",
+              "name": "Computation using reciprocals",
+              "topicId": "a74909fd-3198-4090-9939-a0c860ddc4c9",
+              "lId": 488
+            }
+          ]
+        },
+        {
+          "_id": "a2f39dba-dd1d-4669-a860-10adb609599c",
+          "name": "Indices and Logarithms",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 26,
+          "subTopics": [
+            {
+              "_id": "dd20541e-e479-4d20-a136-9c4fa019c408",
+              "name": "Indices (powers) and base.",
+              "topicId": "a2f39dba-dd1d-4669-a860-10adb609599c",
+              "lId": 489
+            },
+            {
+              "_id": "813d901e-7736-4ac9-bebe-45a01716de31",
+              "name": "Laws of indices (including positive integers, negative integers and fractional indices)",
+              "topicId": "a2f39dba-dd1d-4669-a860-10adb609599c",
+              "lId": 490
+            },
+            {
+              "_id": "42b52f2b-d104-4e69-b158-151c86cfa875",
+              "name": "Powers of 10 and common logarithms",
+              "topicId": "a2f39dba-dd1d-4669-a860-10adb609599c",
+              "lId": 491
+            },
+            {
+              "_id": "61b64f49-b9a8-4fba-a091-f14bf1b80825",
+              "name": "Common logarithms; characteristics, mantissa",
+              "topicId": "a2f39dba-dd1d-4669-a860-10adb609599c",
+              "lId": 492
+            },
+            {
+              "_id": "55df76f3-29ca-40ae-85e4-8be548c07355",
+              "name": "Logarithm tables",
+              "topicId": "a2f39dba-dd1d-4669-a860-10adb609599c",
+              "lId": 493
+            },
+            {
+              "_id": "d1b349e3-8945-400d-9482-d211e051b11d",
+              "name": "Application of common logarithms in multiplication, division and finding roots",
+              "topicId": "a2f39dba-dd1d-4669-a860-10adb609599c",
+              "lId": 494
+            }
+          ]
+        },
+        {
+          "_id": "8d81c2dd-776b-4471-bbde-328da5c7463d",
+          "name": "Equations and Straight Lines",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 27,
+          "subTopics": [
+            {
+              "_id": "b0ec8d81-1ccb-4f9a-b5e0-8092c1f62654",
+              "name": "Gradient of a straight line",
+              "topicId": "8d81c2dd-776b-4471-bbde-328da5c7463d",
+              "lId": 495
+            },
+            {
+              "_id": "7565a79b-9985-48fd-a8c2-cfd6ffb1e69e",
+              "name": "Equation of a straight line",
+              "topicId": "8d81c2dd-776b-4471-bbde-328da5c7463d",
+              "lId": 496
+            },
+            {
+              "_id": "2c1227bb-3c21-4c80-9e8d-60ecb4d5a29e",
+              "name": "Expressing equation of a straight line in the Form y=mx+c",
+              "topicId": "8d81c2dd-776b-4471-bbde-328da5c7463d",
+              "lId": 497
+            },
+            {
+              "_id": "f37b4905-6d0b-4cbc-a67d-894cc766cb22",
+              "name": "The x and y Intercepts of a line",
+              "topicId": "8d81c2dd-776b-4471-bbde-328da5c7463d",
+              "lId": 498
+            },
+            {
+              "_id": "c53b3f64-5f3f-4787-ae28-c4e3282063b1",
+              "name": "Perpendicular lines and their gradients",
+              "topicId": "8d81c2dd-776b-4471-bbde-328da5c7463d",
+              "lId": 499
+            },
+            {
+              "_id": "02dba94e-edca-43fd-921b-2fa571ba3433",
+              "name": "Parallel lines and their gradients.",
+              "topicId": "8d81c2dd-776b-4471-bbde-328da5c7463d",
+              "lId": 500
+            },
+            {
+              "_id": "b718da50-29ed-4138-9008-92754580aa6c",
+              "name": "Equations of perpendicular and parallel lines",
+              "topicId": "8d81c2dd-776b-4471-bbde-328da5c7463d",
+              "lId": 501
+            }
+          ]
+        },
+        {
+          "_id": "6b569f7f-3b00-4fde-a973-c6835f1510fa",
+          "name": "Reflection and Congruence",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 28,
+          "subTopics": [
+            {
+              "_id": "35de37d5-81df-420e-a2db-475cbcc49bb3",
+              "name": "Lines and planes of Symetry",
+              "topicId": "6b569f7f-3b00-4fde-a973-c6835f1510fa",
+              "lId": 502
+            },
+            {
+              "_id": "ace13450-b93f-4f00-81dc-c46225a5bef1",
+              "name": "Mirror lines and construction of objects and images",
+              "topicId": "6b569f7f-3b00-4fde-a973-c6835f1510fa",
+              "lId": 503
+            },
+            {
+              "_id": "e2239e8d-e28d-4841-aff3-b08150416c8f",
+              "name": "Reflection as a transformation",
+              "topicId": "6b569f7f-3b00-4fde-a973-c6835f1510fa",
+              "lId": 504
+            },
+            {
+              "_id": "06eb0f3b-cb5b-45fc-a85c-27c5c7008ed7",
+              "name": "Reflection in the cartesian plane.",
+              "topicId": "6b569f7f-3b00-4fde-a973-c6835f1510fa",
+              "lId": 505
+            },
+            {
+              "_id": "cc65724b-bde1-4ef4-8065-c6e2b69778e0",
+              "name": "Direct and opposite congruency.",
+              "topicId": "6b569f7f-3b00-4fde-a973-c6835f1510fa",
+              "lId": 506
+            },
+            {
+              "_id": "93232cdd-43bb-440d-827f-9f727c45ca2c",
+              "name": "Congruency tests (SSS,SAS, AAS, ASA and RHS)",
+              "topicId": "6b569f7f-3b00-4fde-a973-c6835f1510fa",
+              "lId": 507
+            }
+          ]
+        },
+        {
+          "_id": "775d0021-6d0d-4b79-a5d8-545fafcb1402",
+          "name": "Rotation",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 29,
+          "subTopics": [
+            {
+              "_id": "e41e2006-4156-4043-9c74-16871b0c3f7f",
+              "name": "Properties of rotation",
+              "topicId": "775d0021-6d0d-4b79-a5d8-545fafcb1402",
+              "lId": 508
+            },
+            {
+              "_id": "dd2b0f86-5fde-42b5-8bac-5a5aad652fc9",
+              "name": "Centre and angles of rotation",
+              "topicId": "775d0021-6d0d-4b79-a5d8-545fafcb1402",
+              "lId": 509
+            },
+            {
+              "_id": "61b8b0b2-e8a3-42d8-bdd1-89cfc2692746",
+              "name": "Rotation in the cartesian plane.",
+              "topicId": "775d0021-6d0d-4b79-a5d8-545fafcb1402",
+              "lId": 510
+            },
+            {
+              "_id": "03983c80-96bb-413c-8bec-675f71b1ae02",
+              "name": "Rotational symetry of plane figures and solids (point axis and order)",
+              "topicId": "775d0021-6d0d-4b79-a5d8-545fafcb1402",
+              "lId": 511
+            },
+            {
+              "_id": "25181eaf-98ac-4859-a3a8-2e2fc4d83d44",
+              "name": "Congruence and rotation.",
+              "topicId": "775d0021-6d0d-4b79-a5d8-545fafcb1402",
+              "lId": 512
+            }
+          ]
+        },
+        {
+          "_id": "1cee97cb-f426-4131-a5f0-f6492da1fc82",
+          "name": "Similarity and Enlargement",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 30,
+          "subTopics": [
+            {
+              "_id": "3c93ccf4-0d40-460a-8d5b-ce9fa91a9bf6",
+              "name": "Similar figures and their properties",
+              "topicId": "1cee97cb-f426-4131-a5f0-f6492da1fc82",
+              "lId": 513
+            },
+            {
+              "_id": "12866010-4481-40cf-80f7-b7b55bf7bdda",
+              "name": "Construction of similar figures",
+              "topicId": "1cee97cb-f426-4131-a5f0-f6492da1fc82",
+              "lId": 514
+            },
+            {
+              "_id": "aef76a1f-3520-4b55-a1e1-a4e60f1be46f",
+              "name": "Properties of enlargement",
+              "topicId": "1cee97cb-f426-4131-a5f0-f6492da1fc82",
+              "lId": 515
+            },
+            {
+              "_id": "a1099964-c46f-4605-bb5e-570d3894a289",
+              "name": "Construction of objects and images under enlargement",
+              "topicId": "1cee97cb-f426-4131-a5f0-f6492da1fc82",
+              "lId": 516
+            },
+            {
+              "_id": "226091a7-5159-48f0-9879-6107d8941f7b",
+              "name": "Enlargement in the cartesian plane",
+              "topicId": "1cee97cb-f426-4131-a5f0-f6492da1fc82",
+              "lId": 517
+            },
+            {
+              "_id": "d574942b-43f8-4948-b3b5-08c2485d708b",
+              "name": "Linear, area and volume scale factors",
+              "topicId": "1cee97cb-f426-4131-a5f0-f6492da1fc82",
+              "lId": 518
+            },
+            {
+              "_id": "98dac833-40a9-4e7a-b650-6922eb2ab2d3",
+              "name": "Real life situation",
+              "topicId": "1cee97cb-f426-4131-a5f0-f6492da1fc82",
+              "lId": 519
+            }
+          ]
+        },
+        {
+          "_id": "4c8f110d-2c4c-4e4b-af2b-1128fbe27a15",
+          "name": "Pythagoras Theorem",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 31,
+          "subTopics": [
+            {
+              "_id": "23799e3e-cb57-4ce0-a2e4-f0b90f3ff5f2",
+              "name": "Pythagoras Theorem",
+              "topicId": "4c8f110d-2c4c-4e4b-af2b-1128fbe27a15",
+              "lId": 520
+            }
+          ]
+        },
+        {
+          "_id": "59e366cc-b41d-4495-b179-bb4834250572",
+          "name": "Trigonometry 1",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 32,
+          "subTopics": [
+            {
+              "_id": "a24e39a1-a74c-4263-9bf7-33ec1b5926aa",
+              "name": "Tangent, Cosine and Sine of an acute angle",
+              "topicId": "59e366cc-b41d-4495-b179-bb4834250572",
+              "lId": 521
+            },
+            {
+              "_id": "b3135817-5afa-4ae8-bc86-6d039d51bd5a",
+              "name": "Trigonometric Tables",
+              "topicId": "59e366cc-b41d-4495-b179-bb4834250572",
+              "lId": 522
+            },
+            {
+              "_id": "2b0d2171-e75b-4f73-b834-1898ac0323e8",
+              "name": "Angles and sides of a right angled triangle",
+              "topicId": "59e366cc-b41d-4495-b179-bb4834250572",
+              "lId": 523
+            },
+            {
+              "_id": "05a02fe9-6084-4043-8111-1797a5270497",
+              "name": "Sine and cosine of complimentary angles",
+              "topicId": "59e366cc-b41d-4495-b179-bb4834250572",
+              "lId": 524
+            },
+            {
+              "_id": "8ebddb39-d859-4c1d-90f6-c4e09f37a688",
+              "name": "Relationship between tangent, sine and cosine",
+              "topicId": "59e366cc-b41d-4495-b179-bb4834250572",
+              "lId": 525
+            },
+            {
+              "_id": "1b01feb5-a529-4424-a47a-a48d6bd939da",
+              "name": "Trigonometric ratios of special angles",
+              "topicId": "59e366cc-b41d-4495-b179-bb4834250572",
+              "lId": 526
+            },
+            {
+              "_id": "cd4c003b-2a4c-4932-9f74-2ef3d642f318",
+              "name": "Logarithm of sines, cosines and tangents",
+              "topicId": "59e366cc-b41d-4495-b179-bb4834250572",
+              "lId": 527
+            },
+            {
+              "_id": "acd855c8-0a9a-4b47-b1ce-cd4a380b06e7",
+              "name": "Application of trigonometry to real life situations",
+              "topicId": "59e366cc-b41d-4495-b179-bb4834250572",
+              "lId": 528
+            }
+          ]
+        },
+        {
+          "_id": "007e785e-3429-43e5-8c21-5bc94940446c",
+          "name": "Area of a Triangle",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 33,
+          "subTopics": [
+            {
+              "_id": "f7b9f4d5-96a0-47b5-9a12-1059c846785f",
+              "name": "Area of a triangle given two sides and the angle between",
+              "topicId": "007e785e-3429-43e5-8c21-5bc94940446c",
+              "lId": 529
+            },
+            {
+              "_id": "2fd7ce20-c7a7-44fa-94f8-090ef9974992",
+              "name": "Area of a triangle given three sides",
+              "topicId": "007e785e-3429-43e5-8c21-5bc94940446c",
+              "lId": 530
+            },
+            {
+              "_id": "dbfa6b09-32d4-4be6-be07-d6d708b5c01a",
+              "name": "Application of trigonometry to real life situations",
+              "topicId": "007e785e-3429-43e5-8c21-5bc94940446c",
+              "lId": 531
+            }
+          ]
+        },
+        {
+          "_id": "d0126e9b-525a-48bb-985a-6a8152ad7c93",
+          "name": "Area of Quadrilateral and other Polygons",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 34,
+          "subTopics": [
+            {
+              "_id": "42a76b65-2381-4bf6-85bb-7fd2712f920d",
+              "name": "Area of quadrilaterals",
+              "topicId": "d0126e9b-525a-48bb-985a-6a8152ad7c93",
+              "lId": 532
+            },
+            {
+              "_id": "d11e5d0c-b978-47ed-ba73-03ba9555591b",
+              "name": "Area of other polygons",
+              "topicId": "d0126e9b-525a-48bb-985a-6a8152ad7c93",
+              "lId": 533
+            }
+          ]
+        },
+        {
+          "_id": "09baeedc-c8eb-4001-b9e1-bf677b99bcdc",
+          "name": "Area of Part of a Circle",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 35,
+          "subTopics": [
+            {
+              "_id": "6fbfb72d-8337-4c09-9be1-370265f1472f",
+              "name": "Area of a sector",
+              "topicId": "09baeedc-c8eb-4001-b9e1-bf677b99bcdc",
+              "lId": 534
+            },
+            {
+              "_id": "c1e4393c-eda4-4dc2-aba2-278b01d3e163",
+              "name": "Area of a segment",
+              "topicId": "09baeedc-c8eb-4001-b9e1-bf677b99bcdc",
+              "lId": 535
+            },
+            {
+              "_id": "6304023d-2f47-4ace-91e6-4b22411b29ba",
+              "name": "Area of common regions between circle",
+              "topicId": "09baeedc-c8eb-4001-b9e1-bf677b99bcdc",
+              "lId": 536
+            }
+          ]
+        },
+        {
+          "_id": "5cb2d9f1-535a-4db8-8d9e-4312ac370dab",
+          "name": "Surface Area of Solids",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 36,
+          "subTopics": [
+            {
+              "_id": "01811356-178f-4fb6-888e-ac83b4b3bee3",
+              "name": "Surface area of a prism",
+              "topicId": "5cb2d9f1-535a-4db8-8d9e-4312ac370dab",
+              "lId": 537
+            },
+            {
+              "_id": "152d2a37-1d96-42f1-8229-8e5845eb48f2",
+              "name": "Surface area of a pyramid",
+              "topicId": "5cb2d9f1-535a-4db8-8d9e-4312ac370dab",
+              "lId": 538
+            },
+            {
+              "_id": "6c4f2482-bd53-4878-aef4-795c4bd58145",
+              "name": "Surface area of a cone",
+              "topicId": "5cb2d9f1-535a-4db8-8d9e-4312ac370dab",
+              "lId": 539
+            },
+            {
+              "_id": "497b7461-ffbe-45fe-829b-9460bcdd0a8c",
+              "name": "Surface area of a frustum",
+              "topicId": "5cb2d9f1-535a-4db8-8d9e-4312ac370dab",
+              "lId": 540
+            },
+            {
+              "_id": "1343eee8-66d1-43d2-a0eb-0a3f871a79ec",
+              "name": "Surface area of a sphere",
+              "topicId": "5cb2d9f1-535a-4db8-8d9e-4312ac370dab",
+              "lId": 541
+            }
+          ]
+        },
+        {
+          "_id": "4a01aaca-6897-4b38-949d-12bdfc8c07f1",
+          "name": "Volume of Solids",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 37,
+          "subTopics": [
+            {
+              "_id": "e94cbf12-fd8b-4558-98e5-dbcb73466838",
+              "name": "Volume of a prism",
+              "topicId": "4a01aaca-6897-4b38-949d-12bdfc8c07f1",
+              "lId": 542
+            },
+            {
+              "_id": "801bbcd8-70ab-47a7-9c73-7d82ba9b83b7",
+              "name": "Volume of a pyramid",
+              "topicId": "4a01aaca-6897-4b38-949d-12bdfc8c07f1",
+              "lId": 543
+            },
+            {
+              "_id": "04fce468-e640-496b-aa11-a318c748a126",
+              "name": "Volume of a cone",
+              "topicId": "4a01aaca-6897-4b38-949d-12bdfc8c07f1",
+              "lId": 544
+            },
+            {
+              "_id": "d6326492-f1bd-4d33-8b2f-9cf0e98602b1",
+              "name": "Volume of a frustum",
+              "topicId": "4a01aaca-6897-4b38-949d-12bdfc8c07f1",
+              "lId": 545
+            },
+            {
+              "_id": "2128b6df-2313-485c-9fa9-26a49b5d9ed7",
+              "name": "Volume of a sphere",
+              "topicId": "4a01aaca-6897-4b38-949d-12bdfc8c07f1",
+              "lId": 546
+            }
+          ]
+        },
+        {
+          "_id": "94b52455-973e-42eb-86cb-efc063843e33",
+          "name": "Quadratic Expressions and Equations",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 38,
+          "subTopics": [
+            {
+              "_id": "7fff4a2c-0395-48c4-9bed-47568a79c7be",
+              "name": "Expansion of algebraic expressions to form quadratic expressions",
+              "topicId": "94b52455-973e-42eb-86cb-efc063843e33",
+              "lId": 547
+            },
+            {
+              "_id": "e868991a-ef80-48fe-aa24-9f8546fa0a2d",
+              "name": "Quadratic identities",
+              "topicId": "94b52455-973e-42eb-86cb-efc063843e33",
+              "lId": 548
+            },
+            {
+              "_id": "4da15d3e-ca1b-44b6-a398-f220183852e4",
+              "name": "Using quadratic identities",
+              "topicId": "94b52455-973e-42eb-86cb-efc063843e33",
+              "lId": 549
+            },
+            {
+              "_id": "03c1be49-10d8-4f66-9211-48905a7ed478",
+              "name": "Factorisation of quadratic expressions",
+              "topicId": "94b52455-973e-42eb-86cb-efc063843e33",
+              "lId": 550
+            },
+            {
+              "_id": "65f3837f-211b-4633-8f76-9ba20c8a053f",
+              "name": "Solving quadratic equations by factorisation",
+              "topicId": "94b52455-973e-42eb-86cb-efc063843e33",
+              "lId": 551
+            },
+            {
+              "_id": "fc43a744-c080-4f72-ab42-19037bf573c3",
+              "name": "Form and solve quadratic equations",
+              "topicId": "94b52455-973e-42eb-86cb-efc063843e33",
+              "lId": 552
+            }
+          ]
+        },
+        {
+          "_id": "73cef3e2-9002-4ee2-9b62-98dc2115e2ed",
+          "name": "Linear Inequalities",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 39,
+          "subTopics": [
+            {
+              "_id": "057e98e0-dde4-4f42-9e4f-8c3858575598",
+              "name": "Inequality symbols",
+              "topicId": "73cef3e2-9002-4ee2-9b62-98dc2115e2ed",
+              "lId": 553
+            },
+            {
+              "_id": "37e96132-ef65-44ef-b743-c99e9a605a77",
+              "name": "solution of simple inequalities",
+              "topicId": "73cef3e2-9002-4ee2-9b62-98dc2115e2ed",
+              "lId": 554
+            },
+            {
+              "_id": "c8998975-c408-4888-9186-95c23636f0ab",
+              "name": "Simultaneous inequalities",
+              "topicId": "73cef3e2-9002-4ee2-9b62-98dc2115e2ed",
+              "lId": 555
+            },
+            {
+              "_id": "6382a012-145e-4334-8452-001c11d4ab8b",
+              "name": "Graphical representation of inequalities",
+              "topicId": "73cef3e2-9002-4ee2-9b62-98dc2115e2ed",
+              "lId": 556
+            },
+            {
+              "_id": "c68aa211-f7b5-4407-931e-28ff9efbd745",
+              "name": "Linear inequalities in two unknowns",
+              "topicId": "73cef3e2-9002-4ee2-9b62-98dc2115e2ed",
+              "lId": 557
+            },
+            {
+              "_id": "705d04e5-82eb-40cd-b6b0-f7cc1d9938a3",
+              "name": "Intersecting regions",
+              "topicId": "73cef3e2-9002-4ee2-9b62-98dc2115e2ed",
+              "lId": 558
+            }
+          ]
+        },
+        {
+          "_id": "e6fb8bbc-35ee-4027-a1f9-f02bcd7de179",
+          "name": "Linear Motion",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 40,
+          "subTopics": [
+            {
+              "_id": "0e70df64-816e-4548-aabf-1c716e2e425a",
+              "name": "Definitions",
+              "topicId": "e6fb8bbc-35ee-4027-a1f9-f02bcd7de179",
+              "lId": 559
+            },
+            {
+              "_id": "8957c9f6-b102-4fad-9273-9ae8914645cc",
+              "name": "Speed",
+              "topicId": "e6fb8bbc-35ee-4027-a1f9-f02bcd7de179",
+              "lId": 560
+            },
+            {
+              "_id": "9f10dc22-7963-4637-926d-6cead0b3d372",
+              "name": "Velocity and Acceleration",
+              "topicId": "e6fb8bbc-35ee-4027-a1f9-f02bcd7de179",
+              "lId": 561
+            },
+            {
+              "_id": "1d1a34e5-1427-4a6a-9490-45c76263d34b",
+              "name": "Distance-Time-Graph",
+              "topicId": "e6fb8bbc-35ee-4027-a1f9-f02bcd7de179",
+              "lId": 562
+            },
+            {
+              "_id": "2a6d00cc-19f9-4b7b-bc56-84cde1d2bb48",
+              "name": "Velocity-Time-Graph",
+              "topicId": "e6fb8bbc-35ee-4027-a1f9-f02bcd7de179",
+              "lId": 563
+            },
+            {
+              "_id": "a9100ca4-eefd-458d-a875-73a4d2fe7347",
+              "name": "Relative Speed",
+              "topicId": "e6fb8bbc-35ee-4027-a1f9-f02bcd7de179",
+              "lId": 564
+            }
+          ]
+        },
+        {
+          "_id": "bbd6547a-3afa-44fd-97c0-969d7aea09eb",
+          "name": "Statistics 1",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 41,
+          "subTopics": [
+            {
+              "_id": "c803cc2f-3e90-4ef6-bca5-a30a069da629",
+              "name": "Frequency Distribution Table",
+              "topicId": "bbd6547a-3afa-44fd-97c0-969d7aea09eb",
+              "lId": 565
+            },
+            {
+              "_id": "272fcba6-f910-43e8-9616-2eabceef4668",
+              "name": "Mean, Mode and Median",
+              "topicId": "bbd6547a-3afa-44fd-97c0-969d7aea09eb",
+              "lId": 566
+            },
+            {
+              "_id": "fb9fc02c-33bd-4cf9-9d33-01fb899804bb",
+              "name": "Grouped Data",
+              "topicId": "bbd6547a-3afa-44fd-97c0-969d7aea09eb",
+              "lId": 567
+            },
+            {
+              "_id": "c7926956-b6d3-4531-b300-99995193de65",
+              "name": "Representation of Data",
+              "topicId": "bbd6547a-3afa-44fd-97c0-969d7aea09eb",
+              "lId": 568
+            }
+          ]
+        },
+        {
+          "_id": "2c7f6f52-9365-4acb-924c-962630cd9038",
+          "name": "Angle Properties of a Circle",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 42,
+          "subTopics": [
+            {
+              "_id": "f5396cfc-914f-47de-88de-31d126803433",
+              "name": "Arc, Chord and Segment of a circle",
+              "topicId": "2c7f6f52-9365-4acb-924c-962630cd9038",
+              "lId": 569
+            },
+            {
+              "_id": "c59fdf01-6487-4758-82e6-0bff1e5c081e",
+              "name": "Angle of the centre and angle on the circumference",
+              "topicId": "2c7f6f52-9365-4acb-924c-962630cd9038",
+              "lId": 570
+            },
+            {
+              "_id": "0d2c9695-a2ed-4b6a-8d6c-3080265c5f42",
+              "name": "Angle in the same segment",
+              "topicId": "2c7f6f52-9365-4acb-924c-962630cd9038",
+              "lId": 571
+            },
+            {
+              "_id": "0869fec0-b8eb-4969-9d09-6539e5601fab",
+              "name": "Cyclic quadrilaterals",
+              "topicId": "2c7f6f52-9365-4acb-924c-962630cd9038",
+              "lId": 572
+            }
+          ]
+        },
+        {
+          "_id": "3a7b2169-1435-441a-a744-23d1bcb2825d",
+          "name": "Vectors",
+          "courseClassId": "0c52fd9d-da91-4dba-86f9-70d2890a4a57",
+          "lId": 43,
+          "subTopics": [
+            {
+              "_id": "17e7de72-aa22-4c4d-97cf-f23225f814cc",
+              "name": "Representation of vectors",
+              "topicId": "3a7b2169-1435-441a-a744-23d1bcb2825d",
+              "lId": 573
+            },
+            {
+              "_id": "ffcccf2d-7b19-4d69-9db2-784d762d77b6",
+              "name": "Equivalent vectors",
+              "topicId": "3a7b2169-1435-441a-a744-23d1bcb2825d",
+              "lId": 574
+            },
+            {
+              "_id": "d7bbf13d-4628-4511-979b-be0ccdee2a63",
+              "name": "Addition of vectors",
+              "topicId": "3a7b2169-1435-441a-a744-23d1bcb2825d",
+              "lId": 575
+            },
+            {
+              "_id": "b29a1d48-49f2-45a0-96ea-ca34a0d9eefd",
+              "name": "Multiplication of a vector by a scalar ",
+              "topicId": "3a7b2169-1435-441a-a744-23d1bcb2825d",
+              "lId": 576
+            },
+            {
+              "_id": "f6f5e4a6-9524-4e8f-a8bc-cdc870e70043",
+              "name": "Column vectors",
+              "topicId": "3a7b2169-1435-441a-a744-23d1bcb2825d",
+              "lId": 577
+            },
+            {
+              "_id": "e542f783-af94-44f8-838e-176645841c89",
+              "name": "The position vector ",
+              "topicId": "3a7b2169-1435-441a-a744-23d1bcb2825d",
+              "lId": 578
+            },
+            {
+              "_id": "c4604a50-ff96-43d0-94e0-f25315b4e36a",
+              "name": "Magnitude of a vector ",
+              "topicId": "3a7b2169-1435-441a-a744-23d1bcb2825d",
+              "lId": 579
+            },
+            {
+              "_id": "1ef96dc6-f970-45dd-8ba7-7d3201f2caad",
+              "name": "Midpoints",
+              "topicId": "3a7b2169-1435-441a-a744-23d1bcb2825d",
+              "lId": 580
+            },
+            {
+              "_id": "9ea5c500-ebbc-41c3-944a-61487875330c",
+              "name": "Translation",
+              "topicId": "3a7b2169-1435-441a-a744-23d1bcb2825d",
+              "lId": 581
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+      "name": "Form 3",
+      "order": 3,
+      "courseId": "tGtAcdXu9b9KQJvbo",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+          "name": "Quadratic Expressions and Equations 2",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 44,
+          "subTopics": [
+            {
+              "_id": "521c6d3b-348a-45a2-badc-227af2ba031c",
+              "name": "Factorisation of quadratic exppressions",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 582
+            },
+            {
+              "_id": "c21d8c0f-6bae-4d8d-a9ce-e69788ca64b2",
+              "name": "Perfect squares",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 583
+            },
+            {
+              "_id": "5b670b4e-5216-4940-9b06-7524076ca94b",
+              "name": "Completion of squarers",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 584
+            },
+            {
+              "_id": "19896a83-4940-4847-b322-812f4cb34013",
+              "name": "Solution of quadratic equations by completing the square",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 585
+            },
+            {
+              "_id": "aa3c1831-8027-405c-8c09-e69a240b22f4",
+              "name": "Quadratic formula",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 586
+            },
+            {
+              "_id": "93f3ccac-b591-44c7-8000-3aa8724f5e29",
+              "name": "Solution of quadratic equations using the formula",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 587
+            },
+            {
+              "_id": "4f52a08b-036e-4a66-ac5c-527922f7b5ff",
+              "name": "Formation of quadratic equations and solving them",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 588
+            },
+            {
+              "_id": "9392d524-690f-4db6-b8ba-90186f77de43",
+              "name": "Tables of values for a given quadratic relation",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 589
+            },
+            {
+              "_id": "c10add2a-3fd6-468f-b89b-ed6309c8160c",
+              "name": "Graphs of quadratic equations",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 590
+            },
+            {
+              "_id": "b08efd3c-69fa-4fe3-a1ed-38c499638b91",
+              "name": "Simulteneous equations- one linear and one quadratic",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 591
+            },
+            {
+              "_id": "4fb071d0-3715-4dba-ad15-6e6422873508",
+              "name": "Application to real life situations",
+              "topicId": "0b0e67a7-7a92-4453-a756-45ff8870fe92",
+              "lId": 592
+            }
+          ]
+        },
+        {
+          "_id": "c3021b03-7c7d-4a84-a89c-d232b936dbb7",
+          "name": "Approximation and Errors ",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 45,
+          "subTopics": [
+            {
+              "_id": "f96c6c2b-c864-4660-86ae-b49fdb38d627",
+              "name": "Computing using calculators",
+              "topicId": "c3021b03-7c7d-4a84-a89c-d232b936dbb7",
+              "lId": 593
+            },
+            {
+              "_id": "b0fda0e8-683d-45fa-9f27-6ed0a68d00fb",
+              "name": "Estimations and approximations",
+              "topicId": "c3021b03-7c7d-4a84-a89c-d232b936dbb7",
+              "lId": 594
+            },
+            {
+              "_id": "e1bb23ec-ee8b-472d-b685-a32ebac517bf",
+              "name": "Significant figures",
+              "topicId": "c3021b03-7c7d-4a84-a89c-d232b936dbb7",
+              "lId": 595
+            },
+            {
+              "_id": "bf21ea20-0dc3-4d6e-bc05-9969d5924c89",
+              "name": "Absolute, relative percentage, round off and truncation errors",
+              "topicId": "c3021b03-7c7d-4a84-a89c-d232b936dbb7",
+              "lId": 596
+            },
+            {
+              "_id": "f0a69086-64ba-4a0b-906c-d93a3926d847",
+              "name": "Propagation of errors from simple calculations",
+              "topicId": "c3021b03-7c7d-4a84-a89c-d232b936dbb7",
+              "lId": 597
+            },
+            {
+              "_id": "d4eb2265-9570-43da-aef6-59556e778fcf",
+              "name": "Maximum and minimum errors",
+              "topicId": "c3021b03-7c7d-4a84-a89c-d232b936dbb7",
+              "lId": 598
+            }
+          ]
+        },
+        {
+          "_id": "9beb75fd-0088-4e5b-92aa-791f544c89c1",
+          "name": "Trigonometry 2",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 46,
+          "subTopics": [
+            {
+              "_id": "77bb2c55-a88b-4892-a677-035dd227bac1",
+              "name": "The unit circle",
+              "topicId": "9beb75fd-0088-4e5b-92aa-791f544c89c1",
+              "lId": 599
+            },
+            {
+              "_id": "2eefdd44-fef2-4c3c-9c13-a888f6d0727f",
+              "name": "Trigonometric ratios from the unit circle",
+              "topicId": "9beb75fd-0088-4e5b-92aa-791f544c89c1",
+              "lId": 600
+            },
+            {
+              "_id": "7d9896ed-6cba-4714-ad2c-f6c534401ce1",
+              "name": "Trigonometric ratios of angles greater than 360 and negative angles",
+              "topicId": "9beb75fd-0088-4e5b-92aa-791f544c89c1",
+              "lId": 601
+            },
+            {
+              "_id": "becaf58d-4e9c-4d86-b2ed-e1a390e3347c",
+              "name": "Use of trigonometric tables",
+              "topicId": "9beb75fd-0088-4e5b-92aa-791f544c89c1",
+              "lId": 602
+            },
+            {
+              "_id": "0dcd59f1-5426-4422-92da-06c07e99f1e2",
+              "name": "Radian measure",
+              "topicId": "9beb75fd-0088-4e5b-92aa-791f544c89c1",
+              "lId": 603
+            },
+            {
+              "_id": "ee1b0d5b-34d9-4179-8547-9cdd1e07fd94",
+              "name": "Simple trigonometric graphs",
+              "topicId": "9beb75fd-0088-4e5b-92aa-791f544c89c1",
+              "lId": 604
+            },
+            {
+              "_id": "3f987d03-8292-4347-b21b-24b06e812a6e",
+              "name": "Derivation of sine and cosine rule",
+              "topicId": "9beb75fd-0088-4e5b-92aa-791f544c89c1",
+              "lId": 605
+            },
+            {
+              "_id": "91bf0ccf-eb7e-4e7f-9cdc-b66314db5e72",
+              "name": "Solution of triangles",
+              "topicId": "9beb75fd-0088-4e5b-92aa-791f544c89c1",
+              "lId": 606
+            },
+            {
+              "_id": "f12c1a6d-6f85-48ee-a455-4821dc513a9b",
+              "name": "Application of sine and cosine rule to real life situations",
+              "topicId": "9beb75fd-0088-4e5b-92aa-791f544c89c1",
+              "lId": 607
+            }
+          ]
+        },
+        {
+          "_id": "5d5a4cd3-f088-4c64-9018-d152a12b5a84",
+          "name": "SURDS ",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 47,
+          "subTopics": [
+            {
+              "_id": "4e4aefcf-18bf-44f3-872d-7940e2cb662e",
+              "name": "Rational and irrational number",
+              "topicId": "5d5a4cd3-f088-4c64-9018-d152a12b5a84",
+              "lId": 608
+            },
+            {
+              "_id": "63d0e6f8-f32b-492e-9498-d1c0843d6d7c",
+              "name": "Simplification of surds",
+              "topicId": "5d5a4cd3-f088-4c64-9018-d152a12b5a84",
+              "lId": 609
+            },
+            {
+              "_id": "ebeabdb5-f73b-442f-820b-4e87db958c82",
+              "name": "Rationalisation of denominators",
+              "topicId": "5d5a4cd3-f088-4c64-9018-d152a12b5a84",
+              "lId": 610
+            }
+          ]
+        },
+        {
+          "_id": "46c4f0f3-48c9-47e4-b6f2-a31db43bb8ab",
+          "name": "Further Logarithms ",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 48,
+          "subTopics": [
+            {
+              "_id": "5cb7362d-adfb-4627-b5ab-eef0576c95da",
+              "name": "Logarithmic notation",
+              "topicId": "46c4f0f3-48c9-47e4-b6f2-a31db43bb8ab",
+              "lId": 611
+            },
+            {
+              "_id": "497c6e7b-c557-44ca-8870-258d32b8570f",
+              "name": "The laws of logarithms",
+              "topicId": "46c4f0f3-48c9-47e4-b6f2-a31db43bb8ab",
+              "lId": 612
+            },
+            {
+              "_id": "1b22f4b6-87e8-4906-8b4a-1a11cb388171",
+              "name": "Simplification of logarithmic exppressions",
+              "topicId": "46c4f0f3-48c9-47e4-b6f2-a31db43bb8ab",
+              "lId": 613
+            },
+            {
+              "_id": "ffd2d2f7-8788-400b-8a62-b6d4f4be22c1",
+              "name": "Solution of logarithmic equations",
+              "topicId": "46c4f0f3-48c9-47e4-b6f2-a31db43bb8ab",
+              "lId": 614
+            },
+            {
+              "_id": "17916dce-68b4-4d25-a944-0591d4ab4f94",
+              "name": "Further computation using logarithmic laws",
+              "topicId": "46c4f0f3-48c9-47e4-b6f2-a31db43bb8ab",
+              "lId": 615
+            }
+          ]
+        },
+        {
+          "_id": "21eb32f7-ca52-4062-8b82-58463a2a0e40",
+          "name": "Commercial Arithmetic (2) ",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 49,
+          "subTopics": [
+            {
+              "_id": "c73e54df-07e3-456f-b34d-140fb292cd65",
+              "name": "Principal rate and time",
+              "topicId": "21eb32f7-ca52-4062-8b82-58463a2a0e40",
+              "lId": 616
+            },
+            {
+              "_id": "29f66f58-36e4-46e1-93a8-4f44004781fb",
+              "name": "Simple interest",
+              "topicId": "21eb32f7-ca52-4062-8b82-58463a2a0e40",
+              "lId": 617
+            },
+            {
+              "_id": "97f1f541-62d9-4e04-9faf-9f1951dccd51",
+              "name": "Compound interest using step by step method",
+              "topicId": "21eb32f7-ca52-4062-8b82-58463a2a0e40",
+              "lId": 618
+            },
+            {
+              "_id": "e925e740-793c-44e5-aed1-323d55b33b90",
+              "name": "Derivation of compound interest formula",
+              "topicId": "21eb32f7-ca52-4062-8b82-58463a2a0e40",
+              "lId": 619
+            },
+            {
+              "_id": "30da0df6-f057-4a5c-83d6-dbb6904dbcb1",
+              "name": "Calculation using the compound interest formula",
+              "topicId": "21eb32f7-ca52-4062-8b82-58463a2a0e40",
+              "lId": 620
+            },
+            {
+              "_id": "104953a5-77f0-4f3c-8a61-aeb8eb3c3f7f",
+              "name": "Appreciation and depreciation",
+              "topicId": "21eb32f7-ca52-4062-8b82-58463a2a0e40",
+              "lId": 621
+            },
+            {
+              "_id": "1e091e5d-d58f-4580-b0d3-4ae5f97eb343",
+              "name": "Calculation of appreciation and depreciation using the compound interest formula",
+              "topicId": "21eb32f7-ca52-4062-8b82-58463a2a0e40",
+              "lId": 622
+            },
+            {
+              "_id": "6f4a05e6-e8e9-4c56-afee-2a23ad1c0f8f",
+              "name": "Hire purchase",
+              "topicId": "21eb32f7-ca52-4062-8b82-58463a2a0e40",
+              "lId": 623
+            },
+            {
+              "_id": "68098b28-1853-41b3-ab6f-89f5a91f7f79",
+              "name": "Income tax",
+              "topicId": "21eb32f7-ca52-4062-8b82-58463a2a0e40",
+              "lId": 624
+            }
+          ]
+        },
+        {
+          "_id": "88d6905d-e7da-4066-a612-f77f0e269b9c",
+          "name": "Circle Chords and tangents",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 50,
+          "subTopics": [
+            {
+              "_id": "2ba86e26-3e2d-4489-966e-44255f8da567",
+              "name": "Arcs, chords and tangents",
+              "topicId": "88d6905d-e7da-4066-a612-f77f0e269b9c",
+              "lId": 625
+            },
+            {
+              "_id": "b0a43651-6e1c-4fdc-adab-b18265015557",
+              "name": "Lengths of tangents and intersecting chords",
+              "topicId": "88d6905d-e7da-4066-a612-f77f0e269b9c",
+              "lId": 626
+            },
+            {
+              "_id": "dd7ac43a-3694-4538-8616-2d397054d2b1",
+              "name": "Properties of chords",
+              "topicId": "88d6905d-e7da-4066-a612-f77f0e269b9c",
+              "lId": 627
+            },
+            {
+              "_id": "a71d5cad-20ee-4558-988d-0a665bf89737",
+              "name": "Construction of tangents to a circle",
+              "topicId": "88d6905d-e7da-4066-a612-f77f0e269b9c",
+              "lId": 628
+            },
+            {
+              "_id": "ae07a1d4-4835-43cd-bede-78df34c477e4",
+              "name": "Direct and transverse common tangents to two circles",
+              "topicId": "88d6905d-e7da-4066-a612-f77f0e269b9c",
+              "lId": 629
+            },
+            {
+              "_id": "da0a1eb7-8a2a-4a5f-81d5-8b8e04181e5f",
+              "name": "Angles in alternate segment",
+              "topicId": "88d6905d-e7da-4066-a612-f77f0e269b9c",
+              "lId": 630
+            },
+            {
+              "_id": "fb77214f-f5ac-40cf-95cf-99e622c0286c",
+              "name": "Circumscribed, inscribed and escribed circles",
+              "topicId": "88d6905d-e7da-4066-a612-f77f0e269b9c",
+              "lId": 631
+            },
+            {
+              "_id": "9b903287-2709-4afe-aba3-6a07693c6435",
+              "name": "Centroid and orthocentre",
+              "topicId": "88d6905d-e7da-4066-a612-f77f0e269b9c",
+              "lId": 632
+            },
+            {
+              "_id": "0af2f177-65a4-4ffc-8334-b245c5c9938a",
+              "name": "Apply knowledge of tangents and chord to real life situation",
+              "topicId": "88d6905d-e7da-4066-a612-f77f0e269b9c",
+              "lId": 633
+            }
+          ]
+        },
+        {
+          "_id": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+          "name": "Matrices",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 51,
+          "subTopics": [
+            {
+              "_id": "5e09418c-c6bc-482e-ae91-cd66f5a8e586",
+              "name": "Matrix",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 634
+            },
+            {
+              "_id": "f869ec2d-0e52-4d97-9565-c943fbac6da8",
+              "name": "Order of matrix",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 635
+            },
+            {
+              "_id": "a750e042-7c2b-4bad-a9c3-0399983a4ccb",
+              "name": "Square matrix",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 636
+            },
+            {
+              "_id": "d7123cdc-cc88-4b23-a168-8ba5a8bea9fc",
+              "name": "Compatibility in addition and multiplication of matrices",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 637
+            },
+            {
+              "_id": "7b2c284c-aeb0-40ca-bbbd-34129a35a32b",
+              "name": "Multiplication of a matrix by a scalar",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 638
+            },
+            {
+              "_id": "955e6e28-d564-4f16-bb98-b7e22463c553",
+              "name": "Matrix multiplication",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 639
+            },
+            {
+              "_id": "0281e9cd-1eae-4886-8235-7a55c2393fa7",
+              "name": "Identity matrix",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 640
+            },
+            {
+              "_id": "2f4afb37-cfd1-4b63-87e7-790e063393e4",
+              "name": "Determinant of a 2x2 matrix",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 641
+            },
+            {
+              "_id": "98bf2886-4e6d-4da0-b0b9-7c4d3025531c",
+              "name": "Inverse of a 2x2 matrix",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 642
+            },
+            {
+              "_id": "f7eda8e1-ab2d-4ce6-9fa3-31ff054338a4",
+              "name": "Singular matrix",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 643
+            },
+            {
+              "_id": "db1f734d-1fce-4172-9ba2-999127457025",
+              "name": "Solution of simulteneous linear equations in two unknowns",
+              "topicId": "688c5dcb-c37d-4307-9524-7139ca1c03c2",
+              "lId": 644
+            }
+          ]
+        },
+        {
+          "_id": "f4fe68e3-c396-466a-8731-39c50a933030",
+          "name": "Formulae and Variations ",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 52,
+          "subTopics": [
+            {
+              "_id": "a2c433a9-ae04-4e26-b0fc-cf7b5fb3620f",
+              "name": "Change of the subject",
+              "topicId": "f4fe68e3-c396-466a-8731-39c50a933030",
+              "lId": 645
+            },
+            {
+              "_id": "4afda999-e4cb-45d0-a704-cd553a4535d4",
+              "name": "Direct, inverse, partial and joint variation",
+              "topicId": "f4fe68e3-c396-466a-8731-39c50a933030",
+              "lId": 646
+            },
+            {
+              "_id": "73093f3e-2666-4288-b471-f2ca31212033",
+              "name": "Constant of proportionality",
+              "topicId": "f4fe68e3-c396-466a-8731-39c50a933030",
+              "lId": 647
+            },
+            {
+              "_id": "bda87403-5863-42eb-9bc9-f88857c65447",
+              "name": "Graphs of direct and inverse proportions",
+              "topicId": "f4fe68e3-c396-466a-8731-39c50a933030",
+              "lId": 648
+            },
+            {
+              "_id": "34e78c59-5195-47cc-8a21-494e528f1e49",
+              "name": "Formaton of equations on variations from real life situations",
+              "topicId": "f4fe68e3-c396-466a-8731-39c50a933030",
+              "lId": 649
+            }
+          ]
+        },
+        {
+          "_id": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+          "name": "Sequences and Series ",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 53,
+          "subTopics": [
+            {
+              "_id": "63a85fce-aaaf-44d3-984d-d83411eba202",
+              "name": "Simple number patterns",
+              "topicId": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+              "lId": 650
+            },
+            {
+              "_id": "15d9889b-db86-4a33-83f0-0ca71f34795b",
+              "name": "Sequences",
+              "topicId": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+              "lId": 651
+            },
+            {
+              "_id": "e3dccc70-bfb5-4463-a2b4-26012a2431f4",
+              "name": "Arithmetic sequence",
+              "topicId": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+              "lId": 652
+            },
+            {
+              "_id": "fda40838-1655-4cff-acd8-a79b9a824640",
+              "name": "Geometric sequence",
+              "topicId": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+              "lId": 653
+            },
+            {
+              "_id": "1c287030-0126-4d79-809a-bf9d5e937f2b",
+              "name": "Determining a term in a sequence",
+              "topicId": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+              "lId": 654
+            },
+            {
+              "_id": "74e72382-d27e-46b2-be65-d30c69523847",
+              "name": "Arithmetic progression",
+              "topicId": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+              "lId": 655
+            },
+            {
+              "_id": "55ae96b1-5e08-4bfa-a727-86b4342a32b0",
+              "name": "Geometric progression",
+              "topicId": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+              "lId": 656
+            },
+            {
+              "_id": "56d5e82e-2866-414d-9241-1e9a3dfe7b06",
+              "name": "Sum of an ap",
+              "topicId": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+              "lId": 657
+            },
+            {
+              "_id": "a8108f9e-d615-4fec-a4c5-7aa7304840f7",
+              "name": "Sum of a gp",
+              "topicId": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+              "lId": 658
+            },
+            {
+              "_id": "c8331d7d-096d-4cb4-bf8c-f5b1267147bb",
+              "name": "Application of ap and gp to real life situation",
+              "topicId": "e8c21fb0-fe0e-4d6f-ae9e-8e396fce07ae",
+              "lId": 659
+            }
+          ]
+        },
+        {
+          "_id": "e07fd06e-9bc8-46ed-a40f-f990beef5a54",
+          "name": "Vectors (2)  ",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 54,
+          "subTopics": [
+            {
+              "_id": "6f767aff-ebd8-4ffe-8c7f-ddc0afc3743c",
+              "name": "Coordinates in two and three dimensions",
+              "topicId": "e07fd06e-9bc8-46ed-a40f-f990beef5a54",
+              "lId": 660
+            },
+            {
+              "_id": "a58a33f4-d1ff-4326-8f27-f06ddd3d9e7c",
+              "name": "Column and position vectors in three dimensions",
+              "topicId": "e07fd06e-9bc8-46ed-a40f-f990beef5a54",
+              "lId": 661
+            },
+            {
+              "_id": "900890a5-9ca3-458d-8839-4f917aad229e",
+              "name": "Column vectors in terms of unit vector i,j,k",
+              "topicId": "e07fd06e-9bc8-46ed-a40f-f990beef5a54",
+              "lId": 662
+            },
+            {
+              "_id": "84dd84a9-050a-4736-93af-2c2c431b9be2",
+              "name": "Magnitude of vectors",
+              "topicId": "e07fd06e-9bc8-46ed-a40f-f990beef5a54",
+              "lId": 663
+            },
+            {
+              "_id": "0efbca57-6046-48d7-b4fa-f3bf91150ab4",
+              "name": "Parallel vectors",
+              "topicId": "e07fd06e-9bc8-46ed-a40f-f990beef5a54",
+              "lId": 664
+            },
+            {
+              "_id": "6cf804cc-0cf8-41e9-9127-135d7d249731",
+              "name": "Collinearity",
+              "topicId": "e07fd06e-9bc8-46ed-a40f-f990beef5a54",
+              "lId": 665
+            },
+            {
+              "_id": "2955d77d-460e-47ca-b4e7-35e5ccc9771d",
+              "name": "Proportional division of a line",
+              "topicId": "e07fd06e-9bc8-46ed-a40f-f990beef5a54",
+              "lId": 666
+            },
+            {
+              "_id": "803f2d88-f84c-45da-bec6-1aba280d4166",
+              "name": "Ratio theorem",
+              "topicId": "e07fd06e-9bc8-46ed-a40f-f990beef5a54",
+              "lId": 667
+            },
+            {
+              "_id": "7d119ec4-e563-4469-bb71-92e6bb8ac1ca",
+              "name": "Vector methods in geomettry",
+              "topicId": "e07fd06e-9bc8-46ed-a40f-f990beef5a54",
+              "lId": 668
+            }
+          ]
+        },
+        {
+          "_id": "994be1e1-c0ca-4b80-bbe6-c802b508a87e",
+          "name": "Binomial Expansions ",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 55,
+          "subTopics": [
+            {
+              "_id": "8af40852-7307-4b3f-9bf7-0322014af124",
+              "name": "Binomial expansion upto power four",
+              "topicId": "994be1e1-c0ca-4b80-bbe6-c802b508a87e",
+              "lId": 669
+            },
+            {
+              "_id": "ae9f295e-f367-4f03-b50e-91d630025db3",
+              "name": "Pascal's triangle",
+              "topicId": "994be1e1-c0ca-4b80-bbe6-c802b508a87e",
+              "lId": 670
+            },
+            {
+              "_id": "163a519d-1331-412f-bc5d-39c682070f03",
+              "name": "Coefficient of terms in binomial expansion",
+              "topicId": "994be1e1-c0ca-4b80-bbe6-c802b508a87e",
+              "lId": 671
+            },
+            {
+              "_id": "c1ed5cf1-deef-4b84-af43-0fd305241b72",
+              "name": "Computation using binomial expansion",
+              "topicId": "994be1e1-c0ca-4b80-bbe6-c802b508a87e",
+              "lId": 672
+            },
+            {
+              "_id": "ca2cd4d3-87a5-418a-a43d-08ebbece3928",
+              "name": "Calculation of numerical cases using binomial expansion",
+              "topicId": "994be1e1-c0ca-4b80-bbe6-c802b508a87e",
+              "lId": 673
+            }
+          ]
+        },
+        {
+          "_id": "c0c1a5ab-bdd5-4fcc-bbc9-1eeb2c70bfd9",
+          "name": "Probability ",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 56,
+          "subTopics": [
+            {
+              "_id": "67eb7310-ee63-4b5c-8b08-96ca77ad5cbd",
+              "name": "Probability",
+              "topicId": "c0c1a5ab-bdd5-4fcc-bbc9-1eeb2c70bfd9",
+              "lId": 674
+            },
+            {
+              "_id": "79791465-24e1-457a-ab9a-c22f2c052616",
+              "name": "Experimental probability",
+              "topicId": "c0c1a5ab-bdd5-4fcc-bbc9-1eeb2c70bfd9",
+              "lId": 675
+            },
+            {
+              "_id": "6fe7e59a-c203-4caa-ab8b-8510ce58b633",
+              "name": "Range of probability measure 0<p<1",
+              "topicId": "c0c1a5ab-bdd5-4fcc-bbc9-1eeb2c70bfd9",
+              "lId": 676
+            },
+            {
+              "_id": "b8a79f31-4f9c-4f57-bb2d-074debd82815",
+              "name": "Probability space",
+              "topicId": "c0c1a5ab-bdd5-4fcc-bbc9-1eeb2c70bfd9",
+              "lId": 677
+            },
+            {
+              "_id": "68704349-9d0f-4922-951b-15ee2b494444",
+              "name": "Theoritical probability",
+              "topicId": "c0c1a5ab-bdd5-4fcc-bbc9-1eeb2c70bfd9",
+              "lId": 678
+            },
+            {
+              "_id": "f2ac63b6-e864-4d59-bfc7-ea522adfec99",
+              "name": "Discrete and continous probability (simple cases only)",
+              "topicId": "c0c1a5ab-bdd5-4fcc-bbc9-1eeb2c70bfd9",
+              "lId": 679
+            },
+            {
+              "_id": "5d382ed6-2b21-4e87-a532-ba293859dec0",
+              "name": "Combined events(mutually exclusive and indipendent events)",
+              "topicId": "c0c1a5ab-bdd5-4fcc-bbc9-1eeb2c70bfd9",
+              "lId": 680
+            },
+            {
+              "_id": "46236694-b737-4bf3-855a-3248248f2b61",
+              "name": "Laws of probability",
+              "topicId": "c0c1a5ab-bdd5-4fcc-bbc9-1eeb2c70bfd9",
+              "lId": 681
+            },
+            {
+              "_id": "299d2390-976d-4808-b3a7-ca6b376c90d6",
+              "name": "Tree diagram",
+              "topicId": "c0c1a5ab-bdd5-4fcc-bbc9-1eeb2c70bfd9",
+              "lId": 682
+            }
+          ]
+        },
+        {
+          "_id": "d9d39668-f0c4-43dc-bbbe-a2c75b207498",
+          "name": "Compound Proportions and Rates of Work",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 57,
+          "subTopics": [
+            {
+              "_id": "f26240a8-f7ec-49c9-96c3-9fa8474fe141",
+              "name": "Proportional parts",
+              "topicId": "d9d39668-f0c4-43dc-bbbe-a2c75b207498",
+              "lId": 683
+            },
+            {
+              "_id": "016dee33-5af9-48ec-9786-6a68920fb62c",
+              "name": "Compound proportions",
+              "topicId": "d9d39668-f0c4-43dc-bbbe-a2c75b207498",
+              "lId": 684
+            },
+            {
+              "_id": "357f638b-70db-4db9-8ca3-d8a857d78761",
+              "name": "Ratios and rate of work",
+              "topicId": "d9d39668-f0c4-43dc-bbbe-a2c75b207498",
+              "lId": 685
+            },
+            {
+              "_id": "7a64925a-5145-4fe2-b75c-6d5e78a23415",
+              "name": "Proportions applied to mixtures",
+              "topicId": "d9d39668-f0c4-43dc-bbbe-a2c75b207498",
+              "lId": 686
+            }
+          ]
+        },
+        {
+          "_id": "80d51d20-3d35-45ac-9813-bf58be97d908",
+          "name": "Graphical Methods",
+          "courseClassId": "b6df65f6-a57b-49fc-afd5-d6f01811a532",
+          "lId": 58,
+          "subTopics": [
+            {
+              "_id": "bc8f0979-6b80-4fa3-86b2-19efdc1dacd3",
+              "name": "Tables and graphs of given relations",
+              "topicId": "80d51d20-3d35-45ac-9813-bf58be97d908",
+              "lId": 687
+            },
+            {
+              "_id": "257c137c-6ee9-4fda-b1a6-27549d2056f7",
+              "name": "Graphs of cubic equations",
+              "topicId": "80d51d20-3d35-45ac-9813-bf58be97d908",
+              "lId": 688
+            },
+            {
+              "_id": "046066b4-9267-40f0-b38a-2fdbf71b1c5c",
+              "name": "Graphical solution of cubic equations",
+              "topicId": "80d51d20-3d35-45ac-9813-bf58be97d908",
+              "lId": 689
+            },
+            {
+              "_id": "31cc8b6b-ef36-434b-9c00-1c29e6547163",
+              "name": "Average rate of change",
+              "topicId": "80d51d20-3d35-45ac-9813-bf58be97d908",
+              "lId": 690
+            },
+            {
+              "_id": "c39db048-3fa6-42cb-9c53-da33e29c3a5b",
+              "name": "Instanteneous rate of change",
+              "topicId": "80d51d20-3d35-45ac-9813-bf58be97d908",
+              "lId": 691
+            },
+            {
+              "_id": "2d60c24f-4b0a-4236-9b74-c6dc4f70cdb2",
+              "name": "Empirical data and their graphs",
+              "topicId": "80d51d20-3d35-45ac-9813-bf58be97d908",
+              "lId": 692
+            },
+            {
+              "_id": "78a6a6d7-4cb9-4c35-bf2d-cf2b0a70d295",
+              "name": "The line of best fit",
+              "topicId": "80d51d20-3d35-45ac-9813-bf58be97d908",
+              "lId": 693
+            },
+            {
+              "_id": "c5b3e0c0-9224-4987-bced-8c36d8176553",
+              "name": "Equation of a circle",
+              "topicId": "80d51d20-3d35-45ac-9813-bf58be97d908",
+              "lId": 694
+            },
+            {
+              "_id": "6b384882-b3fb-4818-be4c-97757e21b485",
+              "name": "Finding equation of a circle",
+              "topicId": "80d51d20-3d35-45ac-9813-bf58be97d908",
+              "lId": 695
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "29f347cf-674f-47db-a6cf-e953967ebef7",
+      "name": "Form 4",
+      "order": 4,
+      "courseId": "tGtAcdXu9b9KQJvbo",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+          "name": "Matrices and Transformations",
+          "courseClassId": "29f347cf-674f-47db-a6cf-e953967ebef7",
+          "lId": 59,
+          "subTopics": [
+            {
+              "_id": "fc3d596d-203d-41b2-ba7d-39f131f8b64c",
+              "name": "Transformation on the cartesian plane",
+              "topicId": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+              "lId": 696
+            },
+            {
+              "_id": "1f5b6ac0-13da-408d-8e2f-abc80f55f5b1",
+              "name": "Identification of transformation matrix",
+              "topicId": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+              "lId": 697
+            },
+            {
+              "_id": "04f9cbce-482c-4d6a-a0b1-805a6c793556",
+              "name": "Succesive transformations",
+              "topicId": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+              "lId": 698
+            },
+            {
+              "_id": "2bec6bc8-4c01-4abb-b9a9-ee793fd92696",
+              "name": "Single matrix of transformation for succesive transformations",
+              "topicId": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+              "lId": 699
+            },
+            {
+              "_id": "58504b69-ec4e-41e4-b6f5-f0c914230b52",
+              "name": "Identity matrix and transformation",
+              "topicId": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+              "lId": 700
+            },
+            {
+              "_id": "2b26f1b3-e3ea-4818-b39c-230f1b4b00f0",
+              "name": "Inverse of a transformation",
+              "topicId": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+              "lId": 701
+            },
+            {
+              "_id": "fa2de275-8833-4fa0-b3b7-14860944423e",
+              "name": "Area scale factor and determinant of a matrix",
+              "topicId": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+              "lId": 702
+            },
+            {
+              "_id": "6fab97c8-daba-4705-897a-2ae09e7fe36d",
+              "name": "Shear and stress(and their matrices)",
+              "topicId": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+              "lId": 703
+            },
+            {
+              "_id": "20f60408-9bc3-499a-84b9-434882912eb9",
+              "name": "Isomeric and non isomeric transformations",
+              "topicId": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+              "lId": 704
+            },
+            {
+              "_id": "8525d275-9614-4694-95e8-dfaa0162b6ce",
+              "name": "Application of transformation to real life situations",
+              "topicId": "2cdf4990-6a2b-4a95-a63d-c7b714c96016",
+              "lId": 705
+            }
+          ]
+        },
+        {
+          "_id": "bd506cba-56f7-4fd8-9ab9-c84b30234abc",
+          "name": "Statistics (2)",
+          "courseClassId": "29f347cf-674f-47db-a6cf-e953967ebef7",
+          "lId": 60,
+          "subTopics": [
+            {
+              "_id": "ce3222ba-653c-428a-b561-950e94a02c2b",
+              "name": "Measure of central tendency",
+              "topicId": "bd506cba-56f7-4fd8-9ab9-c84b30234abc",
+              "lId": 706
+            },
+            {
+              "_id": "e25c8154-64e7-4271-b338-8e100b17be24",
+              "name": "Calculation of mean using assumed mean method",
+              "topicId": "bd506cba-56f7-4fd8-9ab9-c84b30234abc",
+              "lId": 707
+            },
+            {
+              "_id": "01432b44-9eff-4a1d-908d-2e567904a55b",
+              "name": "Cumulative frequency table",
+              "topicId": "bd506cba-56f7-4fd8-9ab9-c84b30234abc",
+              "lId": 708
+            },
+            {
+              "_id": "a24ea8a4-2a14-4e52-93e3-b8ef05d8b373",
+              "name": "Estimating median and quartile by Calculation",
+              "topicId": "bd506cba-56f7-4fd8-9ab9-c84b30234abc",
+              "lId": 709
+            },
+            {
+              "_id": "1855e7a2-1777-4895-a1d4-ff7e649860e1",
+              "name": "Estimating median and quartile by Ogive",
+              "topicId": "bd506cba-56f7-4fd8-9ab9-c84b30234abc",
+              "lId": 710
+            },
+            {
+              "_id": "73e032a8-449e-49ad-8bce-aa0d0413b9a8",
+              "name": "Definination and calculation of measures of dispersion",
+              "topicId": "bd506cba-56f7-4fd8-9ab9-c84b30234abc",
+              "lId": 711
+            },
+            {
+              "_id": "3152aa66-723f-4451-8116-1d24ce9967b1",
+              "name": "Interpratation of dispersion",
+              "topicId": "bd506cba-56f7-4fd8-9ab9-c84b30234abc",
+              "lId": 712
+            }
+          ]
+        },
+        {
+          "_id": "19e81cc2-72a0-4109-81f5-f8c1c679223f",
+          "name": "Loci",
+          "courseClassId": "29f347cf-674f-47db-a6cf-e953967ebef7",
+          "lId": 61,
+          "subTopics": [
+            {
+              "_id": "56bb3fc9-edb3-44e4-8cfa-9bcae0558754",
+              "name": "Common type of loci",
+              "topicId": "19e81cc2-72a0-4109-81f5-f8c1c679223f",
+              "lId": 713
+            },
+            {
+              "_id": "f0b710e4-0b95-4e23-a09a-b6bf52f69702",
+              "name": "Perpendicular bisector loci",
+              "topicId": "19e81cc2-72a0-4109-81f5-f8c1c679223f",
+              "lId": 714
+            },
+            {
+              "_id": "a4e78f78-5cdc-46cf-9365-806ae060d98f",
+              "name": "Loci of a point at a given distance from a fixed point and a fixed line",
+              "topicId": "19e81cc2-72a0-4109-81f5-f8c1c679223f",
+              "lId": 715
+            },
+            {
+              "_id": "48e47b1c-f615-4ad8-b27c-6d83ab240baa",
+              "name": "Angle bisector loci",
+              "topicId": "19e81cc2-72a0-4109-81f5-f8c1c679223f",
+              "lId": 716
+            },
+            {
+              "_id": "d5c0b41f-b0d0-41b7-8cf3-3d02467dfc87",
+              "name": "Constant angle loci",
+              "topicId": "19e81cc2-72a0-4109-81f5-f8c1c679223f",
+              "lId": 717
+            },
+            {
+              "_id": "7750f4ae-57d0-45fa-bc6c-8e5d6791a8ba",
+              "name": "Other loci under given conditions including intersecting loci",
+              "topicId": "19e81cc2-72a0-4109-81f5-f8c1c679223f",
+              "lId": 718
+            },
+            {
+              "_id": "ae25b0e7-11e3-4c94-b9bc-7fd1768a57a0",
+              "name": "Loci of inequalities",
+              "topicId": "19e81cc2-72a0-4109-81f5-f8c1c679223f",
+              "lId": 719
+            },
+            {
+              "_id": "479e6cfa-e19f-480a-a5bf-781e8915a9f8",
+              "name": "Loci involving chords",
+              "topicId": "19e81cc2-72a0-4109-81f5-f8c1c679223f",
+              "lId": 720
+            }
+          ]
+        },
+        {
+          "_id": "3dde1428-cf23-464d-aa75-7b1c781e59b8",
+          "name": "Trigonometry 3",
+          "courseClassId": "29f347cf-674f-47db-a6cf-e953967ebef7",
+          "lId": 62,
+          "subTopics": [
+            {
+              "_id": "d06cf9a4-9abc-4926-b25d-dc38811a49ba",
+              "name": "Trigonometric ratio",
+              "topicId": "3dde1428-cf23-464d-aa75-7b1c781e59b8",
+              "lId": 721
+            },
+            {
+              "_id": "ef70267c-4c6c-42a1-917e-cbc8c16caf9f",
+              "name": "Deriving the relation sin^2x-cos^2x = 1",
+              "topicId": "3dde1428-cf23-464d-aa75-7b1c781e59b8",
+              "lId": 722
+            },
+            {
+              "_id": "f1ac7d8a-bdb9-4075-9446-c02139cd17b8",
+              "name": "Graphs of trigonometric functions",
+              "topicId": "3dde1428-cf23-464d-aa75-7b1c781e59b8",
+              "lId": 723
+            },
+            {
+              "_id": "3fd790f6-a7d2-4d6d-9699-39610250b686",
+              "name": "Simple trigonometric equation",
+              "topicId": "3dde1428-cf23-464d-aa75-7b1c781e59b8",
+              "lId": 724
+            },
+            {
+              "_id": "3d4d6417-73a1-4f6b-a444-3ef72e973579",
+              "name": "Deduction amplitude,period,wave length and phase angle of trigonometric functions",
+              "topicId": "3dde1428-cf23-464d-aa75-7b1c781e59b8",
+              "lId": 725
+            }
+          ]
+        },
+        {
+          "_id": "4677a2f7-0f7c-49cb-bec5-7685707db8f1",
+          "name": "Three Dimensional Geometry",
+          "courseClassId": "29f347cf-674f-47db-a6cf-e953967ebef7",
+          "lId": 63,
+          "subTopics": [
+            {
+              "_id": "c570738d-4e0a-463e-92b5-41589acefafd",
+              "name": "Geometric properties of common solids",
+              "topicId": "4677a2f7-0f7c-49cb-bec5-7685707db8f1",
+              "lId": 726
+            },
+            {
+              "_id": "65ac972b-2e52-4622-9953-6bf30685ab56",
+              "name": "Skew lines and projection of a line onto a plane",
+              "topicId": "4677a2f7-0f7c-49cb-bec5-7685707db8f1",
+              "lId": 727
+            },
+            {
+              "_id": "dc9a1f87-a86b-42d1-af6c-b65d314ed9c7",
+              "name": "Length of a line in three-dimensional geometry",
+              "topicId": "4677a2f7-0f7c-49cb-bec5-7685707db8f1",
+              "lId": 728
+            },
+            {
+              "_id": "a00bbb40-6ca2-48d0-af08-826684bffb96",
+              "name": "Angle between two lines",
+              "topicId": "4677a2f7-0f7c-49cb-bec5-7685707db8f1",
+              "lId": 729
+            },
+            {
+              "_id": "afa105e1-9dde-4270-ab11-21ef7e1fb468",
+              "name": "Angle between a line and a plane",
+              "topicId": "4677a2f7-0f7c-49cb-bec5-7685707db8f1",
+              "lId": 730
+            },
+            {
+              "_id": "9df0b9b0-c15d-4f58-aa81-a5706a61582c",
+              "name": "Angle between two planes",
+              "topicId": "4677a2f7-0f7c-49cb-bec5-7685707db8f1",
+              "lId": 731
+            },
+            {
+              "_id": "a1f2b331-6ebc-4c38-9237-27b1cd619a2e",
+              "name": "Angle between skew lines",
+              "topicId": "4677a2f7-0f7c-49cb-bec5-7685707db8f1",
+              "lId": 732
+            }
+          ]
+        },
+        {
+          "_id": "33276128-7616-4598-9b06-ef51c4e7fc66",
+          "name": "Longitudes and Latitudes ",
+          "courseClassId": "29f347cf-674f-47db-a6cf-e953967ebef7",
+          "lId": 64,
+          "subTopics": [
+            {
+              "_id": "ec79fe20-459f-4c55-9fc0-b76bb1075659",
+              "name": "Latitude and longitude (great and small circle)",
+              "topicId": "33276128-7616-4598-9b06-ef51c4e7fc66",
+              "lId": 733
+            },
+            {
+              "_id": "67d76f15-5541-4799-93b7-3ed19bcec40b",
+              "name": "The equator and greenwich meridian",
+              "topicId": "33276128-7616-4598-9b06-ef51c4e7fc66",
+              "lId": 734
+            },
+            {
+              "_id": "51fd181a-c51a-4e3f-b4cf-3fc414ac93d4",
+              "name": "Radii of great and small circles",
+              "topicId": "33276128-7616-4598-9b06-ef51c4e7fc66",
+              "lId": 735
+            },
+            {
+              "_id": "b3b1175b-fea9-485f-9f31-ec1de9c187f7",
+              "name": "Position of a place on the surface of the earth",
+              "topicId": "33276128-7616-4598-9b06-ef51c4e7fc66",
+              "lId": 736
+            },
+            {
+              "_id": "0555b1cc-4422-476d-94de-99f395c191db",
+              "name": "Distance between two points along the small and great circles in nautical miles and kilometres",
+              "topicId": "33276128-7616-4598-9b06-ef51c4e7fc66",
+              "lId": 737
+            },
+            {
+              "_id": "42d2e136-660d-434c-9c28-320dcaa217b5",
+              "name": "Distance in nautical miles and kilometres along a circle of latitude",
+              "topicId": "33276128-7616-4598-9b06-ef51c4e7fc66",
+              "lId": 738
+            },
+            {
+              "_id": "c719894c-42b2-4c1e-8e35-c7308ab1a2e3",
+              "name": "Time and longitude",
+              "topicId": "33276128-7616-4598-9b06-ef51c4e7fc66",
+              "lId": 739
+            },
+            {
+              "_id": "23d85d70-4be5-44c9-a406-e1a6794ab324",
+              "name": "Speed in knots and kilometre per hour",
+              "topicId": "33276128-7616-4598-9b06-ef51c4e7fc66",
+              "lId": 740
+            }
+          ]
+        },
+        {
+          "_id": "9c32deba-8fc9-43e6-a05a-e9a1c6cbafd3",
+          "name": "Linear Programming",
+          "courseClassId": "29f347cf-674f-47db-a6cf-e953967ebef7",
+          "lId": 65,
+          "subTopics": [
+            {
+              "_id": "313bfd04-d04f-4a7d-8176-af4055c8fad5",
+              "name": "Formation of linear inequalities",
+              "topicId": "9c32deba-8fc9-43e6-a05a-e9a1c6cbafd3",
+              "lId": 741
+            },
+            {
+              "_id": "a1cd958e-89d4-4d87-ba62-d7bd42ebfd36",
+              "name": "Analytical solution of linear inequalities",
+              "topicId": "9c32deba-8fc9-43e6-a05a-e9a1c6cbafd3",
+              "lId": 742
+            },
+            {
+              "_id": "e9b8a53a-2452-40de-a750-a8135e71e992",
+              "name": "Solution of linear inequalities by graphs",
+              "topicId": "9c32deba-8fc9-43e6-a05a-e9a1c6cbafd3",
+              "lId": 743
+            },
+            {
+              "_id": "16f9e3cb-895c-4900-99dd-1219d7d5a479",
+              "name": "Optimisation (include objective function)",
+              "topicId": "9c32deba-8fc9-43e6-a05a-e9a1c6cbafd3",
+              "lId": 744
+            },
+            {
+              "_id": "1177ceeb-6956-4d1b-ab1e-0125369cd510",
+              "name": "Application to real life situation",
+              "topicId": "9c32deba-8fc9-43e6-a05a-e9a1c6cbafd3",
+              "lId": 745
+            }
+          ]
+        },
+        {
+          "_id": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+          "name": "Differentiation",
+          "courseClassId": "29f347cf-674f-47db-a6cf-e953967ebef7",
+          "lId": 66,
+          "subTopics": [
+            {
+              "_id": "422c226e-d10a-429c-947b-4be92eac8bbd",
+              "name": "Average and instantenious rate of change",
+              "topicId": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+              "lId": 746
+            },
+            {
+              "_id": "96b7ff3f-1d2b-492c-92fc-b6a52c4e17b2",
+              "name": "Gradient of a curve at a point",
+              "topicId": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+              "lId": 747
+            },
+            {
+              "_id": "c369650e-d19c-4c7e-9493-a99f6df3db97",
+              "name": "Gradient of  y =x^n (n = ositive integer)",
+              "topicId": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+              "lId": 748
+            },
+            {
+              "_id": "65c725cb-f264-4b44-8213-e31a13f81d01",
+              "name": "Delta notation",
+              "topicId": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+              "lId": 749
+            },
+            {
+              "_id": "889f8227-f4c8-4164-8fdb-d36043184366",
+              "name": "Derivative of a polynomial",
+              "topicId": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+              "lId": 750
+            },
+            {
+              "_id": "61dd91ce-c83c-4d73-b40f-0462c18a4bfe",
+              "name": "Equations of tangents and normals to the curve",
+              "topicId": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+              "lId": 751
+            },
+            {
+              "_id": "39ee28e6-69e4-4c6b-b412-ae5435fe0550",
+              "name": "Stationary points",
+              "topicId": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+              "lId": 752
+            },
+            {
+              "_id": "576a8196-eee5-4fff-9ab8-4532ade60711",
+              "name": "Curve sketching",
+              "topicId": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+              "lId": 753
+            },
+            {
+              "_id": "79031ca2-4b73-4b8b-aa95-cddec91b68df",
+              "name": "Application of differentiation in calculation of distance, velocity and accelaration",
+              "topicId": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+              "lId": 754
+            },
+            {
+              "_id": "2bcbce7b-9307-48b5-a93d-20e56870bcdd",
+              "name": "Maxima and minima",
+              "topicId": "ba9f3d09-78c0-416f-b4c9-25bb2b324949",
+              "lId": 755
+            }
+          ]
+        },
+        {
+          "_id": "de656653-fa46-4af4-b782-71434f5addf4",
+          "name": "Area Approximation",
+          "courseClassId": "29f347cf-674f-47db-a6cf-e953967ebef7",
+          "lId": 67,
+          "subTopics": [
+            {
+              "_id": "e1d1198d-c0bb-4bfe-96ee-64579123d003",
+              "name": "Area by counting technique",
+              "topicId": "de656653-fa46-4af4-b782-71434f5addf4",
+              "lId": 756
+            },
+            {
+              "_id": "35bc6aee-6820-467d-98d9-4d47043b4482",
+              "name": "Trapezium rule",
+              "topicId": "de656653-fa46-4af4-b782-71434f5addf4",
+              "lId": 757
+            },
+            {
+              "_id": "2a934082-98bc-4be3-a0a9-528005f1a979",
+              "name": "Area using trapezium rule",
+              "topicId": "de656653-fa46-4af4-b782-71434f5addf4",
+              "lId": 758
+            },
+            {
+              "_id": "7a9d45f2-0372-4f93-be27-a187d9c3b4b7",
+              "name": "Mid-ordinate rule",
+              "topicId": "de656653-fa46-4af4-b782-71434f5addf4",
+              "lId": 759
+            },
+            {
+              "_id": "b737cfec-352a-421d-b595-3beae2072762",
+              "name": "Area using mid-ordinate rule",
+              "topicId": "de656653-fa46-4af4-b782-71434f5addf4",
+              "lId": 760
+            }
+          ]
+        },
+        {
+          "_id": "55e2d742-0319-433f-85ed-fcd8b46c7423",
+          "name": "Integration",
+          "courseClassId": "29f347cf-674f-47db-a6cf-e953967ebef7",
+          "lId": 68,
+          "subTopics": [
+            {
+              "_id": "fe21e15e-017f-4554-b0fa-eabff98dc006",
+              "name": "Reverse differentiation",
+              "topicId": "55e2d742-0319-433f-85ed-fcd8b46c7423",
+              "lId": 761
+            },
+            {
+              "_id": "de588c2d-92d4-489f-805a-55c301b1ca09",
+              "name": "Integration notation and sum of areas of trapezia",
+              "topicId": "55e2d742-0319-433f-85ed-fcd8b46c7423",
+              "lId": 762
+            },
+            {
+              "_id": "a3d3a839-af8b-483e-b8e8-a1d5610af692",
+              "name": "Indefinite and definite integrals",
+              "topicId": "55e2d742-0319-433f-85ed-fcd8b46c7423",
+              "lId": 763
+            },
+            {
+              "_id": "e18732b5-46b0-4de4-b942-f0d100f50b33",
+              "name": "Area under curve by integration",
+              "topicId": "55e2d742-0319-433f-85ed-fcd8b46c7423",
+              "lId": 764
+            },
+            {
+              "_id": "2b6e88c0-1093-4dc2-8797-6790ce98aba4",
+              "name": "Application and kinematics",
+              "topicId": "55e2d742-0319-433f-85ed-fcd8b46c7423",
+              "lId": 765
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

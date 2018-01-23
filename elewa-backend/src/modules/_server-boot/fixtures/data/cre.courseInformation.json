@@ -1,0 +1,1572 @@
+{
+  "_id": "2a45e0c9-13ac-4dfd-9c6e-a39287f4ea1a",
+  "name": "CRE",
+  "subjectId": "cWyErPPx7uKXGWquQ",
+  "lId": 12,
+  "classes": [
+    {
+      "_id": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+      "name": "Form 1",
+      "order": 1,
+      "courseId": "cWyErPPx7uKXGWquQ",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "0417d7f7-7c84-47a1-951a-168c7053c7fc",
+          "name": "General Introduction to Christian Religious Education (CRE)",
+          "courseClassId": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+          "lId": 114,
+          "subTopics": [
+            {
+              "_id": "89068557-c076-4c1c-a75d-9f90954496e8",
+              "name": "What is Christian Religious Education",
+              "topicId": "0417d7f7-7c84-47a1-951a-168c7053c7fc",
+              "lId": 1068
+            },
+            {
+              "_id": "dd6dabdc-b794-4227-b52e-c7ea60c464cc",
+              "name": "Reason for studying CRE",
+              "topicId": "0417d7f7-7c84-47a1-951a-168c7053c7fc",
+              "lId": 1069
+            },
+            {
+              "_id": "a8a0636a-3ff5-4bcb-a505-764db9a2314e",
+              "name": "The Bible",
+              "topicId": "0417d7f7-7c84-47a1-951a-168c7053c7fc",
+              "lId": 1070
+            },
+            {
+              "_id": "b8ddef93-9c6c-4ee4-880f-56422ba9bdee",
+              "name": "Translations of the Bible",
+              "topicId": "0417d7f7-7c84-47a1-951a-168c7053c7fc",
+              "lId": 1071
+            },
+            {
+              "_id": "8ee370cf-9268-49f2-b152-9cc60bd6f5f1",
+              "name": "Effects of the translation of the Bible into African languages",
+              "topicId": "0417d7f7-7c84-47a1-951a-168c7053c7fc",
+              "lId": 1072
+            }
+          ]
+        },
+        {
+          "_id": "40a1f546-9283-4176-9deb-a500d5916d0f",
+          "name": "Creation and the Fall of Humankind",
+          "courseClassId": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+          "lId": 115,
+          "subTopics": [
+            {
+              "_id": "9b7d13a6-4ee1-4e1c-9f90-22b9410b4649",
+              "name": "The Bibilical stories of creation and their meaning",
+              "topicId": "40a1f546-9283-4176-9deb-a500d5916d0f",
+              "lId": 1073
+            },
+            {
+              "_id": "2ede134d-9ac1-46c6-a340-27ee1a2c5d31",
+              "name": "Attributes of God from the creation accounts",
+              "topicId": "40a1f546-9283-4176-9deb-a500d5916d0f",
+              "lId": 1074
+            },
+            {
+              "_id": "9f868d6f-159f-4ec7-a21d-cf5e270d009f",
+              "name": "Teachings from the Bibilical creation accounts ",
+              "topicId": "40a1f546-9283-4176-9deb-a500d5916d0f",
+              "lId": 1075
+            },
+            {
+              "_id": "7d125302-7f0f-4210-891e-f04cd3943d53",
+              "name": "Traditional African view of creation",
+              "topicId": "40a1f546-9283-4176-9deb-a500d5916d0f",
+              "lId": 1076
+            },
+            {
+              "_id": "dc8a27c6-0305-4ce3-9a9d-37029c4093b0",
+              "name": "The Bibilical teaching on the origin of sin and its consequences",
+              "topicId": "40a1f546-9283-4176-9deb-a500d5916d0f",
+              "lId": 1077
+            },
+            {
+              "_id": "5c2ba768-fac5-422f-bd88-06cd11073208",
+              "name": "God's plan of salvation",
+              "topicId": "40a1f546-9283-4176-9deb-a500d5916d0f",
+              "lId": 1078
+            },
+            {
+              "_id": "a80f78bd-b6b2-4c82-838b-2404155917f3",
+              "name": "Traditional African concept of evil",
+              "topicId": "40a1f546-9283-4176-9deb-a500d5916d0f",
+              "lId": 1079
+            },
+            {
+              "_id": "6acb9a8e-4641-4ebf-b23e-a14313b7b21c",
+              "name": "Similarities and differences between traditional African view of evil and Bibilical concept of evil",
+              "topicId": "40a1f546-9283-4176-9deb-a500d5916d0f",
+              "lId": 1080
+            }
+          ]
+        },
+        {
+          "_id": "3afa4116-aaba-40a6-ad05-0575badee9eb",
+          "name": "Faith and God's Promises - Abraham",
+          "courseClassId": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+          "lId": 116,
+          "subTopics": [
+            {
+              "_id": "ef00e013-8cd1-41aa-9f86-0221142c4bb4",
+              "name": "Background to the call of Abraham",
+              "topicId": "3afa4116-aaba-40a6-ad05-0575badee9eb",
+              "lId": 1081
+            },
+            {
+              "_id": "64f3d787-2678-470c-b023-7fc64f6a6657",
+              "name": "The meaning of faith in God",
+              "topicId": "3afa4116-aaba-40a6-ad05-0575badee9eb",
+              "lId": 1082
+            },
+            {
+              "_id": "1dff1a9b-e9fa-4cfa-9edc-0915551b2f43",
+              "name": "Abraham's acts of faith and relevance to christians",
+              "topicId": "3afa4116-aaba-40a6-ad05-0575badee9eb",
+              "lId": 1083
+            },
+            {
+              "_id": "cb97949a-d4d9-40ec-a0d3-ce7f6cf6f96a",
+              "name": "God's promises to Abraham",
+              "topicId": "3afa4116-aaba-40a6-ad05-0575badee9eb",
+              "lId": 1084
+            },
+            {
+              "_id": "a5e5843e-bf58-4a25-b5a3-94fdb36a6b97",
+              "name": "The meaning of covenant",
+              "topicId": "3afa4116-aaba-40a6-ad05-0575badee9eb",
+              "lId": 1085
+            },
+            {
+              "_id": "cd8e091f-b450-4690-a537-cae3bb1108a5",
+              "name": "God's covenant with Abraham and its importance",
+              "topicId": "3afa4116-aaba-40a6-ad05-0575badee9eb",
+              "lId": 1086
+            },
+            {
+              "_id": "adc07e78-e070-46e5-9aa7-f6eb04b93579",
+              "name": "Covenants in modern life and their importance",
+              "topicId": "3afa4116-aaba-40a6-ad05-0575badee9eb",
+              "lId": 1087
+            },
+            {
+              "_id": "709ec739-d3a5-423c-a694-70eaa9a51a9b",
+              "name": "Circumscision\r\n",
+              "topicId": "3afa4116-aaba-40a6-ad05-0575badee9eb",
+              "lId": 1267
+            }
+          ]
+        },
+        {
+          "_id": "3b0e2f3c-7ff0-475a-a589-12cd9251d9ef",
+          "name": "Sinai Covenant - Moses",
+          "courseClassId": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+          "lId": 117,
+          "subTopics": [
+            {
+              "_id": "f2e84750-3f81-4a4e-b056-6671f63cd3d5",
+              "name": "The call of Moses",
+              "topicId": "3b0e2f3c-7ff0-475a-a589-12cd9251d9ef",
+              "lId": 1088
+            },
+            {
+              "_id": "8b4d6e57-35e6-4266-9529-181e1ceb7913",
+              "name": "The ten plagues ",
+              "topicId": "3b0e2f3c-7ff0-475a-a589-12cd9251d9ef",
+              "lId": 1089
+            },
+            {
+              "_id": "dce95643-876f-4123-a311-5e5f973f2d42",
+              "name": "The passover",
+              "topicId": "3b0e2f3c-7ff0-475a-a589-12cd9251d9ef",
+              "lId": 1090
+            },
+            {
+              "_id": "5a661adc-5cde-4179-8081-3b8744d9702f",
+              "name": "The exodus ",
+              "topicId": "3b0e2f3c-7ff0-475a-a589-12cd9251d9ef",
+              "lId": 1091
+            },
+            {
+              "_id": "e8a6384f-be79-4e49-8b03-b8a70af62fd7",
+              "name": "The making of the Sinai covenant",
+              "topicId": "3b0e2f3c-7ff0-475a-a589-12cd9251d9ef",
+              "lId": 1092
+            },
+            {
+              "_id": "29d74ca6-ab0c-4e49-aba4-a2759b8ba9ae",
+              "name": "How the Israelites worshipped God in the wilderness",
+              "topicId": "3b0e2f3c-7ff0-475a-a589-12cd9251d9ef",
+              "lId": 1093
+            },
+            {
+              "_id": "0013ce50-407b-41ec-9e46-08999ea3c7af",
+              "name": "The Israelites new understanding of the nature of God",
+              "topicId": "3b0e2f3c-7ff0-475a-a589-12cd9251d9ef",
+              "lId": 1094
+            }
+          ]
+        },
+        {
+          "_id": "89728864-2c34-4a68-8682-b1aa46df1685",
+          "name": "Leadership in God's Plan - David & Solomon",
+          "courseClassId": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+          "lId": 118,
+          "subTopics": [
+            {
+              "_id": "d83350fb-f16e-4a6d-acf5-0775b5797fd6",
+              "name": "Reasons for Kingship in Israel",
+              "topicId": "89728864-2c34-4a68-8682-b1aa46df1685",
+              "lId": 1095
+            },
+            {
+              "_id": "e87b24de-8128-4c2b-bdcc-a15fe0df8554",
+              "name": "Reasons against Kingship in Israel",
+              "topicId": "89728864-2c34-4a68-8682-b1aa46df1685",
+              "lId": 1096
+            },
+            {
+              "_id": "d8cf32fa-0512-42df-ab8c-d1958b81285d",
+              "name": "King Saul's successes and failures",
+              "topicId": "89728864-2c34-4a68-8682-b1aa46df1685",
+              "lId": 1097
+            },
+            {
+              "_id": "6cfadf3f-0925-4885-ba53-a3afd4b0ef7b",
+              "name": "King David's importance",
+              "topicId": "89728864-2c34-4a68-8682-b1aa46df1685",
+              "lId": 1098
+            },
+            {
+              "_id": "914fb6dd-5f2b-4bb0-b654-771a7b12f6a1",
+              "name": "David as an ancestor of Jesus Christ",
+              "topicId": "89728864-2c34-4a68-8682-b1aa46df1685",
+              "lId": 1099
+            },
+            {
+              "_id": "ffc4b5d4-76f3-4236-98d8-173ab62907b5",
+              "name": "Qualities of a good leader drawn from King David",
+              "topicId": "89728864-2c34-4a68-8682-b1aa46df1685",
+              "lId": 1100
+            },
+            {
+              "_id": "b475d2be-91eb-4c47-bccd-ccd895857315",
+              "name": "King Solomon's achievements and failures",
+              "topicId": "89728864-2c34-4a68-8682-b1aa46df1685",
+              "lId": 1101
+            },
+            {
+              "_id": "35359a38-bf27-424b-aff2-3500935f98cd",
+              "name": "The importance of the temple in Israel",
+              "topicId": "89728864-2c34-4a68-8682-b1aa46df1685",
+              "lId": 1102
+            }
+          ]
+        },
+        {
+          "_id": "48ae2d44-2386-44c2-ba1e-79a1f49fa908",
+          "name": "Loyalty to God - Elijah",
+          "courseClassId": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+          "lId": 119,
+          "subTopics": [
+            {
+              "_id": "d7051c31-b714-4371-9a88-393319eea7e1",
+              "name": "Factors that led to the spread of idolatry in Israel",
+              "topicId": "48ae2d44-2386-44c2-ba1e-79a1f49fa908",
+              "lId": 1103
+            },
+            {
+              "_id": "bb886987-51e6-4f1e-ac6a-13d7cbd4c637",
+              "name": "The effects of idolatry in Israel",
+              "topicId": "48ae2d44-2386-44c2-ba1e-79a1f49fa908",
+              "lId": 1104
+            },
+            {
+              "_id": "db380d92-a2cb-46c2-98eb-21ad839b2b64",
+              "name": "Elijah's fight against false religion and corruption",
+              "topicId": "48ae2d44-2386-44c2-ba1e-79a1f49fa908",
+              "lId": 1105
+            },
+            {
+              "_id": "b36d39f9-541d-4979-97ca-197dfa9df3ee",
+              "name": "Reasons why Elijah faced danger and hostility as a phophet of God",
+              "topicId": "48ae2d44-2386-44c2-ba1e-79a1f49fa908",
+              "lId": 1106
+            },
+            {
+              "_id": "3b6062d5-603e-4461-8392-57f12dd303a9",
+              "name": "The relevance of Elijah's prophetic mission to Christians today",
+              "topicId": "48ae2d44-2386-44c2-ba1e-79a1f49fa908",
+              "lId": 1107
+            }
+          ]
+        },
+        {
+          "_id": "70df76f8-b005-44cd-9a40-e00fa542e081",
+          "name": "Selected Aspects in African Religious Heritage",
+          "courseClassId": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+          "lId": 120,
+          "subTopics": [
+            {
+              "_id": "5c983331-e469-4355-99b1-8123151c50c4",
+              "name": "The African concept of God, Spirits and Ancestors",
+              "topicId": "70df76f8-b005-44cd-9a40-e00fa542e081",
+              "lId": 1108
+            },
+            {
+              "_id": "a80e452e-9ba8-4ee3-86fd-4a571ef63716",
+              "name": "The African understanding of the hierarchy of beings ",
+              "topicId": "70df76f8-b005-44cd-9a40-e00fa542e081",
+              "lId": 1109
+            },
+            {
+              "_id": "ab75c42d-5d75-4764-83a3-adba66841faf",
+              "name": "The roles of God, Spirits and Ancestors ",
+              "topicId": "70df76f8-b005-44cd-9a40-e00fa542e081",
+              "lId": 1110
+            },
+            {
+              "_id": "a551a31b-c662-4eda-b48d-ff404582f346",
+              "name": "Responsibility of the living towards God, Spirits and Ancestors",
+              "topicId": "70df76f8-b005-44cd-9a40-e00fa542e081",
+              "lId": 1111
+            }
+          ]
+        },
+        {
+          "_id": "f5bdcf07-eb70-4dce-b46d-fa27d0fc3a1f",
+          "name": "The Meaning of Life and its Wholeness in Traditional African Society",
+          "courseClassId": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+          "lId": 121,
+          "subTopics": [
+            {
+              "_id": "1e9b66e1-d4fa-41c9-a349-d248011cf14d",
+              "name": "The meaning of life",
+              "topicId": "f5bdcf07-eb70-4dce-b46d-fa27d0fc3a1f",
+              "lId": 1112
+            },
+            {
+              "_id": "d123957a-641c-4ec5-8170-3a919d6727a7",
+              "name": "The African concept of community and kinship system",
+              "topicId": "f5bdcf07-eb70-4dce-b46d-fa27d0fc3a1f",
+              "lId": 1113
+            },
+            {
+              "_id": "f2d77fd0-023a-4f2c-bae0-f4d4dd596ef1",
+              "name": "Factors contributing to harmony and mutual responsibility in the African community",
+              "topicId": "f5bdcf07-eb70-4dce-b46d-fa27d0fc3a1f",
+              "lId": 1114
+            }
+          ]
+        },
+        {
+          "_id": "6b429c50-81fc-4640-a23c-635166426b88",
+          "name": "The Rites of Passage and Moral Values",
+          "courseClassId": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+          "lId": 122,
+          "subTopics": [
+            {
+              "_id": "b9b33329-74fa-4011-ac1e-740db36cc73d",
+              "name": "The role of rites of passage",
+              "topicId": "6b429c50-81fc-4640-a23c-635166426b88",
+              "lId": 1115
+            },
+            {
+              "_id": "538cfe8f-42bf-4d4b-9f4f-2e49a8a5e57c",
+              "name": "The role of rites of passage including moral values",
+              "topicId": "6b429c50-81fc-4640-a23c-635166426b88",
+              "lId": 1116
+            },
+            {
+              "_id": "37f3a1ec-123c-4017-9918-3d2d5450a3d2",
+              "name": "The role of religious specialists in the African community",
+              "topicId": "6b429c50-81fc-4640-a23c-635166426b88",
+              "lId": 1117
+            }
+          ]
+        },
+        {
+          "_id": "6d27a2a5-c391-4e9a-860b-3f4c1c1f0a1a",
+          "name": "African Moral Values",
+          "courseClassId": "c40898fc-1c36-45fe-b0e7-83761a79c61f",
+          "lId": 123,
+          "subTopics": [
+            {
+              "_id": "b5e549c6-85ea-4ff9-bfec-7c20a7a5815c",
+              "name": "Values",
+              "topicId": "6d27a2a5-c391-4e9a-860b-3f4c1c1f0a1a",
+              "lId": 1118
+            },
+            {
+              "_id": "78e6f17e-ea0a-4656-995f-a2825772f3c7",
+              "name": "Continuity and change of some aspects of traditional african culture ",
+              "topicId": "6d27a2a5-c391-4e9a-860b-3f4c1c1f0a1a",
+              "lId": 1119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+      "name": "Form 2",
+      "order": 2,
+      "courseId": "cWyErPPx7uKXGWquQ",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "514c723c-a089-49d3-a267-9713ca38d7ec",
+          "name": "Old Testament Prophecies about the Coming of the Messiah",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 124,
+          "subTopics": [
+            {
+              "_id": "0f16b201-8030-402f-84ba-ec01dea2566b",
+              "name": "Prophecies concerning the Messiah in the Old Testament",
+              "topicId": "514c723c-a089-49d3-a267-9713ca38d7ec",
+              "lId": 1120
+            },
+            {
+              "_id": "cebe87c1-d39c-44f5-8209-3a690de3cdba",
+              "name": "The concept of the Messiah in the New Testament",
+              "topicId": "514c723c-a089-49d3-a267-9713ca38d7ec",
+              "lId": 1121
+            },
+            {
+              "_id": "526a633a-b952-4587-8ceb-768836052667",
+              "name": "The role of John the Baptist",
+              "topicId": "514c723c-a089-49d3-a267-9713ca38d7ec",
+              "lId": 1122
+            }
+          ]
+        },
+        {
+          "_id": "eab4228e-3e43-46b5-ba8d-4e1645cc0678",
+          "name": "The Infancy and Early Life of Jesus",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 125,
+          "subTopics": [
+            {
+              "_id": "a9600e7d-d92a-4c77-888f-af785be272bb",
+              "name": "The annunciation",
+              "topicId": "eab4228e-3e43-46b5-ba8d-4e1645cc0678",
+              "lId": 1123
+            },
+            {
+              "_id": "69248795-76b9-4456-8650-8702dbfe2333",
+              "name": "The birth of John the Baptist",
+              "topicId": "eab4228e-3e43-46b5-ba8d-4e1645cc0678",
+              "lId": 1124
+            },
+            {
+              "_id": "1b77772a-6f63-404f-9b0c-c7a92f0ffd9d",
+              "name": "The birth of Jesus",
+              "topicId": "eab4228e-3e43-46b5-ba8d-4e1645cc0678",
+              "lId": 1125
+            },
+            {
+              "_id": "23acb5da-6c94-4ed2-a4f8-8779465c2476",
+              "name": "The dedication of Jesus",
+              "topicId": "eab4228e-3e43-46b5-ba8d-4e1645cc0678",
+              "lId": 1126
+            },
+            {
+              "_id": "3d21329f-7e78-4560-8b46-7edec3d0d001",
+              "name": "The boy Jesus at the temple",
+              "topicId": "eab4228e-3e43-46b5-ba8d-4e1645cc0678",
+              "lId": 1127
+            }
+          ]
+        },
+        {
+          "_id": "5eb4c1d4-bccd-4aaf-96e6-38364de48ede",
+          "name": "John the Baptist and Jesus",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 126,
+          "subTopics": [
+            {
+              "_id": "50ccf7c2-269d-4cd5-97b9-157722d076d4",
+              "name": "The preaching of John the Baptist",
+              "topicId": "5eb4c1d4-bccd-4aaf-96e6-38364de48ede",
+              "lId": 1128
+            },
+            {
+              "_id": "d725a494-ba08-429d-8f54-3b1190762da5",
+              "name": "The baptism of Jesus",
+              "topicId": "5eb4c1d4-bccd-4aaf-96e6-38364de48ede",
+              "lId": 1129
+            },
+            {
+              "_id": "cebd2135-87dd-4074-ac2a-a033c58d023c",
+              "name": "The temptations of Jesus",
+              "topicId": "5eb4c1d4-bccd-4aaf-96e6-38364de48ede",
+              "lId": 1130
+            },
+            {
+              "_id": "c5c31507-2c6b-4d43-a653-d39c58b83104",
+              "name": "The relevance of the baptism and temptations of Jesus to Christians",
+              "topicId": "5eb4c1d4-bccd-4aaf-96e6-38364de48ede",
+              "lId": 1131
+            }
+          ]
+        },
+        {
+          "_id": "d25eb831-911a-4d23-8547-209b07c36993",
+          "name": "Jesus Begins his Work in Galilee",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 127,
+          "subTopics": [
+            {
+              "_id": "98753f7d-2c07-482b-b3fa-47ea3e3df75c",
+              "name": "Jesus' ministry in Galilee and his rejection at Nazareth",
+              "topicId": "d25eb831-911a-4d23-8547-209b07c36993",
+              "lId": 1132
+            },
+            {
+              "_id": "d2a59f0a-8e83-4703-a175-4700018a183e",
+              "name": "Jesus heals in Capernaum",
+              "topicId": "d25eb831-911a-4d23-8547-209b07c36993",
+              "lId": 1133
+            },
+            {
+              "_id": "ac38fff0-102e-4c23-953e-5b70a8ff8507",
+              "name": "Jesus calls the first disciples",
+              "topicId": "d25eb831-911a-4d23-8547-209b07c36993",
+              "lId": 1134
+            },
+            {
+              "_id": "c0607299-29f6-41ec-9b22-2b37fc73b450",
+              "name": "Jesus faces opposition",
+              "topicId": "d25eb831-911a-4d23-8547-209b07c36993",
+              "lId": 1135
+            }
+          ]
+        },
+        {
+          "_id": "6d40e7fa-e44c-462e-a1e3-7f1786a17323",
+          "name": "The Sermon on the Plain",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 128,
+          "subTopics": [
+            {
+              "_id": "48a7fdf4-fa9a-4f9d-8c56-ce13621ac02d",
+              "name": "The choosing of the twelve disciples",
+              "topicId": "6d40e7fa-e44c-462e-a1e3-7f1786a17323",
+              "lId": 1136
+            },
+            {
+              "_id": "dbb12435-833f-43c1-9cfe-a25d0e79dc7b",
+              "name": "Jesus'teaching on the qualities of true discipleship",
+              "topicId": "6d40e7fa-e44c-462e-a1e3-7f1786a17323",
+              "lId": 1137
+            }
+          ]
+        },
+        {
+          "_id": "ffcac933-f95a-4524-ab1e-0cb0ef5d17c8",
+          "name": "Some Works and Teachings of Jesus",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 129,
+          "subTopics": [
+            {
+              "_id": "484d1012-757f-406a-a981-79113b7a09d3",
+              "name": "Jesus' works of compassion",
+              "topicId": "ffcac933-f95a-4524-ab1e-0cb0ef5d17c8",
+              "lId": 1138
+            },
+            {
+              "_id": "c1cbdd65-0ae4-4e7f-8190-29447bf56635",
+              "name": "Jesus teaches in parables",
+              "topicId": "ffcac933-f95a-4524-ab1e-0cb0ef5d17c8",
+              "lId": 1139
+            },
+            {
+              "_id": "e7daae51-312e-4ac2-b807-f29730a8edf6",
+              "name": "The significance of the parables of Jesus",
+              "topicId": "ffcac933-f95a-4524-ab1e-0cb0ef5d17c8",
+              "lId": 1140
+            },
+            {
+              "_id": "de4e2d44-5bce-460b-8d9f-c435f6b8b3ec",
+              "name": "The mighty work of Jesus",
+              "topicId": "ffcac933-f95a-4524-ab1e-0cb0ef5d17c8",
+              "lId": 1141
+            }
+          ]
+        },
+        {
+          "_id": "d1293946-3632-4bf0-9958-5db40263ee8c",
+          "name": "Jesus and the Twelve Disciples",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 130,
+          "subTopics": [
+            {
+              "_id": "3dbb1eeb-1593-4b78-bf7a-695f997ccc16",
+              "name": "The commissioning of the twelve disciples",
+              "topicId": "d1293946-3632-4bf0-9958-5db40263ee8c",
+              "lId": 1142
+            },
+            {
+              "_id": "8d70a3a0-36b8-4439-a584-1a232f1467e3",
+              "name": "Jesus feeds the five thousand",
+              "topicId": "d1293946-3632-4bf0-9958-5db40263ee8c",
+              "lId": 1143
+            },
+            {
+              "_id": "0a01d135-05b1-4955-8b44-17641689c0f2",
+              "name": "The person of Jesus and his destiny",
+              "topicId": "d1293946-3632-4bf0-9958-5db40263ee8c",
+              "lId": 1144
+            },
+            {
+              "_id": "354b1764-3573-4936-9cbc-b7cafd927a8c",
+              "name": "The transfiguration",
+              "topicId": "d1293946-3632-4bf0-9958-5db40263ee8c",
+              "lId": 1145
+            },
+            {
+              "_id": "280b8218-7441-414d-91c8-c3a90ff3c1fb",
+              "name": "Jesus' teaching on faith and humility",
+              "topicId": "d1293946-3632-4bf0-9958-5db40263ee8c",
+              "lId": 1146
+            }
+          ]
+        },
+        {
+          "_id": "db6bc664-b61c-4b1c-9569-8fbe60ad3481",
+          "name": "Some Major Teachings of Jesus",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 131,
+          "subTopics": [
+            {
+              "_id": "798e75a0-a2f7-4758-aaf0-f49c0a30d566",
+              "name": "The duties and privileges of discipleship",
+              "topicId": "db6bc664-b61c-4b1c-9569-8fbe60ad3481",
+              "lId": 1147
+            },
+            {
+              "_id": "1c69ab13-e417-4ece-9d90-538f20257c08",
+              "name": "The mission of the seventy two",
+              "topicId": "db6bc664-b61c-4b1c-9569-8fbe60ad3481",
+              "lId": 1148
+            },
+            {
+              "_id": "143e2e52-7c79-4631-a03e-5a715500576d",
+              "name": "A committed follower of Jesus",
+              "topicId": "db6bc664-b61c-4b1c-9569-8fbe60ad3481",
+              "lId": 1149
+            },
+            {
+              "_id": "8c6c3f90-3042-4a09-ac1f-09a24d53afda",
+              "name": "The use of God's power to overcome evil",
+              "topicId": "db6bc664-b61c-4b1c-9569-8fbe60ad3481",
+              "lId": 1150
+            },
+            {
+              "_id": "1bba2f3c-8451-40b6-a513-64c59b3f7145",
+              "name": "Jesus' teaching on hyprocricy, wealth and watchfulness",
+              "topicId": "db6bc664-b61c-4b1c-9569-8fbe60ad3481",
+              "lId": 1151
+            }
+          ]
+        },
+        {
+          "_id": "c190346c-36cb-4dd3-bdd5-6d386d1ad96d",
+          "name": "The Kingdom of God",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 132,
+          "subTopics": [
+            {
+              "_id": "0e3c94ae-3ba1-42da-8d97-f4fd8eb08e40",
+              "name": "The growth of the Kingdom of God",
+              "topicId": "c190346c-36cb-4dd3-bdd5-6d386d1ad96d",
+              "lId": 1152
+            },
+            {
+              "_id": "4844e590-8dc2-4b02-882a-7e3c2b55f346",
+              "name": "A great feast for all who are prepared",
+              "topicId": "c190346c-36cb-4dd3-bdd5-6d386d1ad96d",
+              "lId": 1153
+            },
+            {
+              "_id": "135f0f96-f21b-4244-9aa2-8e7280d5f295",
+              "name": "Retrieving the lost",
+              "topicId": "c190346c-36cb-4dd3-bdd5-6d386d1ad96d",
+              "lId": 1154
+            }
+          ]
+        },
+        {
+          "_id": "54b92860-e62d-463e-aa85-6385d25be220",
+          "name": "Wealth, Poverty, Faith and Prayer",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 133,
+          "subTopics": [
+            {
+              "_id": "c1b2e44e-e705-4c33-87ef-fc539cb5cfb6",
+              "name": "Jesus' teaching on wealth and poverty",
+              "topicId": "54b92860-e62d-463e-aa85-6385d25be220",
+              "lId": 1155
+            },
+            {
+              "_id": "f43c87e1-50bc-4bab-9305-f412d7d1b0be",
+              "name": "The power of faith",
+              "topicId": "54b92860-e62d-463e-aa85-6385d25be220",
+              "lId": 1156
+            },
+            {
+              "_id": "ba718beb-f55a-4f59-ab5e-b9857eeceee7",
+              "name": "Persistence in prayer",
+              "topicId": "54b92860-e62d-463e-aa85-6385d25be220",
+              "lId": 1157
+            },
+            {
+              "_id": "76901982-8dd4-4ed7-9136-377972196bd2",
+              "name": "The way to salvation",
+              "topicId": "54b92860-e62d-463e-aa85-6385d25be220",
+              "lId": 1158
+            }
+          ]
+        },
+        {
+          "_id": "520a98e6-6b84-44b5-90ac-7e153976fd8f",
+          "name": "Jesus Teaches in Jerusalem",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 134,
+          "subTopics": [
+            {
+              "_id": "a318714c-7f76-4d55-b179-1b14da09e305",
+              "name": "Jesus' triumphant entry into Jerusalem",
+              "topicId": "520a98e6-6b84-44b5-90ac-7e153976fd8f",
+              "lId": 1159
+            },
+            {
+              "_id": "c073fe4c-7a0e-45ef-bcbd-af57944a8653",
+              "name": "The cleansing of the temple",
+              "topicId": "520a98e6-6b84-44b5-90ac-7e153976fd8f",
+              "lId": 1160
+            },
+            {
+              "_id": "3545cdac-69b7-43ad-ad78-d31fecdb5b94",
+              "name": "Jesus' conflicts with the Jewish leaders",
+              "topicId": "520a98e6-6b84-44b5-90ac-7e153976fd8f",
+              "lId": 1161
+            },
+            {
+              "_id": "da73fad9-096b-4902-83d3-226211b756c7",
+              "name": "Jesus' teaching about Eschatology",
+              "topicId": "520a98e6-6b84-44b5-90ac-7e153976fd8f",
+              "lId": 1162
+            }
+          ]
+        },
+        {
+          "_id": "11a5a72e-e281-4da9-a64d-cc6a785408dc",
+          "name": "The Passion, Death and Ressurection of Jesus",
+          "courseClassId": "3eda7e20-7977-4808-b217-9db9ae5ba783",
+          "lId": 135,
+          "subTopics": [
+            {
+              "_id": "031e94d0-7caa-4a3a-a3c5-0e70ed7280ca",
+              "name": "The last supper",
+              "topicId": "11a5a72e-e281-4da9-a64d-cc6a785408dc",
+              "lId": 1163
+            },
+            {
+              "_id": "dd0d1dd6-af16-4a99-9e77-a4fc0b615b52",
+              "name": "Prayer on Mount Olives",
+              "topicId": "11a5a72e-e281-4da9-a64d-cc6a785408dc",
+              "lId": 1164
+            },
+            {
+              "_id": "31fa8ee9-14f1-4970-9d35-d0e5b07f6a94",
+              "name": "The betrayal and arrest of Jesus",
+              "topicId": "11a5a72e-e281-4da9-a64d-cc6a785408dc",
+              "lId": 1165
+            },
+            {
+              "_id": "b62ac27c-7bb4-43dc-8525-a14053cb8f68",
+              "name": "The denial of Jesus by Peter",
+              "topicId": "11a5a72e-e281-4da9-a64d-cc6a785408dc",
+              "lId": 1166
+            },
+            {
+              "_id": "0f034b10-9f81-4be7-806f-6fb9d6972374",
+              "name": "The trial of Jesus",
+              "topicId": "11a5a72e-e281-4da9-a64d-cc6a785408dc",
+              "lId": 1167
+            },
+            {
+              "_id": "1b613ce0-4557-41fd-b859-9ad0ca36e13b",
+              "name": "The crucifixion of Jesus",
+              "topicId": "11a5a72e-e281-4da9-a64d-cc6a785408dc",
+              "lId": 1168
+            },
+            {
+              "_id": "de6a62f7-da58-424f-8b7e-789c2170fa1a",
+              "name": "The death and burial of Jesus",
+              "topicId": "11a5a72e-e281-4da9-a64d-cc6a785408dc",
+              "lId": 1169
+            },
+            {
+              "_id": "c1f20113-916f-4475-b848-ed8c1e7a92b1",
+              "name": "The resurrection",
+              "topicId": "11a5a72e-e281-4da9-a64d-cc6a785408dc",
+              "lId": 1170
+            },
+            {
+              "_id": "8cce6d04-c7be-4cc2-8f53-d2e77e034c06",
+              "name": "The significance of Jesus' passion, death and ressurection to Christian life",
+              "topicId": "11a5a72e-e281-4da9-a64d-cc6a785408dc",
+              "lId": 1171
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "f8c97a25-e55a-44a3-bfb6-e2fd492c0e80",
+      "name": "Form 3",
+      "order": 3,
+      "courseId": "cWyErPPx7uKXGWquQ",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "03436932-f7dd-4893-8594-afbcc5368537",
+          "name": "The Gifts of the Holy Spirit",
+          "courseClassId": "f8c97a25-e55a-44a3-bfb6-e2fd492c0e80",
+          "lId": 136,
+          "subTopics": [
+            {
+              "_id": "cc47d2e7-ddd8-42ec-b34a-0a67b573bd9a",
+              "name": "The teaching of Jesus on the role of the holy spirit",
+              "topicId": "03436932-f7dd-4893-8594-afbcc5368537",
+              "lId": 1172
+            },
+            {
+              "_id": "0edce1a2-45d7-490d-8293-f19265e53bfd",
+              "name": "Peter's message on the day of pentecost",
+              "topicId": "03436932-f7dd-4893-8594-afbcc5368537",
+              "lId": 1173
+            },
+            {
+              "_id": "844cbd7c-e6c9-464a-8c7a-9a53f341965e",
+              "name": "Paul's teaching on the gifts of the holy spirit",
+              "topicId": "03436932-f7dd-4893-8594-afbcc5368537",
+              "lId": 1174
+            },
+            {
+              "_id": "b0298557-c2d1-4570-aa66-5c26414026a6",
+              "name": "The criteria for discerning the gifts of the holy spirit",
+              "topicId": "03436932-f7dd-4893-8594-afbcc5368537",
+              "lId": 1175
+            },
+            {
+              "_id": "0ca1ec41-9be1-410c-affc-48340cbbfcd0",
+              "name": "The fruit of the holy spirit",
+              "topicId": "03436932-f7dd-4893-8594-afbcc5368537",
+              "lId": 1176
+            },
+            {
+              "_id": "d1fd6c2a-6879-40cf-999e-ae6527883864",
+              "name": "The manifestation of the gifts of the holy spirit in the Church",
+              "topicId": "03436932-f7dd-4893-8594-afbcc5368537",
+              "lId": 1177
+            }
+          ]
+        },
+        {
+          "_id": "2d17ad66-30ee-4313-a6fd-64e9f7160a97",
+          "name": "The Unity of Believers in the New Testament",
+          "courseClassId": "f8c97a25-e55a-44a3-bfb6-e2fd492c0e80",
+          "lId": 137,
+          "subTopics": [
+            {
+              "_id": "728bbdbf-cb8c-4618-b7fe-6600ac0ee94e",
+              "name": "The teaching on the unity of believers in selected new testament texts",
+              "topicId": "2d17ad66-30ee-4313-a6fd-64e9f7160a97",
+              "lId": 1178
+            },
+            {
+              "_id": "5d7ffb32-0032-4c48-9aff-df6b530c6ffd",
+              "name": "Causes of disunity in the early Church and solutions offered",
+              "topicId": "2d17ad66-30ee-4313-a6fd-64e9f7160a97",
+              "lId": 1179
+            },
+            {
+              "_id": "b7c55a11-ee96-4327-ab75-80f4d8f28f27",
+              "name": "Causes of disunity in the Church in Kenya and possible solutions ",
+              "topicId": "2d17ad66-30ee-4313-a6fd-64e9f7160a97",
+              "lId": 1180
+            }
+          ]
+        },
+        {
+          "_id": "1a34453c-3e58-4c6d-b4f5-58c23be8fc26",
+          "name": "The Writing of Prophetic Messages",
+          "courseClassId": "f8c97a25-e55a-44a3-bfb6-e2fd492c0e80",
+          "lId": 138,
+          "subTopics": [
+            {
+              "_id": "154b95d1-45b9-4106-874d-197729485672",
+              "name": "Definition of terms: Prophets and Prophecy",
+              "topicId": "1a34453c-3e58-4c6d-b4f5-58c23be8fc26",
+              "lId": 1181
+            },
+            {
+              "_id": "2f62b1d2-41b0-4b30-a0a0-e1d210902b2c",
+              "name": "Categories of Prophets ",
+              "topicId": "1a34453c-3e58-4c6d-b4f5-58c23be8fc26",
+              "lId": 1182
+            },
+            {
+              "_id": "9d3402c3-ac01-4f96-a277-18e043adec09",
+              "name": "The importance of Prophets",
+              "topicId": "1a34453c-3e58-4c6d-b4f5-58c23be8fc26",
+              "lId": 1183
+            },
+            {
+              "_id": "4447c2ed-00e5-4fde-bc70-7d1bee0f079f",
+              "name": "The characteristics of Prophets",
+              "topicId": "1a34453c-3e58-4c6d-b4f5-58c23be8fc26",
+              "lId": 1184
+            },
+            {
+              "_id": "08e318c0-14db-4999-9860-8a7ae883a3a7",
+              "name": "The writing of Prophetic messages",
+              "topicId": "1a34453c-3e58-4c6d-b4f5-58c23be8fc26",
+              "lId": 1185
+            },
+            {
+              "_id": "6ecb4275-97e8-404e-8e1f-19964c4ceaed",
+              "name": "The relationship between the Old Testament prophecies and the New Testament",
+              "topicId": "1a34453c-3e58-4c6d-b4f5-58c23be8fc26",
+              "lId": 1186
+            },
+            {
+              "_id": "627cf0dc-bdbd-4d14-b42c-b0530f2fd24b",
+              "name": "The similarities and differences between the traditional and the Old Testament Prophets and their relevance to Christians today",
+              "topicId": "1a34453c-3e58-4c6d-b4f5-58c23be8fc26",
+              "lId": 1187
+            }
+          ]
+        },
+        {
+          "_id": "b3c22df1-a304-4ad8-aff0-7328b3c7bfee",
+          "name": "Prophet Amos",
+          "courseClassId": "f8c97a25-e55a-44a3-bfb6-e2fd492c0e80",
+          "lId": 139,
+          "subTopics": [
+            {
+              "_id": "07350c08-b8a2-411a-bdc2-e72cbb9b79ff",
+              "name": "The background to Prophet Amos",
+              "topicId": "b3c22df1-a304-4ad8-aff0-7328b3c7bfee",
+              "lId": 1188
+            },
+            {
+              "_id": "4a38c609-fb6b-4857-9cfc-ba02b1ad1c6e",
+              "name": "The call of Amos ",
+              "topicId": "b3c22df1-a304-4ad8-aff0-7328b3c7bfee",
+              "lId": 1189
+            },
+            {
+              "_id": "5204eedf-29c8-4ebd-ab0c-b66d81432ce5",
+              "name": "The visions of Amos",
+              "topicId": "b3c22df1-a304-4ad8-aff0-7328b3c7bfee",
+              "lId": 1190
+            },
+            {
+              "_id": "120ef3b8-c26d-4c17-8abe-3759f20826a2",
+              "name": "The teachings of Prophet Amos",
+              "topicId": "b3c22df1-a304-4ad8-aff0-7328b3c7bfee",
+              "lId": 1191
+            }
+          ]
+        },
+        {
+          "_id": "19c40256-84bc-4872-9a14-2893487d5669",
+          "name": "Prophet Jeremiah",
+          "courseClassId": "f8c97a25-e55a-44a3-bfb6-e2fd492c0e80",
+          "lId": 140,
+          "subTopics": [
+            {
+              "_id": "ce42aa5b-c8f5-4c56-8468-073f332a2b9c",
+              "name": "Background to Prophet Jeremiah",
+              "topicId": "19c40256-84bc-4872-9a14-2893487d5669",
+              "lId": 1192
+            },
+            {
+              "_id": "7ab11677-6134-43e3-80f5-486454ce1c6c",
+              "name": "The personal life and the call of Jeremiah",
+              "topicId": "19c40256-84bc-4872-9a14-2893487d5669",
+              "lId": 1193
+            },
+            {
+              "_id": "cbfc9607-75d4-4d26-8b58-c49fc78245c1",
+              "name": "The evils addressed by Prophet Jeremiah",
+              "topicId": "19c40256-84bc-4872-9a14-2893487d5669",
+              "lId": 1194
+            },
+            {
+              "_id": "193922c0-9163-4bbc-bb6b-8e754b447519",
+              "name": "The temple sermon",
+              "topicId": "19c40256-84bc-4872-9a14-2893487d5669",
+              "lId": 1195
+            },
+            {
+              "_id": "0b338ebd-bdf4-453f-a406-60612cd571e1",
+              "name": "The relevance of Jeremiah's teaching on evils and false prophets to Christians",
+              "topicId": "19c40256-84bc-4872-9a14-2893487d5669",
+              "lId": 1196
+            }
+          ]
+        },
+        {
+          "_id": "9a76343d-5a93-4c46-b83b-4c98130e3977",
+          "name": "Jeremiah's Teachings on Judgement and Punishment",
+          "courseClassId": "f8c97a25-e55a-44a3-bfb6-e2fd492c0e80",
+          "lId": 141,
+          "subTopics": [
+            {
+              "_id": "afab2d15-7bbd-45ee-a5dc-08d845abc2b2",
+              "name": "Judgement and punishment ",
+              "topicId": "9a76343d-5a93-4c46-b83b-4c98130e3977",
+              "lId": 1197
+            },
+            {
+              "_id": "5bde7968-5a32-4e3b-a2b1-6f3a847fa44e",
+              "name": "Symbolic acts related to judgement and punishment",
+              "topicId": "9a76343d-5a93-4c46-b83b-4c98130e3977",
+              "lId": 1198
+            },
+            {
+              "_id": "aba760c9-9b56-4da8-994c-a6dbbd3d1238",
+              "name": "The fall of Jerusalem and the exile of the people of Judah",
+              "topicId": "9a76343d-5a93-4c46-b83b-4c98130e3977",
+              "lId": 1199
+            }
+          ]
+        },
+        {
+          "_id": "aeb5dcf3-741f-453e-a7fc-dd2944e0f339",
+          "name": "Jeremiah's Teachings on Suffering and Hope",
+          "courseClassId": "f8c97a25-e55a-44a3-bfb6-e2fd492c0e80",
+          "lId": 142,
+          "subTopics": [
+            {
+              "_id": "2f813ee6-e0d3-4d1b-a6a3-558659b16acc",
+              "name": "Jeremiah's suffering and lamentations",
+              "topicId": "aeb5dcf3-741f-453e-a7fc-dd2944e0f339",
+              "lId": 1200
+            },
+            {
+              "_id": "5665a430-56ee-405a-bf1e-6a0379547779",
+              "name": "The symbolic acts related to hope and restoration",
+              "topicId": "aeb5dcf3-741f-453e-a7fc-dd2944e0f339",
+              "lId": 1201
+            },
+            {
+              "_id": "2762cbfa-c6d6-4e68-bcda-cd8f46f0423c",
+              "name": "The New Covenant",
+              "topicId": "aeb5dcf3-741f-453e-a7fc-dd2944e0f339",
+              "lId": 1202
+            },
+            {
+              "_id": "b0862f18-bfa6-4a95-9357-9c5ae264df7d",
+              "name": "Relating the teaching and prophecies of Jeremiah to the New Testament and Christian life",
+              "topicId": "aeb5dcf3-741f-453e-a7fc-dd2944e0f339",
+              "lId": 1203
+            }
+          ]
+        },
+        {
+          "_id": "d8e4dc5b-1372-434e-bc40-6178eec9fa8b",
+          "name": "Nehemiah",
+          "courseClassId": "f8c97a25-e55a-44a3-bfb6-e2fd492c0e80",
+          "lId": 143,
+          "subTopics": [
+            {
+              "_id": "326b7306-f293-42d7-a55d-27b3ca289dcb",
+              "name": "Background to Nehemiah",
+              "topicId": "d8e4dc5b-1372-434e-bc40-6178eec9fa8b",
+              "lId": 1204
+            },
+            {
+              "_id": "ededa5ec-1781-4bfc-8cb0-2280ad2dcd4d",
+              "name": "Prayers in life of Nehemiah ",
+              "topicId": "d8e4dc5b-1372-434e-bc40-6178eec9fa8b",
+              "lId": 1205
+            },
+            {
+              "_id": "8f125379-158c-4e1a-9c2e-68c38fa8ccd2",
+              "name": "Nehemiah's leadership",
+              "topicId": "d8e4dc5b-1372-434e-bc40-6178eec9fa8b",
+              "lId": 1206
+            },
+            {
+              "_id": "80cc9388-7475-4ef7-a463-d90c9ffd8ff2",
+              "name": "Problems experienced by Nehemiah",
+              "topicId": "d8e4dc5b-1372-434e-bc40-6178eec9fa8b",
+              "lId": 1207
+            },
+            {
+              "_id": "7d77b40d-904b-45fc-8860-b87b2820d2ae",
+              "name": "Lessons christians learn from Nehemiah's experience and leadership",
+              "topicId": "d8e4dc5b-1372-434e-bc40-6178eec9fa8b",
+              "lId": 1208
+            }
+          ]
+        },
+        {
+          "_id": "636b261e-e67a-4f84-b415-0784d50a8459",
+          "name": "Restoration of the jewish community",
+          "courseClassId": "f8c97a25-e55a-44a3-bfb6-e2fd492c0e80",
+          "lId": 144,
+          "subTopics": [
+            {
+              "_id": "94256f5f-d9da-470b-8d2d-8642bf77649a",
+              "name": "Renewal through the mosaic law",
+              "topicId": "636b261e-e67a-4f84-b415-0784d50a8459",
+              "lId": 1209
+            },
+            {
+              "_id": "b1344476-ba00-4161-8b89-968b974d81cc",
+              "name": "Renewal of the covenant",
+              "topicId": "636b261e-e67a-4f84-b415-0784d50a8459",
+              "lId": 1210
+            },
+            {
+              "_id": "7921f10f-0730-43be-9ecd-36291f91190d",
+              "name": "Nehemiahs reforms ",
+              "topicId": "636b261e-e67a-4f84-b415-0784d50a8459",
+              "lId": 1211
+            },
+            {
+              "_id": "ba64bb42-77d6-43bc-a2ea-e6826d16b5ca",
+              "name": "Comparison of nehemiahs experience with the life of Jesus as depicted in lukes Gospel",
+              "topicId": "636b261e-e67a-4f84-b415-0784d50a8459",
+              "lId": 1212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+      "name": "Form 4",
+      "order": 4,
+      "courseId": "cWyErPPx7uKXGWquQ",
+      "lId": 0,
+      "topics": [
+        {
+          "_id": "9335f5dc-31b3-42e0-ab6a-34afda9f5d60",
+          "name": "Introduction to Christian Ethics",
+          "courseClassId": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+          "lId": 145,
+          "subTopics": [
+            {
+              "_id": "9ffe673f-46e9-48bd-a5ca-1fe180982701",
+              "name": "The meaning of Christian ethics ",
+              "topicId": "9335f5dc-31b3-42e0-ab6a-34afda9f5d60",
+              "lId": 1213
+            },
+            {
+              "_id": "b5f26165-701e-452b-b22d-139f4b2aeff1",
+              "name": "The basis of Christian ethics",
+              "topicId": "9335f5dc-31b3-42e0-ab6a-34afda9f5d60",
+              "lId": 1214
+            },
+            {
+              "_id": "b05dead7-1327-4754-9443-2f277c49be3c",
+              "name": "Christian values that enhance creation of a just society",
+              "topicId": "9335f5dc-31b3-42e0-ab6a-34afda9f5d60",
+              "lId": 1215
+            },
+            {
+              "_id": "a81a4eea-2ed4-455f-8d46-d2eaf9dc0e15",
+              "name": "Life skills",
+              "topicId": "9335f5dc-31b3-42e0-ab6a-34afda9f5d60",
+              "lId": 1216
+            }
+          ]
+        },
+        {
+          "_id": "e8a372b0-b72c-4654-b90b-be987615741e",
+          "name": "Human Sexuality",
+          "courseClassId": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+          "lId": 146,
+          "subTopics": [
+            {
+              "_id": "8a54f442-bd77-465b-a2e0-973ba7bc00c0",
+              "name": "Definition of human sexuality",
+              "topicId": "e8a372b0-b72c-4654-b90b-be987615741e",
+              "lId": 1217
+            },
+            {
+              "_id": "d05205db-9876-47db-bbf2-64d62f14d3c0",
+              "name": "Traditional African understanding of human sexuality",
+              "topicId": "e8a372b0-b72c-4654-b90b-be987615741e",
+              "lId": 1218
+            },
+            {
+              "_id": "789e67a2-38e7-48a9-bafc-17dbec1ce487",
+              "name": "Christian teaching on human sexuality",
+              "topicId": "e8a372b0-b72c-4654-b90b-be987615741e",
+              "lId": 1219
+            },
+            {
+              "_id": "b95c7e41-3e02-450c-ab75-4f6215eef8ba",
+              "name": "Male/Female relationships in traditional African practice",
+              "topicId": "e8a372b0-b72c-4654-b90b-be987615741e",
+              "lId": 1220
+            },
+            {
+              "_id": "af9cfa6c-85ea-47d6-911a-883ff884d652",
+              "name": "Christian teaching on male/female relationships",
+              "topicId": "e8a372b0-b72c-4654-b90b-be987615741e",
+              "lId": 1221
+            }
+          ]
+        },
+        {
+          "_id": "f2e22d9a-4d5f-4451-bbeb-f0f37e5b4c20",
+          "name": "Responsible Sexual Behaviour",
+          "courseClassId": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+          "lId": 147,
+          "subTopics": [
+            {
+              "_id": "a9a63360-48d2-46a3-9404-c5557d8cac52",
+              "name": "Christian teaching on responsible sexual behavious ",
+              "topicId": "f2e22d9a-4d5f-4451-bbeb-f0f37e5b4c20",
+              "lId": 1222
+            },
+            {
+              "_id": "d89c0f2c-1cd0-49a6-a5bb-46c9655c61c1",
+              "name": "Christian teaching on irresponsible sexual behaviour and their effects",
+              "topicId": "f2e22d9a-4d5f-4451-bbeb-f0f37e5b4c20",
+              "lId": 1223
+            }
+          ]
+        },
+        {
+          "_id": "0dce3652-c418-4fe6-9a2c-b4ce99f6c586",
+          "name": "Marriage",
+          "courseClassId": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+          "lId": 148,
+          "subTopics": [
+            {
+              "_id": "01e574d6-773b-4ea1-a1c3-99f1ad670e46",
+              "name": "The meaning of marriage",
+              "topicId": "0dce3652-c418-4fe6-9a2c-b4ce99f6c586",
+              "lId": 1224
+            },
+            {
+              "_id": "76233f72-89b8-424f-8fa7-998fe39d3467",
+              "name": "Traditional African understanding of marriage",
+              "topicId": "0dce3652-c418-4fe6-9a2c-b4ce99f6c586",
+              "lId": 1225
+            },
+            {
+              "_id": "c1c88ccb-a469-4990-9257-67a81707d98e",
+              "name": "Christian teaching on marriage",
+              "topicId": "0dce3652-c418-4fe6-9a2c-b4ce99f6c586",
+              "lId": 1226
+            },
+            {
+              "_id": "4a3d08e8-3335-43ea-bf23-22fd94cab67e",
+              "name": "Secular approaches to marriage",
+              "topicId": "0dce3652-c418-4fe6-9a2c-b4ce99f6c586",
+              "lId": 1227
+            },
+            {
+              "_id": "e5a0f66f-4938-46e9-b2e8-f200ce8b92bb",
+              "name": "Preparation for marriage",
+              "topicId": "0dce3652-c418-4fe6-9a2c-b4ce99f6c586",
+              "lId": 1228
+            },
+            {
+              "_id": "d81ea5dd-0fa6-423f-a4bc-2e16f6077068",
+              "name": "Celibacy as an alternative to marriage",
+              "topicId": "0dce3652-c418-4fe6-9a2c-b4ce99f6c586",
+              "lId": 1229
+            }
+          ]
+        },
+        {
+          "_id": "067e9884-4fea-4c18-8e5c-2d817d214ced",
+          "name": "Family",
+          "courseClassId": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+          "lId": 149,
+          "subTopics": [
+            {
+              "_id": "23611b33-128a-4ce5-b131-554502c098e2",
+              "name": "Definition of the family",
+              "topicId": "067e9884-4fea-4c18-8e5c-2d817d214ced",
+              "lId": 1230
+            },
+            {
+              "_id": "98439b27-6d80-4a35-9951-cfe190c01cda",
+              "name": "Traditional African understanding of the family",
+              "topicId": "067e9884-4fea-4c18-8e5c-2d817d214ced",
+              "lId": 1231
+            },
+            {
+              "_id": "ee880085-9d4f-4ef7-af0c-16f1c4739a5d",
+              "name": "Christian understanding of the family",
+              "topicId": "067e9884-4fea-4c18-8e5c-2d817d214ced",
+              "lId": 1232
+            },
+            {
+              "_id": "c5056cd1-58f3-4835-af37-9d3af9acb82e",
+              "name": "Responsible parenthood",
+              "topicId": "067e9884-4fea-4c18-8e5c-2d817d214ced",
+              "lId": 1233
+            },
+            {
+              "_id": "79c121e1-ae8e-4ef6-9ee5-a40b60b455c7",
+              "name": "Traditional African and Christian ….",
+              "topicId": "067e9884-4fea-4c18-8e5c-2d817d214ced",
+              "lId": 1234
+            },
+            {
+              "_id": "706ed70f-0ebd-42b8-a926-7612b46e6d80",
+              "name": "Male/Female relationships in traditional African practice ",
+              "topicId": "067e9884-4fea-4c18-8e5c-2d817d214ced",
+              "lId": 1235
+            },
+            {
+              "_id": "43f06266-cb43-4ced-8a75-d2d1aa89fe62",
+              "name": "Christian teaching on male/female relationships",
+              "topicId": "067e9884-4fea-4c18-8e5c-2d817d214ced",
+              "lId": 1236
+            }
+          ]
+        },
+        {
+          "_id": "0d332648-7dbe-48e0-a492-02f56c0fee9e",
+          "name": "Christian approaches to work",
+          "courseClassId": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+          "lId": 150,
+          "subTopics": [
+            {
+              "_id": "c50cc771-9c14-41b3-a68a-a2072c855a9b",
+              "name": "The meaning of work and vocation",
+              "topicId": "0d332648-7dbe-48e0-a492-02f56c0fee9e",
+              "lId": 1237
+            },
+            {
+              "_id": "d55b7fcb-459e-4548-baed-564203eae430",
+              "name": "Christian teaching on work",
+              "topicId": "0d332648-7dbe-48e0-a492-02f56c0fee9e",
+              "lId": 1238
+            },
+            {
+              "_id": "e0b7870a-ee53-4dab-8f83-7222653ffd13",
+              "name": "Some virtues related to various types of work",
+              "topicId": "0d332648-7dbe-48e0-a492-02f56c0fee9e",
+              "lId": 1239
+            },
+            {
+              "_id": "901bd71b-eda9-4df8-94ac-aa1612c0c6cc",
+              "name": "The roles of professional ethics, ethos and codes in society",
+              "topicId": "0d332648-7dbe-48e0-a492-02f56c0fee9e",
+              "lId": 1240
+            },
+            {
+              "_id": "cfcfd584-f94d-4600-bb97-3bf072b01ba9",
+              "name": "Moral duties and responsibilities of employers and employees",
+              "topicId": "0d332648-7dbe-48e0-a492-02f56c0fee9e",
+              "lId": 1241
+            },
+            {
+              "_id": "17b675a9-4f77-4f8f-9d3e-6b703d3f2f8f",
+              "name": "Christian approaches to issues related to employment",
+              "topicId": "0d332648-7dbe-48e0-a492-02f56c0fee9e",
+              "lId": 1242
+            }
+          ]
+        },
+        {
+          "_id": "a7cc377c-1017-4e76-81ca-a050afeb2cac",
+          "name": "Christian Approaches to Leisure",
+          "courseClassId": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+          "lId": 151,
+          "subTopics": [
+            {
+              "_id": "08f740c9-aba3-430b-b5b1-b5aab1ecf3d1",
+              "name": "The meaning of leisure",
+              "topicId": "a7cc377c-1017-4e76-81ca-a050afeb2cac",
+              "lId": 1243
+            },
+            {
+              "_id": "0b80a163-f535-49ff-9ba8-d4e06f9ef2c5",
+              "name": "The importance of leisure",
+              "topicId": "a7cc377c-1017-4e76-81ca-a050afeb2cac",
+              "lId": 1244
+            },
+            {
+              "_id": "61247996-2fb3-4cdb-acf1-4860fed4eb5a",
+              "name": "Traditional African understanding of leisure",
+              "topicId": "a7cc377c-1017-4e76-81ca-a050afeb2cac",
+              "lId": 1245
+            },
+            {
+              "_id": "c794e18f-1745-4660-ba91-4aa98a46c201",
+              "name": "Christian teaching on leisure",
+              "topicId": "a7cc377c-1017-4e76-81ca-a050afeb2cac",
+              "lId": 1246
+            },
+            {
+              "_id": "62c010a6-5740-4524-8dcb-1d2c1ffb4e0d",
+              "name": "Misuse of leisure today",
+              "topicId": "a7cc377c-1017-4e76-81ca-a050afeb2cac",
+              "lId": 1247
+            },
+            {
+              "_id": "e184421f-773a-4483-a500-673c440f2021",
+              "name": "Use and abuse of alcohol and other drugs",
+              "topicId": "a7cc377c-1017-4e76-81ca-a050afeb2cac",
+              "lId": 1248
+            },
+            {
+              "_id": "b0912ae6-08f7-481e-8a7f-2faa62533ab8",
+              "name": "Christian criteria for evaluating the use of leisure",
+              "topicId": "a7cc377c-1017-4e76-81ca-a050afeb2cac",
+              "lId": 1249
+            }
+          ]
+        },
+        {
+          "_id": "ce3a3713-f231-49d7-9477-d3669ee51fad",
+          "name": "Christian Approach to Wealth, Money and Poverty",
+          "courseClassId": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+          "lId": 152,
+          "subTopics": [
+            {
+              "_id": "5d548ee4-fbb5-402e-9b12-1b49b3d21476",
+              "name": "Definition of the concepts of wealth, money and poverty",
+              "topicId": "ce3a3713-f231-49d7-9477-d3669ee51fad",
+              "lId": 1250
+            },
+            {
+              "_id": "46e668e8-f8a0-47f2-8913-76367f277acc",
+              "name": "The traditional African understanding of wealth and poverty",
+              "topicId": "ce3a3713-f231-49d7-9477-d3669ee51fad",
+              "lId": 1251
+            },
+            {
+              "_id": "74c2f7b4-ccde-404d-9077-0c6ba419c5a9",
+              "name": "The impact of the introduction of money economy in traditional African society",
+              "topicId": "ce3a3713-f231-49d7-9477-d3669ee51fad",
+              "lId": 1252
+            },
+            {
+              "_id": "fbae6987-f8b2-4e64-984f-621a445789c3",
+              "name": "The Christian teaching on wealth, money and poverty",
+              "topicId": "ce3a3713-f231-49d7-9477-d3669ee51fad",
+              "lId": 1253
+            },
+            {
+              "_id": "53504d44-b881-4045-ae64-5ba39d570920",
+              "name": "Poverty in the New Testament",
+              "topicId": "ce3a3713-f231-49d7-9477-d3669ee51fad",
+              "lId": 1254
+            },
+            {
+              "_id": "e9b550b2-a93f-4ec8-9364-02900ff0d10c",
+              "name": "Christian response to issues related to wealth and money",
+              "topicId": "ce3a3713-f231-49d7-9477-d3669ee51fad",
+              "lId": 1255
+            }
+          ]
+        },
+        {
+          "_id": "425588ac-dda7-4734-afcc-c7c5ba7c86b4",
+          "name": "Christian Approaches to Law, Order and Justice",
+          "courseClassId": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+          "lId": 153,
+          "subTopics": [
+            {
+              "_id": "a5ce149c-66c7-46ac-89fd-4df193c1decf",
+              "name": "Definition of terms",
+              "topicId": "425588ac-dda7-4734-afcc-c7c5ba7c86b4",
+              "lId": 1256
+            },
+            {
+              "_id": "6e8d6eba-69c5-4eae-a1bc-7ee1dc563bc6",
+              "name": "The need for law, order and justice in society",
+              "topicId": "425588ac-dda7-4734-afcc-c7c5ba7c86b4",
+              "lId": 1257
+            },
+            {
+              "_id": "c3aad397-6a22-4557-8aac-72632de2ea7f",
+              "name": "Right and duties of a citizen",
+              "topicId": "425588ac-dda7-4734-afcc-c7c5ba7c86b4",
+              "lId": 1258
+            },
+            {
+              "_id": "61866f7b-e274-4c0d-a779-b4ed3425ad8f",
+              "name": "Traditional African understanding of law, order and justice",
+              "topicId": "425588ac-dda7-4734-afcc-c7c5ba7c86b4",
+              "lId": 1259
+            },
+            {
+              "_id": "e1065226-d3bd-4343-8f11-55f00a6db556",
+              "name": "Bibilical teachings on law, order and justice",
+              "topicId": "425588ac-dda7-4734-afcc-c7c5ba7c86b4",
+              "lId": 1260
+            },
+            {
+              "_id": "661bce91-64be-4373-931e-d8a984af4f54",
+              "name": "Causes of social disorders and remedies",
+              "topicId": "425588ac-dda7-4734-afcc-c7c5ba7c86b4",
+              "lId": 1261
+            },
+            {
+              "_id": "356f0e0d-e4d3-49aa-b320-a41526603efc",
+              "name": "Church - State relationship",
+              "topicId": "425588ac-dda7-4734-afcc-c7c5ba7c86b4",
+              "lId": 1262
+            },
+            {
+              "_id": "4be4b88e-d54e-4c51-9b06-f19df9b40ae6",
+              "name": "The role of Christians in transforming society",
+              "topicId": "425588ac-dda7-4734-afcc-c7c5ba7c86b4",
+              "lId": 1263
+            }
+          ]
+        },
+        {
+          "_id": "6dfdb628-2009-46b8-b3ad-a0dd134b4edb",
+          "name": "Christian Approaches to Selected Issues Related to Modern Science, Technology and Environment",
+          "courseClassId": "32c4b9fd-6991-40ca-8dba-0a615e0b7e48",
+          "lId": 154,
+          "subTopics": [
+            {
+              "_id": "a55c02d7-7998-4567-b77b-323d0edc02ff",
+              "name": "Definition of the terms Science, Technology and Environment",
+              "topicId": "6dfdb628-2009-46b8-b3ad-a0dd134b4edb",
+              "lId": 1264
+            },
+            {
+              "_id": "6cff4b30-94b4-4ba4-a382-969c99dc6a9d",
+              "name": "Christian views on selected issues related to science and technology",
+              "topicId": "6dfdb628-2009-46b8-b3ad-a0dd134b4edb",
+              "lId": 1265
+            },
+            {
+              "_id": "717f196a-8fd8-446f-b1e5-d053a71b2d79",
+              "name": "Christian response to the impact of science and technology on the environment ",
+              "topicId": "6dfdb628-2009-46b8-b3ad-a0dd134b4edb",
+              "lId": 1266
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
