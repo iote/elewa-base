@@ -16,10 +16,13 @@ export const SubjectSchema = new Schema({
     type: Schema.Types.ObjectId, 
     ref: 'Curriculum'
   }*/,
-  
+
+  /** Legacy Id. Link to Elewa 1 Database */
+  legacyId: Number,
+
   color: String,
   
   icon: String,
   
-  courses: [CourseSchema]
+  courses: [CourseSchema],
 });

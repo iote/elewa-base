@@ -8,11 +8,13 @@ import { TopicSchema } from './topic.schema';
  */
 export const CourseSchema = new Schema({
   
-  name: String, // Usually the same as subject name
+  // _id: String, - Added default by Mongoose
 
-  subjectId: String,
+  name: String, // Usually the same as subject name
   order: Number, // e.g. Form 1 - 4
 
-  topics: [TopicSchema]
+  topics: [TopicSchema],
+
+  legacyId: Number
 
 });

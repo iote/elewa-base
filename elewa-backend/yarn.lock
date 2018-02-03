@@ -45,9 +45,43 @@
     iterare "0.0.8"
     socket.io "^2.0.3"
 
+"@types/bson@*":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@types/bson/-/bson-1.0.6.tgz#8691f042d99dd163a5eb4dd6dde587d3449f7cda"
+  dependencies:
+    "@types/node" "*"
+
+"@types/events@*":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@types/events/-/events-1.1.0.tgz#93b1be91f63c184450385272c47b6496fd028e02"
+
+"@types/mongodb@*":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.0.5.tgz#0143e0838a8260c7312773457f4d2ea1465ccada"
+  dependencies:
+    "@types/bson" "*"
+    "@types/events" "*"
+    "@types/node" "*"
+
+"@types/mongoose@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@types/mongoose/-/mongoose-5.0.0.tgz#b6f150a37541556f51fdfefdfe4e0da8fd3b95d7"
+  dependencies:
+    "@types/events" "*"
+    "@types/mongodb" "*"
+    "@types/node" "*"
+
+"@types/node@*":
+  version "9.4.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.4.0.tgz#b85a0bcf1e1cc84eb4901b7e96966aedc6f078d1"
+
 "@types/node@^8.0.28":
   version "8.5.8"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.5.8.tgz#92509422653f10e9c0ac18d87e0610b39f9821c7"
+
+"@types/underscore@^1.8.7":
+  version "1.8.7"
+  resolved "https://registry.yarnpkg.com/@types/underscore/-/underscore-1.8.7.tgz#5e4fe5d18376647fb8a1fe33f8ded0d8ccfa783c"
 
 abbrev@1:
   version "1.1.1"
@@ -2255,6 +2289,10 @@ ultron@~1.1.0:
 undefsafe@0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/undefsafe/-/undefsafe-0.0.3.tgz#ecca3a03e56b9af17385baac812ac83b994a962f"
+
+underscore@^1.8.3:
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.8.3.tgz#4f3fb53b106e6097fcf9cb4109f2a5e9bdfa5022"
 
 unique-string@^1.0.0:
   version "1.0.0"

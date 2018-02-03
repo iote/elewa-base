@@ -11,10 +11,16 @@ export abstract class AbstractRepository<T> {
     return await this._model.find().exec();
   }
 
-  async insert(item: T): Promise<boolean> {
+  async insert(item: T): Promise<Model<T> | false> {
     const toInsert = new this._model(item);    
-
-    await toInsert.save();
-    return true;
+    
+    try {
+      await toInsert.save();
+      return toInsert;
+    }
+    catch(e) {
+      console.error(e);
+      return false;
+    }
   }
 }

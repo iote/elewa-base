@@ -5,6 +5,9 @@ import { Schema } from 'mongoose';
  */
 export const SubTopicSchema = new Schema({
 
+  // _id: String, - Added default by Mongoose
+  
   name: String,
   
+  legacyId: Number
 });

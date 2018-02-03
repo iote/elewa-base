@@ -6,8 +6,12 @@ import { SubTopicSchema } from './sub-topic.schema';
  */
 export const TopicSchema = new Schema({
   
+  // _id: String, - Added default by Mongoose
+  
   name: String,
 
   subTopics: [SubTopicSchema],
+  
+  legacyId: Number
   
 });

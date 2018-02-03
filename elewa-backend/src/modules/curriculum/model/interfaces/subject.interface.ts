@@ -2,6 +2,8 @@ import { Course } from './course.interface';
 
 export interface Subject {
 
+  _id?: String;
+
   name: String;
 
   curriculumId: String;
@@ -11,5 +13,7 @@ export interface Subject {
   icon: String;
   
   courses: Course[];
+
+  legacyId: Number;
 
 }

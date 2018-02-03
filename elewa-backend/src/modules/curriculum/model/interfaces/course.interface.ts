@@ -2,10 +2,12 @@ import { Topic } from './topic.interface';
 
 export interface Course {
   
-  name: String;
+  _id?: String;
 
-  subjectId: String;
+  name: String;
   order: Number; // e.g. Form 1 - 4
 
   topics: Topic[];
+
+  legacyId: Number;
 }

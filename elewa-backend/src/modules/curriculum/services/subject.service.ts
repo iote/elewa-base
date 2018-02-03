@@ -15,19 +15,23 @@ export class SubjectService {
   }*/
 
   async createSubjects(subjects: Subject[]) {
-    var result = true;
+     // Break off insert sequence if one fails.
     for(let subject of subjects) 
-      // Break off insert sequence if one fails.
-      result = result && await this.createSubject(subject);
+      await this.createSubject(subject);
   
-    return result;
+    return true;
   }
 
-  async createSubject(subject: Subject): Promise<boolean> {
+  async createSubject(subject: Subject): Promise<any> {
     return this._repo.insert(subject);
   }
 
   async findAll(): Promise<Subject[]> {
     return this._repo.findAll();
+  }
+
+    
+  async subjectsExist(): Promise<boolean> {
+    return (await this.findAll()).length > 0;
   }
 }

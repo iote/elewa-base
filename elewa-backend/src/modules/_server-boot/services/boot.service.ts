@@ -1,14 +1,12 @@
-import { Component }     from '@nestjs/common';
+import { Component, Inject }     from '@nestjs/common';
+import { CurriculumFixture } from '../../curriculum/model/fixtures/curriculum.fixture';
 
 @Component()
 export class BootService {
-  constructor() {}
-
+  constructor(@Inject(CurriculumFixture) private _curriculumFixture :CurriculumFixture) {}
   
   async boot(): Promise<boolean> {
-    // await this.subjectModel.find().exec();
-    //  - await services
-    
-    return true;
+    return await this._curriculumFixture.load();
+           // && await ..
   }
 }

@@ -1,15 +1,13 @@
 import { Module } from '@nestjs/common';
 import { MongooseModule } from '@nestjs/mongoose';
 
-import { CurriculumFixture } from './fixtures/curriculum.fixture';
+import { CurriculumModule } from '../curriculum/curriculum.module';
 
 import { BootService } from './services/boot.service';
 
-
 @Module({
-  imports: [],
+  imports: [CurriculumModule],
   controllers: [],
-  components: [BootService,
-               CurriculumFixture],
+  components: [BootService],
 })
 export class ServerBootModule {}
