@@ -1,0 +1,43 @@
+type Query {
+  subjects: [Subject]
+}
+
+type Subject {
+  id: String
+  name: String!
+
+  color: String!
+  icon: String!
+
+  courses: [Course]!
+}
+
+type Course {
+  id: String
+    # Combined Subject + Class Name
+  name: String!
+  # Class Name (e.g. Form 1, Form 2, ...)
+  className: String!
+
+  order: Int!
+
+  topics: [Topic]!
+  
+  subject: Subject!
+}
+
+type Topic {
+  id: String
+  # Topic Name
+  name: String!
+
+  subTopics: [SubTopic]!
+  course: Course!
+}
+
+type SubTopic {
+  id: String
+  name: String!
+
+  topic: Topic!
+}

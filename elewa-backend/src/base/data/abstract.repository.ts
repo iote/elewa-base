@@ -5,13 +5,13 @@ import { Model } from 'mongoose';
  */
 export abstract class AbstractRepository<T> {
 
-  constructor(private readonly _model: Model<T>) {}
+  constructor(private readonly _model: any) {}
 
   async findAll(): Promise<T[]> {
     return await this._model.find().exec();
   }
 
-  async insert(item: T): Promise<Model<T> | false> {
+  async insert(item: T): Promise<T | false> {
     const toInsert = new this._model(item);    
     
     try {

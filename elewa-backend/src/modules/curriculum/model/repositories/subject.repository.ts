@@ -10,7 +10,7 @@ import { AbstractRepository } from '../../../../base/data/abstract.repository';
 @Component()
 export class SubjectRepository extends AbstractRepository<Subject>
 {
-  constructor(@InjectModel(SubjectSchema) subjectModel: Model<Subject>) {
+  constructor(@InjectModel(SubjectSchema) subjectModel: any) {
     super(subjectModel);
   }
 }
