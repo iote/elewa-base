@@ -8,9 +8,7 @@ import { SubjectService } from '../services/subject.service';
 @Resolver('Subject')
 export class SubjectResolver {
   
-  constructor(
-    private readonly _subjectService: SubjectService,
-  ) {}
+  constructor(private readonly _subjectService: SubjectService) {}
 
   @Query('subjects')
   async subjects(obj, args, context, info) {

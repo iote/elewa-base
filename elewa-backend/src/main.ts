@@ -9,7 +9,8 @@ async function bootstrap() {
 	
 	// Execute boot code
 	const bootService = app.select(ServerBootModule).get(BootService);
-	var booted:boolean = await bootService.boot();
+	var booted:boolean = await bootService.boot(app);
+	
 	
 	if(booted)
 		await app.listen(3000);

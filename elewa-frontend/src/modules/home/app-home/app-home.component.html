@@ -1,0 +1,10 @@
+<app-navbar><button mat-button>View Subjects</button></app-navbar>
+
+<mat-grid-list cols="5" rowHeight="2:1">
+  <mat-grid-tile *ngFor="let subject of subjects | async">
+    {{subject.name}}
+
+  </mat-grid-tile>
+</mat-grid-list>
+
+<pre>{{ subjects | async | json }}</pre>
