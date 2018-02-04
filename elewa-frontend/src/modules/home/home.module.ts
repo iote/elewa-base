@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 
 import { ElewaCoreModule } from '../elewa-core/elewa-core.module';
-import { AppHomeComponent } from './app-home/app-home.component';
+import { AppHomeComponent } from './components/app-home/app-home.component';
 
 /**
  * Module that imports all the modules used by all other modules in the elewa system.

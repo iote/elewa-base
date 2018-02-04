@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import { Logger } from '../services/logger/logger.service';
+import { Logger } from '../../kernel/services/logger/logger.service';
 
 /**
  * Root component. Defines location of route handler.

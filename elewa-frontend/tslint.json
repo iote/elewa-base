@@ -97,7 +97,7 @@
     "component-selector": [
       true,
       "element",
-      "app",
+      ["app", "brick", "ele"],
       "kebab-case"
     ],
     "no-output-on-prefix": true,

@@ -6,9 +6,11 @@ type Subject {
   id: String
   name: String!
 
-  color: String!
-  icon: String!
+  #System identifier. Used to apply custom subject styles
+  slug: String!
 
+  icon: String!
+  
   courses: [Course]!
 }
 

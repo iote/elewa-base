@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule, Component } from '@angular/core';
 import { ReactiveFormsModule } from '@angular/forms';
+import { FlexLayoutModule } from "@angular/flex-layout";
 
 // Apollo
 import { HttpClientModule } from '@angular/common/http';
@@ -11,12 +12,12 @@ import { HttpLinkModule, HttpLink } from 'apollo-angular-link-http';
 import { InMemoryCache } from 'apollo-cache-inmemory';
 
 // External Library Stubs
-import { ElewaCoreModule } from '../../modules/elewa-core/elewa-core.module';
+import { ElewaCoreModule } from '../elewa-core/elewa-core.module';
 
 // Angular Configuration
 import { AppComponent } from './app.component'; // (Bootstrap)
 
-import { AppRoutingModule }  from '../routing/router.module';
+import { AppRoutingModule }  from '../../kernel/routing/router.module';
 
 // Core Elewa Modules
 import { AuthModule } from '../../modules/auth/auth.module';
@@ -24,13 +25,13 @@ import { AuthModule } from '../../modules/auth/auth.module';
 // Model Elewa Modules
 
 // Services
-import { Logger } from '../services/logger/logger.service';
-import { DebugLogger } from '../services/logger/debuglogger.service';
+import { Logger } from '../../kernel/services/logger/logger.service';
+import { DebugLogger } from '../../kernel/services/logger/debuglogger.service';
 
-import { GraphqlService } from '../services/graphql/graphql.service';
-import { GraphqlInitService } from '../services/graphql/graphql-init.service';
+import { GraphqlService } from '../../kernel/services/graphql/graphql.service';
+import { GraphqlInitService } from '../../kernel/services/graphql/graphql-init.service';
 
-import { TransclusionHelper } from '../services/transclusion-helper/transclusion-helper.service';
+import { TransclusionHelper } from '../../kernel/services/transclusion-helper/transclusion-helper.service';
 import { HomeModule } from '../../modules/home/home.module';
 
 /**
@@ -41,7 +42,8 @@ import { HomeModule } from '../../modules/home/home.module';
     AppComponent
   ],
   imports: [
-    CommonModule, BrowserModule, ReactiveFormsModule,
+    CommonModule, BrowserModule,
+    ReactiveFormsModule,
     HttpClientModule, ApolloModule, HttpLinkModule,
 
     ElewaCoreModule,

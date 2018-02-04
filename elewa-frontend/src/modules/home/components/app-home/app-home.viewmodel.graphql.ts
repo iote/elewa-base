@@ -1,13 +1,13 @@
 
 import gql from 'graphql-tag';
 
-export const allSubjectsLinks = gql`
+export const appHomeViewModel = gql`
 
-  query allSubjectsLinks { 
+  query appHomeViewModel { 
     subjects {
       id
       name 
-      color
+      slug
       icon
     }
   }

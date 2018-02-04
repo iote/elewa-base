@@ -20,9 +20,9 @@ export const SubjectSchema = new Schema({
   /** Legacy Id. Link to Elewa 1 Database */
   legacyId: Number,
 
-  color: String,
-  
   icon: String,
+  
+  slug: String,
   
   courses: [CourseSchema],
 });

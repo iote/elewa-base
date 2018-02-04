@@ -4,7 +4,7 @@
 @import '~@angular/material/theming';
 @include mat-core();
 
-
+/* Base Theme */
 $elewa-primary: mat-palette($mat-brown);
 $elewa-accent:  mat-palette($mat-amber, A400, A100, A400);
 
@@ -17,3 +17,90 @@ $elewa-theme: mat-light-theme($elewa-primary,
 
 // Include theme styles for core and each component used in your app.
 @include angular-material-theme($elewa-theme);
+
+
+/* Biology Theme */
+$biology-primary: mat-palette($mat-green);
+$biology-accent:  mat-palette($mat-brown, A400, A100, A400);
+$biology-theme: mat-light-theme($biology-primary, 
+                                $biology-accent, 
+                                $elewa-warn);
+
+/* See Material Color Guide. Mat color is the full color scale of mat-green. 
+    The number 400 is the reference of light/darkness that scale. */
+.biology-background { background: mat-color($biology-primary, 400); }
+.biology-theme {
+  @include angular-material-theme($biology-theme);
+}
+
+/* Chemistry Theme */
+$chemistry-primary: mat-palette($mat-purple);
+$chemistry-accent:  mat-palette($mat-teal, A400, A100, A400);
+$chemistry-theme: mat-light-theme($chemistry-primary, 
+                                  $chemistry-accent, 
+                                  $elewa-warn);      
+
+.chemistry-background { background-color: mat-color($chemistry-primary, 400); }
+.chemistry-theme {
+  @include angular-material-theme($chemistry-theme);
+}
+
+/* CompSci Theme */
+$compsci-primary: mat-palette($mat-cyan);
+$compsci-accent:  mat-palette($mat-lime, A400, A100, A400);
+$compsci-theme:   mat-light-theme($compsci-primary, 
+                                  $compsci-accent, 
+                                  $elewa-warn);   
+
+.compsci-background { background-color: mat-color($compsci-primary, 400); }
+.compsci-theme {
+  @include angular-material-theme($compsci-theme);
+}
+
+/* Geography Theme */
+$geography-primary: mat-palette($mat-brown);
+$geography-accent:  mat-palette($mat-amber, A400, A100, A400);
+$geography-theme:   mat-light-theme($geography-primary, 
+                                    $geography-accent, 
+                                    $elewa-warn);
+
+.geography-background { background-color: mat-color($geography-primary, 400); }
+.geography-theme {
+  @include angular-material-theme($geography-theme);
+}                           
+
+/* History Theme */
+$history-primary: mat-palette($mat-red);
+$history-accent:  mat-palette($mat-light-green, A400, A100, A400);
+$history-theme: mat-light-theme($history-primary, 
+                                $history-accent, 
+                                $elewa-warn);  
+
+.history-background { background-color: mat-color($history-primary, 400); }
+.history-theme {
+  @include angular-material-theme($history-theme);
+}
+
+/* Physics Theme */
+$physics-primary: mat-palette($mat-amber);
+$physics-accent:  mat-palette($mat-grey, A400, A100, A400);
+$physics-theme: mat-light-theme($physics-primary, 
+                                $physics-accent, 
+                                $elewa-warn);   
+
+.physics-background { background-color: mat-color($physics-primary, 400); }
+.physics-theme {
+  @include angular-material-theme($physics-theme);
+}
+
+/* Mathematics Theme */
+$mathematics-primary: mat-palette($mat-blue);
+$mathematics-accent:  mat-palette($mat-teal, A400, A100, A400);
+$mathematics-theme: mat-light-theme($mathematics-primary, 
+                                    $mathematics-accent, 
+                                    $elewa-warn);  
+                                    
+.mathematics-background { background-color: mat-color($mathematics-primary, 400); }
+.mathematics-theme {
+  @include angular-material-theme($mathematics-theme);
+}

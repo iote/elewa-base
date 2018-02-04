@@ -8,7 +8,7 @@ export interface Subject {
 
   curriculumId: String;
   
-  color: String;
+  slug: String;
   
   icon: String;
   

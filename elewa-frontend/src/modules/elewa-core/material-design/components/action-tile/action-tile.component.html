@@ -1,0 +1,22 @@
+<div (click)="doAction()" 
+     [ngClass]="getClasses()"
+     class="action-tile mat-elevation-z2"
+     >
+    
+    <div class="icon-holder">
+        <!-- Recommended. Bind iconUrl OR text -->
+        <img *ngIf="iconUrl"
+            class="icon-body responsive-img"   
+                [alt]="label" 
+                [src]="iconUrl"/> 
+
+        <div class="icon-body icon-body-text">
+            <div class="icon-text" *ngIf="text">{{ text }}</div>
+            <i *ngIf="icon" class="icon-text" [ngClass]="icon"></i>
+        </div>
+    </div>
+    <div class="name-holder">
+        <h2>{{ label }}</h2>
+    </div>
+
+</div>

@@ -4,6 +4,7 @@ import { CommonModule } from '@angular/common';
 import { MaterialDesignModule } from './material-design/material-design.module';
 
 import { NavbarComponent } from './components/navbar/navbar.component';
+import { FlexLayoutModule } from '@angular/flex-layout';
 
 /**
  * Module that imports all the modules used by all other modules in the elewa system.
@@ -13,12 +14,14 @@ import { NavbarComponent } from './components/navbar/navbar.component';
  */
 @NgModule({
   imports:      [CommonModule, 
+                 FlexLayoutModule,
                  MaterialDesignModule],
 
   declarations: [NavbarComponent],
 
   exports:      [CommonModule, 
                  MaterialDesignModule,
+                 FlexLayoutModule,
                  NavbarComponent],
 })
 export class ElewaCoreModule { }

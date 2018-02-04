@@ -1,0 +1,50 @@
+.action-tile {
+    width: 200px;
+    height: 200px;
+    margin: 24px;
+}
+.action-block.short {
+    height: 150px;
+}
+    /* Used in the swiper-view. Width and height take up margin*/
+.action-block.no-margin {
+    margin: 0;
+}
+.action-block:hover {
+    cursor: pointer;
+}
+    .icon-holder {
+        height: 170px;
+    }
+        .action-block.short .icon-holder {
+            height: 120px;
+        }
+        .icon-holder img {
+            padding: 20px;
+            opacity: 0.75;
+        }
+    .name-holder {
+        background-color: rgba(0,0,0,0.3);
+        text-align: center;
+        height: 30px;
+    }   
+        .name-holder h2 {
+            margin: 0;
+            font-size: 1.3em;
+            line-height: 1.3em;
+            color: white;
+        }
+
+    /*.icon-body-text {}*/
+    .icon-text {
+        font-size: 120px;
+        line-height: 160px;
+        font-weight: bold;
+        width: 100%;
+        text-align: center;
+        color: whitesmoke;
+    }  
+
+i.fa:hover {
+    background: none;
+}

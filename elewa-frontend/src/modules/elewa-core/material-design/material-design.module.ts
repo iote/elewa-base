@@ -1,6 +1,9 @@
 import { NgModule } from '@angular/core';
-import * as MATERIAL_MODULES from '@angular/material';
+import { CommonModule } from "@angular/common";
 
+import { ActionTileComponent } from './components/action-tile/action-tile.component';
+
+import * as MATERIAL_MODULES from '@angular/material';
 // src= https://stackoverflow.com/questions/45166844/how-to-import-angular-material-in-project
 export function mapMaterialModules() {
   return Object.keys(MATERIAL_MODULES).filter((k) => {
@@ -11,6 +14,8 @@ export function mapMaterialModules() {
   }).map((k) => MATERIAL_MODULES[k]);
 }
 const modules = mapMaterialModules();
+
+
 /**
  * Module that imports all the modules we use from angular material.
  * We export these modules and import them back into the main application.
@@ -19,7 +24,8 @@ const modules = mapMaterialModules();
  * 
  */
 @NgModule({
-  imports: modules,
-  exports: modules,
+  declarations: [ActionTileComponent],
+  imports: [CommonModule].concat(modules),
+  exports: modules.concat([ActionTileComponent])
 })
 export class MaterialDesignModule { }

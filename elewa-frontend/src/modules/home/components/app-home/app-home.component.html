@@ -1,0 +1,18 @@
+<app-navbar><button mat-button>View Subjects</button></app-navbar>
+
+<div fxLayout="row" fxLayoutWrap>
+
+  <ele-action-tile  fxFlex="100" fxFlex.gt-xs="50" fxFlex.gt-sm="25" 
+                    fxLayoutAlign="space-around center"
+
+      *ngFor="let subject of subjects | async" 
+          [label]="subject.name"
+
+          [slug]="subject.slug"
+          [icon]="subject.icon"
+
+          (click)="goToSubject(subject.id)">
+
+  </ele-action-tile>
+
+</div>

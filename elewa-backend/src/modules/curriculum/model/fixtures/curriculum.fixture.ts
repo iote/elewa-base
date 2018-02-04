@@ -12,14 +12,13 @@ declare var require: any;
 const subjects = [].concat(require('./data/biology.courseInformation.json'),
                            require('./data/chemistry.courseInformation.json'),
                            require('./data/computerstudies.courseInformation.json'),
-                           require('./data/cre.courseInformation.json'),
                            require('./data/geography.courseInformation.json'),
                            require('./data/history.courseInformation.json'),
                            require('./data/mathematics.courseInformation.json'),
                            require('./data/physics.courseInformation.json'));
 
-const subjectColors = ['green', 'purple', 'blue-gray', 'teal', 'brown', 'red', 'blue', 'amber'];
-const subjectIcons =  ['dna', 'reaction', 'screen', 'pray', 'globe', 'scroll', 'sqrt', 'magnet'];
+const subjectSlugs = ['biology', 'chemistry', 'compsci', 'geography', 'history', 'mathematics', 'physics'];
+const subjectIcons =  ['fas fa-tree', 'fas fa-flask', 'fas fa-laptop', 'fas fa-map-signs', 'fab la-leanpub', 'fas fa-magnet', 'fas fa-superscript'];
 
 @Component()
 export class CurriculumFixture {
@@ -33,21 +32,21 @@ export class CurriculumFixture {
       console.log("No subjects yet. Creating subjects from fixture.");
 
       for(var i = 0; i < subjects.length; i++)
-        await this._createSubject(subjects[i], subjectColors[i], subjectIcons[i]);
+        await this._createSubject(subjects[i], subjectSlugs[i], subjectIcons[i]);
     }
     return true;
   }
 
-  private _createSubject(subj: any, color: string, icon:string) {
-    this._subjectService.createSubject(this._convertToSubject(subj, color, icon));
+  private _createSubject(subj: any, slug: string, icon:string) {
+    this._subjectService.createSubject(this._convertToSubject(subj, slug, icon));
   }
 
-  private _convertToSubject(encodedSubject: any, color: string, icon: string) : Subject {
+  private _convertToSubject(encodedSubject: any, slug: string, icon: string) : Subject {
     
     return {
       name: encodedSubject.name,
       curriculumId: encodedSubject.subjectId,
-      color: color,
+      slug: slug,
       legacyId: encodedSubject.lId,
       icon: icon,
 
