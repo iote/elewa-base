@@ -1,27 +1,35 @@
-# ElewaFrontend
+# Elewa LMS Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+This project contains the front end of the elewa LMS (http://elewa.co.ke). It is a cutting edge LMS that is adapted and optimised to run on any device. Further documentation about the usage is **under construction**.
 
-## Development server
+## Running the application
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+To start the front end, make sure the backend is running first. Run `ng serve` in your console with `/elewa-frontend` as location (cd). Navigate to `http://localhost:4200/`. The app is built using angular-cli, which means it used WebPack. Webpack makes sure the application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## The Application Structure
+The application is structured in the following way:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### main.ts & index.html
+main.ts is the entry point of the application, kicking off webpack and loading in the starting point of the angular application -> app/app.module
 
-## Build
+index.html is the html frame in which the app resides. Used for adding global styles and fonts, and for setting meta in the header of the Single Page Application.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+### app
+This folder contains the logic to bootstrap the application. App.module is the Root Module of the Angular application.
 
-## Running unit tests
+If new modules are created that are accessible from root (e.g. through routing), they need to be added to app.module.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### assets
+Static assets and application/subject theming.
 
-## Running end-to-end tests
+### base-modules
+Building blocks on which the application is built. Also contains layers of indirection for external libraries used in the system.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+### modules
+Modules contain the actual logic of the application. They contain the logic and flow that the user will interact with. All front-end application logic is contained in one of these modules.
 
-## Further help
+### providers
+Services * (e.g. logger, backend service broker, ...)* that are used application wide. They are singletons defined as providers into the root module, and injected into the components that require them.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### routes
+Definition of the routes and flow of the application

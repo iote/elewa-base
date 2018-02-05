@@ -1,18 +1,16 @@
 import { NgModule } from '@angular/core';
 
-import { ElewaCoreModule } from '../elewa-core/elewa-core.module';
-import { AppHomeComponent } from './components/app-home/app-home.component';
+import { CoreModule } from '../../base-modules/core.module';
+import { HomeComponent } from './components/home/home.component';
+import { CourseModule } from '../course/course.module';
 
 /**
- * Module that imports all the modules used by all other modules in the elewa system.
- * The module also defines some commonly used UI components
- * 
- * Acting as base import, and layer of indirection.
+ * Home Module. Contains landing components - app load + landing screen after login
  */
 @NgModule({
-  imports:      [ElewaCoreModule],
+  imports:      [CoreModule, CourseModule],
 
-  declarations: [AppHomeComponent],
+  declarations: [HomeComponent],
 
   exports:      [],
 })

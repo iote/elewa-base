@@ -9,13 +9,15 @@ import { SubjectRepository } from './model/repositories/subject.repository';
 import { CurriculumFixture } from './model/fixtures/curriculum.fixture';
 
 import { SubjectResolver } from './graphql/subject.resolver';
+import { CourseResolver } from './graphql/course.resolver';
 
 
 @Module({
   imports: [MongooseModule.forFeature([{ name: 'Subject', schema: SubjectSchema }])],
   components: [SubjectRepository, SubjectService, 
                CurriculumFixture,
-               SubjectResolver
+               
+               SubjectResolver, CourseResolver
   ],
   controllers: [SubjectController],
   exports: [CurriculumFixture]

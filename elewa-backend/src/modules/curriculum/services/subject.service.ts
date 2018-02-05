@@ -26,6 +26,14 @@ export class SubjectService {
     return this._repo.insert(subject);
   }
 
+  async find(query: any): Promise<Subject[]> {
+    return this._repo.find(query);
+  }
+
+  async findSingle(query: any): Promise<Subject> {
+    return this._repo.single(query);
+  }
+
   async findAll(): Promise<Subject[]> {
     return this._repo.findAll();
   }

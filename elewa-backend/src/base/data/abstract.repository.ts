@@ -8,7 +8,17 @@ export abstract class AbstractRepository<T> {
   constructor(private readonly _model: any) {}
 
   async findAll(): Promise<T[]> {
-    return await this._model.find().exec();
+    return this.find({});
+  }
+
+  async single(query: any): Promise<T> {
+    let res = await this.find(query);
+
+    return res.shift();
+  }
+
+  async find(query: any): Promise<T[]> {
+    return await this._model.find(query).exec();
   }
 
   async insert(item: T): Promise<T | false> {

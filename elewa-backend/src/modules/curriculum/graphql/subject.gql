@@ -1,5 +1,6 @@
 type Query {
   subjects: [Subject]
+  subject(id: String!): Subject
 }
 
 type Subject {

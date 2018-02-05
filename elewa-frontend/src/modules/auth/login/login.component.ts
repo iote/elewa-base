@@ -1,7 +1,7 @@
 import { Component, OnInit, Inject } from '@angular/core';
 import { Router } from '@angular/router';
 
-import { Logger } from '../../../kernel/services/logger/logger.service';
+import { Logger } from '../../../providers/logger/logger.service';
 
 @Component({
   selector: "app-login",
