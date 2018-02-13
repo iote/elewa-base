@@ -11,7 +11,7 @@ export class Logger {
 
     // We pass functions, to avoid evaluation of arguments on pass to the logger service.
     //  In production, logger.debug will not execute the method and thus not evaluate the argments.
-    log(msg: () => string) { console.log(msg); }
+    log(msg: () => string) { console.log(msg()); }
 
     debug(msg: () => any) {  }
     warn (msg: () => any)  {  }
