@@ -30,7 +30,8 @@
     "reflect-metadata": "^0.1.10",
     "rxjs": "^5.4.0",
     "typescript": "^2.5.2",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "uuid": "^3.2.1"
   },
   "devDependencies": {
     "@types/mongoose": "^5.0.0",

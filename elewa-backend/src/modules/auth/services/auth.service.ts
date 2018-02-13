@@ -1,17 +1,31 @@
 import * as jwt from 'jsonwebtoken';
 import { Component } from '@nestjs/common'
 
+import { AuthConfig } from '../model/interfaces/auth-config.interface';
 import { AuthConfigService } from './auth-config.service';
-import { AuthConfig } from './data/auth-config';
+import { AuthConfigRepository } from '../model/repositories/auth-config.repository';
 
 
 @Component()
 export class AuthService {
 
   private _authConfig: AuthConfig;
+  private _authConfigRepository : AuthConfigRepository;
 
-  constructor(authConfigService: AuthConfigService) {
-    this._authConfig = authConfigService.getAuthConfig();
+  constructor(private _authConfigService: AuthConfigService) {}
+
+  async initAuthService() {
+    // In consideration. 
+    //  Currently on init -> Problem: Stays cached too long and config might change (but very infrequently)
+    //  
+    //  Strategies to consider:
+    //      - Go fetch this in the database every time.
+    //      - Refresh every night (when bearer token refresh)
+    this._authConfig = await this._authConfigService.getAuthConfig();
+  }
+
+  createBearerToken(arg0: any): any {
+    throw new Error("Method not implemented.");
   }
 
   async createToken() {
