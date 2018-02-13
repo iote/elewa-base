@@ -1,8 +1,10 @@
-import { NgModule } from '@angular/core';
+import { NgModule, ModuleWithProviders } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { MaterialDesignModule } from '../material-design/material-design.module';
 import { NavbarComponent } from './components/navbar/navbar.component';
+import { PageComponent } from './components/page/page.component';
+import { FlexLayoutModule } from '../flex-layout/flex-layout.module';
 
 /**
  * Base reusable dumb front end components and directives. 
@@ -10,10 +12,12 @@ import { NavbarComponent } from './components/navbar/navbar.component';
  * The components and directives in this module are dependent on Angular Material.
  */
 @NgModule({
-  imports:      [CommonModule, MaterialDesignModule],
+  imports:      [CommonModule, MaterialDesignModule, FlexLayoutModule],
 
-  declarations: [NavbarComponent],
+  declarations: [NavbarComponent, PageComponent],
 
-  exports:      [NavbarComponent],
+  exports:      [NavbarComponent, PageComponent],
 })
-export class MaterialBricksModule { }
+export class MaterialBricksModule {
+ 
+}

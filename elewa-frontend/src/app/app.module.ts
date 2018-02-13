@@ -30,8 +30,9 @@ import { DebugLogger } from '../providers/logger/debuglogger.service';
 
 import { GraphqlService } from '../providers/graphql/graphql.service';
 import { GraphqlInitService } from '../providers/graphql/graphql-init.service';
-
+import { ThemingService } from '../providers/theming/theming.service';
 import { TransclusionHelper } from '../providers/transclusion-helper/transclusion-helper.service';
+
 import { HomeModule } from '../modules/home/home.module';
 import { CourseModule } from '../modules/course/course.module';
 
@@ -56,9 +57,10 @@ import { CourseModule } from '../modules/course/course.module';
   providers: [
     // Provide is either a type, a string or an instance of InjectionToken. Best case is to use classes.
     { provide: Logger, useClass: DebugLogger },
-    { provide: GraphqlInitService, useClass: GraphqlInitService },
-    { provide: GraphqlService, useClass: GraphqlService },
     // If provide = useClass -> Just put class here directly
+    GraphqlInitService,
+    GraphqlService,
+    ThemingService,
     TransclusionHelper
   ],
   bootstrap: [AppComponent]

@@ -20,8 +20,8 @@ $elewa-theme: mat-light-theme($elewa-primary,
 
 
 /* Biology Theme */
-$biology-primary: mat-palette($mat-green);
-$biology-accent:  mat-palette($mat-brown, A400, A100, A400);
+$biology-primary: mat-palette($mat-green, 400);
+$biology-accent:  mat-palette($mat-purple, A400, A100, A400);
 $biology-theme: mat-light-theme($biology-primary, 
                                 $biology-accent, 
                                 $elewa-warn);
@@ -34,7 +34,7 @@ $biology-theme: mat-light-theme($biology-primary,
 }
 
 /* Chemistry Theme */
-$chemistry-primary: mat-palette($mat-purple);
+$chemistry-primary: mat-palette($mat-purple, 300);
 $chemistry-accent:  mat-palette($mat-teal, A400, A100, A400);
 $chemistry-theme: mat-light-theme($chemistry-primary, 
                                   $chemistry-accent, 
@@ -46,7 +46,7 @@ $chemistry-theme: mat-light-theme($chemistry-primary,
 }
 
 /* CompSci Theme */
-$compsci-primary: mat-palette($mat-cyan);
+$compsci-primary: mat-palette($mat-cyan, 400);
 $compsci-accent:  mat-palette($mat-lime, A400, A100, A400);
 $compsci-theme:   mat-light-theme($compsci-primary, 
                                   $compsci-accent, 
@@ -58,7 +58,7 @@ $compsci-theme:   mat-light-theme($compsci-primary,
 }
 
 /* Geography Theme */
-$geography-primary: mat-palette($mat-brown);
+$geography-primary: mat-palette($mat-brown, 400);
 $geography-accent:  mat-palette($mat-amber, A400, A100, A400);
 $geography-theme:   mat-light-theme($geography-primary, 
                                     $geography-accent, 
@@ -70,7 +70,7 @@ $geography-theme:   mat-light-theme($geography-primary,
 }                           
 
 /* History Theme */
-$history-primary: mat-palette($mat-red);
+$history-primary: mat-palette($mat-red, A200);
 $history-accent:  mat-palette($mat-light-green, A400, A100, A400);
 $history-theme: mat-light-theme($history-primary, 
                                 $history-accent, 
@@ -82,7 +82,7 @@ $history-theme: mat-light-theme($history-primary,
 }
 
 /* Physics Theme */
-$physics-primary: mat-palette($mat-amber);
+$physics-primary: mat-palette($mat-amber, 400);
 $physics-accent:  mat-palette($mat-grey, A400, A100, A400);
 $physics-theme: mat-light-theme($physics-primary, 
                                 $physics-accent, 
@@ -94,7 +94,7 @@ $physics-theme: mat-light-theme($physics-primary,
 }
 
 /* Mathematics Theme */
-$mathematics-primary: mat-palette($mat-blue);
+$mathematics-primary: mat-palette($mat-blue, 400);
 $mathematics-accent:  mat-palette($mat-teal, A400, A100, A400);
 $mathematics-theme: mat-light-theme($mathematics-primary, 
                                     $mathematics-accent, 

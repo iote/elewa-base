@@ -1,1 +1,10 @@
-<pre>{{subject | async | json }}</pre>
+    <!-- Set theming -->
+<app-page [loading]="loading" [slug]="(subject | async)?.slug">
+  <div *ngIf="subject | async">
+
+    <brick-navbar><button mat-button>View Subjects</button></brick-navbar>
+
+    <pre>{{subject | async | json }}</pre>
+
+  </div>
+</app-page>
