@@ -4,6 +4,8 @@ import { Component } from '@nestjs/common'
 import { AuthConfig } from '../model/interfaces/auth-config.interface';
 import { AuthConfigService } from './auth-config.service';
 import { AuthConfigRepository } from '../model/repositories/auth-config.repository';
+import { Query } from '@nestjs/graphql/decorators/resolvers.decorators';
+import { RefreshToken } from '../model/interfaces/refresh-token.interface';
 
 
 @Component()
@@ -24,9 +26,6 @@ export class AuthService {
     this._authConfig = await this._authConfigService.getAuthConfig();
   }
 
-  createBearerToken(arg0: any): any {
-    throw new Error("Method not implemented.");
-  }
 
   async createToken() {
     const user = { email: 'thisis@example.com' };
