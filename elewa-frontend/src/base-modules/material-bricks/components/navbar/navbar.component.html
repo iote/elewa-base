@@ -1,5 +1,6 @@
 <nav>
-  <mat-toolbar id="nav-toolbar" color="primary">
+  <mat-toolbar id="nav-toolbar" color="primary" class="mat-elevation-z2">
+
     <div id="goback-button"><ng-content select="[back-button]"></ng-content></div>
 
     <div #titleEl id="navbar-title"><ng-content select="[title]"></ng-content></div>
@@ -14,5 +15,6 @@
     
     <!-- Default ng-content -->
     <ng-content></ng-content>
+
   </mat-toolbar>
 </nav>

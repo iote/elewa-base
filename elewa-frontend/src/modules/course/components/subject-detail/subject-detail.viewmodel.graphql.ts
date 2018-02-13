@@ -10,6 +10,7 @@ export const subjectDetailVM = gql`
 
       courses {
         className
+        order
       }
     }
   }

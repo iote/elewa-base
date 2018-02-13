@@ -1,18 +1,21 @@
+ <!-- Navbar is defualt one so can be out of page, does not have to wait for anything. -->
 <brick-navbar><button mat-button>View Subjects</button></brick-navbar>
 
-<div fxLayout="row" fxLayoutWrap>
+<app-page [loading]="loading">
+  <div fxLayout="row" fxLayoutWrap>
 
-  <brick-action-tile  fxFlex="100" fxFlex.gt-xs="50" fxFlex.gt-sm="25" 
-                    fxLayoutAlign="space-around center"
+    <brick-action-tile  fxFlex="100" fxFlex.gt-xs="50" fxFlex.gt-sm="25" 
+                      fxLayoutAlign="space-around center"
 
-      *ngFor="let subject of subjects | async" 
-          [label]="subject.name"
+        *ngFor="let subject of subjects | async" 
+            [label]="subject.name"
 
-          [slug]="subject.slug"
-          [icon]="subject.icon"
+            [slug]="subject.slug"
+            [icon]="subject.icon"
 
-          (click)="goToSubject(subject.id)">
+            (click)="goToSubject(subject.id)">
 
-  </brick-action-tile>
+    </brick-action-tile>
 
-</div>
+  </div>
+</app-page>

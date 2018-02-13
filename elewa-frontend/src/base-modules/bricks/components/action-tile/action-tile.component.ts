@@ -22,6 +22,8 @@ export class ActionTileComponent implements OnInit {
 
   @Output() click = new EventEmitter();
 
+  private _showHoverClass = false;
+
   ngOnInit() {
     
   }
@@ -37,7 +39,13 @@ export class ActionTileComponent implements OnInit {
     if(this.slug != null) {
        classes += ' ' + this.slug + '-background';
     }
+                                     // No hover elevation    Hover elevation
+    classes += !this._showHoverClass ?  ' mat-elevation-z2' : ' mat-elevation-z10';
     
     return classes;
+  }
+
+  toggleHoverStyle($event) {
+    this._showHoverClass = $event.type === 'mouseover';
   }
 }

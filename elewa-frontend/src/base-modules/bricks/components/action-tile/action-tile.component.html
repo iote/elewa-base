@@ -1,6 +1,8 @@
 <div (click)="doAction()" 
      [ngClass]="getClasses()"
-     class="action-tile mat-elevation-z2"
+     class="action-tile"
+     
+     (mouseover)="toggleHoverStyle($event)" (mouseout)="toggleHoverStyle($event)"
      >
     
     <div class="icon-holder">

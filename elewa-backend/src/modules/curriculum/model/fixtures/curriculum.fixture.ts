@@ -57,7 +57,7 @@ export class CurriculumFixture {
   private _convertToCourse(encodedClass: any): Course {
     return {
       name: encodedClass.name,
-      order: 1,
+      order: encodedClass.order,
       
       legacyId: encodedClass.lId,
 

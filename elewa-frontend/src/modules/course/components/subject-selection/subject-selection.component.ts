@@ -21,11 +21,14 @@ export class SubjectSelectionComponent implements OnInit {
   
   /** ViewModel. Defined in imported graph */
   subjects: Observable<any>; 
+  loading = true;
 
   ngOnInit () {
       this._logger.log(() => 'Subject Selection component initialised. Loading all subjects.');
       this.subjects = this._graphqlService.doQuery({ query: subjectSelectionViewModel })
                                           .map(data => data.subjects);
+      
+      this.subjects.subscribe(_ => this.loading = false);
   }
 
   goToSubject(subjId) {

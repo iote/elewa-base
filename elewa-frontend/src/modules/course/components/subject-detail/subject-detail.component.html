@@ -4,7 +4,22 @@
 
     <brick-navbar><button mat-button>View Subjects</button></brick-navbar>
 
-    <pre>{{subject | async | json }}</pre>
+    <div fxLayout="row" fxLayoutWrap *ngIf="subject | async; let subject">
+
+        <brick-action-tile  fxFlex="100" fxFlex.gt-xs="50" fxFlex.gt-sm="25" 
+                          fxLayoutAlign="space-around center"
+    
+            *ngFor="let course of subject.courses" 
+                [label]="course.className"
+    
+                [slug]="subject.slug"
+                [text]="course.order"
+    
+                (click)="goToCourse(course.id)">
+    
+        </brick-action-tile>
+    
+      </div>
 
   </div>
 </app-page>

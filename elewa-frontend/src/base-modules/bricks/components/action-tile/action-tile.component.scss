@@ -3,6 +3,9 @@
     height: 200px;
     margin: 24px;
 }
+    .action-tile:hover {
+        cursor: pointer;
+    }
 .action-block.short {
     height: 150px;
 }
