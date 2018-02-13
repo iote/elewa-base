@@ -5,5 +5,7 @@
   </div>
 </div>
 <div id="app-page" *ngIf="! loading">
-  <ng-content></ng-content>
+  <app-frame [theme]="theme">
+    <ng-content></ng-content>
+  </app-frame>
 </div>

@@ -12,9 +12,7 @@ const DEFAULT_THEME = 'default-theme';
 @Injectable()
 export class ThemingService 
 {
-  private _topContainerClassList: DOMTokenList; 
-  /** Needs to be set in application root! - src: https://stackoverflow.com/questions/43070308/using-renderer-in-angular-4 */
-  private _renderer: Renderer2;
+  private _topContainerClassList: DOMTokenList;
   
   private _theme = DEFAULT_THEME;
 
@@ -22,11 +20,12 @@ export class ThemingService
     this._topContainerClassList = overlayContainer
                                     .getContainerElement()
                                     .classList;
+
+    this.setDefault();
   }
 
-  public initThemingService(renderer: Renderer2) {
-    this._renderer = renderer;
-    this.setDefault();
+  public initThemingService() {
+    
   }
 
   public setTheme(themeName: string) 
@@ -44,11 +43,9 @@ export class ThemingService
 
   private _setTheme(newTheme: string) {
     this._topContainerClassList.remove(this._theme);
-    this._renderer.removeClass(document.body, this._theme);
 
     this._theme = newTheme;
 
     this._topContainerClassList.add(this._theme);
-    this._renderer.addClass(document.body, this._theme);
   }
 }

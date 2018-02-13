@@ -14,11 +14,8 @@ export class AppComponent implements OnInit {
   title = 'app';
 
   public constructor(private _logger: Logger, 
-                     private _themer: ThemingService, 
-                     renderer: Renderer2) { 
-    // Initialise theming engine.
-    this._themer.initThemingService(renderer);
-  }
+                     private _themer: ThemingService) 
+  { }
 
   public ngOnInit(): void {
     this._themer.setDefault();

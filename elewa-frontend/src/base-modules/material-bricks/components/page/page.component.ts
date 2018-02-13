@@ -23,6 +23,8 @@ export class PageComponent implements OnInit, OnDestroy {
   @Input()  set slug(value) { this._slug.next(value); }
             get slug()      {  return this._slug.getValue(); }
 
+  theme: string;
+
   constructor(private _logger: Logger, 
               private _themingService: ThemingService)
   {} 
@@ -30,8 +32,10 @@ export class PageComponent implements OnInit, OnDestroy {
   ngOnInit() {
     this._logger.debug(() => "Page initialised. Loading components.");  
 
-    this._slug.subscribe(s => 
-                          this._themingService.setSubjectTheme(s));
+    this._slug.subscribe(s => { 
+                          this._themingService.setSubjectTheme(s);
+                          this.theme = s + '-theme'; // slug + theme should be encapsulated in service. Too much work for limited use cases.
+    });
   }
 
   ngOnDestroy() {

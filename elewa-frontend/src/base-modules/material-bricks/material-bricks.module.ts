@@ -5,6 +5,7 @@ import { MaterialDesignModule } from '../material-design/material-design.module'
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { PageComponent } from './components/page/page.component';
 import { FlexLayoutModule } from '../flex-layout/flex-layout.module';
+import { FrameComponent } from './components/frame/frame.component';
 
 /**
  * Base reusable dumb front end components and directives. 
@@ -14,9 +15,9 @@ import { FlexLayoutModule } from '../flex-layout/flex-layout.module';
 @NgModule({
   imports:      [CommonModule, MaterialDesignModule, FlexLayoutModule],
 
-  declarations: [NavbarComponent, PageComponent],
+  declarations: [NavbarComponent, PageComponent, FrameComponent],
 
-  exports:      [NavbarComponent, PageComponent],
+  exports:      [NavbarComponent, PageComponent, FrameComponent],
 })
 export class MaterialBricksModule {
  
