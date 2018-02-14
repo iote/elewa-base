@@ -1,14 +1,14 @@
 import { Component, Inject } from '@nestjs/common';
 import * as _ from 'underscore';
 
-//
-// Important: Create this file /data/auth-config.data.ts. 
-//                Export const authConfig : AuthConfig = { an implementation of AuthConfig } 
-// Invent the required secrets to ensure app is secure.
-// auth-config.data File is gitignored for security purposes.
 import { authConfig } from './data/auth-config.data';
 import { AuthConfigRepository } from '../repositories/auth-config.repository';
 
+/**
+ * Creates the necessary configuration to make authentication work.
+ * 
+ * This process is secury, using uuid.v4() to generate random symmetric keys.
+ */
 @Component()
 export class AuthConfigFixture {
 

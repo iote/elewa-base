@@ -8,6 +8,6 @@
  * 
  * If the refresh token is valid and not yet expired, the server will issue a new bearer token also containing the user claims.
  */
-export interface BearerRequest {
+export interface BearerRequestDto {
   readonly refreshToken: String;
 }

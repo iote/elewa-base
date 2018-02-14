@@ -3,18 +3,25 @@ import { Component } from '@nestjs/common'
 
 import { AuthConfig } from '../model/interfaces/auth-config.interface';
 import { AuthConfigService } from './auth-config.service';
-import { AuthConfigRepository } from '../model/repositories/auth-config.repository';
-import { Query } from '@nestjs/graphql/decorators/resolvers.decorators';
+
+import * as bcrypt from 'bcrypt';
+
 import { RefreshToken } from '../model/interfaces/refresh-token.interface';
+import { AuthRequestDto } from '../model/interfaces/auth-request.interface';
+import { UserService } from '../../user/model/services/user.service';
+import { AuthResponseDto } from '../model/interfaces/auth-response.interface.dto';
+import { User } from '../../user/model/interfaces/user.interface';
+import { RolesService } from './roles.service';
 
 
 @Component()
 export class AuthService {
 
   private _authConfig: AuthConfig;
-  private _authConfigRepository : AuthConfigRepository;
 
-  constructor(private _authConfigService: AuthConfigService) {}
+  constructor(private _authConfigService: AuthConfigService, 
+              private _userService: UserService,
+              private _rolesService: RolesService) {}
 
   async initAuthService() {
     // In consideration. 
@@ -26,6 +33,28 @@ export class AuthService {
     this._authConfig = await this._authConfigService.getAuthConfig();
   }
 
+  async authenticate(req: AuthRequestDto): Promise<AuthResponseDto | false> {
+    const user = await this._userService.findUserByLogin(req.login);
+    if(!user) 
+      return false;
+
+    // Compare password used at login or 
+                // passwords are stored hashed - https://github.com/kelektiv/node.bcrypt.js
+    let match = bcrypt.compare(req.login, user.password);
+    if(! match) 
+      return false;
+
+    return this._createAuthResponse(user);
+  }
+
+  private async _createAuthResponse(user: User): Promise<AuthResponseDto> {
+    return {
+      user: user.profile,
+      userId: user._id,
+
+      claims: this._rolesService.getClaims(user.role)
+    }
+  }
 
   async createToken() {
     const user = { email: 'thisis@example.com' };

@@ -4,16 +4,16 @@ import { Component, Inject } from '@nestjs/common';
 
 import { AuthService } from './auth.service';
 import { AuthConfigService } from './auth-config.service';
+import { AuthConfig } from '../model/interfaces/auth-config.interface';
 
-@Component()
 export class JwtStrategy extends Strategy
 {
-  constructor(private readonly authService: AuthService, private readonly authConfigService: AuthConfigService) {
+  constructor(private readonly authConfig: AuthConfig) {
     
     super({
         jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
         passReqToCallback: true,
-        secretOrKey: authConfigService.getAuthConfig().,
+        secretOrKey: authConfigService.getAuthConfig(),
       },
         // Make sure requests are verified.
       async (req, payload, next) => await this.verify(req, payload, next)

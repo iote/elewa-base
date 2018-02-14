@@ -8,7 +8,10 @@ import { RefreshToken } from '../model/interfaces/refresh-token.interface';
 import { RefreshTokenRepository } from '../model/repositories/refresh-token.repository';
 import { ObjectId } from 'bson';
 
-
+/**
+ * The IssueBearerService is responsible for issueing bearer tokens. A refresh token is needed
+ *  to authorise the refresh.
+ */
 @Component()
 export class IssueBearerService {
 
@@ -20,7 +23,7 @@ export class IssueBearerService {
 
   async initAuthService() {
     // In consideration. 
-    //  Currently on init -> Problem: Stays cached too long and config might change (but very infrequently)
+    //  Currently object gets fetched once on init -> Problem: Stays cached too long and config might change (but very infrequently)
     //  
     //  Strategies to consider:
     //      - Go fetch this in the database every time.
@@ -41,9 +44,10 @@ export class IssueBearerService {
     }
     catch(err) {
       console.log(err);
-      // Verification or issueing failed.
-      return false;
     }
+
+    // Error or Verification or issueing failed.
+    return false;
   }
 
   /**
@@ -68,7 +72,7 @@ export class IssueBearerService {
    *  It is used for stateless authentication and access to user info without constant roundtrip to the database on the server.
    */
   private async _issueBearer(userId: ObjectId): Promise<string> {
-    return null; 
+    
   }
 
 }

@@ -6,6 +6,9 @@ A refresh token strategy is followed for long term login.
 Web Token validity is 10 minutes *= Time it takes before user browser asks for a new bearer token.*
 Refresh Token Validity is 1 month *= Time it takes before the user needs to login again.*
 
+More info about claims based authentication and also the difference with roles based: https://stackoverflow.com/questions/22814023/role-based-access-control-rbac-vs-claims-based-access-control-cbac-in-asp-n
+
+More info about Refresh Tokens: https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
 
 ## Getting started
 
