@@ -1,16 +1,23 @@
-import { Controller, Post, HttpStatus, HttpCode, Get, Body } from '@nestjs/common';
+import { Controller, Post, HttpStatus, HttpCode, Get, Body, HttpException } from '@nestjs/common';
 
 import { AuthService } from '../services/auth.service';
-import { BearerRequest } from '../model/interfaces/bearer-request.interface';
+
+import { AuthRequestDto } from '../model/interfaces/dto/auth-request.dto.interface';
+import { AuthResponseDto } from '../model/interfaces/dto/auth-response.dto.interface';
 
 @Controller('auth')
 export class AuthController
 {
   constructor(private readonly authService: AuthService) {}
 
-  @Post('token')
-  public async getToken(@Body() bearerReq: BearerRequest) {
-    return await this.authService.createBearerToken(bearerReq.refreshToken);
+  @Post('authenticate')
+  public async authenticate(@Body() req: AuthRequestDto) {
+    let auth = this.authService.authenticate(req);
+
+    if(! auth) 
+      throw new HttpException('Combination of username and password incorrect.', HttpStatus.BAD_REQUEST);
+    
+    return auth;
   }
 /*
   @Get('authorized')

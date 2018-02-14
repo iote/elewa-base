@@ -4,7 +4,7 @@ import { RoleRepository } from '../repositories/role.repository';
 import { roles } from './data/roles.data';
 
 @Component()
-export class AuthConfigFixture {
+export class RoleFixture {
 
   constructor(@Inject(RoleRepository) private _roleRepo: RoleRepository) {}
 
