@@ -7,7 +7,7 @@ import { AuthConfigService } from './auth-config.service';
 
 import { RefreshToken } from '../model/interfaces/refresh-token.interface';
 import { RefreshTokenRepository } from '../model/repositories/refresh-token.repository';
-import { uuid } from 'uuid/v4';
+import * as uuid from 'uuid/v4';
 import { authConfig } from '../model/fixtures/data/auth-config.data';
 
 /**

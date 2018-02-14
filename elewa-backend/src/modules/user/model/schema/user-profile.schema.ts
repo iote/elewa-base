@@ -1,5 +1,5 @@
 import { Schema } from 'mongoose';
-import { ObjectId } from 'bson';
+import { ObjectID } from 'bson';
 
 /**
  * Explanation @see user.interface
@@ -13,7 +13,5 @@ export const UserprofileSchema = new Schema({
   telephone: String,
 
   studentNo: String,
-
-  schoolId: ObjectId
 
 });

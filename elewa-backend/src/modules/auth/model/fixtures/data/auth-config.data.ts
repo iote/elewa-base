@@ -1,5 +1,5 @@
 import { AuthConfig } from "../../interfaces/auth-config.interface";
-import { uuid } from 'uuid/v4';
+import * as uuid from 'uuid/v4';
 
 /**
  * Secure configuration of authentication.

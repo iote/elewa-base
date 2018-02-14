@@ -15,12 +15,14 @@ import { RolesService } from './services/roles.service';
 import { AuthConfigService } from './services/auth-config.service';
 import { BearerTokenService } from './services/bearer-token.service';
 import { RefreshTokenService } from './services/refresh-token.service';
+import { AuthService } from './services/auth.service';
 
 import { AuthConfigRepository } from './model/repositories/auth-config.repository';
 import { RefreshTokenRepository } from './model/repositories/refresh-token.repository';
 import { RoleRepository } from './model/repositories/role.repository';
 
 import { AuthController } from './controllers/auth.controller';
+
 
 @Module({
   imports: [
@@ -34,7 +36,8 @@ import { AuthController } from './controllers/auth.controller';
                
                AuthConfigFixture, RoleFixture,
                
-               AuthConfigService, 
+               AuthConfigService, AuthService,
+
                BearerTokenService, RefreshTokenService,
                RolesService],
 
