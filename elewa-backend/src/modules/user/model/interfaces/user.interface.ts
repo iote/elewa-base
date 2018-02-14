@@ -12,5 +12,5 @@ export interface User {
   profile: UserProfile,
 
   /** User role. Roles have different claims, claims give access to backend module. */
-  role: String;
+  role: string;
 }

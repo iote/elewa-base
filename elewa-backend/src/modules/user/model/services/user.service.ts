@@ -16,6 +16,10 @@ export class UserService {
     return this._userRepo.trySingle({ login: username });  
   }
 
+  async findById(id) : Promise<User | false> {
+    return this._userRepo.findById(id);  
+  }
+
   async getProfile(_id: ObjectId) : Promise<UserProfile> {
     const user :User = await this._userRepo.single({ _id });
     return user.profile;

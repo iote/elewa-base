@@ -1,4 +1,5 @@
 import { Model } from 'mongoose';
+import { ObjectId } from 'bson';
 
 /**
  * Abstract repository that shares common repository functionalities.
@@ -18,6 +19,12 @@ export abstract class AbstractRepository<T> {
       return res.shift();
     else
       return false;
+  }
+
+  async findById(id: ObjectId): Promise<T> {
+    let res = await this.find({ _id: id });
+
+    return res.shift();
   }
 
   async single(query: any): Promise<T> {

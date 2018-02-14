@@ -1,5 +1,5 @@
 import { Schema } from 'mongoose';
-import { ObjectId, Timestamp } from 'bson';
+import { ObjectId } from 'bson';
 
 
 /**
@@ -13,10 +13,11 @@ export const RefreshTokenSchema = new Schema({
   refreshConfigId: ObjectId!,
   userId: ObjectId!,
 
-  secret: String!, // uuid.v4 generated secret
+  /** Agreed upon secret between token and backend database. Used to verify validity of token. */
+  handshake: String!, // uuid.v4 generated secret
 
   machineName: String,
 
-  creationDate: Timestamp!
+  issueDate: Date!
 
 });

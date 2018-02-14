@@ -1,3 +1,4 @@
+import { ObjectId } from 'bson';
 /**
  * The AuthConfig contains the configuration of the 
  *    Passport.js JWT Bearer Token Strategy.
@@ -15,6 +16,8 @@
  */
 export interface AuthConfig {
 
+  _id? : ObjectId;
+
   /*  Number of minutes in which the Bearer Token expires.
    *    After this amount of time, the user wil have to log in again. 
    *  
@@ -22,15 +25,15 @@ export interface AuthConfig {
    *  
    *  Expressed in seconds or a string describing a time span. Eg: 60, "2 days", "10h", "7d"
    *    Uses zeit/ms - Full reference of options https://github.com/zeit/ms */
-  refreshTokenSecret: String;
+  refreshTokenSecret: string;
   
-  refreshTokenExpiry: Number;
+  refreshTokenExpiry: number;
 
   /** Secret Key used for encryption of JSON Web Tokens. At least 25 characters long! */
-  bearerTokenSecret: String;
+  bearerTokenSecret: string;
   /** Number of minutes in which the Bearer Token expires. 
    *    After this amount of time, the user wil have to log in again. 
    *  
    *  The default we use is 10 minutes. */
-  bearerTokenExpiry: Number;
+  bearerTokenExpiry: number;
 }

@@ -53,6 +53,13 @@
     iterare "0.0.8"
     socket.io "^2.0.3"
 
+"@types/body-parser@*":
+  version "1.16.8"
+  resolved "https://registry.yarnpkg.com/@types/body-parser/-/body-parser-1.16.8.tgz#687ec34140624a3bec2b1a8ea9268478ae8f3be3"
+  dependencies:
+    "@types/express" "*"
+    "@types/node" "*"
+
 "@types/bson@*":
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/@types/bson/-/bson-1.0.6.tgz#8691f042d99dd163a5eb4dd6dde587d3449f7cda"
@@ -62,6 +69,31 @@
 "@types/events@*":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@types/events/-/events-1.1.0.tgz#93b1be91f63c184450385272c47b6496fd028e02"
+
+"@types/express-serve-static-core@*":
+  version "4.11.1"
+  resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.11.1.tgz#f6f7212382d59b19d696677bcaa48a37280f5d45"
+  dependencies:
+    "@types/events" "*"
+    "@types/node" "*"
+
+"@types/express@*":
+  version "4.11.1"
+  resolved "https://registry.yarnpkg.com/@types/express/-/express-4.11.1.tgz#f99663b3ab32d04cb11db612ef5dd7933f75465b"
+  dependencies:
+    "@types/body-parser" "*"
+    "@types/express-serve-static-core" "*"
+    "@types/serve-static" "*"
+
+"@types/jsonwebtoken@*":
+  version "7.2.5"
+  resolved "https://registry.yarnpkg.com/@types/jsonwebtoken/-/jsonwebtoken-7.2.5.tgz#413159d570ec45fc3e7da7ea3f7bca6fb9300e72"
+  dependencies:
+    "@types/node" "*"
+
+"@types/mime@*":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@types/mime/-/mime-2.0.0.tgz#5a7306e367c539b9f6543499de8dd519fac37a8b"
 
 "@types/mongodb@*":
   version "3.0.5"
@@ -86,6 +118,34 @@
 "@types/node@^8.0.28":
   version "8.5.8"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.5.8.tgz#92509422653f10e9c0ac18d87e0610b39f9821c7"
+
+"@types/passport-jwt@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@types/passport-jwt/-/passport-jwt-3.0.1.tgz#bc4c2610815565de977ea1a580c047d71c646084"
+  dependencies:
+    "@types/express" "*"
+    "@types/jsonwebtoken" "*"
+    "@types/passport-strategy" "*"
+
+"@types/passport-strategy@*":
+  version "0.2.32"
+  resolved "https://registry.yarnpkg.com/@types/passport-strategy/-/passport-strategy-0.2.32.tgz#0c1fb2e3b83621c8faf68c92f37898453ef60f71"
+  dependencies:
+    "@types/express" "*"
+    "@types/passport" "*"
+
+"@types/passport@*":
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/@types/passport/-/passport-0.4.2.tgz#0374b3fb69834437ad5657442e5d9be16d9a8e82"
+  dependencies:
+    "@types/express" "*"
+
+"@types/serve-static@*":
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/@types/serve-static/-/serve-static-1.13.1.tgz#1d2801fa635d274cd97d4ec07e26b21b44127492"
+  dependencies:
+    "@types/express-serve-static-core" "*"
+    "@types/mime" "*"
 
 "@types/underscore@^1.8.7":
   version "1.8.7"

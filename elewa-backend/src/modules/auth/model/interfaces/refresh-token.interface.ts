@@ -12,15 +12,18 @@ import { ObjectId, Timestamp } from "bson";
  *  We also verify the validity by comparing time created with time valid. 
  */
 export interface RefreshToken {
+  
   _id?: String;
 
   // In a later strategy, we can create different refresh tokens for different origins. We therefore keep a foreign key to config since their could be multiple configs soon.
   refreshConfigId: ObjectId;
   userId: ObjectId;
 
-  secret: String; // uuid.v4 generated secret
+  /** Agreed upon secret between token and backend database. Used to verify validity of token. */
+  handshake: String; // uuid.v4 generated secret
 
   machineName?: String;
 
-  creationDate: Timestamp;
+  issueDate: Date;
+
 }
