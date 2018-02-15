@@ -12,6 +12,7 @@ export const UserSchema = new Schema({
   profile: UserprofileSchema!,
 
   /** List of user roles. Roles have different claims, claims give access to backend module. */
-  role: String!
+  role: String!,
 
+  createdOn: Date!
 });

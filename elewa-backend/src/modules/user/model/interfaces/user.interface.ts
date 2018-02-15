@@ -13,4 +13,8 @@ export interface User {
 
   /** User role. Roles have different claims, claims give access to backend module. */
   role: string;
+
+  createdOn: Date;
+
+  active: boolean;
 }

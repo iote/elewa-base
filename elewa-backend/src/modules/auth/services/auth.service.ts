@@ -11,6 +11,8 @@ import { AuthRequestDto } from '../model/interfaces/dto/auth-request.dto.interfa
 import { AuthResponseDto } from '../model/interfaces/dto/auth-response.dto.interface';
 import { RefreshTokenService } from './refresh-token.service';
 import { BearerTokenService } from './bearer-token.service';
+import { RegisterRequestDto } from '../model/interfaces/dto/register-request.dto.interface';
+import { User } from '../../user/model/interfaces/user.interface';
 
 
 @Component()
@@ -45,9 +47,13 @@ export class AuthService {
     }
   }
 
-  async validateUser(signedUser): Promise<boolean> {
-    // put some validation logic here
-    // for example query user by id / email / username
-    return true;
+  async register(regReq: RegisterRequestDto): Promise<User> {
+
+    if(await this._userService.userExists(regReq.login))
+      throw new Error("Duplicate user. A user with that login already exists!");
+
+    return this._userService
+                  .createFromRegistration(regReq);
   }
+
 }
