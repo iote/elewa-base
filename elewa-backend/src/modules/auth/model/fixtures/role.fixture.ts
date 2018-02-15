@@ -9,7 +9,6 @@ export class RoleFixture {
   constructor(@Inject(RoleRepository) private _roleRepo: RoleRepository) {}
 
   async load(production: boolean): Promise<boolean> {
-    console.log("Removing all roles to refresh claims during development.");
 
     if(!production) {
       /** Roles are constants that change frequently. Always remove all and add them again during development */
@@ -17,7 +16,7 @@ export class RoleFixture {
       this._roleRepo.truncate();
     }
     
-    if((await this._roleRepo.findAll()).length > 0) 
+    if((await this._roleRepo.findAll()).length === 0) 
     {
       console.log("Roles have not yet been configured. Creating Role Config from data fixture.");
       await this._roleRepo.insertMany(roles);

@@ -5,9 +5,6 @@ import { Schema } from 'mongoose';
  */
 export const RoleSchema = new Schema({
   
-  /** Fixed Id since configured in fixture. */
-  _id: String!, 
-
   /** Foreign key to role. Must never change after insert. */
   slug: String!,
 

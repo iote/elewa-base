@@ -17,7 +17,7 @@ export class AuthConfigFixture {
   async load(): Promise<boolean> {
     console.log("Loading Auth Config fixture");
 
-    if((await this._authconfigRepo.findAll()).length > 0) 
+    if((await this._authconfigRepo.findAll()).length === 0) 
     {
       console.log("Authentication has not yet been configured. Creating Authentication Config from data fixture");
       // To avoid misuse of the Auth Config Service, we only allow inserting into the db on first app launch
