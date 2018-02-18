@@ -22,11 +22,14 @@ import { RefreshTokenRepository } from './model/repositories/refresh-token.repos
 import { RoleRepository } from './model/repositories/role.repository';
 
 import { AuthController } from './controllers/auth.controller';
+import { CoreModule } from '../_core-module/core.module';
 
 
 @Module({
   imports: [
+    CoreModule,
     UserModule,
+    
     MongooseModule.forFeature(
       [{ name: 'AuthConfig',    schema: AuthConfigSchema },
        { name: 'RefreshToken',  schema: RefreshTokenSchema },

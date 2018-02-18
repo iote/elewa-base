@@ -1,8 +1,10 @@
-import { Controller, Get, Post, Body, Param } from '@nestjs/common';
+import { Controller, Get, Post, Body, Param, ReflectMetadata } from '@nestjs/common';
 import { SubjectService } from '../services/subject.service';
 import { Subject } from '../model/interfaces/subject.interface';
+import { RequireClaim } from '../../auth/gaurds/claims.decorator';
 
 @Controller('subject')
+@RequireClaim('curriculum')
 export class SubjectController {
   constructor(private readonly catsService: SubjectService) {}
 
