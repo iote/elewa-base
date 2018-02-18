@@ -13,8 +13,6 @@ import * as _ from 'underscore';
  * 
  * Only users with the claims (signed so verified) that give them access,
  *  can access guarded places of the application.
- * 
- * https://docs.nestjs.com/guards
  */
 export abstract class ClaimsGuard implements CanActivate
 {
