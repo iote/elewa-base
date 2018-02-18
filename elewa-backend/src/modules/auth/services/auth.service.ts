@@ -13,6 +13,9 @@ import { RefreshTokenService } from './refresh-token.service';
 import { BearerTokenService } from './bearer-token.service';
 import { RegisterRequestDto } from '../model/interfaces/dto/register-request.dto.interface';
 import { User } from '../../user/model/interfaces/user.interface';
+import { RefreshToken } from '../model/interfaces/refresh-token.interface';
+import { BearerToken } from '../model/interfaces/bearer-token.interface';
+import { BearerRequestDto } from '../model/interfaces/dto/bearer-request.dto.interface';
 
 
 @Component()
@@ -56,4 +59,9 @@ export class AuthService {
                   .createFromRegistration(regReq);
   }
 
+  async issueBearer(reqBearer: BearerRequestDto): Promise<string | false> 
+  {
+    return this._bearerTokenService
+                    .issue(reqBearer.refreshToken);
+  }
 }

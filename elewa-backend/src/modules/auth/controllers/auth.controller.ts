@@ -5,6 +5,7 @@ import { AuthService } from '../services/auth.service';
 import { AuthRequestDto } from '../model/interfaces/dto/auth-request.dto.interface';
 import { AuthResponseDto } from '../model/interfaces/dto/auth-response.dto.interface';
 import { RegisterRequestDto } from '../model/interfaces/dto/register-request.dto.interface';
+import { BearerRequestDto } from '../model/interfaces/dto/bearer-request.dto.interface';
 
 @Controller('auth')
 export class AuthController
@@ -34,9 +35,14 @@ export class AuthController
     
     return auth;
   }
-/*
-  @Get('authorized')
-  public async authorized() {
-    console.log('Authorized route...');
-  } */
+
+  @Post('token')
+  public async token(@Body() req: BearerRequestDto) {
+    let token = this.authService.issueBearer(req);
+
+    if(! token) 
+      throw new HttpException('Refresh token has expired or has been revoked. Please re-authenticate.', HttpStatus.BAD_REQUEST);
+    
+    return token;
+  }
 }
