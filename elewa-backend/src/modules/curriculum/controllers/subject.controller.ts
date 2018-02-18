@@ -6,7 +6,7 @@ import { RequireClaims } from '../../auth/gaurds/claims.decorator';
 @Controller('subject')
 @RequireClaims('curriculum')
 export class SubjectController {
-  constructor(private readonly catsService: SubjectService) {}
+  constructor(private readonly subjService: SubjectService) {}
 
   /*
   @Post()
@@ -16,6 +16,6 @@ export class SubjectController {
 
   @Get()
   async findAll(): Promise<Subject[]> {
-    return this.catsService.findAll();
+    return this.subjService.findAll();
   }
 }

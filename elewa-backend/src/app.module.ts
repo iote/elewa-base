@@ -9,11 +9,13 @@ import { ServerBootModule } from './modules/_server-boot/server-boot.module';
 import { CurriculumModule } from './modules/curriculum/curriculum.module';
 
 import { AppController } from './app.controller';
+import { AuthModule } from './modules/auth/auth.module';
 
 @Module({
   imports: [ MongooseModule.forRoot(connString),
              GraphQLModule,
              ServerBootModule,
+             AuthModule,
              CurriculumModule ],
   controllers: [ AppController ],
   components: [],

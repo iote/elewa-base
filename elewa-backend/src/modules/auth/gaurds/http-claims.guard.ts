@@ -1,4 +1,4 @@
-import { Guard, CanActivate, ExecutionContext } from '@nestjs/common';
+import { Guard, CanActivate, ExecutionContext, Inject } from '@nestjs/common';
 import { Reflector } from '@nestjs/core';
 
 import * as jwt from 'jsonwebtoken';

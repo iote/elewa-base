@@ -33,6 +33,15 @@ export abstract class ClaimsGuard implements CanActivate
    */
   async canActivate(requestOrData: any, context: ExecutionContext): Promise<boolean>
   {
+    console.log("Guard Activated - Verifying Bearer Token and required claims.");    
+    
+    const requiredClaims = this._getRequiredClaims(context);
+
+    /** No authorisation needed - @see anonymous.decorator */
+    if(_.contains(requiredClaims, 'none'))
+      return true;
+
+    // Check authorisation
     const token = this._extractor(requestOrData); 
     
     if(!token) return false;
@@ -44,11 +53,11 @@ export abstract class ClaimsGuard implements CanActivate
     
     if(!bearer) return false;
 
-    return this._confirmClaim(bearer, context);
+    return this._tokenHasClaims(bearer, requiredClaims);
   }
 
-  private _confirmClaim(token: BearerToken, context: ExecutionContext): boolean 
-  {
+  private _getRequiredClaims(context :ExecutionContext) {
+
     const { parent, handler } = context;
 
     // Get claims on controller / graphql resolver level
@@ -56,9 +65,7 @@ export abstract class ClaimsGuard implements CanActivate
     // Get claims on method / property level
     const methodClaims  = this._reflector.get<string[]>('claims', handler) || [];
 
-    const claims = classClaims.concat(methodClaims);
-
-    return this._tokenHasClaims(token, claims);
+    return classClaims.concat(methodClaims);
   }
 
   /**

@@ -4,6 +4,7 @@ import { INestApplication } from '@nestjs/common/interfaces';
 
 import { AuthModule } from '../../auth/auth.module';
 import { HttpClaimsGuard } from '../../auth/gaurds/http-claims.guard';
+import { AuthConfigService } from '../../auth/services/auth-config.service';
 
 @Component()
 export class ConfigureAuthService implements IBootService {
@@ -11,13 +12,13 @@ export class ConfigureAuthService implements IBootService {
   
   async boot(app: INestApplication, production: boolean): Promise<boolean> {
     
-    console.log("Booting Server - Configuring Authorisation - Claims Guard");
+    console.log("Configuring Authorisation - Claims Guard");
 
     const authGuard = app.select(AuthModule)
                          .get(HttpClaimsGuard);
 
     app.useGlobalGuards(authGuard);
-
+    
     return true;
   }
 

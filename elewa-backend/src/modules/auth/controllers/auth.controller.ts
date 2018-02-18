@@ -6,8 +6,10 @@ import { AuthRequestDto } from '../model/interfaces/dto/auth-request.dto.interfa
 import { AuthResponseDto } from '../model/interfaces/dto/auth-response.dto.interface';
 import { RegisterRequestDto } from '../model/interfaces/dto/register-request.dto.interface';
 import { BearerRequestDto } from '../model/interfaces/dto/bearer-request.dto.interface';
+import { Anonymous } from '../gaurds/anonymous.decorator';
 
 @Controller('auth')
+@Anonymous() // Everyone can access this controller.
 export class AuthController
 {
   constructor(private readonly authService: AuthService) {}

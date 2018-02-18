@@ -1,4 +1,4 @@
-import { Module, MiddlewaresConsumer, NestModule, RequestMethod,} from '@nestjs/common';
+import { Module } from '@nestjs/common';
 import { CacheService } from './services/cache.service';
 
 @Module({
