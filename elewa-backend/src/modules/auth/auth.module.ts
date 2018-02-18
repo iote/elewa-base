@@ -23,6 +23,7 @@ import { RoleRepository } from './model/repositories/role.repository';
 
 import { AuthController } from './controllers/auth.controller';
 import { CoreModule } from '../_core-module/core.module';
+import { HttpClaimsGuard } from './gaurds/http-claims.guard';
 
 
 @Module({
@@ -42,7 +43,9 @@ import { CoreModule } from '../_core-module/core.module';
                AuthConfigService, AuthService,
 
                BearerTokenService, RefreshTokenService,
-               RolesService],
+               RolesService,
+              
+              HttpClaimsGuard],
 
   controllers: [AuthController],
 
