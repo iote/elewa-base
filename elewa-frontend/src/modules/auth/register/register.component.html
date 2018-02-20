@@ -1,0 +1,73 @@
+<brick-navbar><button mat-button>Register Account</button></brick-navbar>
+
+<form (submit)="register($event)"
+      fxLayout="column"
+      fxLayoutAlign="space-around center">
+
+  <brick-spacer></brick-spacer>
+
+  <mat-card fxLayout="column" id="register-card">
+    <mat-card-title>Registration</mat-card-title>
+    <mat-card-subtitle>Sign up a new ETA or ETF.</mat-card-subtitle>
+
+    <brick-spacer size="20"></brick-spacer>
+
+    <mat-card-subtitle class="card-section-title">Login data</mat-card-subtitle>
+    <mat-card-content>
+      <mat-form-field>
+        <input matInput placeholder="Username" required>
+      </mat-form-field>
+
+      <mat-form-field>
+        <input matInput placeholder="Password" [type]="hide ? 'password' : 'text'" required>
+        <mat-icon matSuffix (click)="hide = !hide">{{hide ? 'visibility' : 'visibility_off'}}</mat-icon>
+        <mat-hint align="end">Min length: 8 characters. Use at least one number and special char.</mat-hint>
+      </mat-form-field>
+    </mat-card-content>
+
+    <brick-spacer size="20"></brick-spacer>
+
+    <mat-card-subtitle class="card-section-title">Personal data</mat-card-subtitle>
+    
+    <mat-card-content>  
+      <div class="one-line">
+        <mat-form-field>
+          <input matInput placeholder="First Name" required>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Last Name" required>
+          </mat-form-field>
+      </div> 
+      <mat-form-field>
+        <input matInput placeholder="Employee Number" required>
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="Company Email" required>
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="Telephone">
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="ID Number">
+      </mat-form-field>
+    </mat-card-content>
+
+    <brick-spacer size="20"></brick-spacer>
+
+    <mat-card-subtitle class="card-section-title">Role</mat-card-subtitle>
+    
+    <mat-card-content>  
+      <mat-radio-group required>
+        <mat-radio-button value="eta">Elewa Teaching Assistent</mat-radio-button>
+        <mat-radio-button value="etf">Elewa Teaching Facilitator</mat-radio-button>
+        <mat-radio-button value="admin">Admin</mat-radio-button>
+      </mat-radio-group>
+    </mat-card-content>
+
+    <brick-spacer></brick-spacer>
+
+    <button mat-raised-button color="primary" type="submit">Register</button>
+  </mat-card>
+
+  <brick-spacer></brick-spacer>
+</form>

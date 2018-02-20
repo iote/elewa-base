@@ -7,6 +7,7 @@ import { FlexLayoutModule } from "@angular/flex-layout";
 
 // Apollo
 import { HttpClientModule } from '@angular/common/http';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ApolloModule, Apollo } from 'apollo-angular';
 import { HttpLinkModule, HttpLink } from 'apollo-angular-link-http';
 import { InMemoryCache } from 'apollo-cache-inmemory';
@@ -32,6 +33,7 @@ import { GraphqlService } from '../providers/graphql/graphql.service';
 import { GraphqlInitService } from '../providers/graphql/graphql-init.service';
 import { ThemingService } from '../providers/theming/theming.service';
 import { TransclusionHelper } from '../providers/transclusion-helper/transclusion-helper.service';
+import { BackendService } from '../providers/backend/backend.service';
 
 import { HomeModule } from '../modules/home/home.module';
 import { CourseModule } from '../modules/course/course.module';
@@ -44,9 +46,9 @@ import { CourseModule } from '../modules/course/course.module';
     AppComponent
   ],
   imports: [
-    CommonModule, BrowserModule,
-    ReactiveFormsModule,
-    HttpClientModule, ApolloModule, HttpLinkModule,
+    CommonModule, BrowserModule, HttpClientModule,
+    ReactiveFormsModule, BrowserAnimationsModule,
+    ApolloModule, HttpLinkModule,
 
     CoreModule,
 
@@ -61,7 +63,8 @@ import { CourseModule } from '../modules/course/course.module';
     GraphqlInitService,
     GraphqlService,
     ThemingService,
-    TransclusionHelper
+    TransclusionHelper,
+    BackendService
   ],
   bootstrap: [AppComponent]
 })

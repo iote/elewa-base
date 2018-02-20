@@ -6,3 +6,15 @@ body {
 .flex-spacer, .fill-remaining {
   flex-grow: 1;
 }
+
+.mat-card-subtitle.card-section-title {
+  font-size: 1.2em;
+  text-decoration: underline;
+  color: black;
+  text-align: center;
+  margin-top: 18px;
+}
+
+mat-radio-button {
+  margin-right: 10px;
+}

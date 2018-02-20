@@ -6,11 +6,16 @@ import { RouterModule, Routes } from '@angular/router';
 import { LoginComponent } from '../modules/auth/login/login.component';
 import { HomeComponent } from '../modules/home/components/home/home.component';
 import { SubjectDetailComponent } from '../modules/course/components/subject-detail/subject-detail.component';
+import { RegisterComponent } from '../modules/auth/register/register.component';
 
 export const appRoutes: Routes = [
   {
     path: 'login',
     component: LoginComponent
+  },
+  {
+    path: 'register',
+    component: RegisterComponent
   },
   {
     path: 'app',

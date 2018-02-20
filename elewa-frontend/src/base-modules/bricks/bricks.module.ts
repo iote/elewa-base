@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { ActionTileComponent } from './components/action-tile/action-tile.component';
+import { SpacerComponent } from './components/spacer/spacer.component';
 
 /**
  * Base reusable dumb front end components and directives. 
@@ -11,8 +12,8 @@ import { ActionTileComponent } from './components/action-tile/action-tile.compon
 @NgModule({
   imports:      [CommonModule],
 
-  declarations: [ActionTileComponent],
+  declarations: [ActionTileComponent, SpacerComponent],
 
-  exports:      [ActionTileComponent],
+  exports:      [ActionTileComponent, SpacerComponent],
 })
 export class BricksModule { }

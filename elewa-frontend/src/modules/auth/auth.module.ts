@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { CoreModule } from '../../base-modules/core.module';
 
 import { LoginComponent } from './login/login.component';
+import { RegisterComponent } from './register/register.component';
 
 /**
  * Module that contains all logic to log in a user, log out and sign up.
@@ -10,7 +11,7 @@ import { LoginComponent } from './login/login.component';
  */
 @NgModule({
   imports: [CoreModule],
-  declarations: [LoginComponent],
-  exports: [LoginComponent],
+  declarations: [LoginComponent, RegisterComponent],
+  exports: [LoginComponent, RegisterComponent],
 })
 export class AuthModule { }

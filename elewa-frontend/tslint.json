@@ -91,7 +91,7 @@
     "directive-selector": [
       true,
       "attribute",
-      "app",
+      ["app", "brick", "ele"],
       "camelCase"
     ],
     "component-selector": [
