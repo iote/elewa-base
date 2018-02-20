@@ -2,7 +2,6 @@
 import { CommonModule } from '@angular/common';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule, Component } from '@angular/core';
-import { ReactiveFormsModule } from '@angular/forms';
 import { FlexLayoutModule } from "@angular/flex-layout";
 
 // Apollo
@@ -47,7 +46,7 @@ import { CourseModule } from '../modules/course/course.module';
   ],
   imports: [
     CommonModule, BrowserModule, HttpClientModule,
-    ReactiveFormsModule, BrowserAnimationsModule,
+    BrowserAnimationsModule,
     ApolloModule, HttpLinkModule,
 
     CoreModule,

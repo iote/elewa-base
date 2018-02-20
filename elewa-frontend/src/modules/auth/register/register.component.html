@@ -1,6 +1,7 @@
 <brick-navbar><button mat-button>Register Account</button></brick-navbar>
 
-<form (submit)="register($event)"
+<form #registerForm="ngForm"
+      (submit)="register($event)"
       fxLayout="column"
       fxLayoutAlign="space-around center">
 
@@ -15,13 +16,24 @@
     <mat-card-subtitle class="card-section-title">Login data</mat-card-subtitle>
     <mat-card-content>
       <mat-form-field>
-        <input matInput placeholder="Username" required>
+        <input [(ngModel)]="model.username" name="username"
+               matInput 
+               placeholder="Username"  required>
       </mat-form-field>
 
       <mat-form-field>
-        <input matInput placeholder="Password" [type]="hide ? 'password' : 'text'" required>
+        <input [(ngModel)]="model.password" name="password"
+               matInput 
+               [type]="hide ? 'password' : 'text'"
+               placeholder="Password" required>
         <mat-icon matSuffix (click)="hide = !hide">{{hide ? 'visibility' : 'visibility_off'}}</mat-icon>
         <mat-hint align="end">Min length: 8 characters. Use at least one number and special char.</mat-hint>
+      </mat-form-field>
+
+      <mat-form-field>
+        <input [(ngModel)]="model.password2" name="password2"
+               matInput placeholder="Retype Password" [type]="hide ? 'password' : 'text'" required>
+        <mat-icon matSuffix (click)="hide = !hide">{{hide ? 'visibility' : 'visibility_off'}}</mat-icon>
       </mat-form-field>
     </mat-card-content>
 
@@ -32,23 +44,34 @@
     <mat-card-content>  
       <div class="one-line">
         <mat-form-field>
-          <input matInput placeholder="First Name" required>
+          <input [(ngModel)]="model.fName" name="fName"
+                 matInput 
+                 placeholder="First Name" required>
         </mat-form-field>
         <mat-form-field>
-            <input matInput placeholder="Last Name" required>
+            <input [(ngModel)]="model.lName" name="lName"
+                   matInput 
+                   placeholder="Last Name" required>
           </mat-form-field>
       </div> 
       <mat-form-field>
-        <input matInput placeholder="Employee Number" required>
+        <input [(ngModel)]="model.empNo" name="empNo"
+               matInput 
+               placeholder="Employee Number" required>
       </mat-form-field>
       <mat-form-field>
-        <input matInput placeholder="Company Email" required>
+        <input [(ngModel)]="model.email" name="email"
+               matInput 
+               placeholder="Company Email" required>
       </mat-form-field>
       <mat-form-field>
-        <input matInput placeholder="Telephone">
+        <input [(ngModel)]="model.telephone" name="telephone"
+               matInput 
+               placeholder="Telephone">
       </mat-form-field>
       <mat-form-field>
-        <input matInput placeholder="ID Number">
+        <input [(ngModel)]="model.idNo" name="idNo"
+               matInput placeholder="ID Number">
       </mat-form-field>
     </mat-card-content>
 

@@ -1,7 +1,10 @@
 import { Component, OnInit, Inject } from '@angular/core';
+
+import { NgForm } from '@angular/forms';
 import { Router } from '@angular/router';
 
 import { Logger } from '../../../providers/logger/logger.service';
+import { RegisterViewModel } from './register.viewmodel';
 
 @Component({
   selector: "app-register",
@@ -10,6 +13,8 @@ import { Logger } from '../../../providers/logger/logger.service';
 })
 export class RegisterComponent implements OnInit 
 {
+  model = new RegisterViewModel();
+  registerForm: NgForm;
   hide = true;
 
   constructor(private _logger: Logger) { }
