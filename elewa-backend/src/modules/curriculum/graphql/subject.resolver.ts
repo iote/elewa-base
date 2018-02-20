@@ -9,12 +9,12 @@ import { HttpClaimsGuard } from '../../auth/gaurds/http-claims.guard';
  * - https://docs.nestjs.com/graphql/resolvers-map
  */
 @Resolver('Query')
+@RequireClaims('curriculum')
 export class SubjectResolver {
   
   constructor(private readonly _subjectService: SubjectService) {}
   
   @Query('subjects')
-  @RequireClaims('curriculum')
   async subjects(obj, args, context, info) {
     return await this._subjectService.findAll();
   }

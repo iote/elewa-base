@@ -10,6 +10,8 @@ import { CurriculumModule } from './modules/curriculum/curriculum.module';
 
 import { AppController } from './app.controller';
 import { AuthModule } from './modules/auth/auth.module';
+import { production } from './base/config/production';
+import * as passport from 'passport';
 
 @Module({
   imports: [ MongooseModule.forRoot(connString),
@@ -28,12 +30,15 @@ export class ApplicationModule implements NestModule {
     const typeDefs = this.graphQLFactory.mergeTypesByPaths('./**/*.gql');
     const schema = this.graphQLFactory.createSchema({ typeDefs });
 
+     // Dev Graphiql endpoint
+     if(!production)
+      consumer
+        .apply(graphiqlExpress({ endpointURL: '/graphql' }))
+        .forRoutes({ path: '/graphiql', method: RequestMethod.GET })
+
     consumer
-      .apply(graphiqlExpress({ endpointURL: '/graphql' }))
-      .forRoutes({ path: '/graphiql', method: RequestMethod.GET })
-      .apply(graphqlExpress(req => ({ schema, rootValue: req })))
-      .forRoutes({ path: '/graphql', method: RequestMethod.ALL });
-  
+      .apply(graphqlExpress(req => ({ schema, rootValue: req, context: req })))
+        .forRoutes({ path: '/graphql', method: RequestMethod.ALL });
   }
 
 }
