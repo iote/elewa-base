@@ -1,6 +1,3 @@
-import { ObjectId } from 'bson';
-
-
 export interface RegisterRequestDto {
 
   /** Login with email, telephone, student No., ... */

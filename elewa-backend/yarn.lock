@@ -512,7 +512,7 @@ braces@^2.3.0:
     split-string "^3.0.2"
     to-regex "^3.0.1"
 
-bson@~1.0.4:
+bson@^1.0.4, bson@~1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/bson/-/bson-1.0.4.tgz#93c10d39eaa5b58415cbc4052f3e53e562b0b72c"
 
@@ -900,6 +900,11 @@ ecdsa-sig-formatter@1.0.9:
 ee-first@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
+
+elewa-lms-shared@../both:
+  version "0.0.1"
+  dependencies:
+    bson "^1.0.4"
 
 encodeurl@~1.0.1:
   version "1.0.2"

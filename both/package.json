@@ -1,0 +1,20 @@
+{
+  "name": "elewa-lms-shared",
+  "version": "0.0.1",
+  "description": "Shared Codebase between Elewa Front end and Backend. E.g. DTO objects and validators",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Shared",
+    "DTO",
+    "Elewa",
+    "LMS"
+  ],
+  "author": "Jente Rosseel",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "bson": "^1.0.4"
+  }
+}

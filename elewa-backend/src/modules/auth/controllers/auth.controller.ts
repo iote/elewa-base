@@ -2,10 +2,10 @@ import { Controller, Post, HttpStatus, HttpCode, Get, Body, HttpException } from
 
 import { AuthService } from '../services/auth.service';
 
-import { AuthRequestDto } from '../model/interfaces/dto/auth-request.dto.interface';
-import { AuthResponseDto } from '../model/interfaces/dto/auth-response.dto.interface';
-import { RegisterRequestDto } from '../model/interfaces/dto/register-request.dto.interface';
-import { BearerRequestDto } from '../model/interfaces/dto/bearer-request.dto.interface';
+import { AuthRequestDto } from 'elewa-lms-shared/dto/auth-request.dto.interface';
+import { AuthResponseDto } from 'elewa-lms-shared/dto/auth-response.dto.interface';
+import { RegisterRequestDto } from 'elewa-lms-shared/dto/register-request.dto.interface';
+import { BearerRequestDto } from 'elewa-lms-shared/dto/bearer-request.dto.interface';
 import { Anonymous } from '../gaurds/anonymous.decorator';
 
 @Controller('auth')

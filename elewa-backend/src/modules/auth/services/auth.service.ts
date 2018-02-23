@@ -1,21 +1,22 @@
 import * as jwt from 'jsonwebtoken';
 import { Component } from '@nestjs/common'
 
+import { AuthRequestDto } from 'elewa-lms-shared/dto/auth-request.dto.interface';
+import { AuthResponseDto } from 'elewa-lms-shared/dto/auth-response.dto.interface';
+import { RegisterRequestDto } from 'elewa-lms-shared/dto/register-request.dto.interface';
+import { BearerRequestDto } from 'elewa-lms-shared/dto/bearer-request.dto.interface';
+
 import { AuthConfig } from '../model/interfaces/auth-config.interface';
 import { AuthConfigService } from './auth-config.service';
 
 import * as bcrypt from 'bcrypt';
 import { UserService } from '../../user/model/services/user.service';
 import { RolesService } from './roles.service';
-import { AuthRequestDto } from '../model/interfaces/dto/auth-request.dto.interface';
-import { AuthResponseDto } from '../model/interfaces/dto/auth-response.dto.interface';
 import { RefreshTokenService } from './refresh-token.service';
 import { BearerTokenService } from './bearer-token.service';
-import { RegisterRequestDto } from '../model/interfaces/dto/register-request.dto.interface';
 import { User } from '../../user/model/interfaces/user.interface';
 import { RefreshToken } from '../model/interfaces/refresh-token.interface';
 import { BearerToken } from '../model/interfaces/bearer-token.interface';
-import { BearerRequestDto } from '../model/interfaces/dto/bearer-request.dto.interface';
 
 
 @Component()
