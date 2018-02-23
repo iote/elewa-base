@@ -4,6 +4,6 @@
  * Service + Graphql Endpoint
  */
 export const SERVICE_LOCATIONS = {
-  SERVICE: 'http://localhost:3000/',
+  SERVICE: 'http://localhost:3000',
   GRAPHQL: 'http://localhost:3000/graphql/'
 };

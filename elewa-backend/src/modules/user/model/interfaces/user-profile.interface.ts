@@ -9,8 +9,7 @@ export interface UserProfile {
   email: String;
   telephone?: String;
 
-  studentNo?: String;
-
-  schoolId?: ObjectId;
+  idNo?: String;
+  empNo?: String;
 
 }

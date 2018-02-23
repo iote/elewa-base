@@ -11,7 +11,11 @@ export interface RegisterRequestDto {
   email: String;
   telephone?: String;
 
-  studentNo?: String;
+  idNo?: String;
+  empNo?: String;
+  role: 'eta' | 'etf' | 'admin';
 
-  // schoolName: String; - TODO: Later add school. 
+  // schoolName: String; - TODO?: Later add school. 
+
+  //ff
 }

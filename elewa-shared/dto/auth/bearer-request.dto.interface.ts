@@ -1,3 +1,5 @@
+import { Dto } from "../dto.interface";
+
 /**
  * DTO used to request for a Bearer Token.
  * 
@@ -8,6 +10,6 @@
  * 
  * If the refresh token is valid and not yet expired, the server will issue a new bearer token also containing the user claims.
  */
-export interface BearerRequestDto {
+export interface BearerRequestDto extends Dto {
   readonly refreshToken: string;
 }

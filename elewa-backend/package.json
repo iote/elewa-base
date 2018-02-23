@@ -4,8 +4,9 @@
   "version": "0.0.1",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "node index.js",
-    "start:watch": "nodemon",
+    "start": "nodemon",
+    "start:static": "node index.js",
+    "update-local": "yarn add file:../elewa-shared",
     "prestart:prod": "tsc",
     "start:prod": "node dist/main.js"
   },
@@ -20,7 +21,7 @@
     "apollo-server-express": "^1.3.2",
     "bcrypt": "^1.0.3",
     "cors": "^2.8.4",
-    "elewa-shared": "../elewa-shared",
+    "elewa-shared": "file:../elewa-shared",
     "graphql": "0.11.7",
     "graphql-tools": "^2.19.0",
     "jsonwebtoken": "^8.1.0",

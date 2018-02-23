@@ -12,6 +12,7 @@ export const UserprofileSchema = new Schema({
   email: String,
   telephone: String,
 
-  studentNo: String,
+  idNo: String,
+  empNo: String
 
 });

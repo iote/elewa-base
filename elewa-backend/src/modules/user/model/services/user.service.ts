@@ -5,7 +5,7 @@ import { UserRepository } from '../repositories/user-repository.interface';
 import { User } from '../interfaces/user.interface';
 import { UserProfile } from '../interfaces/user-profile.interface';
 import { ObjectId } from 'bson';
-import { RegisterRequestDto } from 'elewa-shared/dto/register-request.dto.interface';
+import { RegisterRequestDto } from 'elewa-shared/dto/auth/register-request.dto.interface';
 import * as bcrypt from 'bcrypt';
 
 @Component()
@@ -43,8 +43,7 @@ export class UserService {
 
       profile: this._createProfile(regReq),
 
-      // Todo: Revise registration method and stop hardcoding this.
-      role: 'student' 
+      role: regReq.role
     };
 
     let savedUser = await this._userRepo.insert(user);
@@ -60,10 +59,11 @@ export class UserService {
       email: regReq.email,
       firstName: regReq.firstName,
       lastName: regReq.lastName,
-      studentNo: regReq.studentNo,
+      
       telephone: regReq.telephone,
-
-      // schoolId: regReq.schoolId,
+    
+      idNo: regReq.idNo,
+      empNo: regReq.empNo
     }
   }
 }

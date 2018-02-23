@@ -6,6 +6,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "update-local": "yarn add file:../elewa-shared",
     "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
@@ -30,7 +31,7 @@
     "apollo-cache-inmemory": "^1.1.7",
     "apollo-client": "^2.2.2",
     "core-js": "^2.4.1",
-    "elewa-shared": "../elewa-shared",
+    "elewa-shared": "file:../elewa-shared",
     "graphql": "^0.12.3",
     "graphql-tag": "^2.6.1",
     "hammerjs": "^2.0.8",
