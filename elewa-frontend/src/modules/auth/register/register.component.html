@@ -1,7 +1,7 @@
 <brick-navbar><button mat-button>Register Account</button></brick-navbar>
 
-<form #registerForm="ngForm"
-      (submit)="register($event)"
+<form [formGroup]="registerForm" novalidate
+      (ngSubmit)="register()"
       fxLayout="column"
       fxLayoutAlign="space-around center">
 
@@ -16,25 +16,34 @@
     <mat-card-subtitle class="card-section-title">Login data</mat-card-subtitle>
     <mat-card-content>
       <mat-form-field>
-        <input [(ngModel)]="model.username" name="username"
-               matInput 
-               placeholder="Username"  required>
+        <input formControlName="username"
+               matInput
+               placeholder="Username" autocomplete="username"
+               required>
+        <mat-hint align="end">Min length: 4 characters.</mat-hint>
       </mat-form-field>
 
-      <mat-form-field>
-        <input [(ngModel)]="model.password" name="password"
-               matInput 
-               [type]="hide ? 'password' : 'text'"
-               placeholder="Password" required>
-        <mat-icon matSuffix (click)="hide = !hide">{{hide ? 'visibility' : 'visibility_off'}}</mat-icon>
-        <mat-hint align="end">Min length: 8 characters. Use at least one number and special char.</mat-hint>
-      </mat-form-field>
+      <div class="password-holder" formGroupName="password">
+        <mat-form-field>
+          <input formControlName="password"
+                matInput 
+                [type]="hide ? 'password' : 'text'"
+                placeholder="Password"
+                autocomplete="new-password"
+                required>
+          <mat-icon matSuffix (click)="hide = !hide">{{hide ? 'visibility' : 'visibility_off'}}</mat-icon>
+          <mat-hint align="end">Min length: 8 characters. Use at least one number and special char.</mat-hint>
+        </mat-form-field>
 
-      <mat-form-field>
-        <input [(ngModel)]="model.password2" name="password2"
-               matInput placeholder="Retype Password" [type]="hide ? 'password' : 'text'" required>
-        <mat-icon matSuffix (click)="hide = !hide">{{hide ? 'visibility' : 'visibility_off'}}</mat-icon>
-      </mat-form-field>
+        <mat-form-field>
+          <input formControlName="confirmPassword"
+                matInput placeholder="Retype Password" 
+                [type]="hide ? 'password' : 'text'"
+                autocomplete="new-password"
+                required>
+          <mat-hint align="end">Retype password.</mat-hint>
+        </mat-form-field>
+      </div>
     </mat-card-content>
 
     <brick-spacer size="20"></brick-spacer>
@@ -42,54 +51,61 @@
     <mat-card-subtitle class="card-section-title">Personal data</mat-card-subtitle>
     
     <mat-card-content>  
-      <div class="one-line">
+      <div formGroupName="name" class="one-line">
         <mat-form-field>
-          <input [(ngModel)]="model.fName" name="fName"
+          <input formControlName="fName"
                  matInput 
-                 placeholder="First Name" required>
+                 placeholder="First Name" autocomplete="given-name"
+                 required>
         </mat-form-field>
         <mat-form-field>
-            <input [(ngModel)]="model.lName" name="lName"
+            <input formControlName="lName"
                    matInput 
-                   placeholder="Last Name" required>
+                   placeholder="Last Name"  autocomplete="family-name"
+                   required>
           </mat-form-field>
       </div> 
       <mat-form-field>
-        <input [(ngModel)]="model.empNo" name="empNo"
+        <input formControlName="empNo"
                matInput 
-               placeholder="Employee Number" required>
+               placeholder="Employee Number"
+               required>
       </mat-form-field>
       <mat-form-field>
-        <input [(ngModel)]="model.email" name="email"
+        <input formControlName="email"
                matInput 
-               placeholder="Company Email" required>
+               placeholder="Company Email" autocomplete="email"
+               required>
       </mat-form-field>
       <mat-form-field>
-        <input [(ngModel)]="model.telephone" name="telephone"
+        <input formControlName="telephone"
                matInput 
-               placeholder="Telephone">
+               placeholder="Telephone" autocomplete="tel">
       </mat-form-field>
       <mat-form-field>
-        <input [(ngModel)]="model.idNo" name="idNo"
+        <input formControlName="idNo"
                matInput placeholder="ID Number">
       </mat-form-field>
     </mat-card-content>
 
     <brick-spacer size="20"></brick-spacer>
 
-    <mat-card-subtitle class="card-section-title">Role</mat-card-subtitle>
+    <mat-card-subtitle class="card-section-title">Role*</mat-card-subtitle>
     
     <mat-card-content>  
-      <mat-radio-group required>
+      <mat-radio-group formControlName="role">
         <mat-radio-button value="eta">Elewa Teaching Assistent</mat-radio-button>
         <mat-radio-button value="etf">Elewa Teaching Facilitator</mat-radio-button>
+        <!-- Only admins will be able to register users. So safe. -->
         <mat-radio-button value="admin">Admin</mat-radio-button>
       </mat-radio-group>
     </mat-card-content>
 
     <brick-spacer></brick-spacer>
 
-    <button mat-raised-button color="primary" type="submit">Register</button>
+    <button mat-raised-button color="primary" 
+            type="submit" 
+            [disabled]="!(registerForm.status === 'VALID')">Register</button>
   </mat-card>
 
   <brick-spacer></brick-spacer>
