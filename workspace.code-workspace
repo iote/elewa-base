@@ -7,7 +7,7 @@
 			"path": "elewa-frontend"
 		},
 		{
-			"path": "both"
+			"path": "elewa-shared"
 		}
 	],
 	"settings": {}

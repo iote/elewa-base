@@ -1965,7 +1965,7 @@ electron-to-chromium@^1.3.30:
   version "1.3.33"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.33.tgz#bf00703d62a7c65238136578c352d6c5c042a545"
 
-elewa-lms-shared@../both:
+elewa-shared@../elewa-shared:
   version "0.0.1"
   dependencies:
     bson "^1.0.4"

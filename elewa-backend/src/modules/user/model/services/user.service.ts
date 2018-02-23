@@ -5,7 +5,7 @@ import { UserRepository } from '../repositories/user-repository.interface';
 import { User } from '../interfaces/user.interface';
 import { UserProfile } from '../interfaces/user-profile.interface';
 import { ObjectId } from 'bson';
-import { RegisterRequestDto } from '../../../auth/model/interfaces/dto/register-request.dto.interface';
+import { RegisterRequestDto } from 'elewa-shared/dto/register-request.dto.interface';
 import * as bcrypt from 'bcrypt';
 
 @Component()

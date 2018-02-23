@@ -30,7 +30,7 @@
     "apollo-cache-inmemory": "^1.1.7",
     "apollo-client": "^2.2.2",
     "core-js": "^2.4.1",
-    "elewa-lms-shared": "../both",
+    "elewa-shared": "../elewa-shared",
     "graphql": "^0.12.3",
     "graphql-tag": "^2.6.1",
     "hammerjs": "^2.0.8",
