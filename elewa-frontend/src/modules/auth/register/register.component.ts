@@ -20,7 +20,8 @@ export class RegisterComponent implements OnInit
   hide = true;
 
   constructor(private _registrationService: RegisterService,
-              private fb: FormBuilder, 
+              fb: FormBuilder,
+              private _router: Router,
               private _logger: Logger) { 
     this.registerForm = RegisterViewModel.CreateForm(fb);
   }
@@ -30,20 +31,26 @@ export class RegisterComponent implements OnInit
   }
 
   public register() {
-
     if(this.registerForm.status === 'VALID') {
       this._logger.log(() => "User created valid register form. Registering user.");
       this._logger.debug(() => this.registerForm);
 
 
-      this._doRegistration();
-    }
+      const regReq = this._prepareRegistration();
 
+      this._registrationService.doRegistration(regReq).subscribe(_ => this._goToLogin());
+    }
+    else
+      this._logger.error(() => "Cannot perform registration. Form is not yet valid.");
   }
 
-  private _doRegistration() {
+  private _goToLogin() {
+    this._router.navigate(['/login']);
+  }
+  
+  private _prepareRegistration(): RegisterRequestDto {
     
-    const dto: RegisterRequestDto = {
+    return {
       login: this.registerForm.get('username').value,
       password: this.registerForm.get('password.password').value,
 
@@ -57,8 +64,7 @@ export class RegisterComponent implements OnInit
       idNo: this.registerForm.get('idNo').value,
       
       role: this.registerForm.get('role').value
-    };
 
-    this._registrationService.doRegistration(dto);
+    };
   }
 }
