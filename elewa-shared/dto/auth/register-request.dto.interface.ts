@@ -17,5 +17,4 @@ export interface RegisterRequestDto {
 
   // schoolName: String; - TODO?: Later add school. 
 
-  //ff
 }
