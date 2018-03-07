@@ -43,10 +43,29 @@ export class RefreshTokenService {
     // Save the token in the database. This will be used to verify 
     const tokenWithId = await this._refreshTokenRepository.insert(payload);
 
+    if(!tokenWithId)
+      throw 'Token could not be saved in the database.';
+    
     // Create the token by signing with the refresh token secret.
-    const token = jwt.sign(payload, authConfig.refreshTokenSecret, { expiresIn: authConfig.refreshTokenExpiry });
+    const token = jwt.sign(this._normalizeToken(tokenWithId), authConfig.refreshTokenSecret, { expiresIn: authConfig.refreshTokenExpiry });
 
     return token;
   }
 
+  /**
+   * Removes Mongoose Meta Data to make sure we encode a plain object
+   *  Solves jwt error - Expected "payload" to be a plain object.
+   * 
+   * @param dbToken Mongoose Live Object
+   */
+  private _normalizeToken(dbToken: RefreshToken) :RefreshToken{
+    return {
+      _id: dbToken._id,
+      refreshConfigId: dbToken.refreshConfigId,
+      userId: dbToken.userId,
+      handshake: dbToken.handshake,
+      machineName: dbToken.machineName,
+      issueDate: dbToken.issueDate
+    }
+  }
 }
