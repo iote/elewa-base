@@ -1,5 +1,5 @@
 import { ObjectId } from 'bson';
-import { UserProfile } from '../../../user/model/interfaces/user-profile.interface';
+import { UserProfile } from 'elewa-shared/user/user-profile.interface';
 
 export interface User {
   _id?: ObjectId,

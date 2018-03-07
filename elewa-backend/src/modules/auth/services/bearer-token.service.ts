@@ -12,7 +12,7 @@ import { ObjectId } from 'bson';
 import { UserService } from '../../user/model/services/user.service';
 import { RolesService } from './roles.service';
 
-import { BearerToken } from '../model/interfaces/bearer-token.interface';
+import { BearerToken } from 'elewa-shared/token/bearer-token.interface';
 
 /**
  * The BearerService is responsible for initial issue, re-issueing and verifying bearer tokens. 

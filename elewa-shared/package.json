@@ -1,6 +1,6 @@
 {
   "name": "elewa-shared",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Shared Codebase between Elewa Frontend and Backend. E.g. DTO objects and validators",
   "main": "index.js",
   "scripts": {

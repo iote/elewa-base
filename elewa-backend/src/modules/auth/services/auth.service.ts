@@ -16,7 +16,7 @@ import { RefreshTokenService } from './refresh-token.service';
 import { BearerTokenService } from './bearer-token.service';
 import { User } from '../../user/model/interfaces/user.interface';
 import { RefreshToken } from '../model/interfaces/refresh-token.interface';
-import { BearerToken } from '../model/interfaces/bearer-token.interface';
+import { BearerToken } from 'elewa-shared/token/bearer-token.interface';
 
 
 @Component()

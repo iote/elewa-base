@@ -1,4 +1,4 @@
-import { UserProfile } from '../../../user/model/interfaces/user-profile.interface';
+import { UserProfile } from '../user/user-profile.interface';
 import { ObjectId } from 'bson';
 
 /**

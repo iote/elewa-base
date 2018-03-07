@@ -1,6 +1,5 @@
 import { ObjectId } from "bson";
 
-
 export interface UserProfile {
 
   firstName?: String;
