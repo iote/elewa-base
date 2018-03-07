@@ -8,7 +8,7 @@ import { Observable } from 'rxjs/Observable';
 import { SERVICE_LOCATIONS } from '../../app/environment/service-locations.const';
 import { HttpClient } from '@angular/common/http';
 import { HttpRequestOptions } from 'apollo-angular-link-http/types';
-import { Dto } from '../../../../elewa-shared/dto/dto.interface';
+import { Dto } from 'elewa-shared/dto/dto.interface';
 
 
 /**
