@@ -6,6 +6,7 @@ import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
 
 import { RegisterService } from './services/register.service';
+import { AuthService } from './services/auth.service';
 
 
 /**
@@ -16,7 +17,7 @@ import { RegisterService } from './services/register.service';
 @NgModule({
   imports: [CoreModule, ReactiveFormsModule],
   declarations: [LoginComponent, RegisterComponent],
-  providers: [RegisterService],
+  providers: [RegisterService, AuthService],
   exports: [LoginComponent, RegisterComponent],
 })
 export class AuthModule { }

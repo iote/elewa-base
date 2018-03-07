@@ -28,7 +28,7 @@ export class AuthController
    }
   }
 
-  @Post('authenticate')
+  @Post('login')
   public async authenticate(@Body() req: AuthRequestDto) {
     let auth = this.authService.authenticate(req);
 

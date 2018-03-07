@@ -1,2 +1,44 @@
-<brick-navbar><button mat-button>test</button></brick-navbar>
+<brick-navbar><button mat-button>Login</button></brick-navbar>
 
+<form [formGroup]="loginForm" novalidate
+      (ngSubmit)="login()"
+      fxLayout="column"
+      fxLayoutAlign="space-around center">
+
+  <brick-spacer></brick-spacer>
+
+  <mat-card fxLayout="column" id="register-card">
+    <mat-card-title>Login</mat-card-title>
+    <mat-card-subtitle>Welcome. Please login with your elewa Account</mat-card-subtitle>
+
+    <brick-spacer size="20"></brick-spacer>
+
+    <mat-card-subtitle class="card-section-title">Login data</mat-card-subtitle>
+    <mat-card-content>
+      <mat-form-field>
+        <input formControlName="username"
+               matInput
+               placeholder="Username" autocomplete="username"
+               required>
+      </mat-form-field>
+
+      <mat-form-field>
+        <input formControlName="password"
+              matInput 
+              [type]="hide ? 'password' : 'text'"
+              placeholder="Password"
+              autocomplete="new-password"
+              required>
+      </mat-form-field>
+      
+    </mat-card-content>
+
+    <brick-spacer></brick-spacer>
+
+    <button mat-raised-button color="primary" 
+            type="submit" 
+            [disabled]="!(loginForm.status === 'VALID')">Register</button>
+  </mat-card>
+
+  <brick-spacer></brick-spacer>
+</form>
