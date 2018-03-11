@@ -3,6 +3,7 @@ import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
 // Include touch support on the phone - material design (https://material.angular.io/guide/getting-started)
 import 'hammerjs';
+import 'rxjs.operators';
 
 import { AppModule } from './app/app.module';
 import { environment } from './app/environment/environment';

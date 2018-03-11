@@ -3,7 +3,7 @@ import { Reflector } from '@nestjs/core';
 
 import * as jwt from 'jsonwebtoken';
 
-import { BearerToken } from '../model/interfaces/bearer-token.interface';
+import { BearerToken } from 'elewa-shared/token/bearer-token.interface';
 import { AuthConfigService } from '../services/auth-config.service';
 import { ExtractJwt } from 'passport-jwt';
 import { ClaimsGuard } from './claims.gaurd';

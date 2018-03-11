@@ -3,7 +3,7 @@ import { Component } from '@nestjs/common';
 
 import { UserRepository } from '../repositories/user-repository.interface';
 import { User } from '../interfaces/user.interface';
-import { UserProfile } from '../interfaces/user-profile.interface';
+import { UserProfile } from 'elewa-shared/user/user-profile.interface';
 import { ObjectId } from 'bson';
 import { RegisterRequestDto } from 'elewa-shared/dto/auth/register-request.dto.interface';
 import * as bcrypt from 'bcrypt';

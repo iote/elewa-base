@@ -36,6 +36,7 @@ import { BackendService } from '../providers/backend/backend.service';
 
 import { HomeModule } from '../modules/home/home.module';
 import { CourseModule } from '../modules/course/course.module';
+import { AuthPrimitivesModule } from '../base-modules/auth-primitives/auth-primitives.module';
 
 /**
  * Main root module. Launches the application
@@ -53,7 +54,7 @@ import { CourseModule } from '../modules/course/course.module';
 
     AppRoutingModule,
   
-    AuthModule, HomeModule, CourseModule
+    AuthPrimitivesModule, AuthModule, HomeModule, CourseModule
   ],
   providers: [
     // Provide is either a type, a string or an instance of InjectionToken. Best case is to use classes.

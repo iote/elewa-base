@@ -43,8 +43,8 @@ export class AuthController
     let token = this.authService.issueBearer(req);
 
     if(! token) 
-      throw new HttpException('Refresh token has expired or has been revoked. Please re-authenticate.', HttpStatus.BAD_REQUEST);
+      throw new HttpException('Refresh token has expired or has been revoked. Please re-authenticate.', HttpStatus.UNAUTHORIZED);
     
-    return token;
+    return { token };
   }
 }
