@@ -30,6 +30,8 @@
     "apollo-angular-link-http": "^1.0.2-beta.0",
     "apollo-cache-inmemory": "^1.1.7",
     "apollo-client": "^2.2.2",
+    "apollo-link-error": "^1.0.7",
+    "apollo-link-http": "^1.5.3",
     "core-js": "^2.4.1",
     "elewa-shared": "file:../elewa-shared",
     "graphql": "^0.12.3",

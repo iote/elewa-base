@@ -10,6 +10,8 @@ import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { Observable } from 'rxjs/Observable';
 import { ErrorObservable } from 'rxjs/observable/ErrorObservable';
 import { BehaviorSubject } from 'rxjs/BehaviorSubject';
+import { AuthTokenService } from './auth-token.service';
+import { BackendService } from '../../../providers/backend/backend.service';
 
 const TOKEN_STORAGE_NAME = 'refresh-token';
 
@@ -26,14 +28,16 @@ export class RefreshTokenService
   private _refreshing = false;
   private _refreshPromise :Observable<Object>;
 
-  constructor(private _http :HttpClient,
+  constructor(private _http :BackendService,
               private _storage: StorageService,
+              private _authTokenService: AuthTokenService,
               private _logger : Logger) 
   {
     this._token = new BehaviorSubject<string | false>(this.getToken());
   }
 
-  getBearerFromRefresh() {
+  getBearerFromRefresh() :Observable<Object> {
+    
     if(this._refreshing)
       this._logger.log(() => "Already requesting token. Return promise.");
     
@@ -41,14 +45,14 @@ export class RefreshTokenService
       this._logger.log(() => "Requesting new Bearer Token from Refresh Token. Return promise.");
 
       this._refreshPromise   
-                = this._http.post('/auth/token', { refreshToken: this._token.getValue() })
+                = this._http.doPost('/auth/token', { refreshToken: this._token.getValue() })
 
                     .map((resp :any) => 
                         this._getBearerFromResponse(resp))
 
                     .catch((err, caught) => 
                         this._checkRefreshTokenInvalid(err));
-                    
+             
       this._refreshing = true;
     }
 
@@ -56,7 +60,8 @@ export class RefreshTokenService
   }
 
   private _getBearerFromResponse(resp: { token: string }) {
-    this._token.next(resp.token);
+    this._authTokenService.setBearer(resp.token);
+
     return resp.token;
   }
 
