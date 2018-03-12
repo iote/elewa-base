@@ -38,13 +38,13 @@ export class LoginComponent implements OnInit
 
       const loginReq = this._prepareLogin();
 
-      this._authService.doLogin(loginReq).subscribe(_ => this._goToHome());
+      this._authService.doLogin(loginReq).subscribe(_ => this._loginSuccess());
     }
     else
       this._logger.error(() => "Cannot perform registration. Form is not yet valid.");
   }
 
-  private _goToHome() {
+  private _loginSuccess() {
     this._router.navigate(['/']);
   }
   

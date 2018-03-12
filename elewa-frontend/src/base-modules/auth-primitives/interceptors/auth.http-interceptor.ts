@@ -68,24 +68,25 @@ export class AuthHttpInterceptor implements HttpInterceptor
   {
     this._logger.log(() => 'AuthRequestInterceptor: Request failed. Investigating cause.');
 
-    if (err instanceof HttpErrorResponse)
-      if (err.status === 401) {
-        
-        this._logger.log(() => 'AuthRequestInterceptor: Request failed due to Bearer Token expiry. Waiting for new token.'); 
-        
-        return this._refreshService
-                      .getBearerFromRefresh()
-                      .map(bearer => {
-                        if(bearer) {
-                          this._logger.log(() => 'AuthRequestInterceptor: New bearer received. Retrying request..'); 
-                          return this._http.request(req.method, req.url, { body: req.body, headers: req.headers });
-                        }
-                        else { 
-                          this._logger.log(() => 'AuthRequestInterceptor: Refresh Token not working. Redirecting to Login'); 
-                          this._router.navigate(['/login']);
-                          return false;
-                        }
-                      });
+    if (err instanceof HttpErrorResponse
+      && err.status === 401) 
+    {
+      this._logger.log(() => 'AuthRequestInterceptor: Request failed due to Bearer Token expiry. Waiting for new token.'); 
+      
+      return this
+        ._refreshService
+            .getBearerFromRefresh()
+            .map(bearer => {
+              if(bearer) {
+                this._logger.log(() => 'AuthRequestInterceptor: New bearer received. Retrying request..'); 
+                return this._http.request(req.method, req.url, { body: req.body, headers: req.headers });
+              }
+              else { 
+                this._logger.log(() => 'AuthRequestInterceptor: Refresh Token not working. Redirecting to Login'); 
+                this._router.navigate(['/login']);
+                return false;
+              }
+            });
       }
 
     return Observable.throw(err);

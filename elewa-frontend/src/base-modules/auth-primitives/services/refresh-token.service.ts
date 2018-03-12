@@ -76,6 +76,7 @@ export class RefreshTokenService
   }
 
   setToken(rawToken: string) {
+    this._logger.log(() => "RefreshToken Service: Storing Refresh Token.");
     this._storage.set(TOKEN_STORAGE_NAME, rawToken);
     this._token.next(rawToken);
   }

@@ -7,6 +7,8 @@ import { RegisterComponent } from './register/register.component';
 
 import { RegisterService } from './services/register.service';
 import { AuthService } from './services/auth.service';
+import { UserModule } from '../../base-modules/user/user.module';
+import { AuthPrimitivesModule } from '../../base-modules/auth-primitives/auth-primitives.module';
 
 
 /**
@@ -15,7 +17,7 @@ import { AuthService } from './services/auth.service';
  * Does not contain the user service. This is contained in separate base module called user.
  */
 @NgModule({
-  imports: [CoreModule, ReactiveFormsModule],
+  imports: [CoreModule, ReactiveFormsModule, AuthPrimitivesModule, UserModule],
   declarations: [LoginComponent, RegisterComponent],
   providers: [RegisterService, AuthService],
   exports: [LoginComponent, RegisterComponent],
