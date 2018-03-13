@@ -1,4 +1,4 @@
-import { Component, Inject }     from '@nestjs/common';
+import { Component, Inject, Logger }     from '@nestjs/common';
 import { IBootService } from '../boot-service.interface';
 import { INestApplication } from '@nestjs/common/interfaces';
 
@@ -14,7 +14,7 @@ export class ConfigureAuthService implements IBootService {
   
   async boot(app: INestApplication, production: boolean): Promise<boolean> {
     
-    console.log("Configuring Authorisation - Claims Guard");
+    Logger.log("Configuring Authorisation - Claims Guard", "ConfigureAuthService.boot");
 
     this._setGuard(app);
 

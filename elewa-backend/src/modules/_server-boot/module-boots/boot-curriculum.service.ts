@@ -1,4 +1,4 @@
-import { Component, Inject }     from '@nestjs/common';
+import { Component, Inject, Logger }     from '@nestjs/common';
 
 import { INestApplication } from '@nestjs/common/interfaces';
 import { IBootService } from '../boot-service.interface';
@@ -12,7 +12,7 @@ export class BootCurriculumService implements IBootService {
   
   async boot(app: INestApplication, production: boolean): Promise<boolean> {
     
-    console.log("Booting Curriculum Module");
+    Logger.log("Booting Curriculum Module", "BootCurriculumService.boot");
 
     await this._curriculumFixture.load();
 

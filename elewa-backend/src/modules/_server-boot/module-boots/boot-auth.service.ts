@@ -1,4 +1,4 @@
-import { Component, Inject }     from '@nestjs/common';
+import { Component, Inject, Logger }     from '@nestjs/common';
 
 import { INestApplication } from '@nestjs/common/interfaces';
 import { IBootService } from '../boot-service.interface';
@@ -14,7 +14,7 @@ export class BootAuthService implements IBootService {
   
   async boot(app: INestApplication, production: boolean): Promise<boolean> {
     
-    console.log("Booting Auth Module");
+    Logger.log("Booting Auth Module", "BootAuthService.boot");
 
     await this._authConfigFixture.load();
     await this._roleFixture.load(production);

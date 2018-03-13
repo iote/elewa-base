@@ -1,4 +1,4 @@
-import { Component, Inject }     from '@nestjs/common';
+import { Component, Inject, Logger }     from '@nestjs/common';
 import { INestApplication } from '@nestjs/common/interfaces';
 
 import { IBootService } from './boot-service.interface';
@@ -26,7 +26,7 @@ export class BootService implements IBootService {
   
   async boot(app: INestApplication, production: boolean): Promise<boolean> {
     
-    console.log("Starting Application Boot Service");
+    Logger.log("Starting Application Boot Service", "BootService.boot");
     
     try
     {

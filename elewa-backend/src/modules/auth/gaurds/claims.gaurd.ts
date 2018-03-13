@@ -1,4 +1,4 @@
-import { CanActivate, ExecutionContext } from '@nestjs/common';
+import { CanActivate, ExecutionContext, Logger } from '@nestjs/common';
 import { Reflector } from '@nestjs/core';
 
 import * as jwt from 'jsonwebtoken';
@@ -33,7 +33,7 @@ export abstract class ClaimsGuard implements CanActivate
    */
   async canActivate(requestOrData: any, context: ExecutionContext): Promise<boolean>
   {
-    console.log("Guard Activated - Verifying Bearer Token and required claims.");    
+    Logger.log("Guard Activated - Verifying Bearer Token and required claims.", "ClaimsGuard.canActivate");    
     
     const requiredClaims = this._getRequiredClaims(context);
 

@@ -1,4 +1,4 @@
-import { Component, Inject } from '@nestjs/common';
+import { Component, Inject, Logger } from '@nestjs/common';
 import * as _ from 'underscore';
 
 import { SubjectService } from '../../services/subject.service';
@@ -26,10 +26,10 @@ export class CurriculumFixture {
   constructor(@Inject(SubjectService) private readonly _subjectService: SubjectService) {}
 
   async load(): Promise<boolean> {
-    console.log("Loading curriculum fixture");
+    Logger.log("Loading curriculum fixture", "CurriculumFixture.load");
 
     if(! await this._subjectService.subjectsExist()) {
-      console.log("No subjects yet. Creating subjects from fixture.");
+      Logger.log("No subjects yet. Creating subjects from fixture.", "CurriculumFixture.load");
 
       for(var i = 0; i < subjects.length; i++)
         await this._createSubject(subjects[i], subjectSlugs[i], subjectIcons[i]);

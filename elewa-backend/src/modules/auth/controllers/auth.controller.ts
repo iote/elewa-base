@@ -1,4 +1,4 @@
-import { Controller, Post, HttpStatus, HttpCode, Get, Body, HttpException } from '@nestjs/common';
+import { Controller, Post, HttpStatus, HttpCode, Get, Body, HttpException, Logger } from '@nestjs/common';
 
 import { AuthService } from '../services/auth.service';
 
@@ -40,6 +40,8 @@ export class AuthController
 
   @Post('token')
   public async token(@Body() req: BearerRequestDto) {
+    Logger.log(`Token request received. Refresh Token: ${ req.refreshToken }`);
+    
     let token = this.authService.issueBearer(req);
 
     if(! token) 

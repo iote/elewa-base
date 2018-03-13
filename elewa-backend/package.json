@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "nodemon",
+    "start": "nodemon --inspect",
     "start:static": "node index.js",
     "update-local": "yarn add file:../elewa-shared",
     "prestart:prod": "tsc",

@@ -1,4 +1,4 @@
-import { Component, Inject }     from '@nestjs/common';
+import { Component, Inject, Logger }     from '@nestjs/common';
 import { IBootService } from '../boot-service.interface';
 import { INestApplication } from '@nestjs/common/interfaces';
 
@@ -10,7 +10,7 @@ export class ConfigureCorsService implements IBootService {
   
   async boot(app: INestApplication, production: boolean): Promise<boolean> {
     
-    console.log("Booting Server - Configuring CORS");
+    Logger.log("Booting Server - Configuring CORS", "ConfigureCorsService.boot");
 
     const corsOptions = {
       origin(origin, callback) {

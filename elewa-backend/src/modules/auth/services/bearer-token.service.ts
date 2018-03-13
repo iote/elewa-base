@@ -1,5 +1,5 @@
 import * as jwt from 'jsonwebtoken';
-import { Component } from '@nestjs/common'
+import { Component, Logger } from '@nestjs/common'
 
 import { AuthConfig } from '../model/interfaces/auth-config.interface';
 import { AuthConfigService } from './auth-config.service';
@@ -30,6 +30,8 @@ export class BearerTokenService {
               private _roleService: RolesService) {}
 
   public async issue(refreshToken: string): Promise<string | false> {
+    Logger.log("Issueing Bearer Token");
+
     var authConfig = await this._authConfigService.getAuthConfig();
 
     try {
@@ -42,13 +44,14 @@ export class BearerTokenService {
         
         return await jwt.sign(payload, authConfig.bearerTokenSecret, { expiresIn: authConfig.bearerTokenExpiry });
       }
-
     }
     catch(err) {
-      console.error(err);
+      Logger.error(err);
     }
 
     // Error or Verification or issueing failed.
+    
+    Logger.log("Token unverified");
     return false;
   }
 
