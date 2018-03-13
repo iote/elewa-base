@@ -4,7 +4,7 @@
 
     <brick-navbar><button mat-button>View Subjects</button></brick-navbar>
 
-    <div fxLayout="row" fxLayoutWrap *ngIf="subject | async; let subject">
+    <div fxLayout="row wrap" *ngIf="subject | async; let subject">
 
         <brick-action-tile  fxFlex="100" fxFlex.gt-xs="50" fxFlex.gt-sm="25" 
                           fxLayoutAlign="space-around center"
