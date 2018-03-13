@@ -37,7 +37,9 @@ export class GraphqlInitService {
   private _refreshingPromise: any;
 
   private _setHeader(options, token) {
-    options.headers.authorization = `Bearer ${token}`;
+    console.log("Setting Header");
+    if(token)
+      options.headers.authorization = `Bearer ${token}`;
   }
 
   private _graphqlFetch(uri, options)
@@ -48,27 +50,41 @@ export class GraphqlInitService {
     const initialRequest = fetch(uri, options);
     
     return initialRequest
-      .then(response => response.json())
-      .then((response) => {
-        if(response.errors 
-            && response.errors.length > 0 
-            && response.errors[0].message === "jwt expired") 
-        {
-          this._logger.log(() => "Graphql. Jwt expired. Requesting new token and trying again.");
+      .then(response => { 
+        const unReadResp = response.clone(); // Avoid bug - Response cannot be read twice
+        return response.json()
+          .then(json => { 
+            return { response: unReadResp, data: json };
+          }); 
+      })
+      .then((respAndData) => {
+        if(respAndData.data.errors && respAndData.data.errors.length > 0 )
+          if(respAndData.data.errors[0].message === "jwt expired" 
+              || (respAndData.data.errors[0].message === "Forbidden resource" && !this._authTokenService.getBearer()))
+          {
+            this._logger.log(() => "Graphql. Jwt expired. Requesting new token and trying again.");
 
-          if(this._refreshingPromise == null)
-          this._refreshingPromise = this._refreshTokenService.getBearerFromRefresh();
-          
-          return this._refreshingPromise
-                          .map(token =>
-                                this._retryReqs(uri, options, response, token))
-                          .toPromise();
-        }
+            return this._createReturnPromise(uri, options, respAndData.data);
+          }
+          else if (respAndData.data.errors[0].message === "Forbidden resource") {
+            // Todo: Make user aware he/she has no access to the resource.
+          }
         
         this._logger.log(() => "Graphql. Request success. Returning Graphql result.");
-        return new Promise(p => response);
+        return respAndData.response;
       })
-      .then(a => a);
+      // Flatmap the promise and return the result.
+      .then(a =>  a);
+  }
+
+  _createReturnPromise(uri, options, response) {
+    if(this._refreshingPromise == null)
+      this._refreshingPromise = this._refreshTokenService.getBearerFromRefresh();
+    
+    return this._refreshingPromise
+                    .map(token =>
+                          this._retryReqs(uri, options, response, token))
+                    .toPromise();
   }
 
   _retryReqs(uri, options, response, token) {

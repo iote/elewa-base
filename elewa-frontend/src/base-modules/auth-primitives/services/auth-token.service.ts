@@ -24,6 +24,7 @@ export class AuthTokenService
 
   /** Configure a Bearer Token */
   setBearer(rawToken: string) {
+    
     this._bearer = rawToken;
     this._storageService.set(BEARER_STORAGE_NAME, rawToken);
 

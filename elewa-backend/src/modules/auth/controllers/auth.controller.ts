@@ -9,12 +9,12 @@ import { BearerRequestDto } from 'elewa-shared/dto/auth/bearer-request.dto.inter
 import { Anonymous } from '../gaurds/anonymous.decorator';
 
 @Controller('auth')
-@Anonymous() // Everyone can access this controller.
 export class AuthController
 {
   constructor(private readonly authService: AuthService) {}
 
   @Post('register')
+  @Anonymous() // Everyone can access this controller.
   public async register(@Body() req: RegisterRequestDto) {
     try {
       let auth = this.authService.register(req);
@@ -29,6 +29,7 @@ export class AuthController
   }
 
   @Post('login')
+  @Anonymous() // Everyone can access this controller.
   public async authenticate(@Body() req: AuthRequestDto) {
     let auth = this.authService.authenticate(req);
 
@@ -39,14 +40,15 @@ export class AuthController
   }
 
   @Post('token')
+  @Anonymous() // Everyone can access this controller.
   public async token(@Body() req: BearerRequestDto) {
     Logger.log(`Token request received. Refresh Token: ${ req.refreshToken }`);
     
-    let token = this.authService.issueBearer(req);
+    const token = await this.authService.issueBearer(req);
 
     if(! token) 
       throw new HttpException('Refresh token has expired or has been revoked. Please re-authenticate.', HttpStatus.UNAUTHORIZED);
     
-    return { token };
+    return { token: token };
   }
 }

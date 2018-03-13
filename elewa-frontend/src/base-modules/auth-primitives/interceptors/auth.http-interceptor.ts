@@ -46,7 +46,7 @@ export class AuthHttpInterceptor implements HttpInterceptor
     {
       this._logger.log(() => "AuthRequestInterceptor: Setting Authorisation Header");
 
-      const dupReq = req.clone({ headers: req.headers.set('Authorization', 'Bearer ' + bearer) });
+      const dupReq = req.clone({ headers: req.headers.set('Authorization', `Bearer ${ bearer }`) });
       return dupReq;
     }
       

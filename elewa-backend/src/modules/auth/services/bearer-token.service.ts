@@ -36,13 +36,18 @@ export class BearerTokenService {
 
     try {
             // 1. Verify the token is valid (check signature)
+      Logger.log("Verifying Refresh Token", "BearerTokenService.issue");
       let rToken = <RefreshToken> jwt.verify(refreshToken, authConfig.refreshTokenSecret);
 
       if(await this._verifyTokenLogic(rToken)) 
       {
+        Logger.log("Refresh Token verified and Valid", "BearerTokenService.issue");
         const payload = await this._createBearerPayload(rToken.userId);
         
-        return await jwt.sign(payload, authConfig.bearerTokenSecret, { expiresIn: authConfig.bearerTokenExpiry });
+        Logger.log("Payload Generated", "BearerTokenService.issue");
+        const signed = await jwt.sign(payload, authConfig.bearerTokenSecret, { expiresIn: authConfig.bearerTokenExpiry });
+
+        return signed;
       }
     }
     catch(err) {
@@ -65,10 +70,11 @@ export class BearerTokenService {
   private async _verifyTokenLogic(rToken: RefreshToken) {
     let dbToken = await this._refreshTokenRepository.trySingle({ _id: rToken._id });
 
-    if(dbToken)
-      return dbToken.handshake === rToken.handshake;
-    else 
-      return false;
+    Logger.log("Comparing token handshake to database handshake", "BearerTokenService._verifyTokenLogic");
+    Logger.log((dbToken ? dbToken.handshake : "NotFound"), "Db Token");
+    Logger.log(rToken.handshake, "R Token");
+
+    return dbToken && dbToken.handshake === rToken.handshake;
   }
 
   /**
@@ -81,13 +87,13 @@ export class BearerTokenService {
    * Based on that role, we then fetch the corresponding claims.
    */
   private async _createBearerPayload(userId: ObjectId): Promise<BearerToken> {
-    let user = await this._userService.findById(userId);
+    const user = await this._userService.findById(userId);
 
     if(!user)
       throw new Error("Bearer Token Service - createPayload: No user for id");
 
     // Refresh claims in case role was changed or claims for role have been updated.
-    let claims = await this._roleService.getClaims(user.role);
+    const claims = await this._roleService.getClaims(user.role);
 
     return { 
       userId: userId,
