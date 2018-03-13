@@ -38,20 +38,20 @@ export abstract class ClaimsGuard implements CanActivate
     const requiredClaims = this._getRequiredClaims(context);
 
     /** No authorisation needed - @see anonymous.decorator */
-    if(_.contains(requiredClaims, 'none'))
-      return true;
+    if(_.contains(requiredClaims, 'none')) 
+      return this._success();
 
     // Check authorisation
     const token = this._extractor(requestOrData); 
     
-    if(!token) return false;
+    if(!token) return this._failure();
 
                       // Cached. Crucial for performance reasons (this code will be executed almost every request!)
     const authConfig = await this._authConfigService.getAuthConfig();
 
     const bearer = <BearerToken> await jwt.verify(token, authConfig.bearerTokenSecret);
     
-    if(!bearer) return false;
+    if(!bearer) return this._success();
 
     return this._tokenHasClaims(bearer, requiredClaims);
   }
@@ -79,10 +79,22 @@ export abstract class ClaimsGuard implements CanActivate
   private _tokenHasClaims(token: BearerToken,claims: String[]) 
   {
     // AND-approach
-    return claims.length === _.intersection(token.claims, claims).length;
+    return (claims.length === _.intersection(token.claims, claims).length)
+              ? this._success()
+              : this._failure();
 
     // OR-approach
     //return _.intersection(token.claims, claims)
     //        .length > 0;
+  }
+
+  private _success() {
+    Logger.log("Guard Conditions Passed. Allowing Access.", "ClaimsGuard.canActivate");    
+    return true;
+  }
+
+  private _failure() {
+    Logger.log("Guard Conditions Failed or Token expired. Denying Access.", "ClaimsGuard.canActivate");    
+    return true;
   }
 }

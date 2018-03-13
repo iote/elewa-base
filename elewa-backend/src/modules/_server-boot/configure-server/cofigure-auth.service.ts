@@ -16,16 +16,17 @@ export class ConfigureAuthService implements IBootService {
     
     Logger.log("Configuring Authorisation - Claims Guard", "ConfigureAuthService.boot");
 
-    this._setGuard(app);
+    // this._setGuard(app);
 
     return true;
   }
 
+  /* Global guard causes bug #1 - Instead decorate every controller or they will by default be anonymous!
   private _setGuard(app: INestApplication): void {
     const authGuard = app.select(AuthModule)
                          .get(HttpClaimsGuard);
 
     app.useGlobalGuards(authGuard);
-  }
+  }*/
 
 }

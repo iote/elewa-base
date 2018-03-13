@@ -9,7 +9,7 @@ import { HttpClaimsGuard } from '../../auth/gaurds/http-claims.guard';
  * - https://docs.nestjs.com/graphql/resolvers-map
  */
 @Resolver('Query')
-// @RequireClaims('curriculum') // - Waiting for BugFix
+@RequireClaims('curriculum')
 export class SubjectResolver {
   
   constructor(private readonly _subjectService: SubjectService) {}
