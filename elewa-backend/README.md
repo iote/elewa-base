@@ -1,10 +1,10 @@
-#The Elewa LMS Back End
+#The Elewa Base Back End
 
 This project contains the Elewa Backend. The backend is a Node.JS project and based on the magnificent work of the people behind Nest.JS - https://github.com/nestjs/nest.
 
 It follows a similar application structure than angular and is therefore a nice fit.It uses graphql as main endpoint, and controllers for a smaller subsection of the application. The complete architecture of the application can be found in Jente's thesis and will be documented here later.
 
-To run the elewa LMS, we first need to run the backend. Follow the following steps:
+To run the elewa Base FrontEnd, we first need to run the backend. Follow the following steps:
 
 #### 1) Configure the database
   1. Install MongoDB on your local machine or create a test database on https://www.mongodb.com/cloud/atlas

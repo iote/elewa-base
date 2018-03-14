@@ -1,4 +1,4 @@
-# Elewa LMS Frontend
+# Elewa Base Frontend
 
 This project contains the front end of the elewa LMS (http://elewa.co.ke). It is a cutting edge LMS that is adapted and optimised to run on any device. Further documentation about the usage is **under construction**.
 

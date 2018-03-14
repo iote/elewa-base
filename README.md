@@ -1,6 +1,6 @@
-# The Elewa LMS
+# The Elewa Base
 
-This project contains the source code of the Elewa LMS. A cutting edge LMS that is adapted and optimised to run on any device, and that incorporates the most modern pedagogical and instructional design strategies. Documentation is still **under construction**, but code documentation is available on GitHub and in the source code files. 
+This project contains the source code of the Elewa Base. The Architecture and Stack on which Elewa Applications are run. This project can be used as a template for projects that want to work with both Angular and NestJS. Documentation is still **under construction**, but code documentation is available on GitHub and in the source code files. 
 
 The application is split into two a front end and back end project. Both are needed to successfully run the application.
 
