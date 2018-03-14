@@ -14,7 +14,6 @@ import { Router } from "@angular/router";
 export class AuthHttpInterceptor implements HttpInterceptor 
 {
   constructor(private _http: HttpClient,
-              private _router: Router,
               private _bearerService: AuthTokenService, 
               private _refreshService: RefreshTokenService,
               private _logger: Logger) { }
@@ -83,7 +82,6 @@ export class AuthHttpInterceptor implements HttpInterceptor
               }
               else { 
                 this._logger.log(() => 'AuthRequestInterceptor: Refresh Token not working. Redirecting to Login'); 
-                this._router.navigate(['/login']);
                 return false;
               }
             });

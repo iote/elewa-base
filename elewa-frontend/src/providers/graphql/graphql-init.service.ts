@@ -26,8 +26,7 @@ import { onError } from "apollo-link-error";
 export class GraphqlInitService {
 
   public constructor(private _apollo: Apollo, 
-                     private _httpLink: HttpLink, 
-                     private _router: Router,
+                     private _httpLink: HttpLink,
                      private _authTokenService: AuthTokenService,
                      private _refreshTokenService: RefreshTokenService,
                      private _logger: Logger) 
@@ -88,17 +87,12 @@ export class GraphqlInitService {
   }
 
   _retryReqs(uri, options, response, token) {
-    // Check if this function has already been executed by another subscriber.
-    const checkAlreadyPassedHere = this._refreshingPromise == null;
-    
     this._refreshingPromise = null;
 
     if(token) {
       this._setHeader(options, this._authTokenService.getBearer());
       return this._graphqlFetch(uri, options);
     }
-    if(!token && !checkAlreadyPassedHere)
-      this._router.navigate(['/login']);  
 
     return false;
   }

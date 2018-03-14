@@ -9,22 +9,15 @@ import { SubjectDetailComponent } from '../modules/course/components/subject-det
 import { RegisterComponent } from '../modules/auth/register/register.component';
 
 export const appRoutes: Routes = [
-  {
-    path: 'login',
-    component: LoginComponent
-  },
-  {
-    path: 'register',
-    component: RegisterComponent
-  },
-  {
-    path: 'app',
-    component: HomeComponent
-  },
-    {
-      path: 'app/subject/:subjId',
-      component: SubjectDetailComponent
-    },
+  { path: 'login/:reroutedFromGuard',  component: LoginComponent },
+  { path: 'login', component: LoginComponent },
+
+  { path: 'register', component: RegisterComponent },
+  
+  { path: 'app', component: HomeComponent},
+
+    { path: 'app/subject/:subjId', component: SubjectDetailComponent },
+  
   { 
     path: '',
     redirectTo: '/app',

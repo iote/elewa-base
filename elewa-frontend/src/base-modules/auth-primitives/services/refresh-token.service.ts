@@ -12,6 +12,7 @@ import { ErrorObservable } from 'rxjs/observable/ErrorObservable';
 import { BehaviorSubject } from 'rxjs/BehaviorSubject';
 import { AuthTokenService } from './auth-token.service';
 import { BackendService } from '../../../providers/backend/backend.service';
+import { Router } from '@angular/router';
 
 const TOKEN_STORAGE_NAME = 'refresh-token';
 
@@ -31,6 +32,7 @@ export class RefreshTokenService
   constructor(private _http :BackendService,
               private _storage: StorageService,
               private _authTokenService: AuthTokenService,
+              private _router: Router,
               private _logger : Logger) 
   {
     this._token = new BehaviorSubject<string | false>(this.getToken());
@@ -70,6 +72,9 @@ export class RefreshTokenService
         && err.status === 401)
     {
       this._token.next(false);
+      // Reroute user to login
+      this._router.navigate(['/login', true]);
+
       return this._token;
     }
     else 
