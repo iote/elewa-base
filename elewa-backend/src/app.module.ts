@@ -12,6 +12,7 @@ import { AppController } from "./app.controller";
 
 import { production } from "./base/config/production";
 import { connString } from "./base/config/db.connectionstring";
+import { GraphqlAuthExtractorService } from "./base/graphql/graphql-auth-extractor.service";
 
 @Module({
   imports: [ MongooseModule.forRoot(connString),
@@ -24,7 +25,9 @@ import { connString } from "./base/config/db.connectionstring";
 })
 export class ApplicationModule implements NestModule {
   
-  constructor(private readonly graphQLFactory: GraphQLFactory) {}
+  constructor(private readonly graphQLFactory: GraphQLFactory,
+              private _graphqlAuthExtractorService: GraphqlAuthExtractorService)
+  { }
 
   configure(consumer: MiddlewaresConsumer) {
     const typeDefs = this.graphQLFactory.mergeTypesByPaths('./**/*.gql');
@@ -37,8 +40,15 @@ export class ApplicationModule implements NestModule {
         .forRoutes({ path: '/graphiql', method: RequestMethod.GET })
 
     consumer
-      .apply(graphqlExpress(req => ({ schema, rootValue: req, context: req })))
-        .forRoutes({ path: '/graphql', method: RequestMethod.ALL });
+      .apply(graphqlExpress(req => ({
+        schema,
+        rootValue: req,
+        // Extracts the Bearer Token from the header. 
+        // Needs to be inside of app context, therefore placed here.
+        // After this, query.decorator and mutation.decorator will handle Guard so only when user has correct claim they can access the endpoints. 
+        context: { bearer: this._graphqlAuthExtractorService.extractToken(req), request: req }
+      })))
+      .forRoutes({ path: "/graphql", method: RequestMethod.ALL });
   }
 
 }

@@ -49,7 +49,7 @@ import { HttpClaimsGuard } from './gaurds/http-claims.guard';
 
   controllers: [AuthController],
 
-  exports: [AuthConfigFixture, RoleFixture, HttpClaimsGuard]
+  exports: [AuthConfigFixture, RoleFixture, HttpClaimsGuard, AuthConfigService]
 })
 export class AuthModule implements NestModule {
   public configure(consumer: MiddlewaresConsumer) {

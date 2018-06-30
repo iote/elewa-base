@@ -22,6 +22,15 @@ export class ConfigureCorsService implements IBootService {
 
     var allowCrossDomain = function(req, res, next) {
       res.header('Access-Control-Allow-Origin', '*');
+
+      // OPTION 2
+      // var allowedOrigins = ["http://localhost:4200", "http://app.elewa.co.ke", "http://app.elewa.co.ke:81"];
+      // //https://stackoverflow.com/questions/24897801/enable-access-control-allow-origin-for-multiple-domains-in-nodejs/32481816#32481816
+      // var origin = req.headers.origin;
+      // if (allowedOrigins.indexOf(origin) > -1) {
+      //   res.setHeader("Access-Control-Allow-Origin", origin);
+      // }
+
       res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
       res.header('Access-Control-Allow-Headers', 'Content-Type,token');
       next();

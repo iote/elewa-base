@@ -9,6 +9,5 @@ export interface UserProfile {
   telephone?: String;
 
   idNo?: String;
-  empNo?: String;
 
 }
